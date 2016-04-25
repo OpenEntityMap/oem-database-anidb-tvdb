@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "67",
+        "tvdb": "81832"
+    },
+    "names": [
+        "Macross Plus"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Triangle Staff"
+    }
+}

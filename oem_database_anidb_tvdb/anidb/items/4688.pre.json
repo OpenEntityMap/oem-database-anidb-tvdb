@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4688",
+        "tvdb": "81115"
+    },
+    "names": [
+        "Mahou Shoujo Lyrical Nanoha StrikerS"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8467",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Buta"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

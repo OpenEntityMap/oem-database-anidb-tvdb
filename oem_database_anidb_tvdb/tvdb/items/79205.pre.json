@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "634",
+        "tvdb": "79205"
+    },
+    "names": [
+        "Air Master"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

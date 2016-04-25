@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "1729",
+        "tvdb": "113671"
+    },
+    "names": [
+        "Megazone 23"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

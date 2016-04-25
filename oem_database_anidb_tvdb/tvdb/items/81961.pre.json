@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "tvdb": "81961"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9243"
+            },
+            "names": [
+                "Kita e: Pure Session"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1321"
+            },
+            "names": [
+                "Kita e: Diamond Dust Drops"
+            ]
+        }
+    }
+}

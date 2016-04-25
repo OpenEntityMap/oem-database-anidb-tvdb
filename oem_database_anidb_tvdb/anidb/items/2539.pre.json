@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2539",
+        "tvdb": "78500"
+    },
+    "names": [
+        "Bishoujo Senshi Sailor Moon R"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

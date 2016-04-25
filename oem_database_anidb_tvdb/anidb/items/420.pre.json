@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "420",
+        "tvdb": "81997"
+    },
+    "names": [
+        "Armitage III"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

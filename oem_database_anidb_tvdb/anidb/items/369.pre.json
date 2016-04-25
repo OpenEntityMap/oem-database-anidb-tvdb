@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "369",
+        "tvdb": "71313"
+    },
+    "names": [
+        "Kidou Senkan Nadesico: The Prince of Darkness"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "identifiers": {
+        "tvdb": "94701"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "1659"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Devilman: Youchou Sirene Hen"
+                    ],
+                    "supplemental": {
+                        "studio": "Oh! Production"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "44"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Amon Devilman Mokushiroku"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1657"
+            },
+            "names": [
+                "Devilman: Tanjou Hen"
+            ],
+            "supplemental": {
+                "studio": "Oh! Production"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1236"
+            },
+            "names": [
+                "Devilman"
+            ]
+        }
+    }
+}

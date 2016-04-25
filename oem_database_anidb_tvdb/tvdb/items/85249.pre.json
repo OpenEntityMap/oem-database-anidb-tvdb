@@ -1,0 +1,85 @@
+{
+    "identifiers": {
+        "tvdb": "85249"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "6107"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi (2009)"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "6107"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi (2009)"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "6107"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi (2009)"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "6107"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi (2009)"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "8090"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6107"
+            },
+            "names": [
+                "Hagane no Renkinjutsushi (2009)"
+            ]
+        }
+    }
+}

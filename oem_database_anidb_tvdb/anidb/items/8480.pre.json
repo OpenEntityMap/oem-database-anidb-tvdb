@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8480",
+        "tvdb": "252471"
+    },
+    "names": [
+        "Guilty Crown"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "identifiers": {
+        "tvdb": "167131"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "1323",
+                    "5509"
+                ]
+            },
+            "names": [
+                "Chibi Maruko-chan (1990)",
+                "Chibi Maruko-chan: Watashi no Suki na Uta"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1841"
+            },
+            "names": [
+                "Chibi Maruko-chan"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1842"
+            },
+            "names": [
+                "Chibi Maruko-chan (1995)"
+            ]
+        }
+    }
+}

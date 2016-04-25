@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9574",
+        "tvdb": "79682"
+    },
+    "names": [
+        "Higurashi no Naku Koro ni Kaku: Outbreak"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

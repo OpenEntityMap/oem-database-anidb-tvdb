@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5698",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Green vs Red"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

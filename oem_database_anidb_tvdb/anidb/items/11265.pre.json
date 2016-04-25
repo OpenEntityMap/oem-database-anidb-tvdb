@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11265",
+        "tvdb": "300835"
+    },
+    "names": [
+        "Ajin"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

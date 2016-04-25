@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "783",
+        "tvdb": "112651"
+    },
+    "names": [
+        "Guardian Hearts"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

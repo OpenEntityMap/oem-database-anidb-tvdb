@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8822",
+        "tvdb": "257891"
+    },
+    "names": [
+        "Koi-ken! Watashitachi Anime ni Nacchatta!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4072",
+        "tvdb": "81235"
+    },
+    "names": [
+        "Strait Jacket"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

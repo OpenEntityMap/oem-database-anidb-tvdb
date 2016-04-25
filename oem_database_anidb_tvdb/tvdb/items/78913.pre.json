@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "156",
+        "tvdb": "78913"
+    },
+    "names": [
+        "Final Fantasy Unlimited"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

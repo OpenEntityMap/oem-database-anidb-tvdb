@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "250070"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8259"
+            },
+            "names": [
+                "Uta no Prince-sama: Maji Love 1000%"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8921"
+            },
+            "names": [
+                "Uta no Prince-sama: Maji Love 2000%"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "10292"
+            },
+            "names": [
+                "Uta no Prince-sama: Maji Love Revolutions"
+            ]
+        }
+    }
+}

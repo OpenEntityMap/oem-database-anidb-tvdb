@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5522",
+        "tvdb": "250266"
+    },
+    "names": [
+        "Yatterman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

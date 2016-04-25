@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11130",
+        "tvdb": "293119"
+    },
+    "names": [
+        "Monster Musume no Iru Nichijou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

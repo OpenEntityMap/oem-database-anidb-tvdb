@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "tvdb": "174401"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1790"
+            },
+            "names": [
+                "Gokinjo Monogatari (1996)"
+            ],
+            "supplemental": {
+                "studio": "Toei Animation"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1387"
+            },
+            "names": [
+                "Gokinjo Monogatari"
+            ],
+            "supplemental": {
+                "studio": "Toei Animation"
+            }
+        }
+    }
+}

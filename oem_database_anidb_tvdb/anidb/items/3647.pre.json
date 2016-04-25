@@ -1,0 +1,213 @@
+{
+    "identifiers": {
+        "anidb": "3647",
+        "tvdb": "200971"
+    },
+    "names": [
+        "Hoshi no Ouji-sama Petit Prince"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

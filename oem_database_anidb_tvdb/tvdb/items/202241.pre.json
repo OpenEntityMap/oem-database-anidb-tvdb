@@ -1,0 +1,505 @@
+{
+    "identifiers": {
+        "tvdb": "202241"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "31": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "32": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "33": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "34": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "36": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "38": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "39": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "40": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "41": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "42": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "43": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "44": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "45": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "46": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "16"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "47": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "17"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "48": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "18"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "49": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "19"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "50": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "20"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "51": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "21"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "52": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "22"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "53": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "23"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "54": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "24"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "55": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "25"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "56": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "57": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "27"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "58": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "28"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "59": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "29"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                },
+                "60": {
+                    "identifiers": {
+                        "anidb": "8321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "30"
+                        }
+                    ],
+                    "names": [
+                        "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+                    ],
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "7518"
+            },
+            "names": [
+                "Digimon Xros Wars"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8616"
+            },
+            "names": [
+                "Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi"
+            ]
+        }
+    }
+}

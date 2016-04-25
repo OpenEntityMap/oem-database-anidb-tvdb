@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5275",
+        "tvdb": "112491"
+    },
+    "names": [
+        "Yotsunoha"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

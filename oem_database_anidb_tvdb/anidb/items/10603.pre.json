@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10603",
+        "tvdb": "269872"
+    },
+    "names": [
+        "Hello!! Kin'iro Mosaic"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9075",
+        "tvdb": "81463"
+    },
+    "names": [
+        "Minami-ke Tadaima"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4694",
+        "tvdb": "76906"
+    },
+    "names": [
+        "Medarot Damashii"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

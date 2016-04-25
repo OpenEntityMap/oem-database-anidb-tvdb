@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "393",
+        "tvdb": "205521"
+    },
+    "names": [
+        "Makai Tenshou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

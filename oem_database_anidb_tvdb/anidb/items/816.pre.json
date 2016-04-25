@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "816",
+        "tvdb": "81741"
+    },
+    "names": [
+        "Cosmo Warrior Zero"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

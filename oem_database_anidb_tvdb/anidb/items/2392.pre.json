@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2392",
+        "tvdb": "80543"
+    },
+    "names": [
+        "Cluster Edge"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

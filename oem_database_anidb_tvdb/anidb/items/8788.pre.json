@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8788",
+        "tvdb": "114801"
+    },
+    "names": [
+        "Gekijouban Fairy Tail: Houou no Miko"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

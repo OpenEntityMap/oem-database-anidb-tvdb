@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5674",
+        "tvdb": "84139"
+    },
+    "names": [
+        "Zettai Karen Children"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

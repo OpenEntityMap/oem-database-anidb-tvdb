@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6187",
+        "tvdb": "88911"
+    },
+    "names": [
+        "Kemono no Souja Erin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

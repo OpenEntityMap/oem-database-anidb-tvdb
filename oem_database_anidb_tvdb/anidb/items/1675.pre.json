@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1675",
+        "tvdb": "79142"
+    },
+    "names": [
+        "Koi Kaze"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

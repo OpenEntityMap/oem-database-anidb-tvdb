@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8681",
+        "tvdb": "257765"
+    },
+    "names": [
+        "Kuroko no Baske"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

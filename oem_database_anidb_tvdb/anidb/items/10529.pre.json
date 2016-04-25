@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10529",
+        "tvdb": "284719"
+    },
+    "names": [
+        "Shinmai Maou no Testament"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1000",
+        "tvdb": "82883"
+    },
+    "names": [
+        "Ginga Tetsudou Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

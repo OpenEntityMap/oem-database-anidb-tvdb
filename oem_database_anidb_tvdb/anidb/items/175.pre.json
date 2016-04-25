@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "175",
+        "tvdb": "180111"
+    },
+    "names": [
+        "Otogi Story Tenshi no Shippo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

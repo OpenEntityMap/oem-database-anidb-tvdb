@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "640",
+        "tvdb": "79645"
+    },
+    "names": [
+        "Scrapped Princess"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

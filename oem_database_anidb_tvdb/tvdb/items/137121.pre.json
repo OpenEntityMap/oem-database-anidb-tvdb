@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "766",
+        "tvdb": "137121"
+    },
+    "names": [
+        "Kurenai Sanshirou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

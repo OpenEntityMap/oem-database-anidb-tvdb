@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6240",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Joshikousei Tantei Suzuki Sonoko no Jikenbo"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

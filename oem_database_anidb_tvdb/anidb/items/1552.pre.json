@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1552",
+        "tvdb": "75414"
+    },
+    "names": [
+        "Keroro Gunsou"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

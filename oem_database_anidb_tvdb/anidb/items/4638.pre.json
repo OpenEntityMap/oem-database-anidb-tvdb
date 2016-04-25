@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4638",
+        "tvdb": "79106"
+    },
+    "names": [
+        "Jigoku Shoujo Futakomori"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

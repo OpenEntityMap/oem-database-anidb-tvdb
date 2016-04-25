@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5578",
+        "tvdb": "83360"
+    },
+    "names": [
+        "Kemeko Deluxe!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "810",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Twilight Gemini no Himitsu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

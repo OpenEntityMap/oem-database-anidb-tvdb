@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "520",
+        "tvdb": "84609"
+    },
+    "names": [
+        "Ashita no Nadja"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

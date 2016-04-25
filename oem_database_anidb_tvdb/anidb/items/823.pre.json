@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "823",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Lupin vs Fukusei-ningen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

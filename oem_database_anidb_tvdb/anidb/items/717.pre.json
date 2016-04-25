@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "717",
+        "tvdb": "80783"
+    },
+    "names": [
+        "Kidou Senshi Gundam 0083: Stardust Memory"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

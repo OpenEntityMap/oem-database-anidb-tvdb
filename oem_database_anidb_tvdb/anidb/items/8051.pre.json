@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8051",
+        "tvdb": "97621"
+    },
+    "names": [
+        "Fireball Charming"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

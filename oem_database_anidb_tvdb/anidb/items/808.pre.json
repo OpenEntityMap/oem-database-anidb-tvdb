@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "808",
+        "tvdb": "268060"
+    },
+    "names": [
+        "Kero Kero Chime"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

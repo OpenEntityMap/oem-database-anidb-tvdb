@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2728",
+        "tvdb": "250590"
+    },
+    "names": [
+        "Kyouryuu Boukenki Jura Tripper"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

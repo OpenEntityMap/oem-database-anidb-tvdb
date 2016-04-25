@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "541",
+        "tvdb": "167801"
+    },
+    "names": [
+        "Dr. Rin ni Kiite Mite!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "275583"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10386"
+            },
+            "names": [
+                "Tonari no Seki-kun OAD"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9809"
+            },
+            "names": [
+                "Tonari no Seki-kun"
+            ]
+        }
+    }
+}

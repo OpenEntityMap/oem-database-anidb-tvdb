@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10351",
+        "tvdb": "281948"
+    },
+    "names": [
+        "Hanayamata"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

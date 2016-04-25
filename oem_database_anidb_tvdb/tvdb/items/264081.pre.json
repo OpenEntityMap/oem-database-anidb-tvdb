@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9286",
+        "tvdb": "264081"
+    },
+    "names": [
+        "Kyou no Asuka Show"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

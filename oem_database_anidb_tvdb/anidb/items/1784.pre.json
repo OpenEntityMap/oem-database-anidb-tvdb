@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1784",
+        "tvdb": "251752"
+    },
+    "names": [
+        "Rokushin Gattai GodMars: Juunanasai no Densetsu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

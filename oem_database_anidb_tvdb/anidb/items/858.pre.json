@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "858",
+        "tvdb": "108991"
+    },
+    "names": [
+        "Gatchaman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

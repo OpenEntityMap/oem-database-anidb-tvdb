@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2300",
+        "tvdb": "85180"
+    },
+    "names": [
+        "Alps Monogatari: Watashi no Annette"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

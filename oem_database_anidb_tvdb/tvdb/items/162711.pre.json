@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "tvdb": "162711"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6820"
+            },
+            "names": [
+                "Black Rock Shooter"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8584"
+            },
+            "names": [
+                "Black Rock Shooter (2012)"
+            ]
+        }
+    }
+}

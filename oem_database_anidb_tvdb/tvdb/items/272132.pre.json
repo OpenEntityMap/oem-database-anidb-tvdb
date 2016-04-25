@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7933",
+        "tvdb": "272132"
+    },
+    "names": [
+        "Coppelion"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

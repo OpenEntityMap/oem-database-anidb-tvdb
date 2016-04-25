@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "481",
+        "tvdb": "82234"
+    },
+    "names": [
+        "Gakkou no Kaidan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

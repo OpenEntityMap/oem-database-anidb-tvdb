@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9436",
+        "tvdb": "270059"
+    },
+    "names": [
+        "Brothers Conflict"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

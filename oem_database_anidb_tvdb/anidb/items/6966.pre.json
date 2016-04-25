@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6966",
+        "tvdb": "119141"
+    },
+    "names": [
+        "Yume-iro Patissiere"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "71682"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "5973"
+            },
+            "names": [
+                "Irregular Hunter X"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "146"
+            },
+            "names": [
+                "Rockman.EXE"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "146"
+            },
+            "mappings": [
+                {
+                    "end": 31,
+                    "offset": 25,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Rockman.EXE"
+            ]
+        }
+    }
+}

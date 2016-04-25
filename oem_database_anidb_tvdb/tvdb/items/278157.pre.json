@@ -1,0 +1,69 @@
+{
+    "identifiers": {
+        "tvdb": "278157"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "10954"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Haikyuu!! (2015)"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "11040"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Haikyuu!!"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "11040"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Haikyuu!!"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10145"
+            },
+            "names": [
+                "Haikyuu!!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10981"
+            },
+            "names": [
+                "Haikyuu!! Second Season"
+            ]
+        }
+    }
+}

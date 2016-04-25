@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "291",
+        "tvdb": "81098"
+    },
+    "names": [
+        "Hanada Shounen-shi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

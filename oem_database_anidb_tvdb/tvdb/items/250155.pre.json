@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "tvdb": "250155"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7092"
+            },
+            "names": [
+                "Gekijouban Penguin no Mondai: Shiawase no Aoi Tori de Go-Pen-nasai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5901"
+            },
+            "names": [
+                "Penguin no Mondai"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7597"
+            },
+            "names": [
+                "Penguin no Mondai Max"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "8382"
+            },
+            "names": [
+                "Penguin no Mondai DX?"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "9145"
+            },
+            "names": [
+                "Penguin no Mondai POW"
+            ]
+        }
+    }
+}

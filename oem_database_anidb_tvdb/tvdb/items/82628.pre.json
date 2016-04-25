@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4381",
+        "tvdb": "82628"
+    },
+    "names": [
+        "Muteki Kanban Musume"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

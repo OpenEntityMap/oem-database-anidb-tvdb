@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "1956",
+        "tvdb": "85230"
+    },
+    "names": [
+        "Uchuu Senkan Yamato: Kanketsuhen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

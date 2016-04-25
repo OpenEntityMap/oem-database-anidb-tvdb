@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8963",
+        "tvdb": "257997"
+    },
+    "names": [
+        "Saint Seiya Omega"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10832",
+        "tvdb": "286364"
+    },
+    "names": [
+        "Karen Senki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

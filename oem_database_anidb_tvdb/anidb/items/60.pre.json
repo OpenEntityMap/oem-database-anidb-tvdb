@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "60",
+        "tvdb": "72470"
+    },
+    "names": [
+        "Hand Maid May"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

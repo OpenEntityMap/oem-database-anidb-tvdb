@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10913",
+        "tvdb": "290605"
+    },
+    "names": [
+        "Sengoku Musou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

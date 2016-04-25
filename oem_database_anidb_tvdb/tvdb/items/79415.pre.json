@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4121",
+        "tvdb": "79415"
+    },
+    "names": [
+        "NHK ni Youkoso!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

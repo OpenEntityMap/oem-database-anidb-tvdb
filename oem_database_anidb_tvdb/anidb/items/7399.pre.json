@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7399",
+        "tvdb": "156411"
+    },
+    "names": [
+        "SD Gundam Sangokuden Brave Battle Warriors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

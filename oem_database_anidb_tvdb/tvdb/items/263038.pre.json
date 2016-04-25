@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "263038"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8997"
+            },
+            "names": [
+                "Gon"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11153"
+            },
+            "names": [
+                "Gon (2015)"
+            ]
+        }
+    }
+}

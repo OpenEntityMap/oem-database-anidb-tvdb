@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5531",
+        "tvdb": "82116"
+    },
+    "names": [
+        "Blassreiter"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

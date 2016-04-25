@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3299",
+        "tvdb": "81735"
+    },
+    "names": [
+        "Tonagura!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

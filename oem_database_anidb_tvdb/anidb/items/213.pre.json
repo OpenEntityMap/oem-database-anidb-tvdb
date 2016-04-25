@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "213",
+        "tvdb": "72445"
+    },
+    "names": [
+        "Chivas 1-2-3"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

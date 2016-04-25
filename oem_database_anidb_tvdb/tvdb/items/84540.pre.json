@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "389",
+        "tvdb": "84540"
+    },
+    "names": [
+        "Tales of Eternia The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

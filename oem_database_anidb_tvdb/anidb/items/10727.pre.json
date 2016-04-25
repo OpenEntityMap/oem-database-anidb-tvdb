@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10727",
+        "tvdb": "283925"
+    },
+    "names": [
+        "Ai Tenchi Muyou!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

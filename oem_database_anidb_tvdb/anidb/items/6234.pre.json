@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6234",
+        "tvdb": "88161"
+    },
+    "names": [
+        "Hetalia: Axis Powers"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

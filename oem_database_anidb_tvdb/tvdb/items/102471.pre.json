@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6467",
+        "tvdb": "102471"
+    },
+    "names": [
+        "Needless"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

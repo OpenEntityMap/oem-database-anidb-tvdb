@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10483",
+        "tvdb": "245821"
+    },
+    "names": [
+        "Cardfight!! Vanguard: Legion Mate Hen"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

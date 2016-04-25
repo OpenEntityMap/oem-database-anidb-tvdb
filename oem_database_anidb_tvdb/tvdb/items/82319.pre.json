@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "82319"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "105"
+            },
+            "names": [
+                "R.O.D: Read or Die"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "894"
+            },
+            "names": [
+                "R.O.D: The TV"
+            ]
+        }
+    }
+}

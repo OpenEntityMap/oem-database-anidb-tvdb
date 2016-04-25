@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11008",
+        "tvdb": "281949"
+    },
+    "names": [
+        "Grisaia no Meikyuu: Caprice no Mayu 0"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "508",
+        "tvdb": "84045"
+    },
+    "names": [
+        "Captain Tsubasa (2001)"
+    ],
+    "parameters": {
+        "default_season": "7"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 52,
+                    "offset": -26,
+                    "season": "8",
+                    "start": 27
+                }
+            ]
+        }
+    }
+}

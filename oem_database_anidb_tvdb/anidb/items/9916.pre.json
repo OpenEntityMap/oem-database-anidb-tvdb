@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9916",
+        "tvdb": "278126"
+    },
+    "names": [
+        "Akuma no Riddle"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

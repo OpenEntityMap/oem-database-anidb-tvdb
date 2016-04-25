@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10419",
+        "tvdb": "278212"
+    },
+    "names": [
+        "Wonder Momo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

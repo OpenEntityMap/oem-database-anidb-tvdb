@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6413",
+        "tvdb": "80554"
+    },
+    "names": [
+        "Hayate no Gotoku!! 2nd Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

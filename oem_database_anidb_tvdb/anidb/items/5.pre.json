@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5",
+        "tvdb": "72025"
+    },
+    "names": [
+        "Seikai no Senki II"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

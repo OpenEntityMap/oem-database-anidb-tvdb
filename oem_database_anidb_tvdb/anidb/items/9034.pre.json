@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9034",
+        "tvdb": "254652"
+    },
+    "names": [
+        "Recorder to Ransel Re"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

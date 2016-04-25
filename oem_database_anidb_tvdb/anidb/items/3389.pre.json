@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3389",
+        "tvdb": "120091"
+    },
+    "names": [
+        "Itsudatte My Santa!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

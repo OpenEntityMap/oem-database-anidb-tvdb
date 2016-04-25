@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5576",
+        "tvdb": "80327"
+    },
+    "names": [
+        "Zoku Sayonara Zetsubou-sensei"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

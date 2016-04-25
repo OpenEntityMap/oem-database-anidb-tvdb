@@ -1,0 +1,61 @@
+{
+    "identifiers": {
+        "tvdb": "81110"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "7304"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "3323"
+            },
+            "names": [
+                "Soukyuu no Fafner: Dead Aggressor - Right of Left"
+            ],
+            "supplemental": {
+                "studio": "Xebec"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1806"
+            },
+            "names": [
+                "Soukyuu no Fafner: Dead Aggressor"
+            ],
+            "supplemental": {
+                "studio": "Xebec"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9639"
+            },
+            "names": [
+                "Soukyuu no Fafner: Dead Aggressor - Exodus"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "11176"
+            },
+            "names": [
+                "Soukyuu no Fafner: Dead Aggressor - Exodus 2"
+            ]
+        }
+    }
+}

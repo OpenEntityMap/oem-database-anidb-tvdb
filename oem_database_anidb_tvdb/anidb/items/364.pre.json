@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "364",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers Try"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

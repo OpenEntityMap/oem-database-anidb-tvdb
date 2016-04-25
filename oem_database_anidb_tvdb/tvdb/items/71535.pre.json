@@ -1,0 +1,65 @@
+{
+    "identifiers": {
+        "tvdb": "71535"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "3969"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Z Gundam: A New Translation - Koibito-tachi"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "4095"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Z Gundam: A New Translation - Hoshi no Kodou wa Ai"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "2187"
+            },
+            "names": [
+                "Kidou Senshi Z Gundam: A New Translation - Hoshi o Tsugu Mono"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "718"
+            },
+            "names": [
+                "Kidou Senshi Z Gundam"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1006",
+        "tvdb": "78783"
+    },
+    "names": [
+        "Taiyou no Ko Esteban"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

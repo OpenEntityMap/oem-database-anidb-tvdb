@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1457",
+        "tvdb": "81232"
+    },
+    "names": [
+        "Ashita no Joe"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "583",
+        "tvdb": "72922"
+    },
+    "names": [
+        "Weiss Kreuz"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

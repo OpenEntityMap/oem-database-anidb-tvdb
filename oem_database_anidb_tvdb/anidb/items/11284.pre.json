@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11284",
+        "tvdb": "300107"
+    },
+    "names": [
+        "Kowabon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

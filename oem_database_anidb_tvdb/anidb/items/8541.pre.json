@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8541",
+        "tvdb": "257746"
+    },
+    "names": [
+        "Holy Knight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

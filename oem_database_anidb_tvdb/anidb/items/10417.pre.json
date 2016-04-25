@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10417",
+        "tvdb": "278327"
+    },
+    "names": [
+        "Selector Infected WIXOSS"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

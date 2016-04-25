@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2694",
+        "tvdb": "182691"
+    },
+    "names": [
+        "Legend of Duo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

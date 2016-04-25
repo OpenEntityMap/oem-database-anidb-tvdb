@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11139",
+        "tvdb": "293775"
+    },
+    "names": [
+        "Wakaba Girl"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "83566"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1779"
+            },
+            "names": [
+                "Arabian Nights: Sindbad no Bouken"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "785"
+            },
+            "names": [
+                "Arabian Nights: Sindbad no Bouken (1975)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8564",
+        "tvdb": "255133"
+    },
+    "names": [
+        "Inu x Boku Secret Service"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

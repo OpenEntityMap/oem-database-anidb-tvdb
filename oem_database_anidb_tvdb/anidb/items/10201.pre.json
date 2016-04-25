@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10201",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Chronus"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

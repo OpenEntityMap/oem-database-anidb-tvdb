@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7948",
+        "tvdb": "173211"
+    },
+    "names": [
+        "Mitsudomoe Zouryouchuu!"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Bridge"
+    }
+}

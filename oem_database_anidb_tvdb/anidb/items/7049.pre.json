@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7049",
+        "tvdb": "75141"
+    },
+    "names": [
+        "The Doraemons: Goal! Goal! Goal!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

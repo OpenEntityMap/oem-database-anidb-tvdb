@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9823",
+        "tvdb": "272369"
+    },
+    "names": [
+        "White Album 2"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

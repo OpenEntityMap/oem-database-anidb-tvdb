@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4971",
+        "tvdb": "83022"
+    },
+    "names": [
+        "Touka Gettan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

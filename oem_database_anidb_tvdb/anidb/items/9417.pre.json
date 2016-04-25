@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9417",
+        "tvdb": "275609"
+    },
+    "names": [
+        "Wake Up, Girls!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

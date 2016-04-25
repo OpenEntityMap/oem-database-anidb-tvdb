@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2889",
+        "tvdb": "83259"
+    },
+    "names": [
+        "Sousei Kishi Gaiarth"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

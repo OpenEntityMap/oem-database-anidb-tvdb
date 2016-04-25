@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8997",
+        "tvdb": "263038"
+    },
+    "names": [
+        "Gon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

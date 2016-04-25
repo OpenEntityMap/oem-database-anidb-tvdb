@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1314",
+        "tvdb": "81649"
+    },
+    "names": [
+        "Chou Henshin Cosprayers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

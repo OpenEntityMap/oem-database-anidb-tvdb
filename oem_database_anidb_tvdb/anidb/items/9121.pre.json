@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9121",
+        "tvdb": "261605"
+    },
+    "names": [
+        "PES: Peace Eco Smile"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

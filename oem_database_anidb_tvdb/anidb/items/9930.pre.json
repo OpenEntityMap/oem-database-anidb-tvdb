@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9930",
+        "tvdb": "275582"
+    },
+    "names": [
+        "Youkai Watch"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

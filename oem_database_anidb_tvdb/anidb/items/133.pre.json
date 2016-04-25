@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "133",
+        "tvdb": "79468"
+    },
+    "names": [
+        "Dragon Drive"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

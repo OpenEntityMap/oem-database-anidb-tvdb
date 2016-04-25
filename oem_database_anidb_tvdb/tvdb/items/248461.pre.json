@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "615",
+        "tvdb": "248461"
+    },
+    "names": [
+        "Chikyuu Bouei Kazoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4123",
+        "tvdb": "74739"
+    },
+    "names": [
+        "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

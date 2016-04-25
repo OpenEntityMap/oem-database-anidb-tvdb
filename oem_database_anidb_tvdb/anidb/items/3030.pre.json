@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3030",
+        "tvdb": "78857"
+    },
+    "names": [
+        "Gekijouban Naruto: Dai Gekitotsu! Maboroshi no Chitei Iseki Datte ba yo!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

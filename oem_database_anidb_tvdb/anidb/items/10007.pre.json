@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10007",
+        "tvdb": "273007"
+    },
+    "names": [
+        "Super Seishun Brothers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

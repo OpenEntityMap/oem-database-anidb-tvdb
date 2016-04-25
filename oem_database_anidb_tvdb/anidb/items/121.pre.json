@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "121",
+        "tvdb": "254020"
+    },
+    "names": [
+        "Usagi-chan de Cue!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

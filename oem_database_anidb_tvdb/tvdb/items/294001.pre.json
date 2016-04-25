@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "tvdb": "294001"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "27": {
+                    "identifiers": {
+                        "anidb": "11318"
+                    },
+                    "names": [
+                        "Ushio to Tora (2016)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "26"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "11053"
+            },
+            "names": [
+                "Ushio to Tora (2015)"
+            ]
+        }
+    }
+}

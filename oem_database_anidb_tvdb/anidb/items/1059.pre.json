@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "1059",
+        "tvdb": "79267"
+    },
+    "names": [
+        "Ai yori Aoshi: Enishi"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

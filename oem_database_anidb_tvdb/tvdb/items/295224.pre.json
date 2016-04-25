@@ -1,0 +1,35 @@
+{
+    "identifiers": {
+        "tvdb": "295224"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "10842",
+                    "10908"
+                ]
+            },
+            "mappings": [
+                {
+                    "end": 6,
+                    "offset": -2,
+                    "season": "0",
+                    "start": 3
+                }
+            ],
+            "names": [
+                "God Eater",
+                "God Eater Promotion"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10842"
+            },
+            "names": [
+                "God Eater"
+            ]
+        }
+    }
+}

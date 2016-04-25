@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1915",
+        "tvdb": "79884"
+    },
+    "names": [
+        "Candy Candy: Candy no Natsuyasumi"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6329",
+        "tvdb": "88661"
+    },
+    "names": [
+        "Hanasakeru Seishounen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

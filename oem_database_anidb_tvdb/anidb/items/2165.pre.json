@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2165",
+        "tvdb": "79194"
+    },
+    "names": [
+        "School Rumble"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

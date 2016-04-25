@@ -1,0 +1,66 @@
+{
+    "identifiers": {
+        "anidb": "10046",
+        "tvdb": "102261"
+    },
+    "names": [
+        "Hanamonogatari: Suruga Devil"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

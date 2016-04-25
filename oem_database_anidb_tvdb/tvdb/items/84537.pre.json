@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "611",
+        "tvdb": "84537"
+    },
+    "names": [
+        "Mamono Hunter Youko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

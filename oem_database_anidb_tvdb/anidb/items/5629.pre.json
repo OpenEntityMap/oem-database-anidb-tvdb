@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5629",
+        "tvdb": "84261"
+    },
+    "names": [
+        "Kurogane no Linebarrels"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "81234"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "5427"
+            },
+            "names": [
+                "Gyakkyou Burai Kaiji: Ultimate Survivor"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8242"
+            },
+            "names": [
+                "Gyakkyou Burai Kaiji: Hakairoku Hen"
+            ]
+        }
+    }
+}

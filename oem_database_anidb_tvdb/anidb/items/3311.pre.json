@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3311",
+        "tvdb": "244421"
+    },
+    "names": [
+        "DT Eightron"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

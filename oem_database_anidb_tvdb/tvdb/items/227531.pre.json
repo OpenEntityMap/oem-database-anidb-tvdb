@@ -1,0 +1,67 @@
+{
+    "identifiers": {
+        "tvdb": "227531"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "2354"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Madou King Grandzort: Bouken Hen"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "2354"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Madou King Grandzort: Bouken Hen"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "2354"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Madou King Grandzort: Bouken Hen"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2353"
+            },
+            "names": [
+                "Madou King Grandzort: Saigo no Magical Taisen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "531"
+            },
+            "names": [
+                "Madou King Grandzort"
+            ]
+        }
+    }
+}

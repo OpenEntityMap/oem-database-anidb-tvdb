@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13",
+        "tvdb": "78947"
+    },
+    "names": [
+        "Noir"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

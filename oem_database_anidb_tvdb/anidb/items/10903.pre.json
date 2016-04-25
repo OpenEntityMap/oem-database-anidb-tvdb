@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10903",
+        "tvdb": "291565"
+    },
+    "names": [
+        "Go! Princess Precure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

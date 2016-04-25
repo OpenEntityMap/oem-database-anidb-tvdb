@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1810",
+        "tvdb": "80817"
+    },
+    "names": [
+        "Kurau Phantom Memory"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

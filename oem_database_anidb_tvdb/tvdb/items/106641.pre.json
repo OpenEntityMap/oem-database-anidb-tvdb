@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "106641"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "338"
+            },
+            "names": [
+                "Sore Yuke! Uchuu Senkan Yamamoto Youko"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "339"
+            },
+            "names": [
+                "Sore Yuke! Uchuu Senkan Yamamoto Youko II"
+            ]
+        }
+    }
+}

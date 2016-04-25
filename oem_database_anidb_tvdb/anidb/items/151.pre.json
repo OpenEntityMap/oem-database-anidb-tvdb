@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "151",
+        "tvdb": "120071"
+    },
+    "names": [
+        "Yousei Hime Ren"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

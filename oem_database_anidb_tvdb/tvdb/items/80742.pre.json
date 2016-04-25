@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4143",
+        "tvdb": "80742"
+    },
+    "names": [
+        "Nana"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "576",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Ano Hi ni Kaeritai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "9"
+    }
+}

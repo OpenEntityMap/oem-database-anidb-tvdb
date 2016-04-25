@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "anidb": "405",
+        "tvdb": "76932"
+    },
+    "names": [
+        "Ranma 1/2 OVA"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "identifiers": {
+        "tvdb": "254653"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "11": {
+                    "identifiers": {
+                        "anidb": "11184"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD New: Teishi Kyoushitsu no Vampire"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "11844"
+                    },
+                    "names": [
+                        "High School DxD Born: Yomigaeranai Fushichou"
+                    ],
+                    "parameters": {
+                        "episode_offset": "14"
+                    }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "8925"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD OAD"
+                    ],
+                    "supplemental": {
+                        "studio": "TNK"
+                    }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "11184"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD New: Teishi Kyoushitsu no Vampire"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8660"
+            },
+            "names": [
+                "High School DxD"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9409"
+            },
+            "names": [
+                "High School DxD New: Gekkou Koutei no Excalibur"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "10691"
+            },
+            "names": [
+                "High School DxD Born"
+            ]
+        }
+    }
+}

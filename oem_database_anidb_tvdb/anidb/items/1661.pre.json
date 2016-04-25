@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "1661",
+        "tvdb": "70827"
+    },
+    "names": [
+        "Power Stone"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": -13,
+                    "season": "2",
+                    "start": 14
+                }
+            ]
+        }
+    }
+}

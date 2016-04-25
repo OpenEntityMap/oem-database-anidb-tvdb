@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "469",
+        "tvdb": "101441"
+    },
+    "names": [
+        "Kumo no Mukou, Yakusoku no Basho"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        },
+                        {
+                            "number": "3"
+                        },
+                        {
+                            "number": "4"
+                        },
+                        {
+                            "number": "5"
+                        },
+                        {
+                            "number": "6"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "CoMix Wave"
+    }
+}

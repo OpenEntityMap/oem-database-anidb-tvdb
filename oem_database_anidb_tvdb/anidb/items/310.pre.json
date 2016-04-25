@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "310",
+        "tvdb": "77663"
+    },
+    "names": [
+        "Shamanic Princess"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

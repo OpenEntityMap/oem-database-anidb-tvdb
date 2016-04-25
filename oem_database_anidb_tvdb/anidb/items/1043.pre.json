@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1043",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z (1989)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Toei Animation"
+    }
+}

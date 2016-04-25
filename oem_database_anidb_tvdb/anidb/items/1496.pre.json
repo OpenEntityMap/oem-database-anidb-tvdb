@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1496",
+        "tvdb": "81341"
+    },
+    "names": [
+        "Jungle Taitei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

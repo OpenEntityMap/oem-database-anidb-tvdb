@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "1858",
+        "tvdb": "79022"
+    },
+    "names": [
+        "Stratos 4 (2004)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

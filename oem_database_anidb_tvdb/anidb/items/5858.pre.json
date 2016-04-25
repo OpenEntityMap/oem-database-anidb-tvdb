@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5858",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Eiga Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

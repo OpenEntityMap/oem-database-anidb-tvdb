@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9398",
+        "tvdb": "186911"
+    },
+    "names": [
+        "Hyakka Ryouran: Samurai Bride"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

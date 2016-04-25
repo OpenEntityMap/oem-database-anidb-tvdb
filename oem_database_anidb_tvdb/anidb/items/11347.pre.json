@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11347",
+        "tvdb": "300989"
+    },
+    "names": [
+        "Osomatsu-san"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

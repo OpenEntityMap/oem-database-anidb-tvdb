@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "330",
+        "tvdb": "80294"
+    },
+    "names": [
+        "Mirai Shounen Conan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

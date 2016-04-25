@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5416",
+        "tvdb": "81829"
+    },
+    "names": [
+        "Majin Tantei Nougami Neuro"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

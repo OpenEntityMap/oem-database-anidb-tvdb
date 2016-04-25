@@ -1,0 +1,103 @@
+{
+    "identifiers": {
+        "anidb": "1762",
+        "tvdb": "85065"
+    },
+    "names": [
+        "Love Love?"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

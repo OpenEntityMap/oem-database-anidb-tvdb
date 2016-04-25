@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6662",
+        "tvdb": "114801"
+    },
+    "names": [
+        "Fairy Tail"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

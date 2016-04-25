@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8027",
+        "tvdb": "248351"
+    },
+    "names": [
+        "Moshidora"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

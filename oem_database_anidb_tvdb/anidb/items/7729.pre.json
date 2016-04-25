@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7729",
+        "tvdb": "244061"
+    },
+    "names": [
+        "Steins;Gate"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

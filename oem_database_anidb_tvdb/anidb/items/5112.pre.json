@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5112",
+        "tvdb": "81072"
+    },
+    "names": [
+        "Dragonaut: The Resonance"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

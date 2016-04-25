@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6256",
+        "tvdb": "87931"
+    },
+    "names": [
+        "Phantom: Requiem for the Phantom"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

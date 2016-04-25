@@ -1,0 +1,61 @@
+{
+    "identifiers": {
+        "tvdb": "255848"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8253"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yurumates wa?"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9144"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yurumates (2012)"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6355"
+            },
+            "names": [
+                "Yurumates"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8992"
+            },
+            "names": [
+                "Yurumates 3D"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9260"
+            },
+            "names": [
+                "Yurumates 3D Plus"
+            ]
+        }
+    }
+}

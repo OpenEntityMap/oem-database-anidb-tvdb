@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "845",
+        "tvdb": "253748"
+    },
+    "names": [
+        "Ghiblies"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

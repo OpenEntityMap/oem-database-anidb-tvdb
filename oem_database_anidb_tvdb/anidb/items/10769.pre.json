@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10769",
+        "tvdb": "272309"
+    },
+    "names": [
+        "Yowamushi Pedal Re:Ride"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4744",
+        "tvdb": "170651"
+    },
+    "names": [
+        "Reporter Blues"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

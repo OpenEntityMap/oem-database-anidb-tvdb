@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7243",
+        "tvdb": "140751"
+    },
+    "names": [
+        "Yojouhan Shinwa Taikei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

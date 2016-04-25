@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10596",
+        "tvdb": "284131"
+    },
+    "names": [
+        "Nanatsu no Taizai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

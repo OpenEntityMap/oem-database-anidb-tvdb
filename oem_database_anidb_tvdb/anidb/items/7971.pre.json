@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7971",
+        "tvdb": "134181"
+    },
+    "names": [
+        "Seikon no Qwaser: Jotei no Shouzou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

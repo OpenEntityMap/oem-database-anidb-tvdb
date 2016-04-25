@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7654",
+        "tvdb": "197001"
+    },
+    "names": [
+        "Supernatural"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

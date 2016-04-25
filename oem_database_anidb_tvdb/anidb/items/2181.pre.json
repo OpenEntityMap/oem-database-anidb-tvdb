@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "2181",
+        "tvdb": "84932"
+    },
+    "names": [
+        "Munto: Toki no Kabe o Koete"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Kyoto Animation"
+    }
+}

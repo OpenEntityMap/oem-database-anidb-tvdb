@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4925",
+        "tvdb": "80386"
+    },
+    "names": [
+        "Skull Man"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

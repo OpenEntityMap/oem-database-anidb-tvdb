@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "234",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Adventure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4634",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Seven Days' Rhapsody"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

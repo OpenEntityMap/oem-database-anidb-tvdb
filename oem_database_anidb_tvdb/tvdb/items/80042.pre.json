@@ -1,0 +1,61 @@
+{
+    "identifiers": {
+        "tvdb": "80042"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6644"
+            },
+            "names": [
+                "Darker Than Black: Ryuusei no Gemini"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4906"
+            },
+            "names": [
+                "Darker Than Black: Kuro no Keiyakusha"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6644"
+            },
+            "names": [
+                "Darker Than Black: Ryuusei no Gemini"
+            ]
+        }
+    }
+}

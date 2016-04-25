@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3145",
+        "tvdb": "79233"
+    },
+    "names": [
+        "Paradise Kiss"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6540",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z: Atsumare! Gokuu World"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6556",
+        "tvdb": "116001"
+    },
+    "names": [
+        "Seitokai no Ichizon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

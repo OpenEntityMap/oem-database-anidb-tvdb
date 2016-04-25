@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "760",
+        "tvdb": "138691"
+    },
+    "names": [
+        "Gall Force: Eternal Story"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

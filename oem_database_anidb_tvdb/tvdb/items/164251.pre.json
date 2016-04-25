@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "164251"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7417"
+            },
+            "names": [
+                "Mousou Kagaku Series: Wandaba Style - Mix Juice no Tsukurikata"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "639"
+            },
+            "names": [
+                "Mousou Kagaku Series: Wandaba Style"
+            ]
+        }
+    }
+}

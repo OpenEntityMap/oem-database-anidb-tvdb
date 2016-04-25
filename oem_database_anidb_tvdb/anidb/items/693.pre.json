@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "693",
+        "tvdb": "81969"
+    },
+    "names": [
+        "Moldiver"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

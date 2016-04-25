@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10415",
+        "tvdb": "270065"
+    },
+    "names": [
+        "Free! Eternal Summer"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

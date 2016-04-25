@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2429",
+        "tvdb": "76014"
+    },
+    "names": [
+        "Yakitate!! Japan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

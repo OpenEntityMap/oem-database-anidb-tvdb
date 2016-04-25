@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "9330",
+        "tvdb": "257890"
+    },
+    "names": [
+        "AKB0048 Next Stage"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Satelight"
+    }
+}

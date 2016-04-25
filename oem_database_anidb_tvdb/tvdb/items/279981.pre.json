@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10525",
+        "tvdb": "279981"
+    },
+    "names": [
+        "Sora no Method"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

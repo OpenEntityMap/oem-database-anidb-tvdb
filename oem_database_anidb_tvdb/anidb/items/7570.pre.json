@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7570",
+        "tvdb": "98661"
+    },
+    "names": [
+        "Stitch! Zutto Saikou no Tomodachi"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

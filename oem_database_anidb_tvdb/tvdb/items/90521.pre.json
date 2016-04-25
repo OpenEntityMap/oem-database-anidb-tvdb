@@ -1,0 +1,134 @@
+{
+    "identifiers": {
+        "tvdb": "90521"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "5126"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Soukou Kihei Votoms: Big Battle"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "4842"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "6722"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Soukou Kihei Votoms: Pailsen Files - Gekijouban"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "9842"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Soukou Kihei Votoms: Woodo"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "5125"
+            },
+            "names": [
+                "Soukou Kihei Votoms: The Last Red Shoulder"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1698"
+            },
+            "names": [
+                "Soukou Kihei Votoms"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "3998"
+            },
+            "names": [
+                "Soukou Kihei Votoms: Kakuyaku taru Itan"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "5131"
+            },
+            "names": [
+                "Soukou Kihei Votoms: Pailsen Files"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "7279"
+            },
+            "names": [
+                "Soukou Kihei Votoms: Gen'ei Hen"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "99": {
+            "identifiers": {
+                "anidb": [
+                    "7919",
+                    "7918",
+                    "7920"
+                ]
+            },
+            "names": [
+                "Soukou Kihei Votoms: Case;Irvine",
+                "Votoms Finder",
+                "Soukou Kihei Votoms: Koei Futatabi"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

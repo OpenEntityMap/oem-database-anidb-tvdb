@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "1100",
+        "tvdb": "120151"
+    },
+    "names": [
+        "Takahashi Rumiko Gekijou Ningyo no Mori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

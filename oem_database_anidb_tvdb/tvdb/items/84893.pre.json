@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5211",
+        "tvdb": "84893"
+    },
+    "names": [
+        "Ani*Kuri15"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

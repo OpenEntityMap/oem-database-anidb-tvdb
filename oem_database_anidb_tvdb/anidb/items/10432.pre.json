@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10432",
+        "tvdb": "278817"
+    },
+    "names": [
+        "Blade & Soul"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

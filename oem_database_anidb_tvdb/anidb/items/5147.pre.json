@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5147",
+        "tvdb": "82168"
+    },
+    "names": [
+        "Kenkou Zenrakei Suieibu Umishou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

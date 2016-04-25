@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "279040"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11286"
+            },
+            "names": [
+                "Futsuu no Joshikousei ga [Locodol] Yattemita. Minna de Oiwai Shite Mita."
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10404"
+            },
+            "names": [
+                "Futsuu no Joshikousei ga [Locodol] Yattemita."
+            ]
+        }
+    }
+}

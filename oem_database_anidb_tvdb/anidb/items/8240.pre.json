@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8240",
+        "tvdb": "255925"
+    },
+    "names": [
+        "Pretty Rhythm: Aurora Dream"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

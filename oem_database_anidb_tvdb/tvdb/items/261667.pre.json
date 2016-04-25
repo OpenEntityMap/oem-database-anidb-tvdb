@@ -1,0 +1,79 @@
+{
+    "identifiers": {
+        "tvdb": "261667"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2911"
+            },
+            "names": [
+                "Gekijouban Duel Masters: Curse of the Deathphoenix"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2910"
+            },
+            "names": [
+                "Duel Masters"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "5537"
+            },
+            "names": [
+                "Zero Duel Masters"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "5525"
+            },
+            "names": [
+                "Duel Masters Zero"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "5905"
+            },
+            "names": [
+                "Duel Masters Cross"
+            ]
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "7499"
+            },
+            "names": [
+                "Duel Masters Cross Shock"
+            ]
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "8363"
+            },
+            "names": [
+                "Duel Masters Victory"
+            ]
+        },
+        "8": {
+            "identifiers": {
+                "anidb": "9149"
+            },
+            "names": [
+                "Duel Masters Victory V"
+            ]
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "9818"
+            },
+            "names": [
+                "Duel Masters Victory V3"
+            ]
+        }
+    }
+}

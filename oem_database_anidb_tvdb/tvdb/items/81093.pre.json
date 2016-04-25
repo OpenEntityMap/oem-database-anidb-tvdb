@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4377",
+        "tvdb": "81093"
+    },
+    "names": [
+        "Black Jack 21"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

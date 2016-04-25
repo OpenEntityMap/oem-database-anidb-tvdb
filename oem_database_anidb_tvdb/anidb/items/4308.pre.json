@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4308",
+        "tvdb": "81422"
+    },
+    "names": [
+        "Tokyo Tribe 2"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

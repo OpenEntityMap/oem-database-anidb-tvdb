@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "101",
+        "tvdb": "74539"
+    },
+    "names": [
+        "Jikuu Tenshou Nazca"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

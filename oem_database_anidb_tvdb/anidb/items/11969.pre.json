@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11969",
+        "tvdb": "309152"
+    },
+    "names": [
+        "Nameko: Sekai no Tomodachi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

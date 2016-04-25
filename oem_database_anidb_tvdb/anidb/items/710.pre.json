@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "710",
+        "tvdb": "73196"
+    },
+    "names": [
+        "Ultra Maniac"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

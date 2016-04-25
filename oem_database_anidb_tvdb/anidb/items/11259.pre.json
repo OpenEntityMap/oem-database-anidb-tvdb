@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11259",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter: Ryou no Propose"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

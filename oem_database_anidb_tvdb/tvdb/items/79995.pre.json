@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4892",
+        "tvdb": "79995"
+    },
+    "names": [
+        "Claymore"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

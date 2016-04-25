@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "tvdb": "78953"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8342"
+            },
+            "names": [
+                "Scryed Alteration"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "47"
+            },
+            "names": [
+                "Scryed"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

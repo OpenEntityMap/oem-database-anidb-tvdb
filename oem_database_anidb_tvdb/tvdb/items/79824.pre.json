@@ -1,0 +1,156 @@
+{
+    "identifiers": {
+        "tvdb": "79824"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "9023"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Road to Ninja: Naruto the Movie"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "9588"
+                    },
+                    "names": [
+                        "The Last: Naruto the Movie"
+                    ],
+                    "parameters": {
+                        "episode_offset": "13"
+                    }
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "5914"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Naruto Shippuuden: Kizuna"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "6503"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Naruto Shippuuden: Hi no Ishi o Tsugu Mono"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Pierrot"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "7483"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Naruto Shippuuden: The Lost Tower"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Pierrot"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "4880"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Naruto Shippuuden"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "8159"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Naruto x UT"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "8312"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Naruto: Blood Prison"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "8387"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Naruto Soyokazeden: Naruto to Mashin to Mitsu no Onegai Datte ba yo!!"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "5178"
+            },
+            "names": [
+                "Gekijouban Naruto Shippuuden"
+            ],
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "4880"
+            },
+            "names": [
+                "Naruto Shippuuden"
+            ]
+        }
+    }
+}

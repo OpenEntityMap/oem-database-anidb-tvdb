@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "193911"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4487"
+            },
+            "names": [
+                "Zettai Muteki Raijin Ou (1992)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4486"
+            },
+            "names": [
+                "Zettai Muteki Raijin Ou"
+            ]
+        }
+    }
+}

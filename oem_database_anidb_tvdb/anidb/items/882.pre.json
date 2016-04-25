@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "882",
+        "tvdb": "72442"
+    },
+    "names": [
+        "Dirty Pair (1987)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

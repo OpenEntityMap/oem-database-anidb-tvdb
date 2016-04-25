@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9858",
+        "tvdb": "270065"
+    },
+    "names": [
+        "Free!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

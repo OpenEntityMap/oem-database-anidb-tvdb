@@ -1,0 +1,66 @@
+{
+    "identifiers": {
+        "anidb": "1195",
+        "tvdb": "80789"
+    },
+    "names": [
+        "Kidou Keisatsu Patlabor (1990)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "identifiers": {
+        "tvdb": "220571"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8448"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9129"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kore wa Zombie Desuka? Of the Dead (2012)"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7674"
+            },
+            "names": [
+                "Kore wa Zombie Desuka?"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8476"
+            },
+            "names": [
+                "Kore wa Zombie Desuka? Of the Dead"
+            ]
+        }
+    }
+}

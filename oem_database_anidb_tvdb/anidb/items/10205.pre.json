@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10205",
+        "tvdb": "275625"
+    },
+    "names": [
+        "Onee-chan ga Kita"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

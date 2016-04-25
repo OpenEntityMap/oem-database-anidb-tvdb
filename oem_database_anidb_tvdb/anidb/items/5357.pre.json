@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5357",
+        "tvdb": "80676"
+    },
+    "names": [
+        "Night Wizard The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

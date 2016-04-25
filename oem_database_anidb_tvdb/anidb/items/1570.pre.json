@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "1570",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter Special: Goodbye My Sweetheart"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

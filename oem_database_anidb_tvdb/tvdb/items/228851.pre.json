@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1864",
+        "tvdb": "228851"
+    },
+    "names": [
+        "Hikari no Densetsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

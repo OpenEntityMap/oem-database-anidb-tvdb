@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5773",
+        "tvdb": "227751"
+    },
+    "names": [
+        "Net Ghost Pipopa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

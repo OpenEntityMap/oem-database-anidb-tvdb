@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9807",
+        "tvdb": "262094"
+    },
+    "names": [
+        "Magi: The Kingdom of Magic"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

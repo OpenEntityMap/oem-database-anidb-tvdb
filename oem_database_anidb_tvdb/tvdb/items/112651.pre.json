@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "112651"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "783"
+            },
+            "names": [
+                "Guardian Hearts"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "3069"
+            },
+            "names": [
+                "Guardian Hearts Power Up!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "881",
+        "tvdb": "109001"
+    },
+    "names": [
+        "Shin Getter Robo Tai Neo Getter Robo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

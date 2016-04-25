@@ -1,0 +1,50 @@
+{
+    "identifiers": {
+        "tvdb": "81108"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7291"
+            },
+            "names": [
+                "Ookiku Furikabutte: Natsu no Taikai Hen"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4923"
+            },
+            "names": [
+                "Ookiku Furikabutte"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7291"
+            },
+            "names": [
+                "Ookiku Furikabutte: Natsu no Taikai Hen"
+            ]
+        }
+    }
+}

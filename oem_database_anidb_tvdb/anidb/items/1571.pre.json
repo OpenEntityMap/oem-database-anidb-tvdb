@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1571",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter Special: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "5"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1214",
+        "tvdb": "72745"
+    },
+    "names": [
+        "Cyborg 009: The Cyborg Soldier"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1545",
+        "tvdb": "181851"
+    },
+    "names": [
+        "Midnight Eye Gokuu II"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "1"
+    }
+}

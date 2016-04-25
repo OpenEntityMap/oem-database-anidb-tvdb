@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "683",
+        "tvdb": "180581"
+    },
+    "names": [
+        "Queen Emeraldas"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

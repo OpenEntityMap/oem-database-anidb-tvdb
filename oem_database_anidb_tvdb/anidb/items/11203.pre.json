@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11203",
+        "tvdb": "283947"
+    },
+    "names": [
+        "Ansatsu Kyoushitsu: Second Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

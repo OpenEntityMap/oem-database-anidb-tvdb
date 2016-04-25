@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5367",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Kiri no Elusive"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

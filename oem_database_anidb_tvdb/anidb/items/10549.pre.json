@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "10549",
+        "tvdb": "267432"
+    },
+    "names": [
+        "Suisei no Gargantia: Meguru Kouro, Haruka"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

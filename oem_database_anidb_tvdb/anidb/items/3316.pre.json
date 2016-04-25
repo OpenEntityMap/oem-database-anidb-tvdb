@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3316",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Crayon Shin-chan: Arashi o Yobu Appare! Sengoku Daikassen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

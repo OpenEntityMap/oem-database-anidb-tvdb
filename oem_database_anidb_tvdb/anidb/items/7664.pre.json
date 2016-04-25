@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7664",
+        "tvdb": "84139"
+    },
+    "names": [
+        "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

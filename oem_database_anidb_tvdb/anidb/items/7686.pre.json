@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7686",
+        "tvdb": "78232"
+    },
+    "names": [
+        "Project A-Ko: Final"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9881",
+        "tvdb": "273005"
+    },
+    "names": [
+        "Dia no Ace"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

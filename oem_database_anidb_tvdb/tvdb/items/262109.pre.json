@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9214",
+        "tvdb": "262109"
+    },
+    "names": [
+        "Zetsuen no Tempest: The Civilization Blaster"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

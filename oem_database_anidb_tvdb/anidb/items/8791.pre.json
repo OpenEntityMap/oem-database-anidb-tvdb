@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8791",
+        "tvdb": "259635"
+    },
+    "names": [
+        "Kingdom"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

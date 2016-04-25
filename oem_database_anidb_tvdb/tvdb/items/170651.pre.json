@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "170651"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "4744"
+            },
+            "names": [
+                "Reporter Blues"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5249"
+            },
+            "names": [
+                "Reporter Blues (1992)"
+            ]
+        }
+    }
+}

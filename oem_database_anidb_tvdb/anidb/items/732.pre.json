@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "732",
+        "tvdb": "80945"
+    },
+    "names": [
+        "Submarine Super 99"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

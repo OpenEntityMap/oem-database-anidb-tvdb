@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "120",
+        "tvdb": "253938"
+    },
+    "names": [
+        "Memories Off"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "identifiers": {
+        "anidb": "2288",
+        "tvdb": "258999"
+    },
+    "names": [
+        "Nanatsu no Umi no Tico"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "31",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "32"
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "33"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "34"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "35"
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "36"
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "37"
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "38"
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "39"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "anidb": "2389",
+        "tvdb": "81092"
+    },
+    "names": [
+        "Black Jack (2004)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Tezuka Productions"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "250317"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "5572"
+            },
+            "names": [
+                "Eiga Yes! Precure 5: Kagami no Kuni no Miracle Daibouken!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4901"
+            },
+            "names": [
+                "Yes! Precure 5"
+            ]
+        }
+    }
+}

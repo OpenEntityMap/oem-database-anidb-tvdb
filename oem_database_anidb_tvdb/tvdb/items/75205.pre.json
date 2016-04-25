@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2391",
+        "tvdb": "75205"
+    },
+    "names": [
+        "Bouken Ou Beet"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

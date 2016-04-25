@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4222",
+        "tvdb": "79194"
+    },
+    "names": [
+        "School Rumble Ni Gakki"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

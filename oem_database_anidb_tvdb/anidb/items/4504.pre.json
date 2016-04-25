@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4504",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Kieta Daiya o Oe! Conan & Heiji VS Kid!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "tvdb": "85146"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "764"
+            },
+            "names": [
+                "1000-nen Joou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "366"
+            },
+            "names": [
+                "Shin Taketori Monogatari: 1000-nen Joou"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5850",
+        "tvdb": "79106"
+    },
+    "names": [
+        "Jigoku Shoujo Mitsuganae"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1246",
+        "tvdb": "182411"
+    },
+    "names": [
+        "Iczer-Girl Iczelion"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

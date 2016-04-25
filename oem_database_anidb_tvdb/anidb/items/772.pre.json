@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "772",
+        "tvdb": "75534"
+    },
+    "names": [
+        "Street Fighter 2 V"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

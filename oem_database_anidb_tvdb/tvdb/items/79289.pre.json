@@ -1,0 +1,96 @@
+{
+    "identifiers": {
+        "tvdb": "79289"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "260"
+            },
+            "names": [
+                "Galaxy Angel 3"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "108"
+            },
+            "mappings": [
+                {
+                    "end": 25,
+                    "offset": -1,
+                    "season": "1",
+                    "start": 22
+                }
+            ],
+            "names": [
+                "Galaxy Angel"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "259"
+            },
+            "names": [
+                "Galaxy Angel Z"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "260"
+            },
+            "names": [
+                "Galaxy Angel 3"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "1761"
+            },
+            "names": [
+                "Galaxy Angel 4th"
+            ]
+        }
+    }
+}

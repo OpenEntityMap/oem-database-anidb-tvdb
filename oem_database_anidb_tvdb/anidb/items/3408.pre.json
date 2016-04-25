@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3408",
+        "tvdb": "78962"
+    },
+    "names": [
+        "Shakugan no Shana"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

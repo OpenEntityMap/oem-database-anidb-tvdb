@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5904",
+        "tvdb": "97621"
+    },
+    "names": [
+        "Fireball"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

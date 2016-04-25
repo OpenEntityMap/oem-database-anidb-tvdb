@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2407",
+        "tvdb": "84527"
+    },
+    "names": [
+        "Sakura Taisen: Le Nouveau Paris"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

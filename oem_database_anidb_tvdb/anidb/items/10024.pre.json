@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10024",
+        "tvdb": "275629"
+    },
+    "names": [
+        "Wizard Barristers: Benmashi Cecil"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

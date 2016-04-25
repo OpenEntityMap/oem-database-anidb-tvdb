@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5278",
+        "tvdb": "81782"
+    },
+    "names": [
+        "Koharu Biyori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

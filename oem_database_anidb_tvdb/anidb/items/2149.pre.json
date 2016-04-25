@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2149",
+        "tvdb": "82595"
+    },
+    "names": [
+        "Shin Seiki GPX Cyber Formula Saga"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

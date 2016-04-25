@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "275610"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9925"
+            },
+            "names": [
+                "Noragami"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11170"
+            },
+            "names": [
+                "Noragami Aragoto"
+            ]
+        }
+    }
+}

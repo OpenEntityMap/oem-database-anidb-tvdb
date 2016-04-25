@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8342",
+        "tvdb": "78953"
+    },
+    "names": [
+        "Scryed Alteration"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

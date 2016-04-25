@@ -1,0 +1,98 @@
+{
+    "identifiers": {
+        "tvdb": "75869"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "15": {
+                    "identifiers": {
+                        "anidb": "8274"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Mahou Sensei Negima! Anime Final"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "4510"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Negima!? Haru Special!?"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "4812"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Negima!? Natsu Special!?"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "6489"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mahou Sensei Negima! Mou Hitotsu no Sekai"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2605"
+            },
+            "names": [
+                "Mahou Sensei Negima!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4565"
+            },
+            "names": [
+                "Negima!?"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "5868"
+            },
+            "names": [
+                "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "6489"
+            },
+            "names": [
+                "Mahou Sensei Negima! Mou Hitotsu no Sekai"
+            ]
+        }
+    }
+}

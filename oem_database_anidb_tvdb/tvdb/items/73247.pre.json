@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "73247"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "68"
+            },
+            "names": [
+                "Bubblegum Crisis"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "535"
+            },
+            "names": [
+                "Bubblegum Crash!"
+            ]
+        }
+    }
+}

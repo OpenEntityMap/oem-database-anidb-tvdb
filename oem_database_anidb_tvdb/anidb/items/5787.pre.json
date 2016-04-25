@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5787",
+        "tvdb": "82788"
+    },
+    "names": [
+        "Natsume Yuujinchou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

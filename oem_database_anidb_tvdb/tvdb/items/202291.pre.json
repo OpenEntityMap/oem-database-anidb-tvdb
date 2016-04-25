@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4385",
+        "tvdb": "202291"
+    },
+    "names": [
+        "Saint October"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

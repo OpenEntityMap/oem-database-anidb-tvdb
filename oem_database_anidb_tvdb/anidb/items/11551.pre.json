@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11551",
+        "tvdb": "275670"
+    },
+    "names": [
+        "Nisekoi: OAD"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

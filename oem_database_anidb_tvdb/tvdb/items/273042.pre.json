@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1119",
+        "tvdb": "273042"
+    },
+    "names": [
+        "Dororo to Hyakkimaru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

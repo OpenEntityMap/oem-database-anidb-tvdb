@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3652",
+        "tvdb": "84532"
+    },
+    "names": [
+        "Lady Georgie"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

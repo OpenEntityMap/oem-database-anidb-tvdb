@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4791",
+        "tvdb": "181701"
+    },
+    "names": [
+        "Ryuusei no Rockman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

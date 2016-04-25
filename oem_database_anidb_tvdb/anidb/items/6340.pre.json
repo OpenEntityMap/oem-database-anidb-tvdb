@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6340",
+        "tvdb": "88391"
+    },
+    "names": [
+        "Natsu no Arashi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

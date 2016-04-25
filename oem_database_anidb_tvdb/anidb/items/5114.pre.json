@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5114",
+        "tvdb": "195161"
+    },
+    "names": [
+        "Mahou no Tenshi Creamy Mami: Curtain Call"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2322",
+        "tvdb": "250577"
+    },
+    "names": [
+        "Gekitou! Crush Gear Turbo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

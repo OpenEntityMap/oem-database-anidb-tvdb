@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "515",
+        "tvdb": "82968"
+    },
+    "names": [
+        "Honoo no Labyrinth"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

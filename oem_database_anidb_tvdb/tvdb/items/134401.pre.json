@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6044",
+        "tvdb": "134401"
+    },
+    "names": [
+        "Switch"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

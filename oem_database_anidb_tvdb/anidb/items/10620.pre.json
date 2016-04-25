@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10620",
+        "tvdb": "275634"
+    },
+    "names": [
+        "Reply Hamatora"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

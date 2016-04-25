@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7752",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Sore Ike! Anpanman: Anpanman to Okashi na Nakama"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

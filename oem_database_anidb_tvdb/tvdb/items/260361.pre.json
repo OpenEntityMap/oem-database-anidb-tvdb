@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9126",
+        "tvdb": "260361"
+    },
+    "names": [
+        "Natsuyuki Rendezvous"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

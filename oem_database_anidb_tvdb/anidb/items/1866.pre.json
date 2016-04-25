@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1866",
+        "tvdb": "84348"
+    },
+    "names": [
+        "Maroko"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

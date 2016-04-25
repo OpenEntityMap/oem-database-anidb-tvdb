@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10289",
+        "tvdb": "276347"
+    },
+    "names": [
+        "Minna Atsumare! Falcom Gakuen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

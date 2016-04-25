@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "153",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9659",
+        "tvdb": "273002"
+    },
+    "names": [
+        "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

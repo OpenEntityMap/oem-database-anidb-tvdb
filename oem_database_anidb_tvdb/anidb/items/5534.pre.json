@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5534",
+        "tvdb": "81808"
+    },
+    "names": [
+        "Amatsuki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

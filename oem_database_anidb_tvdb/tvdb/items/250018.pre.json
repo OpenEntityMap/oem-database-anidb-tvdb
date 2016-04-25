@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1923",
+        "tvdb": "250018"
+    },
+    "names": [
+        "Ganbare Genki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

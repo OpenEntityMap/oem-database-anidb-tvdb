@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7989",
+        "tvdb": "245821"
+    },
+    "names": [
+        "Cardfight!! Vanguard"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

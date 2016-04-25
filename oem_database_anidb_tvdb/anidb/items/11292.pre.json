@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11292",
+        "tvdb": "303071"
+    },
+    "names": [
+        "Boku dake ga Inai Machi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

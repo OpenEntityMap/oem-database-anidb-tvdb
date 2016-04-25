@@ -1,0 +1,75 @@
+{
+    "identifiers": {
+        "tvdb": "81618"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "1309"
+                    },
+                    "names": [
+                        "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "28": {
+                    "identifiers": {
+                        "anidb": "1311"
+                    },
+                    "names": [
+                        "Ginga Eiyuu Densetsu Gaiden (1999)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "27"
+                    },
+                    "supplemental": {
+                        "studio": "Kitty Film Mitaka Studio"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "1308"
+                    },
+                    "names": [
+                        "Ginga Eiyuu Densetsu: Aratanaru Tatakai no Overture"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "1310"
+                    },
+                    "names": [
+                        "Ginga Eiyuu Densetsu Gaiden"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    },
+                    "supplemental": {
+                        "studio": "Kitty Film Mitaka Studio"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "1307"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "584"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu"
+            ]
+        }
+    }
+}

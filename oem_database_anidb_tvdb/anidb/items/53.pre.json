@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "53",
+        "tvdb": "77680"
+    },
+    "names": [
+        "Trigun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

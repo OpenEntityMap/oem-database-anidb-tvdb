@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2964",
+        "tvdb": "83536"
+    },
+    "names": [
+        "Gokujou Seitokai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

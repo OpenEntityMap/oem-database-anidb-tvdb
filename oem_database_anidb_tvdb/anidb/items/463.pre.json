@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "463",
+        "tvdb": "71744"
+    },
+    "names": [
+        "Vandread Gekitouhen"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

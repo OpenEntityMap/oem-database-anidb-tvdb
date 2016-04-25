@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2661",
+        "tvdb": "85230"
+    },
+    "names": [
+        "Uchuu Senkan Yamato 3"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

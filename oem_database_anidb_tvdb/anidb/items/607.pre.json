@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "607",
+        "tvdb": "79063"
+    },
+    "names": [
+        "Mahou Senshi Louie"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

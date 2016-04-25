@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "50",
+        "tvdb": "78910"
+    },
+    "names": [
+        "Argento Soma"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

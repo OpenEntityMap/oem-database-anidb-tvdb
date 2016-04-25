@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10385",
+        "tvdb": "279554"
+    },
+    "names": [
+        "Ao Haru Ride"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

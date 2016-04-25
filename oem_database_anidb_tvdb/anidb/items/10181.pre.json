@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10181",
+        "tvdb": "276890"
+    },
+    "names": [
+        "Black Bullet"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

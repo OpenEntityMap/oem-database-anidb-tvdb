@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10262",
+        "tvdb": "278818"
+    },
+    "names": [
+        "Gochuumon wa Usagi Desuka?"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3173",
+        "tvdb": "120041"
+    },
+    "names": [
+        "Angelique"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

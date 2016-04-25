@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11515",
+        "tvdb": "303067"
+    },
+    "names": [
+        "Norn 9: Norn + Nonetto"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "305",
+        "tvdb": "152531"
+    },
+    "names": [
+        "El-Hazard: The Magnificent World 2"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "7"
+    }
+}

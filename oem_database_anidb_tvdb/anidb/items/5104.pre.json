@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "5104",
+        "tvdb": "79156"
+    },
+    "names": [
+        "Shin Kyuuseishu Densetsu Hokuto no Ken Raou-den Gekitou no Shou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

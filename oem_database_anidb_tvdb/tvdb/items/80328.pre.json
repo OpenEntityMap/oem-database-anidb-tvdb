@@ -1,0 +1,69 @@
+{
+    "identifiers": {
+        "tvdb": "80328"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6814"
+            },
+            "names": [
+                "Tales of Symphonia The Animation: Tethe'alla Hen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4548"
+            },
+            "names": [
+                "Tales of Symphonia The Animation"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6814"
+            },
+            "names": [
+                "Tales of Symphonia The Animation: Tethe'alla Hen"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "8521"
+            },
+            "names": [
+                "Tales of Symphonia The Animation: Sekai Tougou Hen"
+            ]
+        }
+    }
+}

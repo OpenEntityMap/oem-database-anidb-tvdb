@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2787",
+        "tvdb": "81007"
+    },
+    "names": [
+        "Ichigo Marshmallow"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

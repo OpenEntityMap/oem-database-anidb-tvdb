@@ -1,0 +1,56 @@
+{
+    "identifiers": {
+        "tvdb": "71459"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "891"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Ai Tenshi Densetsu Wedding Peach"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "891"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Ai Tenshi Densetsu Wedding Peach"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "892"
+                    },
+                    "names": [
+                        "Ai Tenshi Densetsu Wedding Peach DX"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "891"
+            },
+            "names": [
+                "Ai Tenshi Densetsu Wedding Peach"
+            ]
+        }
+    }
+}

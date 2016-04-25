@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4014",
+        "tvdb": "219691"
+    },
+    "names": [
+        "Minky Momo in Tabidachi no Eki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

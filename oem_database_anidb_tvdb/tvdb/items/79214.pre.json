@@ -1,0 +1,74 @@
+{
+    "identifiers": {
+        "tvdb": "79214"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "10384"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mushishi Zoku Shou"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "10991"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mushishi Zoku Shou: Suzu no Shizuku"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10274"
+            },
+            "names": [
+                "Mushishi Tokubetsu Hen: Hihamu Kage"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3433"
+            },
+            "names": [
+                "Mushishi"
+            ]
+        },
+        "2": {
+            "episodes": {
+                "11": {
+                    "identifiers": {
+                        "anidb": "10571"
+                    },
+                    "names": [
+                        "Mushishi Zoku Shou (2014)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "10"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10384"
+            },
+            "names": [
+                "Mushishi Zoku Shou"
+            ]
+        }
+    }
+}

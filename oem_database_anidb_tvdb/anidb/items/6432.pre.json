@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6432",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Lupin Sansei vs Meitantei Conan"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

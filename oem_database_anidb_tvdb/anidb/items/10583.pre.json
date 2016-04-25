@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "10583",
+        "tvdb": "267440"
+    },
+    "names": [
+        "Gekijouban Shingeki no Kyojin"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

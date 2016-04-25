@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1840",
+        "tvdb": "79439"
+    },
+    "names": [
+        "Aoki Densetsu Shoot!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

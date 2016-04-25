@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "tvdb": "82883"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "5050"
+            },
+            "names": [
+                "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei"
+            ],
+            "supplemental": {
+                "studio": "Planet"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1000"
+            },
+            "names": [
+                "Ginga Tetsudou Monogatari"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4692"
+            },
+            "names": [
+                "Ginga Tetsudou Monogatari: Eien e no Bunkiten"
+            ],
+            "supplemental": {
+                "studio": "Planet"
+            }
+        }
+    }
+}

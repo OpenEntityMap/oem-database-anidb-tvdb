@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "727",
+        "tvdb": "100151"
+    },
+    "names": [
+        "Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

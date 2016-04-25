@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "3070",
+        "tvdb": "80820"
+    },
+    "names": [
+        "Zoids Genesis"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Shogakukan"
+    }
+}

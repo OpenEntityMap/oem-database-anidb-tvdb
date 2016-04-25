@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3499",
+        "tvdb": "79774"
+    },
+    "names": [
+        "Tokkou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

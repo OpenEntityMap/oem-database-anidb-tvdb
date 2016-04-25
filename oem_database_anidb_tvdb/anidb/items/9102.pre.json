@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "9102",
+        "tvdb": "257764"
+    },
+    "names": [
+        "Hyouka: Motsubeki Mono wa"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Kyoto Animation"
+    }
+}

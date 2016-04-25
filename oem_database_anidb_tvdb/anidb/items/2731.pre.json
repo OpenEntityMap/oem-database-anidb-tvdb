@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2731",
+        "tvdb": "72845"
+    },
+    "names": [
+        "Akihabara Dennou-gumi: 2011 Nen no Natsuyasumi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

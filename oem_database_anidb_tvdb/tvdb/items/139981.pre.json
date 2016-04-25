@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1811",
+        "tvdb": "139981"
+    },
+    "names": [
+        "Kerokko Demetan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

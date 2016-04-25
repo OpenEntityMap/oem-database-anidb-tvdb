@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "946",
+        "tvdb": "201091"
+    },
+    "names": [
+        "Ankoku Shindenshou Takegami"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

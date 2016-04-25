@@ -1,0 +1,43 @@
+{
+    "identifiers": {
+        "tvdb": "79108"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "2425",
+                    "896"
+                ]
+            },
+            "mappings": [
+                {
+                    "end": 10,
+                    "offset": -3,
+                    "season": "0",
+                    "start": 4
+                }
+            ],
+            "names": [
+                "Kimi ga Nozomu Eien",
+                "Akane Maniax"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "896"
+            },
+            "names": [
+                "Kimi ga Nozomu Eien"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5470"
+            },
+            "names": [
+                "Kimi ga Nozomu Eien: Next Season"
+            ]
+        }
+    }
+}

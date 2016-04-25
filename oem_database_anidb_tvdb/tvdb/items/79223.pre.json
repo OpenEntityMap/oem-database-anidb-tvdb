@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79223"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "441"
+            },
+            "names": [
+                "A.D. Police"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "452"
+            },
+            "names": [
+                "A.D. Police (1999)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6792",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pikachu Tanken Club"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "32",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

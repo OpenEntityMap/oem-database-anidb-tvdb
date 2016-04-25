@@ -1,0 +1,59 @@
+{
+    "identifiers": {
+        "tvdb": "70861"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "52"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!"
+                    ],
+                    "supplemental": {
+                        "studio": "XEBEC"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "51"
+            },
+            "names": [
+                "Love Hina Christmas Special: Silent Eve"
+            ],
+            "supplemental": {
+                "studio": "XEBEC"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "35"
+            },
+            "names": [
+                "Love Hina"
+            ],
+            "supplemental": {
+                "studio": "XEBEC"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "49"
+            },
+            "names": [
+                "Love Hina Again"
+            ],
+            "supplemental": {
+                "studio": "XEBEC"
+            }
+        }
+    }
+}

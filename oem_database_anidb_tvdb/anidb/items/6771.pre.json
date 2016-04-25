@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6771",
+        "tvdb": "263330"
+    },
+    "names": [
+        "Uchurei!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

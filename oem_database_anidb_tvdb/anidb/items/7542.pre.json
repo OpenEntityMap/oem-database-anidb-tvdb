@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7542",
+        "tvdb": "82484"
+    },
+    "names": [
+        "Strike Witches 2"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

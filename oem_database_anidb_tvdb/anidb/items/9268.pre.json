@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9268",
+        "tvdb": "262094"
+    },
+    "names": [
+        "Magi: The Labyrinth of Magic"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

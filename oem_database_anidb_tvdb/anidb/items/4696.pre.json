@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4696",
+        "tvdb": "80623"
+    },
+    "names": [
+        "Kakutou Ryouri Densetsu Bistro Recipe"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

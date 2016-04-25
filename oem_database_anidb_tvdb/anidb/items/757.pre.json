@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "757",
+        "tvdb": "82380"
+    },
+    "names": [
+        "Attack Number One"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

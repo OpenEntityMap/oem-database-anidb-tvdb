@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11170",
+        "tvdb": "275610"
+    },
+    "names": [
+        "Noragami Aragoto"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

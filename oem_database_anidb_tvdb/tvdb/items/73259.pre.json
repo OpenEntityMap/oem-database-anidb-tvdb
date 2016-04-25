@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1775",
+        "tvdb": "73259"
+    },
+    "names": [
+        "Zoids Fuzors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

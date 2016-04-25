@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "tvdb": "87851"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8158"
+            },
+            "names": [
+                "Senjou no Valkyria 3: Unrecorded Chronicles - Tagatame no Juusou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6244"
+            },
+            "names": [
+                "Senjou no Valkyria: Valkyria Chronicles"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3611",
+        "tvdb": "250973"
+    },
+    "names": [
+        "Angel Densetsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "identifiers": {
+        "tvdb": "79076"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8565"
+            },
+            "names": [
+                "Hunter x Hunter"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "132"
+            },
+            "names": [
+                "Hunter x Hunter (1999)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "173"
+            },
+            "names": [
+                "Hunter x Hunter: Original Video Animation"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "545"
+            },
+            "names": [
+                "Hunter x Hunter: Greed Island"
+            ],
+            "supplemental": {
+                "studio": "Nippon Animation"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "1427"
+            },
+            "names": [
+                "Hunter x Hunter: Greed Island Final"
+            ]
+        }
+    }
+}

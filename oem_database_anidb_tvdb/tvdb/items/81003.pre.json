@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "612",
+        "tvdb": "81003"
+    },
+    "names": [
+        "Hungry Heart: Wild Striker"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

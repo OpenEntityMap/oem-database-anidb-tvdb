@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9145",
+        "tvdb": "250155"
+    },
+    "names": [
+        "Penguin no Mondai POW"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

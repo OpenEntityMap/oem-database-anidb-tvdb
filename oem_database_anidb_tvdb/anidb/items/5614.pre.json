@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5614",
+        "tvdb": "81701"
+    },
+    "names": [
+        "Hakaba Kitarou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

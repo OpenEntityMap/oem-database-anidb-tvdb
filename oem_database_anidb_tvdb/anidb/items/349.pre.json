@@ -1,0 +1,45 @@
+{
+    "identifiers": {
+        "anidb": "349",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Gekijouban Slayers"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "J.C.Staff"
+    }
+}

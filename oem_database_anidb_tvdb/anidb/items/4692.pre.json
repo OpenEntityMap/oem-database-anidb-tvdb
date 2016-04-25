@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4692",
+        "tvdb": "82883"
+    },
+    "names": [
+        "Ginga Tetsudou Monogatari: Eien e no Bunkiten"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Planet"
+    }
+}

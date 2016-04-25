@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "9585",
+        "tvdb": "249827"
+    },
+    "names": [
+        "Mirai Nikki Redial: Data Ikou"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10008",
+        "tvdb": "262098"
+    },
+    "names": [
+        "Girls und Panzer Gekijouban"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "32",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

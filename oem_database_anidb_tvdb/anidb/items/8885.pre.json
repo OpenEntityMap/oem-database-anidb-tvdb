@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8885",
+        "tvdb": "81999"
+    },
+    "names": [
+        "Toshokan Sensou: Kakumei no Tsubasa"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

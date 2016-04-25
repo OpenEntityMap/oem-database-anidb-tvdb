@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8039",
+        "tvdb": "247805"
+    },
+    "names": [
+        "Sket Dance"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Tatsunoko Production"
+    }
+}

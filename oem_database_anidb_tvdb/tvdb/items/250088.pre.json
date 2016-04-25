@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "250088"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "10890"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "10890"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "5583"
+            },
+            "names": [
+                "Kaitou Tenshi Twin Angel"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8212"
+            },
+            "names": [
+                "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!"
+            ]
+        }
+    }
+}

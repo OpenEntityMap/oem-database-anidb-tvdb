@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3115",
+        "tvdb": "251595"
+    },
+    "names": [
+        "Ginga Shippuu Sasuraiger"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

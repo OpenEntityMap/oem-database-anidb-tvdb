@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "254667"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8709"
+            },
+            "names": [
+                "Senki Zesshou Symphogear"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9465"
+            },
+            "names": [
+                "Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music..."
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "10321"
+            },
+            "names": [
+                "Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist."
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "606",
+        "tvdb": "81437"
+    },
+    "names": [
+        "GEAR Senshi Dendou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

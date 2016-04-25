@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1158",
+        "tvdb": "82959"
+    },
+    "names": [
+        "Assemble Insert"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

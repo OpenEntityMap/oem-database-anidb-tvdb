@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7227",
+        "tvdb": "247231"
+    },
+    "names": [
+        "Toriko"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

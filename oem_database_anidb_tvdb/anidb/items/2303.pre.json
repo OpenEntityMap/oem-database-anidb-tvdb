@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2303",
+        "tvdb": "80944"
+    },
+    "names": [
+        "Tom Sawyer no Bouken"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

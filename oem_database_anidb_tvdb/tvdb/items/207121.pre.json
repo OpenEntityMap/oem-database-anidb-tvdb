@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5676",
+        "tvdb": "207121"
+    },
+    "names": [
+        "Kirepapa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

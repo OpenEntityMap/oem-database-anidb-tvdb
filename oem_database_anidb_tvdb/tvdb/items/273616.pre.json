@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10031",
+        "tvdb": "273616"
+    },
+    "names": [
+        "Pocket Monsters: The Origin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

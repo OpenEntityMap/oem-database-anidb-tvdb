@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6623",
+        "tvdb": "75112"
+    },
+    "names": [
+        "Dr. Slump: Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

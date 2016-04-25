@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "144",
+        "tvdb": "71361"
+    },
+    "names": [
+        "Inuyasha"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

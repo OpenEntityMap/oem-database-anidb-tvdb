@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8969",
+        "tvdb": "257518"
+    },
+    "names": [
+        "Sankarea (2012)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

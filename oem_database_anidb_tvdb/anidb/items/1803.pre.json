@@ -1,0 +1,16 @@
+{
+    "identifiers": {
+        "anidb": "1803",
+        "tvdb": "85070"
+    },
+    "names": [
+        "Animation Seisaku Shinkou Kuromi-chan 2"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "1"
+    },
+    "supplemental": {
+        "studio": "Yumeta Company"
+    }
+}

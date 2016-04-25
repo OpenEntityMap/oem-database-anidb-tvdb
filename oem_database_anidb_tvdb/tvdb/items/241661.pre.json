@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "241661"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2072"
+            },
+            "names": [
+                "Lady Lady!! (1988)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2068"
+            },
+            "names": [
+                "Lady Lady!!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2067"
+            },
+            "names": [
+                "Hello! Lady Lynn"
+            ]
+        }
+    }
+}

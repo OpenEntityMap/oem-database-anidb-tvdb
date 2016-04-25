@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8813",
+        "tvdb": "255694"
+    },
+    "names": [
+        "Busou Chuugakusei: Basket Army"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

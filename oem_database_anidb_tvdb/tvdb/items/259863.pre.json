@@ -1,0 +1,198 @@
+{
+    "identifiers": {
+        "tvdb": "259863"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8256"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ojiisan no Lamp"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "8255"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kizuna Ichigeki"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "8143"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tansu Warashi."
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8257"
+            },
+            "names": [
+                "Bannou Yasai Ninninman"
+            ]
+        },
+        "2": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8468"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wasurenagumo"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "8465"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pukapuka Dudu"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "8466"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shiranpuri (2012)"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8467"
+            },
+            "names": [
+                "Buta"
+            ]
+        },
+        "3": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "9250"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Little Witch Academia"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "8878"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Arve Rezzle: Kikaijikake no Yousei-tachi"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9253"
+            },
+            "names": [
+                "Death Billiards"
+            ]
+        },
+        "4": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "10201"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chronus"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "10200"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ookii 1 Nensei to Chiisana 2 Nensei"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "10199"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Parol no Miraijima"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10202"
+            },
+            "names": [
+                "Harmonie"
+            ]
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "identifiers": {
+        "tvdb": "219691"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "4014"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Minky Momo in Tabidachi no Eki"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4013"
+            },
+            "names": [
+                "Minky Momo in Yume ni Kakeru Hashi"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "63": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "64": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "65": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4011"
+            },
+            "names": [
+                "Mahou no Princess Minky Momo: Yume o Dakishimete"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8371",
+        "tvdb": "249869"
+    },
+    "names": [
+        "Rou Kyuu Bu!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

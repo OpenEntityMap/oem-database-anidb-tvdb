@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "283",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Shiroi Koibito-tachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

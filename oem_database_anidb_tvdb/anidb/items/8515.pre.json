@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8515",
+        "tvdb": "249867"
+    },
+    "names": [
+        "R-15 OAD"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

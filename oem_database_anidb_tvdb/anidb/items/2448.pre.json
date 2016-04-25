@@ -1,0 +1,670 @@
+{
+    "identifiers": {
+        "anidb": "2448",
+        "tvdb": "71014"
+    },
+    "names": [
+        "Hoshi no Kirby"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "29"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "16"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "17"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "18"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "19"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "20"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "21"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "22"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "23"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "24"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "25"
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "27"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "28"
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "30"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "34"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "33"
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "31"
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "32"
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "35"
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "44"
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "36"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "number": "37"
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "number": "38"
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "number": "39"
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "number": "40"
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "41"
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "number": "42"
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "number": "43"
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "53": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "54": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "55": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "56": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "57": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "58": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "59": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "60": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "61": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "62": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "63": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "64": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "65": {
+                    "mappings": [
+                        {
+                            "number": "22",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "66": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "67": {
+                    "mappings": [
+                        {
+                            "number": "24",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "68": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "69": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "70": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "71": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "72": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "73": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "74": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "75": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "76": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "77": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "78": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "79": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                },
+                "80": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "81": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "82": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "83": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "84": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "85": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "86": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "87": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "season": "3"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "96": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "97": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

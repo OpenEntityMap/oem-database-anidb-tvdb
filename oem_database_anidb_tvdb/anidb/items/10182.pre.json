@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10182",
+        "tvdb": "278329"
+    },
+    "names": [
+        "Mahouka Koukou no Rettousei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

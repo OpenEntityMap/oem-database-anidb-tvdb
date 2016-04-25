@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2696",
+        "tvdb": "78972"
+    },
+    "names": [
+        "Speed Grapher"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

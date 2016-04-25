@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "260280"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2080"
+            },
+            "names": [
+                "Maple Town Monogatari (1986)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2078"
+            },
+            "names": [
+                "Maple Town Monogatari"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2079"
+            },
+            "names": [
+                "Shin Maple Town Monogatari: Palm Town Hen"
+            ]
+        }
+    }
+}

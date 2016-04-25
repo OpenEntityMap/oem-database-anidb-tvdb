@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4706",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

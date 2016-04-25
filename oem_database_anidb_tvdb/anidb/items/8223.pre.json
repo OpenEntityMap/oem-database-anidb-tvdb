@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8223",
+        "tvdb": "250326"
+    },
+    "names": [
+        "Katte ni Kaizou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

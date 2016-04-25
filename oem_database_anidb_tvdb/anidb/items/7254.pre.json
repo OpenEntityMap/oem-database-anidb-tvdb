@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7254",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Crayon Shin-chan: Chou Jikuu! Arashi o Yobu Ora no Hanayome"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

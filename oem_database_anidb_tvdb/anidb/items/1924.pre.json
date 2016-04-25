@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1924",
+        "tvdb": "129541"
+    },
+    "names": [
+        "Hello! Sandybell"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

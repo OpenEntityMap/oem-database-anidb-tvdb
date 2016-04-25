@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10811",
+        "tvdb": "289172"
+    },
+    "names": [
+        "Yurikuma Arashi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

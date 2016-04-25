@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2250",
+        "tvdb": "136061"
+    },
+    "names": [
+        "Mirai Robo Daltanias"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

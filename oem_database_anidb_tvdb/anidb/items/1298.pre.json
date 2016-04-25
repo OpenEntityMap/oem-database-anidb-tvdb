@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1298",
+        "tvdb": "221491"
+    },
+    "names": [
+        "Sentimental Journey"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

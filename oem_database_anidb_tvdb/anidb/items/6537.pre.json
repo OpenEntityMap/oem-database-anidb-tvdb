@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6537",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece Film: Strong World"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

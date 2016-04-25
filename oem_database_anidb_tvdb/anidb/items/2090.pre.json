@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2090",
+        "tvdb": "250848"
+    },
+    "names": [
+        "Kinnikuman: Kinnikusei Oui Soudatsu Hen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

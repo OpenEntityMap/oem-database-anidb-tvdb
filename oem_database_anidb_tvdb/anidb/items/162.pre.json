@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "162",
+        "tvdb": "70525"
+    },
+    "names": [
+        "Sei Juushi Bismarck"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

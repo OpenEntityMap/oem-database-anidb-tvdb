@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8713",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Chi no Kokuin - Eien no Mermaid"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "34",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

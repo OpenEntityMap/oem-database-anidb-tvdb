@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10984",
+        "tvdb": "289906"
+    },
+    "names": [
+        "Owari no Seraph: Nagoya Kessen Hen"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}

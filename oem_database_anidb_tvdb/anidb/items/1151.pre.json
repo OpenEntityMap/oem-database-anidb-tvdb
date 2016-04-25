@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1151",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Adventure 02: Diablomon no Gyakushuu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

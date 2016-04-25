@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3414",
+        "tvdb": "82055"
+    },
+    "names": [
+        "Lamune"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5117",
+        "tvdb": "80478"
+    },
+    "names": [
+        "School Days"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

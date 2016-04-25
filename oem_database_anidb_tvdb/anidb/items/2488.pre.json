@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2488",
+        "tvdb": "103691"
+    },
+    "names": [
+        "Heavy Metal L-Gaim II: Farewell My Lovely + Pentagona Dolls"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

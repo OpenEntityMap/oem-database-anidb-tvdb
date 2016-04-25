@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9367",
+        "tvdb": "262856"
+    },
+    "names": [
+        "Teekyuu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

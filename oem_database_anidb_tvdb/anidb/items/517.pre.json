@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "517",
+        "tvdb": "80468"
+    },
+    "names": [
+        "The Animatrix"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "633",
+        "tvdb": "97781"
+    },
+    "names": [
+        "Jikuu Bouken Nuumamonjaa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

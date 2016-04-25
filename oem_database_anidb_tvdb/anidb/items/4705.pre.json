@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4705",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Eiga Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

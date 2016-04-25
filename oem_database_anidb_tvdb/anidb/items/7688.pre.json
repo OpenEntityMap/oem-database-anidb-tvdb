@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7688",
+        "tvdb": "78232"
+    },
+    "names": [
+        "Project A-Ko 2: Daitokuji Zaibatsu no Inbou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

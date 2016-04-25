@@ -1,0 +1,2699 @@
+{
+    "identifiers": {
+        "tvdb": "76703"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "990"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu"
+                    ]
+                },
+                "10": {
+                    "identifiers": {
+                        "anidb": "1041"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters Advanced Generation"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "1041"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters Advanced Generation"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "4199"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Advanced Generation: Pokemon Ranger to Umi no Ouji Manaphy"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "5048"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "4728"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Diamond and Pearl"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "5772"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin"
+                    ]
+                },
+                "16": {
+                    "identifiers": {
+                        "anidb": "3983"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Bokutachi Pichu Brothers: Party wa Oosawagi! no Maki"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "6316"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Diamond & Pearl: Arceus - Choukoku no Jikuu e"
+                    ]
+                },
+                "18": {
+                    "identifiers": {
+                        "anidb": "6797"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu Tankentai"
+                    ]
+                },
+                "19": {
+                    "identifiers": {
+                        "anidb": "6796"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Natsuyasumi"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "1020"
+                    },
+                    "names": [
+                        "Gekijouban Pocket Monsters: Maboroshi no Pokemon Lugia Bakutan"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "20": {
+                    "identifiers": {
+                        "anidb": "4728"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Diamond and Pearl"
+                    ]
+                },
+                "21": {
+                    "identifiers": {
+                        "anidb": "7257"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Diamond & Pearl: Gen'ei no Hasha Zoroark"
+                    ]
+                },
+                "22": {
+                    "identifiers": {
+                        "anidb": "8012"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Best Wishes! - Victini to Kuroki Eiyuu Zekrom"
+                    ]
+                },
+                "23": {
+                    "identifiers": {
+                        "anidb": "230"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters"
+                    ]
+                },
+                "24": {
+                    "identifiers": {
+                        "anidb": "6798"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pichu to Pikachu"
+                    ]
+                },
+                "25": {
+                    "identifiers": {
+                        "anidb": "6799"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Dokidoki Kakurenbo"
+                    ]
+                },
+                "26": {
+                    "identifiers": {
+                        "anidb": "6800"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pika Pika Hoshizora Camp"
+                    ]
+                },
+                "27": {
+                    "identifiers": {
+                        "anidb": "6801"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Odoru Pokemon Himitsu Kichi"
+                    ]
+                },
+                "28": {
+                    "identifiers": {
+                        "anidb": "6802"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Wanpaku Island"
+                    ]
+                },
+                "29": {
+                    "identifiers": {
+                        "anidb": "8269"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Best Wishes! - Victini to Shiroki Eiyuu Reshiram"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "992"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Kesshoutou no Teiou"
+                    ]
+                },
+                "30": {
+                    "identifiers": {
+                        "anidb": "8826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Best Wishes! - Kyurem vs Seikenshi Keldeo"
+                    ]
+                },
+                "31": {
+                    "identifiers": {
+                        "anidb": "6803"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachuu Koori no Daibouken"
+                    ]
+                },
+                "32": {
+                    "identifiers": {
+                        "anidb": "6792"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu Tanken Club"
+                    ]
+                },
+                "33": {
+                    "identifiers": {
+                        "anidb": "4553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Obake Carnival"
+                    ]
+                },
+                "34": {
+                    "identifiers": {
+                        "anidb": "3510"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Natsumatsuri"
+                    ]
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "6804"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Kirakira Daisousaku!"
+                    ]
+                },
+                "36": {
+                    "identifiers": {
+                        "anidb": "3491"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Pikachu no Fuyuyasumi (1999)"
+                    ]
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "3492"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Pikachu no Fuyuyasumi (2000)"
+                    ]
+                },
+                "38": {
+                    "identifiers": {
+                        "anidb": "3493"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Pikachu no Fuyuyasumi (2001)"
+                    ]
+                },
+                "39": {
+                    "identifiers": {
+                        "anidb": "8139"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Fushigi na Fushigi na Daibouken"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "7109"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari"
+                    ]
+                },
+                "40": {
+                    "identifiers": {
+                        "anidb": "7481"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pokemon Ranger: Hikari no Kiseki"
+                    ]
+                },
+                "41": {
+                    "identifiers": {
+                        "anidb": "990"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu"
+                    ]
+                },
+                "42": {
+                    "identifiers": {
+                        "anidb": "7117"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        },
+                        {
+                            "number": "4",
+                            "season": "1"
+                        },
+                        {
+                            "number": "5",
+                            "season": "1"
+                        },
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu"
+                    ]
+                },
+                "43": {
+                    "identifiers": {
+                        "anidb": "8735"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pikachu no Summer Bridge Story"
+                    ]
+                },
+                "44": {
+                    "identifiers": {
+                        "anidb": "8671"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pokemon 3D Adventure: Mew o Sagase!"
+                    ]
+                },
+                "45": {
+                    "identifiers": {
+                        "anidb": "8672"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "991"
+                    },
+                    "names": [
+                        "Gekijouban Pocket Monsters: Celebi Toki o Koeta Deai"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "921"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "1804"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Advanced Generation: Nana-Yo no Negaiboshi Jiraachi"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "2371"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "2848"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters Advanced Generation: Mew to Hadou no Yuusha Lucario"
+                    ]
+                }
+            }
+        },
+        "10": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4728"
+            },
+            "names": [
+                "Pocket Monsters: Diamond and Pearl"
+            ]
+        },
+        "11": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "53",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "62",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "63",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "64",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "65",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "66",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "67",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "68",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "69",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "70",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "71",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "54",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "72",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "73",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "74",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "75",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "76",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "77",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "78",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "79",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "80",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "81",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "55",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "82",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "83",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "84",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "85",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "86",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "87",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "88",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "89",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "90",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "91",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "56",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "number": "92",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "number": "93",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "number": "94",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "number": "95",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "96",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "number": "97",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "number": "98",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "number": "99",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "number": "100",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "number": "101",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "57",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "number": "102",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "number": "103",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "number": "104",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "58",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "59",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "60",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "61",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4728"
+            },
+            "names": [
+                "Pocket Monsters: Diamond and Pearl"
+            ]
+        },
+        "12": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "105",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "114",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "115",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "116",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "117",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "118",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "119",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "120",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "121",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "122",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "123",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "106",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "124",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "125",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "126",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "127",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "128",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "129",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "130",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "131",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "132",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "133",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "107",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "134",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "135",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "136",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "137",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "138",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "139",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "140",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "141",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "142",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "143",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "108",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "number": "144",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "number": "145",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "number": "146",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "number": "147",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "148",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "number": "149",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "number": "150",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "number": "151",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "number": "152",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "number": "153",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "109",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "number": "154",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "number": "155",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "number": "156",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "53": {
+                    "mappings": [
+                        {
+                            "number": "157",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "110",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "111",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "112",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "113",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4728"
+            },
+            "names": [
+                "Pocket Monsters: Diamond and Pearl"
+            ]
+        },
+        "13": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "158",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "167",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "168",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "169",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "170",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "171",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "172",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "173",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "174",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "175",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "176",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "159",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "177",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "178",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "179",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "180",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "181",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "182",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "183",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "184",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "185",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "186",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "160",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "187",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "188",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "189",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "190",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "191",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "161",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "162",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "163",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "164",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "165",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "166",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4728"
+            },
+            "names": [
+                "Pocket Monsters: Diamond and Pearl"
+            ]
+        },
+        "14": {
+            "identifiers": {
+                "anidb": "7891"
+            },
+            "names": [
+                "Pocket Monsters: Best Wishes!"
+            ],
+            "supplemental": {
+                "studio": "OLM"
+            }
+        },
+        "15": {
+            "episodes": {
+                "25": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "26": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "27": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "28": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "29": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "30": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "31": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "32": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "33": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "34": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "36": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "38": {
+                    "identifiers": {
+                        "anidb": "9653"
+                    },
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+                    ]
+                },
+                "39": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "40": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "41": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "42": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "43": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "44": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "45": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "46": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "47": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "48": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "49": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "50": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                },
+                "51": {
+                    "identifiers": {
+                        "anidb": "9764"
+                    },
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9216"
+            },
+            "names": [
+                "Pocket Monsters: Best Wishes! Season 2"
+            ]
+        },
+        "16": {
+            "identifiers": {
+                "anidb": "9956"
+            },
+            "names": [
+                "Pocket Monsters XY"
+            ]
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "1041"
+            },
+            "names": [
+                "Pocket Monsters Advanced Generation"
+            ]
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "1041"
+            },
+            "mappings": [
+                {
+                    "end": 52,
+                    "offset": 40,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Pocket Monsters Advanced Generation"
+            ]
+        },
+        "8": {
+            "identifiers": {
+                "anidb": "1041"
+            },
+            "mappings": [
+                {
+                    "end": 54,
+                    "offset": 92,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Pocket Monsters Advanced Generation"
+            ]
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "1041"
+            },
+            "mappings": [
+                {
+                    "end": 47,
+                    "offset": 146,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Pocket Monsters Advanced Generation"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "230"
+            },
+            "names": [
+                "Pocket Monsters"
+            ]
+        }
+    }
+}

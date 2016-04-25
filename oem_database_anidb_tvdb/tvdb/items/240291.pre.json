@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "240291"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7630"
+            },
+            "names": [
+                "Nichijou: Nichijou no 0 Wa"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8168"
+            },
+            "names": [
+                "Nichijou"
+            ]
+        }
+    }
+}

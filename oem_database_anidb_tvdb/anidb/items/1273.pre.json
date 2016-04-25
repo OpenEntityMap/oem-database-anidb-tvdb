@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1273",
+        "tvdb": "213261"
+    },
+    "names": [
+        "Uchuu no Kishi Tekkaman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

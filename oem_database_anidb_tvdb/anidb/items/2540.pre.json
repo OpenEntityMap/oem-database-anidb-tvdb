@@ -1,0 +1,38 @@
+{
+    "identifiers": {
+        "anidb": "2540",
+        "tvdb": "78500"
+    },
+    "names": [
+        "Bishoujo Senshi Sailor Moon Super S"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "identifiers": {
+        "anidb": "557",
+        "tvdb": "70817"
+    },
+    "names": [
+        "Tottoko Hamtarou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 82,
+                    "offset": -52,
+                    "season": "2",
+                    "start": 53
+                },
+                {
+                    "end": 105,
+                    "offset": -53,
+                    "season": "2",
+                    "start": 84
+                }
+            ]
+        }
+    }
+}

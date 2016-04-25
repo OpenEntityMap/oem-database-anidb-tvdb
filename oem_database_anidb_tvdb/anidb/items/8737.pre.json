@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8737",
+        "tvdb": "87491"
+    },
+    "names": [
+        "Queen's Blade: Rebellion"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

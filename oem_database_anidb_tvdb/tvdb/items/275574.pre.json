@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9995",
+        "tvdb": "275574"
+    },
+    "names": [
+        "Mahou Sensou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

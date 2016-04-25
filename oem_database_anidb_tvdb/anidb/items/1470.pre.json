@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "1470",
+        "tvdb": "158991"
+    },
+    "names": [
+        "Uchuu Kaizoku Mito no Daibouken: Futari no Joou-sama"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

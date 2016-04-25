@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5435",
+        "tvdb": "81484"
+    },
+    "names": [
+        "Myself; Yourself"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

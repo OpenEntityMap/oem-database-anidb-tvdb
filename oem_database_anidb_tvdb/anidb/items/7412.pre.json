@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7412",
+        "tvdb": "153331"
+    },
+    "names": [
+        "Heroman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

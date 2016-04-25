@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "563",
+        "tvdb": "97951"
+    },
+    "names": [
+        "Chance Triangle Session"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

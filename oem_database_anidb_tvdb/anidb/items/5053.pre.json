@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5053",
+        "tvdb": "80901"
+    },
+    "names": [
+        "Lovely Complex"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Toei Animation"
+    }
+}

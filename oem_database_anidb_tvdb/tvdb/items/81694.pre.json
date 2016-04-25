@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "tvdb": "81694"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "62"
+            },
+            "names": [
+                "Mata Mata Saber Marionette J"
+            ],
+            "supplemental": {
+                "studio": "Hal Film Maker"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "344"
+            },
+            "names": [
+                "Saber Marionette J"
+            ],
+            "supplemental": {
+                "studio": "Hal Film Maker"
+            }
+        },
+        "2": {
+            "episodes": {
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "394"
+            },
+            "names": [
+                "Saber Marionette J to X"
+            ]
+        }
+    }
+}

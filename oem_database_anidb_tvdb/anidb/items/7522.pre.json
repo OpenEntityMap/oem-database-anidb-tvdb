@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7522",
+        "tvdb": "223711"
+    },
+    "names": [
+        "Koi Suru Boukun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

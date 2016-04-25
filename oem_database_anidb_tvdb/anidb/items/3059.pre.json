@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "3059",
+        "tvdb": "83105"
+    },
+    "names": [
+        "Touch: Miss Lonely Yesterday - Arekara, Kimi wa"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

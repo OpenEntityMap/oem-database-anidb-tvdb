@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7902",
+        "tvdb": "247997"
+    },
+    "names": [
+        "Deadman Wonderland"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

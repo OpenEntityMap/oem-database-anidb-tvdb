@@ -1,0 +1,1058 @@
+{
+    "identifiers": {
+        "anidb": "1949",
+        "tvdb": "82736"
+    },
+    "names": [
+        "Dondon Dommel to Ron"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "20",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "22",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "24",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "26",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "28",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "30",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "31",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "32",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "33",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "34",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "35",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "36",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "38",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "39",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "40",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "41",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "42",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "43",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "44",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "45",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "46",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "47",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "48",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "49",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "50",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "51",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "52",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "53",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "54",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "55",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "56",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "57",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "58",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "6",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "59",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "60",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "61",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "62",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "63",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "64",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "65",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "66",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "67",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "68",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "69",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "70",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "71",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "72",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "73",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "74",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "75",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "76",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "77",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "78",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "8",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "number": "79",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "80",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "number": "81",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "82",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "number": "83",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "84",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "number": "85",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "86",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "87",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "88",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "number": "89",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "90",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "number": "91",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "92",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "number": "93",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "94",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "number": "95",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "96",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "number": "97",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "98",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "10",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "number": "99",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "100",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "number": "101",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "102",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "number": "103",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "104",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "12",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "14",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "16",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "18",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "630",
+        "tvdb": "79782"
+    },
+    "names": [
+        "Uchuu no Stellvia"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Xebec"
+    }
+}

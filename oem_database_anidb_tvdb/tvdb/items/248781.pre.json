@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "248781"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8489"
+            },
+            "names": [
+                "Eiga Suite Precure: Torimodose! Kokoro ga Tsunagu Kiseki no Melody"
+            ],
+            "supplemental": {
+                "studio": "Toei Animation"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8173"
+            },
+            "names": [
+                "Suite Precure"
+            ]
+        }
+    }
+}

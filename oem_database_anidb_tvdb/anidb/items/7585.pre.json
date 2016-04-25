@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7585",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Koi no Stage = Heart on Fire! Haru wa Idol!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

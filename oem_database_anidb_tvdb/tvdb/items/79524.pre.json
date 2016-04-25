@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4516",
+        "tvdb": "79524"
+    },
+    "names": [
+        "Busou Renkin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

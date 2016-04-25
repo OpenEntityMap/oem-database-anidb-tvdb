@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11761",
+        "tvdb": "304106"
+    },
+    "names": [
+        "Bubuki Buranki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

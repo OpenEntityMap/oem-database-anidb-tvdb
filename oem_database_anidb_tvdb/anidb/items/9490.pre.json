@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9490",
+        "tvdb": "87841"
+    },
+    "names": [
+        "Saki: Zenkoku Hen"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

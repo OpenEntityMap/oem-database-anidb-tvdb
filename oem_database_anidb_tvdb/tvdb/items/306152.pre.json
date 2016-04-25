@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11466",
+        "tvdb": "306152"
+    },
+    "names": [
+        "Tonkatsu DJ Agetarou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

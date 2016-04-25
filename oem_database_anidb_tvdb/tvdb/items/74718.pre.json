@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "824",
+        "tvdb": "74718"
+    },
+    "names": [
+        "Bomberman Jetters"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "2": {
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 26,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

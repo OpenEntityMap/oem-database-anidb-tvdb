@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8260",
+        "tvdb": "72902"
+    },
+    "names": [
+        "Last Exile: Gin'yoku no Fam"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

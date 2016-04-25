@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "476",
+        "tvdb": "254023"
+    },
+    "names": [
+        "Tenamon'ya Voyagers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

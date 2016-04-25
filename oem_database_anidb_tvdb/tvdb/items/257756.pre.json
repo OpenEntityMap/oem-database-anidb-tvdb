@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "tvdb": "257756"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "9076"
+                    },
+                    "names": [
+                        "Jormungand: Perfect Order"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "8842"
+            },
+            "names": [
+                "Jormungand"
+            ]
+        }
+    }
+}

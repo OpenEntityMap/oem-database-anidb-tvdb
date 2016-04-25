@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11345",
+        "tvdb": "299963"
+    },
+    "names": [
+        "Dimension W"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

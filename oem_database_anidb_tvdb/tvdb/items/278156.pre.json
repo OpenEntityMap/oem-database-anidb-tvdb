@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10286",
+        "tvdb": "278156"
+    },
+    "names": [
+        "Mahou Shoujo Taisen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

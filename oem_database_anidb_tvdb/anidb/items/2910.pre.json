@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2910",
+        "tvdb": "261667"
+    },
+    "names": [
+        "Duel Masters"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

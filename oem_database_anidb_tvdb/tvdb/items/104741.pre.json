@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6304",
+        "tvdb": "104741"
+    },
+    "names": [
+        "Isekai no Seikishi Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

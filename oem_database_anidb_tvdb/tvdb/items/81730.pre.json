@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4441",
+        "tvdb": "81730"
+    },
+    "names": [
+        "Bokura ga Ita"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1815",
+        "tvdb": "251598"
+    },
+    "names": [
+        "Toushou Daimos"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

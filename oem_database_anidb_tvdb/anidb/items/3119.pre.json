@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3119",
+        "tvdb": "72281"
+    },
+    "names": [
+        "Black Jack: Heian Sento"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

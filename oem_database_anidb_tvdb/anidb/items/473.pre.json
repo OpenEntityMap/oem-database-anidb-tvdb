@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "473",
+        "tvdb": "107441"
+    },
+    "names": [
+        "Nanaka 6/17"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

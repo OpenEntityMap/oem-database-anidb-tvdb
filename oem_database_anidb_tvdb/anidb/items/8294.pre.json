@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8294",
+        "tvdb": "195721"
+    },
+    "names": [
+        "Shinryaku!? Ika Musume"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

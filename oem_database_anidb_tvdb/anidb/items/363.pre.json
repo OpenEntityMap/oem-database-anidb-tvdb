@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "363",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers Excellent"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

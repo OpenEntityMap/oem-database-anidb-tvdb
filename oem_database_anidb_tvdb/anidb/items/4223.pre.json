@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4223",
+        "tvdb": "81852"
+    },
+    "names": [
+        "Strawberry Panic"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

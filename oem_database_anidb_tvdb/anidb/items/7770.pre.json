@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7770",
+        "tvdb": "252696"
+    },
+    "names": [
+        "Eiga Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

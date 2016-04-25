@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8575",
+        "tvdb": "82154"
+    },
+    "names": [
+        "Hidamari Sketch x Honeycomb"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

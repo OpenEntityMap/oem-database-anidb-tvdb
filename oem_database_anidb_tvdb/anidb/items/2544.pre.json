@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2544",
+        "tvdb": "72281"
+    },
+    "names": [
+        "Black Jack"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Tezuka Productions"
+    }
+}

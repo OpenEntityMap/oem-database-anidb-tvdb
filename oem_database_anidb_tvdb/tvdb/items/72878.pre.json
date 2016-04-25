@@ -1,0 +1,55 @@
+{
+    "identifiers": {
+        "tvdb": "72878"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "869"
+            },
+            "names": [
+                "Akazukin Chacha (1995)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "854"
+            },
+            "names": [
+                "Akazukin Chacha"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "854"
+            },
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 30,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Akazukin Chacha"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "854"
+            },
+            "mappings": [
+                {
+                    "end": 18,
+                    "offset": 56,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Akazukin Chacha"
+            ]
+        }
+    }
+}

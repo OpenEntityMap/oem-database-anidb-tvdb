@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8886",
+        "tvdb": "252345"
+    },
+    "names": [
+        "Kyoukaisen-jou no Horizon II"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

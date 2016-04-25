@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3621",
+        "tvdb": "248903"
+    },
+    "names": [
+        "Rockman.EXE Beast"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

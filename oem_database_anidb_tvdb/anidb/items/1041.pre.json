@@ -1,0 +1,54 @@
+{
+    "identifiers": {
+        "anidb": "1041",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters Advanced Generation"
+    ],
+    "parameters": {
+        "default_season": "6"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 92,
+                    "offset": -40,
+                    "season": "7",
+                    "start": 41
+                },
+                {
+                    "end": 146,
+                    "offset": -92,
+                    "season": "8",
+                    "start": 93
+                },
+                {
+                    "end": 193,
+                    "offset": -146,
+                    "season": "9",
+                    "start": 147
+                }
+            ]
+        }
+    }
+}

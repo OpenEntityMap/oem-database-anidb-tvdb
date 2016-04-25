@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1084",
+        "tvdb": "76665"
+    },
+    "names": [
+        "Yuu Yuu Hakusho (1993)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

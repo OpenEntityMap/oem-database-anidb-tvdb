@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1122",
+        "tvdb": "84660"
+    },
+    "names": [
+        "Mujin Wakusei Survive"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

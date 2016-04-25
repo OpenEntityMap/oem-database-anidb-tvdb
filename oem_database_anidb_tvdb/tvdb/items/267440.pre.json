@@ -1,0 +1,229 @@
+{
+    "identifiers": {
+        "tvdb": "267440"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "10583"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Shingeki no Kyojin"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "10583"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Shingeki no Kyojin"
+                    ]
+                },
+                "16": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "9541"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9541"
+            },
+            "names": [
+                "Shingeki no Kyojin"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10944"
+            },
+            "names": [
+                "Shingeki no Kyojin (2016)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11533",
+        "tvdb": "306743"
+    },
+    "names": [
+        "Hai-Furi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

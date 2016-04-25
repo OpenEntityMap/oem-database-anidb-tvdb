@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3566",
+        "tvdb": "84743"
+    },
+    "names": [
+        "Eiga Futari wa Precure Max Heart 2: Yukizora no Tomodachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

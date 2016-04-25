@@ -1,0 +1,79 @@
+{
+    "identifiers": {
+        "tvdb": "76665"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "753"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ],
+                    "names": [
+                        "Yuu Yuu Hakusho: Meikai Shitou Hen - Honoo no Kizuna"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "753"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ],
+                    "names": [
+                        "Yuu Yuu Hakusho: Meikai Shitou Hen - Honoo no Kizuna"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "312"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yuu Yuu Hakusho"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1084"
+            },
+            "names": [
+                "Yuu Yuu Hakusho (1993)"
+            ],
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "312"
+            },
+            "names": [
+                "Yuu Yuu Hakusho"
+            ]
+        }
+    }
+}

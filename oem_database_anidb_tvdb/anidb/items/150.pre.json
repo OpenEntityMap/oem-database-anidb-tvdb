@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "150",
+        "tvdb": "73492"
+    },
+    "names": [
+        "Oruchuban Ebichu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

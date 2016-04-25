@@ -1,0 +1,38 @@
+{
+    "identifiers": {
+        "tvdb": "80784"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "217"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam: Dai 08 MS Shoutai"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1425"
+            },
+            "names": [
+                "Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "217"
+            },
+            "names": [
+                "Kidou Senshi Gundam: Dai 08 MS Shoutai"
+            ]
+        }
+    }
+}

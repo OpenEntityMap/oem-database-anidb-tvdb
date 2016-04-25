@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5976",
+        "tvdb": "83588"
+    },
+    "names": [
+        "Yozakura Quartet"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

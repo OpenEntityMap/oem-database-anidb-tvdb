@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "4011",
+        "tvdb": "219691"
+    },
+    "names": [
+        "Mahou no Princess Minky Momo: Yume o Dakishimete"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "63",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "64",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "65",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "276347"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10289"
+            },
+            "names": [
+                "Minna Atsumare! Falcom Gakuen"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10798"
+            },
+            "names": [
+                "Minna Atsumare! Falcom Gakuen SC"
+            ]
+        }
+    }
+}

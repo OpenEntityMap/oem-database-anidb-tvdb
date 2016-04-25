@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "252696"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "4765",
+                    "1951",
+                    "3314",
+                    "2691"
+                ]
+            },
+            "names": [
+                "2112 Nen Doraemon Tanjou",
+                "Doraemon: Nobita no Wan Nyan Jikuuden",
+                "Nobita no Kekkon Zenya: The night before a wedding",
+                "Obaa-chan no Omoide"
+            ]
+        }
+    }
+}

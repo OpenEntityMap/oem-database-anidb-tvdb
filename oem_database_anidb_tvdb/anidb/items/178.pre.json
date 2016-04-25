@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "178",
+        "tvdb": "71744"
+    },
+    "names": [
+        "VanDread the Second Stage"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

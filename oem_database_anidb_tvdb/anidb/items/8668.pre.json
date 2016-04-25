@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8668",
+        "tvdb": "262502"
+    },
+    "names": [
+        "Scan2Go"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3655",
+        "tvdb": "109301"
+    },
+    "names": [
+        "Angel's Feather"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1954",
+        "tvdb": "76666"
+    },
+    "names": [
+        "Dragon Ball: Majinjou no Nemuri Hime"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

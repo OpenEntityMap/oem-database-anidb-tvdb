@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "748",
+        "tvdb": "124021"
+    },
+    "names": [
+        "Outlanders"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

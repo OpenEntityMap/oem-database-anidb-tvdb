@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11692",
+        "tvdb": "305679"
+    },
+    "names": [
+        "Kiznaiver"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

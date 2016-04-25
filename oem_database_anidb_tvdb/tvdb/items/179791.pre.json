@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "179791"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7103"
+            },
+            "names": [
+                "Break Blade"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10426"
+            },
+            "names": [
+                "Break Blade (2014)"
+            ]
+        }
+    }
+}

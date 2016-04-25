@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4893",
+        "tvdb": "183961"
+    },
+    "names": [
+        "Kamichama Karin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

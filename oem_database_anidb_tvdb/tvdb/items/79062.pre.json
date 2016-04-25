@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "16",
+        "tvdb": "79062"
+    },
+    "names": [
+        "Onegai Teacher"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

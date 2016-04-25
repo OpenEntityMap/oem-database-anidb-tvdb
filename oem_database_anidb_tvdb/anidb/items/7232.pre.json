@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7232",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan Magic File 3: Shin'ichi to Ran Mahjong Pai to Tanabata no Omoide"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "24",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

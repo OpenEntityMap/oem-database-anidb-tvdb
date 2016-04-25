@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "403",
+        "tvdb": "73181"
+    },
+    "names": [
+        "Lost Universe"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

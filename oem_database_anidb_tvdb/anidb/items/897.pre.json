@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "897",
+        "tvdb": "81965"
+    },
+    "names": [
+        "Tokusou Senshatai Dominion"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "138",
+        "tvdb": "94611"
+    },
+    "names": [
+        "Sakura Tsuushin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

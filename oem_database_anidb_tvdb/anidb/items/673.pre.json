@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "673",
+        "tvdb": "74493"
+    },
+    "names": [
+        "Texhnolyze"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

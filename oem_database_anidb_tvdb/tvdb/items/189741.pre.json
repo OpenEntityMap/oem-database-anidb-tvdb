@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4598",
+        "tvdb": "189741"
+    },
+    "names": [
+        "Underbar Summer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

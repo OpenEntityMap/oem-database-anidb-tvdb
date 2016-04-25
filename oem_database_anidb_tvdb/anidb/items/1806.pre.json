@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1806",
+        "tvdb": "81110"
+    },
+    "names": [
+        "Soukyuu no Fafner: Dead Aggressor"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Xebec"
+    }
+}

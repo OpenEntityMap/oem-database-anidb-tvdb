@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "107781"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "1039"
+            },
+            "names": [
+                "Choujikuu Seiki Orguss"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1326"
+            },
+            "names": [
+                "Choujikuu Seiki Orguss 02"
+            ]
+        }
+    }
+}

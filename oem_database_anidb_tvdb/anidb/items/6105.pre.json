@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "6105",
+        "tvdb": "79156"
+    },
+    "names": [
+        "Shin Kyuuseishu Densetsu Hokuto no Ken Zero Kenshirou-den"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

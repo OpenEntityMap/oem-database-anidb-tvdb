@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6394",
+        "tvdb": "72459"
+    },
+    "names": [
+        "Sonic: Night of the WereHog - Sonic & Chip Kyoufu no Kan"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

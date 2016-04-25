@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "535",
+        "tvdb": "73247"
+    },
+    "names": [
+        "Bubblegum Crash!"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

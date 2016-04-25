@@ -1,0 +1,43 @@
+{
+    "identifiers": {
+        "tvdb": "133031"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "7484"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Aki Sora: Yume no Naka"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "7484"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Aki Sora: Yume no Naka"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6782"
+            },
+            "names": [
+                "Aki Sora"
+            ]
+        }
+    }
+}

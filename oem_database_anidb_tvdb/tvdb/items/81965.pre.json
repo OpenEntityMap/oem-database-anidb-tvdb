@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "81965"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "3112"
+            },
+            "names": [
+                "TANK S.W.A.T. 01"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "786"
+            },
+            "names": [
+                "Dominion"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "897"
+            },
+            "names": [
+                "Tokusou Senshatai Dominion"
+            ]
+        }
+    }
+}

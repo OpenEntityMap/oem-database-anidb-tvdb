@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5301",
+        "tvdb": "76023"
+    },
+    "names": [
+        "Tsubasa Tokyo Revelations"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "7318",
+        "tvdb": "265194"
+    },
+    "names": [
+        "Boku, Otaryman."
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

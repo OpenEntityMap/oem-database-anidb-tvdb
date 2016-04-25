@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4374",
+        "tvdb": "82079"
+    },
+    "names": [
+        "Project Blue Chikyuu SOS"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

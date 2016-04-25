@@ -1,0 +1,108 @@
+{
+    "identifiers": {
+        "tvdb": "75579"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "979"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "979"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "979"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "979"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "979"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hagane no Renkinjutsushi"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "2359"
+            },
+            "names": [
+                "Gekijouban Hagane no Renkinjutsushi: Shambala o Yuku Mono"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "979"
+            },
+            "names": [
+                "Hagane no Renkinjutsushi"
+            ],
+            "supplemental": {
+                "studio": "Bones"
+            }
+        }
+    }
+}

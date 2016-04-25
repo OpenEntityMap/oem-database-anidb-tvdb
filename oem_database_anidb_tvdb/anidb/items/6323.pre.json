@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6323",
+        "tvdb": "89311"
+    },
+    "names": [
+        "Hatsukoi Limited"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

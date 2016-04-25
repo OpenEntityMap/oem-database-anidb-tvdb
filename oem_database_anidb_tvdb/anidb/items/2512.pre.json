@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2512",
+        "tvdb": "75940"
+    },
+    "names": [
+        "Onmyou Taisenki"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

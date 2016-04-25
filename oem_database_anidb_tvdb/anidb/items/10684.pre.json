@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10684",
+        "tvdb": "284794"
+    },
+    "names": [
+        "Koufuku Graffiti"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

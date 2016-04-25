@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "84768"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "6083"
+            },
+            "names": [
+                "KissXSis"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7215"
+            },
+            "names": [
+                "KissXSis (2010)"
+            ]
+        }
+    }
+}

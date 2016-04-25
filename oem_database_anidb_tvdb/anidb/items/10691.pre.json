@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10691",
+        "tvdb": "254653"
+    },
+    "names": [
+        "High School DxD Born"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

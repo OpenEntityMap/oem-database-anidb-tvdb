@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2441",
+        "tvdb": "79183"
+    },
+    "names": [
+        "Eyeshield 21"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8139",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pikachu no Fushigi na Fushigi na Daibouken"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "39",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

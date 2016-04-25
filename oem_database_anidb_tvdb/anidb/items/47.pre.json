@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "47",
+        "tvdb": "78953"
+    },
+    "names": [
+        "Scryed"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

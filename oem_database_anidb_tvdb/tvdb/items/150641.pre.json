@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "150641"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "3956"
+            },
+            "names": [
+                "Hoero! Bun Bun (1987)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3304"
+            },
+            "names": [
+                "Hoero Bunbun"
+            ]
+        }
+    }
+}

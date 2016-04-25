@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "480",
+        "tvdb": "112661"
+    },
+    "names": [
+        "G-on Riders"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

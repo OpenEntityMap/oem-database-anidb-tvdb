@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3331",
+        "tvdb": "79049"
+    },
+    "names": [
+        "Prayers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

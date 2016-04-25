@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "2061",
+        "tvdb": "76894"
+    },
+    "names": [
+        "Yuu Gi Ou: Duel Monsters"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

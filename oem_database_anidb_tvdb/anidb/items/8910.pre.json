@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8910",
+        "tvdb": "171731"
+    },
+    "names": [
+        "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

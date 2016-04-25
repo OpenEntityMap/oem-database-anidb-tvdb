@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5246",
+        "tvdb": "80014"
+    },
+    "names": [
+        "Tokyo Majin Gakuen Kenpuchou Tou Dai Ni Maku"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "AIC Spirits"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9265",
+        "tvdb": "146401"
+    },
+    "names": [
+        "Gekijouban Inazuma Eleven GO vs Danball Senki W"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "1333",
+        "tvdb": "80608"
+    },
+    "names": [
+        "Green Green Thirteen Erolutions"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

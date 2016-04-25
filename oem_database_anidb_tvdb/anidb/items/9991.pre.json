@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9991",
+        "tvdb": "257765"
+    },
+    "names": [
+        "Kuroko no Baske: Baka ja Katenai no yo!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

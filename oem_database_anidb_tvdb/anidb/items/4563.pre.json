@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4563",
+        "tvdb": "79481"
+    },
+    "names": [
+        "Death Note"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

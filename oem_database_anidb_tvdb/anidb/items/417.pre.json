@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "417",
+        "tvdb": "71618"
+    },
+    "names": [
+        "Hyper Police"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

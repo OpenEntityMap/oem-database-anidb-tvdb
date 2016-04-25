@@ -1,0 +1,65 @@
+{
+    "identifiers": {
+        "tvdb": "79460"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "5555"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kindaichi Shounen no Jikenbo Special"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "5555"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kindaichi Shounen no Jikenbo Special"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1585"
+            },
+            "names": [
+                "Kindaichi Shounen no Jikenbo"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "1240",
+                    "2126"
+                ]
+            },
+            "names": [
+                "Kindaichi Shounen no Jikenbo 2: Satsuriku no Deep Blue",
+                "Kindaichi Shounen no Jikenbo (1997)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10442"
+            },
+            "names": [
+                "Kindaichi Shounen no Jikenbo Returns"
+            ]
+        }
+    }
+}

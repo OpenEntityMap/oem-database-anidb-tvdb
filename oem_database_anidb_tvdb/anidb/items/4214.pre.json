@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4214",
+        "tvdb": "79588"
+    },
+    "names": [
+        "Shounen Onmyouji"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

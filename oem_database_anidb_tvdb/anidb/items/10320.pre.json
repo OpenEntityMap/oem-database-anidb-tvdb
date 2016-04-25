@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10320",
+        "tvdb": "256705"
+    },
+    "names": [
+        "Uchuu Kyoudai: Number Zero"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

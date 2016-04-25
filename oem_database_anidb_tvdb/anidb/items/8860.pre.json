@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8860",
+        "tvdb": "259656"
+    },
+    "names": [
+        "Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

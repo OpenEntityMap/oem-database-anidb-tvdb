@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9251",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Ryo"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

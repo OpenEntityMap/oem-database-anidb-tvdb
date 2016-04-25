@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9717",
+        "tvdb": "272312"
+    },
+    "names": [
+        "Diabolik Lovers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

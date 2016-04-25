@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "120081"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1064"
+            },
+            "names": [
+                "Yume de Aetara OVA"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "142"
+            },
+            "names": [
+                "Yume de Aetara"
+            ]
+        }
+    }
+}

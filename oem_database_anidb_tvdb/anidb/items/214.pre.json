@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "214",
+        "tvdb": "79446"
+    },
+    "names": [
+        "Mezzo Forte"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

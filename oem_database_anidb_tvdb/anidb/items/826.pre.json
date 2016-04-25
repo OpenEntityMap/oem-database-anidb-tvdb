@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "826",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

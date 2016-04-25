@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "761",
+        "tvdb": "234921"
+    },
+    "names": [
+        "Mutekiou Tri-Zenon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

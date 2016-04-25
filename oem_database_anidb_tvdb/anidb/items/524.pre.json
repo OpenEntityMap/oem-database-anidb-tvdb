@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "524",
+        "tvdb": "79033"
+    },
+    "names": [
+        "Captain Future"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

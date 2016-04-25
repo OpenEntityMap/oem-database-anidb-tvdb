@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2714",
+        "tvdb": "139371"
+    },
+    "names": [
+        "Digital Juice"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

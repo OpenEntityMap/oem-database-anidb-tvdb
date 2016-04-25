@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "210291"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "6959"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Bungaku Shoujo"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7294"
+            },
+            "names": [
+                "Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7441"
+            },
+            "names": [
+                "Bungaku Shoujo: Memoire"
+            ]
+        }
+    }
+}

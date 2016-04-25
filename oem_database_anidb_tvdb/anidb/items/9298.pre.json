@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9298",
+        "tvdb": "262106"
+    },
+    "names": [
+        "Kamisama Hajimemashita"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

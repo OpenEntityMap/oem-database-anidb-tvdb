@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "731",
+        "tvdb": "100421"
+    },
+    "names": [
+        "Maou Dante"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

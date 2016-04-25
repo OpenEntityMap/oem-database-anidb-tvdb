@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "199",
+        "tvdb": "72444"
+    },
+    "names": [
+        "Kareshi Kanojo no Jijou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

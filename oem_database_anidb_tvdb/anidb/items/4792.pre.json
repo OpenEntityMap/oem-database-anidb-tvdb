@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4792",
+        "tvdb": "90341"
+    },
+    "names": [
+        "Shinkyoku Soukai Polyphonica"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

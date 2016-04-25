@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8168",
+        "tvdb": "240291"
+    },
+    "names": [
+        "Nichijou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

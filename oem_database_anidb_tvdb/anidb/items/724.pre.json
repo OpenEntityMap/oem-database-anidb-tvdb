@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "724",
+        "tvdb": "254024"
+    },
+    "names": [
+        "Refrain Blue"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

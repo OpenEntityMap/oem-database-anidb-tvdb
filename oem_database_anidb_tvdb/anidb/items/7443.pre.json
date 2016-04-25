@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7443",
+        "tvdb": "254663"
+    },
+    "names": [
+        "Mouretsu Pirates"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

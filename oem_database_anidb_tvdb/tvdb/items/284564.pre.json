@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10779",
+        "tvdb": "284564"
+    },
+    "names": [
+        "Shirobako"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

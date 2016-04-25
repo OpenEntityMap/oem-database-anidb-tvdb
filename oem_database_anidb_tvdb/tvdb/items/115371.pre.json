@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "115371"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1391"
+            },
+            "names": [
+                "Mahou Yuugi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1393"
+            },
+            "names": [
+                "Mahou Yuugi: Tobidasu!! Hanamaru Daibouken"
+            ]
+        }
+    }
+}

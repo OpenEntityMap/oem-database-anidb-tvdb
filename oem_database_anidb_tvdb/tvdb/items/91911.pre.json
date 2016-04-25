@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "149",
+        "tvdb": "91911"
+    },
+    "names": [
+        "Dragon Half"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

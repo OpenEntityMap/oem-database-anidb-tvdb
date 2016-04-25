@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8799",
+        "tvdb": "257522"
+    },
+    "names": [
+        "Medaka Box"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "tvdb": "82807"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6793"
+            },
+            "names": [
+                "Sekirei: Pure Engagement"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5786"
+            },
+            "names": [
+                "Sekirei"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6793"
+            },
+            "names": [
+                "Sekirei: Pure Engagement"
+            ]
+        }
+    }
+}

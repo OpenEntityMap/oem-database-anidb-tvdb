@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4818",
+        "tvdb": "75414"
+    },
+    "names": [
+        "Chou Gekijouban Keroro Gunsou 2 Shinkai no Princess de Arimasu!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

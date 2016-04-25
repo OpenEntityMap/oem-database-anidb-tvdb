@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7233",
+        "tvdb": "193841"
+    },
+    "names": [
+        "Shinrei Tantei Yakumo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

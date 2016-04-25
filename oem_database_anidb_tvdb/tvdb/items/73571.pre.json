@@ -1,0 +1,101 @@
+{
+    "identifiers": {
+        "tvdb": "73571"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "eX-Driver the Movie"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "694"
+                    },
+                    "names": [
+                        "eX-Driver: Nina & Rei Danger Zone"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "eX-Driver the Movie"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "eX-Driver the Movie"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "eX-Driver the Movie"
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 6,
+                    "identifiers": {
+                        "anidb": "55"
+                    },
+                    "names": [
+                        "eX-Driver"
+                    ],
+                    "offset": -2,
+                    "season": "0",
+                    "start": 3
+                }
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "55"
+            },
+            "names": [
+                "eX-Driver"
+            ]
+        }
+    }
+}

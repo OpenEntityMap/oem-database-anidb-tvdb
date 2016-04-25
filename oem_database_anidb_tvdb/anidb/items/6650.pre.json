@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6650",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: 10 Nengo no Stranger"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

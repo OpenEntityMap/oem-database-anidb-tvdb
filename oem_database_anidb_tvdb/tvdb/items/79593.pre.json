@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2824",
+        "tvdb": "79593"
+    },
+    "names": [
+        "Damekko Doubutsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

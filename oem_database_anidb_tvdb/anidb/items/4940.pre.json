@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4940",
+        "tvdb": "81877"
+    },
+    "names": [
+        "Kaibutsu Oujo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

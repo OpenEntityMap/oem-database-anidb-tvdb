@@ -1,0 +1,45 @@
+{
+    "identifiers": {
+        "anidb": "990",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "41"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

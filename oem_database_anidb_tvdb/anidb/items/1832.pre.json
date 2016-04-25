@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1832",
+        "tvdb": "227731"
+    },
+    "names": [
+        "Papuwa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "982",
+        "tvdb": "79685"
+    },
+    "names": [
+        "Hajime no Ippo: Champion Road"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "171591"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7953"
+            },
+            "names": [
+                "Gakuen Mokushiroku: High School of the Dead - Drifters of the Dead"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7382"
+            },
+            "names": [
+                "Gakuen Mokushiroku: High School of the Dead"
+            ]
+        }
+    }
+}

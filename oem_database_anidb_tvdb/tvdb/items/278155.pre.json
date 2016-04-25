@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9998",
+        "tvdb": "278155"
+    },
+    "names": [
+        "No Game No Life"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

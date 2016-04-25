@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10982",
+        "tvdb": "295222"
+    },
+    "names": [
+        "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

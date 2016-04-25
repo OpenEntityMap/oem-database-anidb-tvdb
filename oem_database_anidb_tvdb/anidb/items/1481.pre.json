@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1481",
+        "tvdb": "251582"
+    },
+    "names": [
+        "Sengoku Majin Goushougun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

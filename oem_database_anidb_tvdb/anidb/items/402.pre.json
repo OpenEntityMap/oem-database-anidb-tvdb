@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "402",
+        "tvdb": "73312"
+    },
+    "names": [
+        "Dirty Pair Flash"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

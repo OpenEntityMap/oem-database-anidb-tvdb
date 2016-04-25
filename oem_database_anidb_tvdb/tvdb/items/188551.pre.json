@@ -1,0 +1,313 @@
+{
+    "identifiers": {
+        "anidb": "7529",
+        "tvdb": "188551"
+    },
+    "names": [
+        "Panty & Stocking with Garterbelt"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

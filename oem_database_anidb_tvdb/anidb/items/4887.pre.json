@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4887",
+        "tvdb": "209611"
+    },
+    "names": [
+        "Global Astroliner Gou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

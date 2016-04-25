@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1334",
+        "tvdb": "128411"
+    },
+    "names": [
+        "Kaiketsu Zorori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

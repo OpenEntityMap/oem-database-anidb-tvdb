@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3381",
+        "tvdb": "160431"
+    },
+    "names": [
+        "Kidou Shinsengumi Moeyo Ken TV"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

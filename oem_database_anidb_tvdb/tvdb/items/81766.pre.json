@@ -1,0 +1,82 @@
+{
+    "identifiers": {
+        "tvdb": "81766"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2404"
+            },
+            "names": [
+                "To Heart: Remember My Memories"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "414"
+            },
+            "names": [
+                "To Heart"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2404"
+            },
+            "names": [
+                "To Heart: Remember My Memories"
+            ]
+        }
+    }
+}

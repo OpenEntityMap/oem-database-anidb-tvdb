@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "79237"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1512"
+            },
+            "names": [
+                "Grappler Baki"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "453"
+            },
+            "names": [
+                "Grappler Baki (2001)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "880"
+            },
+            "names": [
+                "Grappler Baki: Saidai Tournament Hen"
+            ]
+        }
+    }
+}

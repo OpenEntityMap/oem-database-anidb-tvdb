@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "129",
+        "tvdb": "79685"
+    },
+    "names": [
+        "Hajime no Ippo: The Fighting!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

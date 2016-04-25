@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "249867"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8515"
+            },
+            "names": [
+                "R-15 OAD"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8396"
+            },
+            "names": [
+                "R-15"
+            ]
+        }
+    }
+}

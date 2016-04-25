@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1118",
+        "tvdb": "300946"
+    },
+    "names": [
+        "Big X"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

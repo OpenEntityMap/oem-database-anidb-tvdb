@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "140711"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7620"
+            },
+            "names": [
+                "Eiga Heartcatch Precure! Hana no Miyako de Fashion Show... Desuka!?"
+            ],
+            "supplemental": {
+                "studio": "Toei Animation"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7285"
+            },
+            "names": [
+                "Heartcatch Precure!"
+            ]
+        }
+    }
+}

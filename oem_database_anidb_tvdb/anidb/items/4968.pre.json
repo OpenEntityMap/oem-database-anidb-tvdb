@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4968",
+        "tvdb": "80081"
+    },
+    "names": [
+        "Koutetsu Sangokushi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "96",
+        "tvdb": "78936"
+    },
+    "names": [
+        "Witch Hunter Robin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "126",
+        "tvdb": "84538"
+    },
+    "names": [
+        "Whistle!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

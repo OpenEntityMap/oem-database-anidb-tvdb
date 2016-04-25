@@ -1,0 +1,44 @@
+{
+    "identifiers": {
+        "anidb": "8940",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece Film: Z"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

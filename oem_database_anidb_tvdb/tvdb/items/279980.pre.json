@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "tvdb": "279980"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11790"
+            },
+            "names": [
+                "Garo: Divine Flame"
+            ],
+            "parameters": {
+                "episode_offset": "2"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10278"
+            },
+            "names": [
+                "Garo: Honoo no Kokuin"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11459"
+            },
+            "names": [
+                "Garo: Guren no Tsuki"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10446",
+        "tvdb": "281252"
+    },
+    "names": [
+        "Jinsei Soudan TV Animation: Jinsei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

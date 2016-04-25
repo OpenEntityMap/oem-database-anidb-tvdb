@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "103",
+        "tvdb": "74462"
+    },
+    "names": [
+        "Kaze no Youjinbou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

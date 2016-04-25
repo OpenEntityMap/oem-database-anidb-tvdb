@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9551",
+        "tvdb": "268059"
+    },
+    "names": [
+        "Arata Kangatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

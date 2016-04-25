@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4362",
+        "tvdb": "251458"
+    },
+    "names": [
+        "Bakegyamon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "identifiers": {
+        "tvdb": "72491"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "696"
+                    },
+                    "names": [
+                        "Slam Dunk: Zenkoku Seiha Da! Sakuragi Hanamichi"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "697"
+                    },
+                    "names": [
+                        "Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "698"
+                    },
+                    "names": [
+                        "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "695"
+            },
+            "names": [
+                "Slam Dunk (1994)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "590"
+            },
+            "names": [
+                "Slam Dunk"
+            ]
+        }
+    }
+}

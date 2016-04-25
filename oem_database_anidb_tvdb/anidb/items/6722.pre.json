@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "6722",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Soukou Kihei Votoms: Pailsen Files - Gekijouban"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

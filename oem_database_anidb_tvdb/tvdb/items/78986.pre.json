@@ -1,0 +1,66 @@
+{
+    "identifiers": {
+        "tvdb": "78986"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "5431"
+            },
+            "names": [
+                "Mai-Otome 0: S.ifr"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3216"
+            },
+            "names": [
+                "Mai-Otome"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4567"
+            },
+            "names": [
+                "Mai-Otome Zwei"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

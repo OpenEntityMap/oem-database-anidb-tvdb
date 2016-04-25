@@ -1,0 +1,61 @@
+{
+    "identifiers": {
+        "tvdb": "81086"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "8049"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nyankuri: Nyan x 2 Music Clip"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "6655"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Macross F: Itsuwari no Utahime"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "7959"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Macross F: Sayonara no Tsubasa"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5415"
+            },
+            "names": [
+                "Macross Frontier"
+            ]
+        }
+    }
+}

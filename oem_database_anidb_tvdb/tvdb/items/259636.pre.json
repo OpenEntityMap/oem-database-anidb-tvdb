@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "259636"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8549"
+            },
+            "names": [
+                "Muv-Luv Alternative: Total Eclipse"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "8555"
+            },
+            "names": [
+                "Cross Fight B-Daman"
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "2445",
+        "tvdb": "74474"
+    },
+    "names": [
+        "Kidou Senshi Gundam SEED MSV ASTRAY"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

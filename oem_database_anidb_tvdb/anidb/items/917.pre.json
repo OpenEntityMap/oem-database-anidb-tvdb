@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "917",
+        "tvdb": "82379"
+    },
+    "names": [
+        "Metal Fighter Miku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

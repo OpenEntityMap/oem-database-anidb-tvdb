@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7535",
+        "tvdb": "82832"
+    },
+    "names": [
+        "Bakugan Battle Brawlers: Gundalian Invaders"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

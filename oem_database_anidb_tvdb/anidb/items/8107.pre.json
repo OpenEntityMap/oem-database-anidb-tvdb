@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8107",
+        "tvdb": "247691"
+    },
+    "names": [
+        "A Channel: The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

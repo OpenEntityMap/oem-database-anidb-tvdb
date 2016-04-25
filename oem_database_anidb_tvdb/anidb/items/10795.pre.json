@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10795",
+        "tvdb": "81115"
+    },
+    "names": [
+        "Mahou Shoujo Lyrical Nanoha Vivid"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

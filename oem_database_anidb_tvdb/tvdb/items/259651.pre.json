@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "259651"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9402"
+            },
+            "names": [
+                "Joshiraku (2013)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8899"
+            },
+            "names": [
+                "Joshiraku"
+            ]
+        }
+    }
+}

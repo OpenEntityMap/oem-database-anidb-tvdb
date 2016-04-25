@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1357",
+        "tvdb": "72347"
+    },
+    "names": [
+        "Macross 7 Encore"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Ashi Productions"
+    }
+}

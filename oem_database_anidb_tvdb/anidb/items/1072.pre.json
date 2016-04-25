@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1072",
+        "tvdb": "85301"
+    },
+    "names": [
+        "Ace o Nerae!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

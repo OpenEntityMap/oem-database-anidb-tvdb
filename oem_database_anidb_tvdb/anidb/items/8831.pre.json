@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8831",
+        "tvdb": "255382"
+    },
+    "names": [
+        "Thermae Romae"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

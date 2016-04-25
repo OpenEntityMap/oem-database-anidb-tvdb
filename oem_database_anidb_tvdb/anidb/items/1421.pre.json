@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "1421",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Ai no da capo - Fujiko's Unlucky Days"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

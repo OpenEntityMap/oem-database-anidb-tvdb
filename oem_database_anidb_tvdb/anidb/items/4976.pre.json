@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4976",
+        "tvdb": "84527"
+    },
+    "names": [
+        "Sakura Taisen: New York NY."
+    ],
+    "parameters": {
+        "default_season": "5"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7725",
+        "tvdb": "219351"
+    },
+    "names": [
+        "Yumekui Merry"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

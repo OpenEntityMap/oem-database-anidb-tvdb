@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "257522"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8799"
+            },
+            "names": [
+                "Medaka Box"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9272"
+            },
+            "names": [
+                "Medaka Box: Abnormal"
+            ]
+        }
+    }
+}

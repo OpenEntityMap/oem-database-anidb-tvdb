@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5432",
+        "tvdb": "252696"
+    },
+    "names": [
+        "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahou Tsukai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

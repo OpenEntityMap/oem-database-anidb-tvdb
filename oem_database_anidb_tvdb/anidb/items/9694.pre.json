@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9694",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "52",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

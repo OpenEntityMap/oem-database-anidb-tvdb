@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10200",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Ookii 1 Nensei to Chiisana 2 Nensei"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

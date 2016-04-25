@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10169",
+        "tvdb": "275634"
+    },
+    "names": [
+        "Hamatora The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5575",
+        "tvdb": "81830"
+    },
+    "names": [
+        "Kanokon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

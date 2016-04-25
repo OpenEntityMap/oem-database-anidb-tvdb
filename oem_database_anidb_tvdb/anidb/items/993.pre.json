@@ -1,0 +1,66 @@
+{
+    "identifiers": {
+        "anidb": "993",
+        "tvdb": "80054"
+    },
+    "names": [
+        "Taiho Shichau zo The Movie"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

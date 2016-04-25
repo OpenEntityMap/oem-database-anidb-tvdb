@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "72421"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1259"
+            },
+            "names": [
+                "Marmalade Boy (1995)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "356"
+            },
+            "names": [
+                "Marmalade Boy"
+            ]
+        }
+    }
+}

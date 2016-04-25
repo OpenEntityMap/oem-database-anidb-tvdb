@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7763",
+        "tvdb": "73011"
+    },
+    "names": [
+        "IGPX: Immortal Grand Prix"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3302",
+        "tvdb": "79228"
+    },
+    "names": [
+        "Ergo Proxy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

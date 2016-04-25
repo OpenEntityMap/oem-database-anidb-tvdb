@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1524",
+        "tvdb": "77193"
+    },
+    "names": [
+        "Cybersix"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

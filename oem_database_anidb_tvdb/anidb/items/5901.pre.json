@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5901",
+        "tvdb": "250155"
+    },
+    "names": [
+        "Penguin no Mondai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

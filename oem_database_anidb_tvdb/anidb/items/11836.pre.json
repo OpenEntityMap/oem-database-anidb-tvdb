@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11836",
+        "tvdb": "299491"
+    },
+    "names": [
+        "Concrete Revolutio: Choujin Gensou - The Last Song"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "13"
+    }
+}

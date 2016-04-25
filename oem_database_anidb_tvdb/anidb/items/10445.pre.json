@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10445",
+        "tvdb": "279827"
+    },
+    "names": [
+        "Aldnoah.Zero"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

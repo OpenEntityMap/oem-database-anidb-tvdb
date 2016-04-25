@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10948",
+        "tvdb": "289907"
+    },
+    "names": [
+        "Punch Line"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

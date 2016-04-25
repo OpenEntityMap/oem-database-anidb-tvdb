@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1562",
+        "tvdb": "150631"
+    },
+    "names": [
+        "Hurricane Polymer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

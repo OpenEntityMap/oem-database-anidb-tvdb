@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2311",
+        "tvdb": "269072"
+    },
+    "names": [
+        "Yamato Takeru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

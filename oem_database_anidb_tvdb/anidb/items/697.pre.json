@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "697",
+        "tvdb": "72491"
+    },
+    "names": [
+        "Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

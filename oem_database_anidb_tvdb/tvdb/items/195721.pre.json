@@ -1,0 +1,52 @@
+{
+    "identifiers": {
+        "tvdb": "195721"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9046"
+            },
+            "names": [
+                "Shinryaku!! Ika Musume"
+            ],
+            "supplemental": {
+                "studio": "Diomedea"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7486"
+            },
+            "names": [
+                "Shinryaku! Ika Musume"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8294"
+            },
+            "names": [
+                "Shinryaku!? Ika Musume"
+            ]
+        }
+    }
+}

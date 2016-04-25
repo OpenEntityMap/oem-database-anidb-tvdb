@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4625",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Crayon Shin-chan: Buriburi Oukoku no Hihou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

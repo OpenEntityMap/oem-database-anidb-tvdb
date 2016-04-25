@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7224",
+        "tvdb": "173211"
+    },
+    "names": [
+        "Mitsudomoe"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

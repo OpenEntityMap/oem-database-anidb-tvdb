@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9211",
+        "tvdb": "260408"
+    },
+    "names": [
+        "Tanken Driland"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

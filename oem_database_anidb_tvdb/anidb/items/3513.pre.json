@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3513",
+        "tvdb": "73887"
+    },
+    "names": [
+        "Kagaku Ninjatai Gatchaman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

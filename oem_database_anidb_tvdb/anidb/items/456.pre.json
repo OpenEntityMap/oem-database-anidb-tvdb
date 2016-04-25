@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "456",
+        "tvdb": "73526"
+    },
+    "names": [
+        "Burn-up W"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

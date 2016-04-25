@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6751",
+        "tvdb": "117851"
+    },
+    "names": [
+        "11 Eyes"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

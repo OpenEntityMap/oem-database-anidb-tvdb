@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4601",
+        "tvdb": "84117"
+    },
+    "names": [
+        "Hanoka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "564",
+        "tvdb": "133011"
+    },
+    "names": [
+        "Ginsoukikou Ordian"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

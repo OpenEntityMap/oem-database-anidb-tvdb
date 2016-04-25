@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1105",
+        "tvdb": "157001"
+    },
+    "names": [
+        "Dragon Quest: Dai no Daibouken"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

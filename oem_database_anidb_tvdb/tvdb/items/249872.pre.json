@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8211",
+        "tvdb": "249872"
+    },
+    "names": [
+        "Usagi Drop"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

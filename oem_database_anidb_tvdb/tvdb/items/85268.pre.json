@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2423",
+        "tvdb": "85268"
+    },
+    "names": [
+        "Ganbare Goemon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

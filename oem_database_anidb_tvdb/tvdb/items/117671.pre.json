@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6258",
+        "tvdb": "117671"
+    },
+    "names": [
+        "Kobato."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8923",
+        "tvdb": "258125"
+    },
+    "names": [
+        "Ginga e Kickoff!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2543",
+        "tvdb": "72412"
+    },
+    "names": [
+        "Shadow Skill"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

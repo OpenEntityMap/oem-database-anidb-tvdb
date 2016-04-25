@@ -1,0 +1,72 @@
+{
+    "identifiers": {
+        "tvdb": "113671"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "1729"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        },
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Megazone 23"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "3544"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        },
+                        {
+                            "number": "2"
+                        },
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Megazone 23 Part II: Himitsu Kudasai"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "3545"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Megazone 23 III"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "3545"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Megazone 23 III"
+                    ]
+                }
+            }
+        }
+    }
+}

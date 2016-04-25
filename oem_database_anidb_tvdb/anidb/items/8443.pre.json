@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8443",
+        "tvdb": "72219"
+    },
+    "names": [
+        "Ulysses 31"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

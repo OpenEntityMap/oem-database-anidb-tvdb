@@ -1,0 +1,27 @@
+{
+    "identifiers": {
+        "tvdb": "269667"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8676"
+            },
+            "names": [
+                "Mahou no Yousei Persia: Kaiten Mokuba"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "8945",
+                    "499"
+                ]
+            },
+            "names": [
+                "Mahou no Yousei Persia",
+                "Sekiei Ayakashi Mangatan"
+            ]
+        }
+    }
+}

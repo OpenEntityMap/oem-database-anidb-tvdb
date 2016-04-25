@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2150",
+        "tvdb": "205511"
+    },
+    "names": [
+        "Teki wa Kaizoku: Neko-tachi no Kyouen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

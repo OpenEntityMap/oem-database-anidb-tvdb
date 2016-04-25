@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7666",
+        "tvdb": "74796"
+    },
+    "names": [
+        "Gekijouban Bleach: Jigoku-hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2304",
+        "tvdb": "129741"
+    },
+    "names": [
+        "Perrine Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

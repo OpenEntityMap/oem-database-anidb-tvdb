@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "197",
+        "tvdb": "82706"
+    },
+    "names": [
+        "Iria: Zeiram - The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

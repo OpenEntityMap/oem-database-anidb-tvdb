@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "tvdb": "281949"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "11008"
+            },
+            "names": [
+                "Grisaia no Meikyuu: Caprice no Mayu 0"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9749"
+            },
+            "names": [
+                "Grisaia no Kajitsu"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11009"
+            },
+            "names": [
+                "Grisaia no Rakuen"
+            ]
+        }
+    }
+}

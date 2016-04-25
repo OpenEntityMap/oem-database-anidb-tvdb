@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8780",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Eiga Crayon Shin-chan: Arashi o Yobu! Ora to Uchuu no Princess"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

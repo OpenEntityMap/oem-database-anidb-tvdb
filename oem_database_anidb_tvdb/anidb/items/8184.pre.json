@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8184",
+        "tvdb": "251622"
+    },
+    "names": [
+        "Towa no Quon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

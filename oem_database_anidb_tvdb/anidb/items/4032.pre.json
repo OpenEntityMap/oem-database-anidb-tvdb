@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4032",
+        "tvdb": "79283"
+    },
+    "names": [
+        "xxxHOLiC"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

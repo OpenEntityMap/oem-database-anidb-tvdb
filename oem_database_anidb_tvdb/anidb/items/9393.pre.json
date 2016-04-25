@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9393",
+        "tvdb": "264050"
+    },
+    "names": [
+        "Sen'yuu."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

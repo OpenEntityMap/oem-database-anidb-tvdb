@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8929",
+        "tvdb": "269875"
+    },
+    "names": [
+        "Blood Lad"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

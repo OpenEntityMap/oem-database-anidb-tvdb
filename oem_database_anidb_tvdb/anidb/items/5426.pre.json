@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "5426",
+        "tvdb": "78920"
+    },
+    "names": [
+        "Aa! Megami-sama! Tatakau Tsubasa"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

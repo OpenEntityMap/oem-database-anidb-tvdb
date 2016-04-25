@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2717",
+        "tvdb": "252696"
+    },
+    "names": [
+        "Doraemon: Nobita to Fushigi Kaze Tsukai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

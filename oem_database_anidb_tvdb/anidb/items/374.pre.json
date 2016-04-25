@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "374",
+        "tvdb": "87481"
+    },
+    "names": [
+        "I Wish You Were Here"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

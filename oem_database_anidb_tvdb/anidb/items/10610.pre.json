@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10610",
+        "tvdb": "276345"
+    },
+    "names": [
+        "Shin Strange+"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

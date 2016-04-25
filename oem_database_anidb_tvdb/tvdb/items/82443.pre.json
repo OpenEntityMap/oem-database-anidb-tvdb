@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "223",
+        "tvdb": "82443"
+    },
+    "names": [
+        "Seihou Tenshi Angel Links"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

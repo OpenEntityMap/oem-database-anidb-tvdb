@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2390",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digital Monster X-evolution"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

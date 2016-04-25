@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "269873"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9820"
+            },
+            "names": [
+                "Gatchaman Crowds"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10226"
+            },
+            "names": [
+                "Gatchaman Crowds Insight"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2822",
+        "tvdb": "173111"
+    },
+    "names": [
+        "Gallery Fake"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1682",
+        "tvdb": "113521"
+    },
+    "names": [
+        "Daikuu Maryuu Gaiking"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

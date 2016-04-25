@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3684",
+        "tvdb": "261271"
+    },
+    "names": [
+        "Rakugo Tennyo Oyui"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

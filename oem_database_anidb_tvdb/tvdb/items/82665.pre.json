@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2142",
+        "tvdb": "82665"
+    },
+    "names": [
+        "Kannazuki no Miko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

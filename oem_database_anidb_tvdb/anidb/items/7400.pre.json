@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7400",
+        "tvdb": "173301"
+    },
+    "names": [
+        "Asobi ni Iku yo!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

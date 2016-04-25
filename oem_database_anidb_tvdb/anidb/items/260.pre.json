@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "anidb": "260",
+        "tvdb": "79289"
+    },
+    "names": [
+        "Galaxy Angel 3"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

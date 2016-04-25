@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "anidb": "7949",
+        "tvdb": "221281"
+    },
+    "names": [
+        "Hourou Musuko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

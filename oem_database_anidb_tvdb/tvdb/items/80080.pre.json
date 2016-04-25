@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4832",
+        "tvdb": "80080"
+    },
+    "names": [
+        "Romeo x Juliet"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

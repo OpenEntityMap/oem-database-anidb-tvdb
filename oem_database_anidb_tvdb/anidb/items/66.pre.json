@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "66",
+        "tvdb": "79042"
+    },
+    "names": [
+        "Vampire Hunter D (2001)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

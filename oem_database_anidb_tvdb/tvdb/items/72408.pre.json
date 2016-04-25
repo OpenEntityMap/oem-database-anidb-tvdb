@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "355",
+        "tvdb": "72408"
+    },
+    "names": [
+        "Golden Boy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

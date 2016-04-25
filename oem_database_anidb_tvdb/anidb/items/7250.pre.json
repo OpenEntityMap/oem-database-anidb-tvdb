@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "7250",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Tenkuu no Lost Ship"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

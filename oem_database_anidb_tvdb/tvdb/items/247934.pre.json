@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7903",
+        "tvdb": "247934"
+    },
+    "names": [
+        "Denpa Onna to Seishun Otoko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

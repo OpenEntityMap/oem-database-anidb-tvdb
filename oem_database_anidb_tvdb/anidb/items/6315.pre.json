@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6315",
+        "tvdb": "102541"
+    },
+    "names": [
+        "Taishou Yakyuu Musume."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

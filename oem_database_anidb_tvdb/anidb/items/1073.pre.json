@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1073",
+        "tvdb": "85301"
+    },
+    "names": [
+        "Shin Ace o Nerae!"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

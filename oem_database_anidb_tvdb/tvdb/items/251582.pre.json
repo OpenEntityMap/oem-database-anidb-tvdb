@@ -1,0 +1,27 @@
+{
+    "identifiers": {
+        "tvdb": "251582"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "944",
+                    "7091"
+                ]
+            },
+            "names": [
+                "Sengoku Majin Goushougun (1982)",
+                "Sengoku Majin Goushougun: Toki no Etranger"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1481"
+            },
+            "names": [
+                "Sengoku Majin Goushougun"
+            ]
+        }
+    }
+}

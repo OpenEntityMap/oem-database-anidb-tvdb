@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "123",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers Premium"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

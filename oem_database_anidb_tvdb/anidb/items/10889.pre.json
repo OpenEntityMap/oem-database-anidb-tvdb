@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10889",
+        "tvdb": "289884"
+    },
+    "names": [
+        "Hibike! Euphonium"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

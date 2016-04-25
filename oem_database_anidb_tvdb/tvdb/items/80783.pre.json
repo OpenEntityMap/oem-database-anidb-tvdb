@@ -1,0 +1,43 @@
+{
+    "identifiers": {
+        "tvdb": "80783"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2009"
+            },
+            "names": [
+                "Kidou Senshi Gundam 0083: Zeon no Zankou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "717"
+            },
+            "names": [
+                "Kidou Senshi Gundam 0083: Stardust Memory"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

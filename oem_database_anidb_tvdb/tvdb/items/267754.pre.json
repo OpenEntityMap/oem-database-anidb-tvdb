@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "267754"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9454"
+            },
+            "names": [
+                "Saint Onii-san"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9456"
+            },
+            "names": [
+                "Saint Onii-san (2012)"
+            ]
+        }
+    }
+}

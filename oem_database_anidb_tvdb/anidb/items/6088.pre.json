@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6088",
+        "tvdb": "83358"
+    },
+    "names": [
+        "Chaos;Head"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

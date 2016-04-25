@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "145211"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "6780"
+            },
+            "names": [
+                "Working!!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8364"
+            },
+            "names": [
+                "Working'!!"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "10995"
+            },
+            "names": [
+                "Working!!!"
+            ]
+        }
+    }
+}

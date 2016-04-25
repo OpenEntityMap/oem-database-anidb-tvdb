@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "661",
+        "tvdb": "79888"
+    },
+    "names": [
+        "Harlock Saga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

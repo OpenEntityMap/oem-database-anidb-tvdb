@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11011",
+        "tvdb": "295892"
+    },
+    "names": [
+        "Sore ga Seiyuu!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

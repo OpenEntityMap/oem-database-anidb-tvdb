@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11253",
+        "tvdb": "304987"
+    },
+    "names": [
+        "Bakuon!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

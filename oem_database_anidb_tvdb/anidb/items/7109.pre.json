@@ -1,0 +1,49 @@
+{
+    "identifiers": {
+        "anidb": "7109",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

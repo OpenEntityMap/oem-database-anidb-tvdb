@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3106",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Crayon Shin-chan: Arashi o Yobu Yuuhi no Kasukabe Boys"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

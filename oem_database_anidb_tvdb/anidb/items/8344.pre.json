@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8344",
+        "tvdb": "73532"
+    },
+    "names": [
+        "Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

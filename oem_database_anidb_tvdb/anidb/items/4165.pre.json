@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "anidb": "4165",
+        "tvdb": "74474"
+    },
+    "names": [
+        "Kidou Senshi Gundam SEED: Meidou no Sora"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

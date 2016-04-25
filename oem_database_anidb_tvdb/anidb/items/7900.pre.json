@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7900",
+        "tvdb": "219701"
+    },
+    "names": [
+        "Freezing"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

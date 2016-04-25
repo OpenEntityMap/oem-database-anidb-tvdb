@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "432",
+        "tvdb": "79781"
+    },
+    "names": [
+        "Samurai Girl Real Bout High School"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

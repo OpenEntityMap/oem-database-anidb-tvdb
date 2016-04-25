@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "116001"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9474"
+            },
+            "names": [
+                "Seitokai no Ichizon Lv.2: Watasu Seitokai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6556"
+            },
+            "names": [
+                "Seitokai no Ichizon"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9090"
+            },
+            "names": [
+                "Seitokai no Ichizon Lv.2"
+            ]
+        }
+    }
+}

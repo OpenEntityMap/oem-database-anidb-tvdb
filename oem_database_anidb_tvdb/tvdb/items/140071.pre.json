@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6968",
+        "tvdb": "140071"
+    },
+    "names": [
+        "Ichiban Ushiro no Daimaou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

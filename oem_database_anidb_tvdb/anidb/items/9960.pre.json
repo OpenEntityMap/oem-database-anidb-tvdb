@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9960",
+        "tvdb": "273004"
+    },
+    "names": [
+        "Gundam Build Fighters"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

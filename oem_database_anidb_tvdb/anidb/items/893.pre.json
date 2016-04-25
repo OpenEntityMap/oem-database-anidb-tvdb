@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "893",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece: Nejimakijima no Bouken"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

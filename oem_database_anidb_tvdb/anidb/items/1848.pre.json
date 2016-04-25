@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1848",
+        "tvdb": "82370"
+    },
+    "names": [
+        "Ganbare! Kickers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

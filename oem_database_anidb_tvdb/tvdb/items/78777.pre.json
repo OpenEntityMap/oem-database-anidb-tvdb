@@ -1,0 +1,44 @@
+{
+    "identifiers": {
+        "tvdb": "78777"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7271"
+            },
+            "names": [
+                "Youkoso Lodoss Tou e!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "169"
+            },
+            "names": [
+                "Lodoss-tou Senki"
+            ],
+            "supplemental": {
+                "studio": "Madhouse"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "137"
+            },
+            "names": [
+                "Lodoss-tou Senki: Eiyuu Kishi Den"
+            ]
+        }
+    }
+}

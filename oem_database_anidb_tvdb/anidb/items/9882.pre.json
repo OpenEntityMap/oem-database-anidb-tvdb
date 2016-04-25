@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9882",
+        "tvdb": "275581"
+    },
+    "names": [
+        "Nobunagun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

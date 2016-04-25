@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10961",
+        "tvdb": "79824"
+    },
+    "names": [
+        "Boruto: Naruto the Movie"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "14"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10134",
+        "tvdb": "275667"
+    },
+    "names": [
+        "SoniAni: Super Sonico The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

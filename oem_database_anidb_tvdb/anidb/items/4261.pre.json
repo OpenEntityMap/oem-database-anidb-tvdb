@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "4261",
+        "tvdb": "115841"
+    },
+    "names": [
+        "Moero! Top Striker"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "50",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "51",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "52",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

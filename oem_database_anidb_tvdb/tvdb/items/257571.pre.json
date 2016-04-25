@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "257571"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8995"
+            },
+            "names": [
+                "Nazo no Kanojo X: Nazo no Natsu Matsuri"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8853"
+            },
+            "names": [
+                "Nazo no Kanojo X"
+            ]
+        }
+    }
+}

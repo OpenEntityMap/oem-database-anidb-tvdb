@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4860",
+        "tvdb": "80004"
+    },
+    "names": [
+        "Murder Princess"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

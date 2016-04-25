@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7103",
+        "tvdb": "179791"
+    },
+    "names": [
+        "Break Blade"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

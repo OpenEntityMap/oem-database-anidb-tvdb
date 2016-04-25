@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5454",
+        "tvdb": "79882"
+    },
+    "names": [
+        "Harukanaru Toki no Naka de 3: Kurenai no Tsuki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

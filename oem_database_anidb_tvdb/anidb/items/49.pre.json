@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "49",
+        "tvdb": "70861"
+    },
+    "names": [
+        "Love Hina Again"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "XEBEC"
+    }
+}

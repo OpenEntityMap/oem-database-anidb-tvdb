@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10877",
+        "tvdb": "292098"
+    },
+    "names": [
+        "Anime de Wakaru Shinryounaika"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

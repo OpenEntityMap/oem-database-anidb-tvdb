@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9509",
+        "tvdb": "269877"
+    },
+    "names": [
+        "Love Lab"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

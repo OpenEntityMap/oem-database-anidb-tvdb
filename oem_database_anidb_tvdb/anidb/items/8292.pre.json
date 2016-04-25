@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8292",
+        "tvdb": "251906"
+    },
+    "names": [
+        "Ben-Tou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

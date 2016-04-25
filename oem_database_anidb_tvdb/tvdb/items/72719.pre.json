@@ -1,0 +1,30 @@
+{
+    "identifiers": {
+        "tvdb": "72719"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "263"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Megami Kouhosei Special Curriculum"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "253"
+            },
+            "names": [
+                "Megami Kouhosei"
+            ]
+        }
+    }
+}

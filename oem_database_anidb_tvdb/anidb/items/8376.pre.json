@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8376",
+        "tvdb": "251984"
+    },
+    "names": [
+        "C3: Cube x Cursed x Curious"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

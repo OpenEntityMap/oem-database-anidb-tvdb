@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "261249"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9605"
+            },
+            "names": [
+                "Gekijouban K: Missing Kings"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9043"
+            },
+            "names": [
+                "K"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10929"
+            },
+            "names": [
+                "K Return of Kings"
+            ]
+        }
+    }
+}

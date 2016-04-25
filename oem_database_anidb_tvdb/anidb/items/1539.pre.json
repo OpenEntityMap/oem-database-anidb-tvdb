@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1539",
+        "tvdb": "74599"
+    },
+    "names": [
+        "Monster"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "identifiers": {
+        "tvdb": "195711"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8490"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kami nomi zo Shiru Sekai: 4-nin to Idol"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9324"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kami nomi zo Shiru Sekai: Tenri Hen"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "9324"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kami nomi zo Shiru Sekai: Tenri Hen"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "9825"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kami nomi zo Shiru Sekai: Magical Star Kanon 100%"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7568"
+            },
+            "names": [
+                "Kami nomi zo Shiru Sekai"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8167"
+            },
+            "names": [
+                "Kami nomi zo Shiru Sekai II"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "9553"
+            },
+            "names": [
+                "Kami nomi zo Shiru Sekai: Megami Hen"
+            ]
+        }
+    }
+}

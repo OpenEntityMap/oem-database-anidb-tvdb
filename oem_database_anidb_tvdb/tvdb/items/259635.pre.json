@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "259635"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8791"
+            },
+            "names": [
+                "Kingdom"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9672"
+            },
+            "names": [
+                "Kingdom (2013)"
+            ]
+        }
+    }
+}

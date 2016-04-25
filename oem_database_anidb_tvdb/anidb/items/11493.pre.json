@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11493",
+        "tvdb": "279828"
+    },
+    "names": [
+        "Terra Formars: Revenge"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "3463",
+        "tvdb": "79139"
+    },
+    "names": [
+        "Capeta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Comet"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "253",
+        "tvdb": "72719"
+    },
+    "names": [
+        "Megami Kouhosei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

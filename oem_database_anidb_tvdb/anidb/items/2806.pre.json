@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2806",
+        "tvdb": "79081"
+    },
+    "names": [
+        "Transformers: Galaxy Force"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

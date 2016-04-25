@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3500",
+        "tvdb": "80051"
+    },
+    "names": [
+        "Ginban Kaleidoscope"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

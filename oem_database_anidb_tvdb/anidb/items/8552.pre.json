@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8552",
+        "tvdb": "254664"
+    },
+    "names": [
+        "Kill Me Baby"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

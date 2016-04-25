@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8043",
+        "tvdb": "262543"
+    },
+    "names": [
+        "There She Is!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

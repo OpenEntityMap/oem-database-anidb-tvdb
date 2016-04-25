@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8724",
+        "tvdb": "128411"
+    },
+    "names": [
+        "Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

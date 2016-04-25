@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4567",
+        "tvdb": "78986"
+    },
+    "names": [
+        "Mai-Otome Zwei"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

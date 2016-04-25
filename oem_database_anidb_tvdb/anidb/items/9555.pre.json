@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9555",
+        "tvdb": "270058"
+    },
+    "names": [
+        "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

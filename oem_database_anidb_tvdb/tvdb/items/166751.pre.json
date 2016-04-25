@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "166751"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2081"
+            },
+            "names": [
+                "MAPS: Densetsu no Samayoeru Seijin-tachi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2056"
+            },
+            "names": [
+                "Maps"
+            ]
+        }
+    }
+}

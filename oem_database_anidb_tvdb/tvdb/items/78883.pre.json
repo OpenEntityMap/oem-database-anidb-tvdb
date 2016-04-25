@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2743",
+        "tvdb": "78883"
+    },
+    "names": [
+        "Peach Girl"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

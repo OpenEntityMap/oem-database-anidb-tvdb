@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8845",
+        "tvdb": "72281"
+    },
+    "names": [
+        "Black Jack Final"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

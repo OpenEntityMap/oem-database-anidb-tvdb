@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1413",
+        "tvdb": "84334"
+    },
+    "names": [
+        "Futari wa Precure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

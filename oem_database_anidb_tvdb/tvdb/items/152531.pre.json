@@ -1,0 +1,46 @@
+{
+    "identifiers": {
+        "tvdb": "152531"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "8": {
+                    "identifiers": {
+                        "anidb": "305"
+                    },
+                    "names": [
+                        "El-Hazard: The Magnificent World 2"
+                    ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "208"
+            },
+            "names": [
+                "El-Hazard: The Magnificent World"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "207"
+            },
+            "names": [
+                "Ijigen no Sekai El-Hazard"
+            ]
+        }
+    }
+}

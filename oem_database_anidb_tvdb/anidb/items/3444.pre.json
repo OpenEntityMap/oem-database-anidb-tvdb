@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3444",
+        "tvdb": "80206"
+    },
+    "names": [
+        "Makai Senki Disgaea"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

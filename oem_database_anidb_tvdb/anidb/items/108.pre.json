@@ -1,0 +1,44 @@
+{
+    "identifiers": {
+        "anidb": "108",
+        "tvdb": "79289"
+    },
+    "names": [
+        "Galaxy Angel"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 24,
+                    "offset": 1,
+                    "season": "1",
+                    "start": 21
+                }
+            ]
+        }
+    }
+}

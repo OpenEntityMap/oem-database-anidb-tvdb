@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6267",
+        "tvdb": "87871"
+    },
+    "names": [
+        "Shangri-La"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

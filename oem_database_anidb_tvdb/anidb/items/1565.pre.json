@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1565",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter '91"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

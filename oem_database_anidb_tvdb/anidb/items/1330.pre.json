@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1330",
+        "tvdb": "81239"
+    },
+    "names": [
+        "Gokusen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

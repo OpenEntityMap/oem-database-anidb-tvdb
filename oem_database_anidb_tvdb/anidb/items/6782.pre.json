@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6782",
+        "tvdb": "133031"
+    },
+    "names": [
+        "Aki Sora"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

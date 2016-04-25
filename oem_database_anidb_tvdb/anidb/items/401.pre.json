@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "401",
+        "tvdb": "72442"
+    },
+    "names": [
+        "Dirty Pair"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

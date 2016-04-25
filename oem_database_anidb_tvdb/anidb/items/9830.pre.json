@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9830",
+        "tvdb": "273006"
+    },
+    "names": [
+        "Gaist Crusher"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

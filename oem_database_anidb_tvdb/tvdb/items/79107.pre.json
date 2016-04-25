@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15",
+        "tvdb": "79107"
+    },
+    "names": [
+        "Kanon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

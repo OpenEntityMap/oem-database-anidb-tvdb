@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6041",
+        "tvdb": "74796"
+    },
+    "names": [
+        "Gekijouban Bleach: Fade to Black Kimi no Na o Yobu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1209",
+        "tvdb": "80043"
+    },
+    "names": [
+        "Gun Frontier"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

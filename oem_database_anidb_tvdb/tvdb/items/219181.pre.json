@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "219181"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8778"
+            },
+            "names": [
+                "Gekijouban Mahou Shoujo Madoka Magica"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8069"
+            },
+            "names": [
+                "Mahou Shoujo Madoka Magica"
+            ]
+        }
+    }
+}

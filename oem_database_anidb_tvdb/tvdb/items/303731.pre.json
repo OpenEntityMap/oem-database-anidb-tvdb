@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11552",
+        "tvdb": "303731"
+    },
+    "names": [
+        "Prince of Stride: Alternative"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "anidb": "107",
+        "tvdb": "80113"
+    },
+    "names": [
+        "Chikyuu Shoujo Arjuna"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": 1,
+                    "season": "1",
+                    "start": 9
+                }
+            ]
+        }
+    }
+}

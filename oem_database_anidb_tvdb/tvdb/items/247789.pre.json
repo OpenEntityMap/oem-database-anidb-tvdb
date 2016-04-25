@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "247789"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4444"
+            },
+            "names": [
+                "Saint Beast: Ikusen no Hiru to Yoru Hen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "579"
+            },
+            "names": [
+                "Saint Beast: Seijuu Kourin Hen"
+            ]
+        }
+    }
+}

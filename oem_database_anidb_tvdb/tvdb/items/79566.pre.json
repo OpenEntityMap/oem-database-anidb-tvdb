@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "100",
+        "tvdb": "79566"
+    },
+    "names": [
+        "Boys Be..."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

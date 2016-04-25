@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "443",
+        "tvdb": "72347"
+    },
+    "names": [
+        "Macross 7: Ginga ga Ore o Yonde Iru!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "12"
+    }
+}

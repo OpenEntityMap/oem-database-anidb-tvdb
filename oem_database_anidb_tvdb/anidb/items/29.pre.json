@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "29",
+        "tvdb": "81886"
+    },
+    "names": [
+        "Tenshi Kinryouku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

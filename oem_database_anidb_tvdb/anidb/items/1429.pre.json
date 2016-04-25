@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1429",
+        "tvdb": "82075"
+    },
+    "names": [
+        "Yuugo Koushoujin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

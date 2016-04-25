@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5956",
+        "tvdb": "75414"
+    },
+    "names": [
+        "Chou Gekijouban Keroro Gunsou 3: Keroro Tai Keroro - Tenkuu Daikessen de Arimasu!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

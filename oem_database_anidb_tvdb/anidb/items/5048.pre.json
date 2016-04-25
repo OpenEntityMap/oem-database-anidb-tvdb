@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5048",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1138",
+        "tvdb": "120061"
+    },
+    "names": [
+        "Earthian"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1497",
+        "tvdb": "81341"
+    },
+    "names": [
+        "Jungle Taitei (1966)"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "-1"
+    }
+}

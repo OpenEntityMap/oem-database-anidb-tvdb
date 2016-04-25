@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8014",
+        "tvdb": "117801"
+    },
+    "names": [
+        "Kimi ni Todoke 2nd Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

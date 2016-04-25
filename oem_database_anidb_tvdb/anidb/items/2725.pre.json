@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2725",
+        "tvdb": "83245"
+    },
+    "names": [
+        "Masou Kishin Cybuster"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

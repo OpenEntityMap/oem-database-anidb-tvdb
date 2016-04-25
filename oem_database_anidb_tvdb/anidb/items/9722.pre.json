@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9722",
+        "tvdb": "272316"
+    },
+    "names": [
+        "Non Non Biyori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

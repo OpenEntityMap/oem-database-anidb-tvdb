@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5623",
+        "tvdb": "84138"
+    },
+    "names": [
+        "Neo Angelique Abyss"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

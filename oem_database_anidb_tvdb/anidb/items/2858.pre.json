@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "2858",
+        "tvdb": "79282"
+    },
+    "names": [
+        "Solty Rei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

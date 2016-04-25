@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "105441"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4936"
+            },
+            "names": [
+                "Tetsujin 28-gou: Hakuchuu no Zangetsu"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1670"
+            },
+            "names": [
+                "Tetsujin 28-gou"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1670"
+            },
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 26,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Tetsujin 28-gou"
+            ]
+        }
+    }
+}

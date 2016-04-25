@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "635",
+        "tvdb": "74739"
+    },
+    "names": [
+        "Kaleido Star"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

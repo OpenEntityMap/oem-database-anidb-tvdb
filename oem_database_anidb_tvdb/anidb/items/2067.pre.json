@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2067",
+        "tvdb": "241661"
+    },
+    "names": [
+        "Hello! Lady Lynn"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

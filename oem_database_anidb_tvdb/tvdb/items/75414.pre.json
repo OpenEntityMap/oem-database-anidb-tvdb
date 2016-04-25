@@ -1,0 +1,88 @@
+{
+    "identifiers": {
+        "tvdb": "75414"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "3569"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chou Gekijouban Keroro Gunsou"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "4818"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chou Gekijouban Keroro Gunsou 2 Shinkai no Princess de Arimasu!"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "5956"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chou Gekijouban Keroro Gunsou 3: Keroro Tai Keroro - Tenkuu Daikessen de Arimasu!"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "6095"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu!"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "7246"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chou Gekijouban Keroro Gunsou Tanjou! Kyuukyoku Keroro Kiseki no Jikuujima de Arimasu!"
+                    ]
+                }
+            }
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ]
+        }
+    }
+}

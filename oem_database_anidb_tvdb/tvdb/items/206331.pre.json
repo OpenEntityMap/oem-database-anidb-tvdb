@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1471",
+        "tvdb": "206331"
+    },
+    "names": [
+        "Fire Emblem"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

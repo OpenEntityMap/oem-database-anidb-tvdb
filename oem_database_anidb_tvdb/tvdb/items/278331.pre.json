@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10395",
+        "tvdb": "278331"
+    },
+    "names": [
+        "Soredemo Sekai wa Utsukushii"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

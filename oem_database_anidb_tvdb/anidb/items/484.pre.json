@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "484",
+        "tvdb": "100171"
+    },
+    "names": [
+        "Ginga Tetsudou 999"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

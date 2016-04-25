@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3485",
+        "tvdb": "262315"
+    },
+    "names": [
+        "Ore wa Teppei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

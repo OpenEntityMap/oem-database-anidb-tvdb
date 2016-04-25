@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79078"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "141"
+            },
+            "names": [
+                "Mahou Tsukai Tai!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "140"
+            },
+            "names": [
+                "Mahou Tsukai Tai! (1999)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5224",
+        "tvdb": "80503"
+    },
+    "names": [
+        "Buzzer Beater (2007)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

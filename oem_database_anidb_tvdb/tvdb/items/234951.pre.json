@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2008",
+        "tvdb": "234951"
+    },
+    "names": [
+        "Kouryuu Densetsu Villgust"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

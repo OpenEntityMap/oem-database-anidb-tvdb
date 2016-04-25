@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "43",
+        "tvdb": "78960"
+    },
+    "names": [
+        "Blood: The Last Vampire"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

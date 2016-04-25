@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "279533"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10161"
+            },
+            "names": [
+                "Kantai Collection: KanColle"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11161"
+            },
+            "names": [
+                "Kantai Collection: KanColle 2"
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4570",
+        "tvdb": "79540"
+    },
+    "names": [
+        "Bakumatsu Kikansetsu Irohanihoheto"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "identifiers": {
+        "tvdb": "120151"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "1300"
+                    },
+                    "names": [
+                        "Ningyo no Kizu"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "817"
+            },
+            "names": [
+                "Ningyo no Mori"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1100"
+            },
+            "names": [
+                "Takahashi Rumiko Gekijou Ningyo no Mori"
+            ]
+        }
+    }
+}

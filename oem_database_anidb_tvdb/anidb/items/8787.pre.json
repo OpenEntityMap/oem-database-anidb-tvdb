@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8787",
+        "tvdb": "259675"
+    },
+    "names": [
+        "Uchuu Senkan Yamato 2199"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

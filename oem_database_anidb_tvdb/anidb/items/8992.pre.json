@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8992",
+        "tvdb": "255848"
+    },
+    "names": [
+        "Yurumates 3D"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

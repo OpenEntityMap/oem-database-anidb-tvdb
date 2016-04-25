@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1251",
+        "tvdb": "79048"
+    },
+    "names": [
+        "Burn Up Scramble"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

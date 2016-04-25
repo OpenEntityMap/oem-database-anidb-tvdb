@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10953",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Gouka no Himawari"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "65",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

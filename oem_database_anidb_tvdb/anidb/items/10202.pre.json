@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10202",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Harmonie"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

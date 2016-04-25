@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "4852",
+        "tvdb": "80900"
+    },
+    "names": [
+        "Aika R-16"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

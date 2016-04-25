@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "81074"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4527"
+            },
+            "names": [
+                "Top o Nerae 2! Gekijouban"
+            ],
+            "supplemental": {
+                "studio": "Gainax"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2120"
+            },
+            "names": [
+                "Top o Nerae 2! Diebuster"
+            ]
+        }
+    }
+}

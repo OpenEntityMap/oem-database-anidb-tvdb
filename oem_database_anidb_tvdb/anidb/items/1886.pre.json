@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1886",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya: Kamigami no Atsuki Tatakai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

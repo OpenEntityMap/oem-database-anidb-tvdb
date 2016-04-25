@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "81100"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4938"
+            },
+            "names": [
+                "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4022"
+            },
+            "names": [
+                "Inukami!"
+            ]
+        }
+    }
+}

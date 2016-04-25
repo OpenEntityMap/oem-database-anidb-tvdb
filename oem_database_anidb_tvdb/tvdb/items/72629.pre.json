@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "72629"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "2494"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Guitar o Motta Shounen: Kikaider VS Inazuman"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "981"
+            },
+            "names": [
+                "Kikaider 01 The Animation"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "980"
+            },
+            "names": [
+                "Jinzou Ningen Kikaider The Animation"
+            ]
+        }
+    }
+}

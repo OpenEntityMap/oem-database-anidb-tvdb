@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1092",
+        "tvdb": "80047"
+    },
+    "names": [
+        "Binzume Yousei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

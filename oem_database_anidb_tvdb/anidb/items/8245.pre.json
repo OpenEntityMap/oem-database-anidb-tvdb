@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8245",
+        "tvdb": "248980"
+    },
+    "names": [
+        "Honto ni Atta! Reibai-sensei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "DLE"
+    }
+}

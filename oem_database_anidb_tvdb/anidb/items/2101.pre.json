@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2101",
+        "tvdb": "258908"
+    },
+    "names": [
+        "Jigoku Sensei Nube (1996)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Toei Douga"
+    }
+}

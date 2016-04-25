@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "690",
+        "tvdb": "103571"
+    },
+    "names": [
+        "Tenshi ni Narumon!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

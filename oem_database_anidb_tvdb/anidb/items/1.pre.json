@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1",
+        "tvdb": "72025"
+    },
+    "names": [
+        "Seikai no Monshou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

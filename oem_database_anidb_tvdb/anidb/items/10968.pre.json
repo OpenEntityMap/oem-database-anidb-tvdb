@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10968",
+        "tvdb": "289763"
+    },
+    "names": [
+        "The Idolmaster: Cinderella Girls - 2 Shuunen Kinen PV"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "-1"
+    }
+}

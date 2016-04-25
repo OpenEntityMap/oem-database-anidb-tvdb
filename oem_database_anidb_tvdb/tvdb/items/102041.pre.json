@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6402",
+        "tvdb": "102041"
+    },
+    "names": [
+        "Umi Monogatari: Anata ga Ite Kureta Koto"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

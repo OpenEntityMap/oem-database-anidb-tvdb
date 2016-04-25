@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "689",
+        "tvdb": "83838"
+    },
+    "names": [
+        "Early Reins"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

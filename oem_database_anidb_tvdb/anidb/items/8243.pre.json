@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8243",
+        "tvdb": "173261"
+    },
+    "names": [
+        "Shukufuku no Campanella (2011)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "identifiers": {
+        "anidb": "391",
+        "tvdb": "70862"
+    },
+    "names": [
+        "Kyuuketsuki Miyu (1997)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

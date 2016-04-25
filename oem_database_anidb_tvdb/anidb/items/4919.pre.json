@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4919",
+        "tvdb": "80812"
+    },
+    "names": [
+        "Potemayo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

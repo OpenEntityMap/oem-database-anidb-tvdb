@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11600",
+        "tvdb": "304487"
+    },
+    "names": [
+        "Sushi Police"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

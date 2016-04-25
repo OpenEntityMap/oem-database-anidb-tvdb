@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3114",
+        "tvdb": "252696"
+    },
+    "names": [
+        "Doraemon: Nobita no Kyouryuu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

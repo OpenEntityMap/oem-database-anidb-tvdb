@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4512",
+        "tvdb": "251162"
+    },
+    "names": [
+        "Futari no Joe"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

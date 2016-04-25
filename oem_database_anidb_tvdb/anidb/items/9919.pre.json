@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "9919",
+        "tvdb": "261862"
+    },
+    "names": [
+        "Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "20"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "170",
+        "tvdb": "78909"
+    },
+    "names": [
+        "Kidou Tenshi Angelic Layer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

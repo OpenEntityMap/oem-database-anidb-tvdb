@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11321",
+        "tvdb": "299499"
+    },
+    "names": [
+        "Unhappy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

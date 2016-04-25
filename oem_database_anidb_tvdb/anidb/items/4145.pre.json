@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4145",
+        "tvdb": "80075"
+    },
+    "names": [
+        "Amaenaide yo!! Katsu!!"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "139361"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7885"
+            },
+            "names": [
+                "Cheburashka"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6969"
+            },
+            "names": [
+                "Cheburashka Arere?"
+            ]
+        }
+    }
+}

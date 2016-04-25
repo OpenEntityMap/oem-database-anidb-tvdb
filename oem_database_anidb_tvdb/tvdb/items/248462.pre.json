@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "629",
+        "tvdb": "248462"
+    },
+    "names": [
+        "Shutsugeki! Machine Robo Rescue"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

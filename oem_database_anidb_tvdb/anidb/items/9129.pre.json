@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "9129",
+        "tvdb": "220571"
+    },
+    "names": [
+        "Kore wa Zombie Desuka? Of the Dead (2012)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

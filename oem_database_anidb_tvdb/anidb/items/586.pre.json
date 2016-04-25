@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "586",
+        "tvdb": "111071"
+    },
+    "names": [
+        "Narue no Sekai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

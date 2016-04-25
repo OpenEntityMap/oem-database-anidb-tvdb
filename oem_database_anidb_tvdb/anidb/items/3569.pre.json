@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "3569",
+        "tvdb": "75414"
+    },
+    "names": [
+        "Chou Gekijouban Keroro Gunsou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

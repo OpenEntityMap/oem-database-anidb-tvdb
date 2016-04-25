@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "anidb": "2826",
+        "tvdb": "79360"
+    },
+    "names": [
+        "Koukyoushihen: Eureka Seven"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Bones"
+    }
+}

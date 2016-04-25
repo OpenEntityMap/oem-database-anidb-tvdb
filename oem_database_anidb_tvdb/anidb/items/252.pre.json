@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "252",
+        "tvdb": "74474"
+    },
+    "names": [
+        "Kidou Senshi Gundam SEED"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

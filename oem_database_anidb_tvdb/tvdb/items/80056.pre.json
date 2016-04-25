@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "80056"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2119"
+            },
+            "names": [
+                "Lime-iro Senkitan: Nangoku Yume Roman"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "448"
+            },
+            "names": [
+                "Lime-iro Senkitan: Meiji Nippon, Otome Sakimorisu."
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2807"
+            },
+            "names": [
+                "Lime-iro Ryuukitan Cross: Koi, Oshiete Kudasai."
+            ]
+        }
+    }
+}

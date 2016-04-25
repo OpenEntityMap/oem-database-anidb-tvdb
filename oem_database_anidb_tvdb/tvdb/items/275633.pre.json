@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10110",
+        "tvdb": "275633"
+    },
+    "names": [
+        "Mikakunin de Shinkoukei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

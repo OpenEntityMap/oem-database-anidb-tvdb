@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8229",
+        "tvdb": "249874"
+    },
+    "names": [
+        "Itsuka Tenma no Kuro Usagi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

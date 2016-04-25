@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5656",
+        "tvdb": "83940"
+    },
+    "names": [
+        "Macademi Wasshoi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

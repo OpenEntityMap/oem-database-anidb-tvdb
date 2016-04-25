@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11500",
+        "tvdb": "303073"
+    },
+    "names": [
+        "Musaigen no Phantom World"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

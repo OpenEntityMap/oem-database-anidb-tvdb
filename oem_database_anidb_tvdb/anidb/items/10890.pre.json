@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "10890",
+        "tvdb": "250088"
+    },
+    "names": [
+        "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

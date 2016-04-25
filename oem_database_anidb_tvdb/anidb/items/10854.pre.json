@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10854",
+        "tvdb": "291627"
+    },
+    "names": [
+        "Plastic Memories"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

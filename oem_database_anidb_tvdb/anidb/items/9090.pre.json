@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9090",
+        "tvdb": "116001"
+    },
+    "names": [
+        "Seitokai no Ichizon Lv.2"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

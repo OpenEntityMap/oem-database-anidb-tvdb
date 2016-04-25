@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2768",
+        "tvdb": "143471"
+    },
+    "names": [
+        "Yawara! Sore Yuke Koshinuke Kids!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

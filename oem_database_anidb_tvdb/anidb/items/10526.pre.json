@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10526",
+        "tvdb": "279982"
+    },
+    "names": [
+        "Kantoku Fuyukitodoki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

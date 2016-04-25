@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "9658",
+        "tvdb": "293491"
+    },
+    "names": [
+        "Koukaku Kidoutai Arise: Ghost in the Shell"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "206": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

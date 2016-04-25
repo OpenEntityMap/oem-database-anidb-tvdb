@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "1659",
+        "tvdb": "94701"
+    },
+    "names": [
+        "Devilman: Youchou Sirene Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Oh! Production"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "135",
+        "tvdb": "70900"
+    },
+    "names": [
+        "Initial D"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "identifiers": {
+        "anidb": "2382",
+        "tvdb": "77089"
+    },
+    "names": [
+        "Cat Ninden Teyandee"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "16"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "17"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "18"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "19"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "20"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "21"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "22"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "23"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "24"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "25"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "27"
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "28"
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "29"
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "30"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "31"
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "32"
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "33"
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "34"
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "35"
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "36"
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "37"
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "38"
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "39"
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "40"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "number": "41"
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "number": "42"
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "number": "43"
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "number": "44"
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "45"
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "number": "46"
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "number": "47"
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "number": "48"
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "number": "49"
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "number": "50"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "number": "52"
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "number": "53"
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "number": "54"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

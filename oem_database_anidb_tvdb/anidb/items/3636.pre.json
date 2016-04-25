@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3636",
+        "tvdb": "227501"
+    },
+    "names": [
+        "Mashin Eiyuuden Wataru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

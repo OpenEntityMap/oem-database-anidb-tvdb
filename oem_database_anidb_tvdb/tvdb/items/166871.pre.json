@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "166871"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "542"
+            },
+            "names": [
+                "Haou Taikei Ryuu Knight"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "616"
+            },
+            "names": [
+                "Haou Taikei Ryuu Knight: Adeu Legend"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "1235"
+            },
+            "names": [
+                "Haou Taikei Ryuu Knight: Adeu Legend II"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "2687"
+            },
+            "names": [
+                "Haou Taikei Ryuu Knight: Adeu Legend Final"
+            ]
+        }
+    }
+}

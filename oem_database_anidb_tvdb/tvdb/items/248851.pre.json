@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "248851"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2043"
+            },
+            "names": [
+                "Hana no Ko Lunlun: Konnichiwa Sakura no Kuni"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1919"
+            },
+            "names": [
+                "Hana no Ko Lunlun"
+            ]
+        }
+    }
+}

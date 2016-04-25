@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "20",
+        "tvdb": "72435"
+    },
+    "names": [
+        "Tokyo Underground"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

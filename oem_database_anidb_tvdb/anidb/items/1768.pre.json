@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1768",
+        "tvdb": "82378"
+    },
+    "names": [
+        "Ojamajo Doremi Na-i-sho"
+    ],
+    "parameters": {
+        "default_season": "5"
+    }
+}

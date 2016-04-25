@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1478",
+        "tvdb": "85312"
+    },
+    "names": [
+        "Hajimari no Boukensha-tachi: Legend of Crystania"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Triangle Staff"
+    }
+}

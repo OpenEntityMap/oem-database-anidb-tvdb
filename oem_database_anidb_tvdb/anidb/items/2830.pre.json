@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2830",
+        "tvdb": "79886"
+    },
+    "names": [
+        "Sousei no Aquarion"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

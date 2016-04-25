@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "519",
+        "tvdb": "125781"
+    },
+    "names": [
+        "Arslan Senki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

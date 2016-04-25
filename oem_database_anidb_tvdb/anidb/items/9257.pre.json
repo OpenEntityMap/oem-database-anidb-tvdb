@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9257",
+        "tvdb": "264523"
+    },
+    "names": [
+        "Yama no Susume"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

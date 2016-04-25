@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7991",
+        "tvdb": "73752"
+    },
+    "names": [
+        "Berserk: Ougon Jidai Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

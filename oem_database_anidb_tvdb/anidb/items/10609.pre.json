@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10609",
+        "tvdb": "281253"
+    },
+    "names": [
+        "Majimoji Rurumo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3555",
+        "tvdb": "219541"
+    },
+    "names": [
+        "Montana Jones"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

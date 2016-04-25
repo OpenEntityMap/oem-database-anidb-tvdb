@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "460",
+        "tvdb": "70516"
+    },
+    "names": [
+        "Yoroiden Samurai Troopers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

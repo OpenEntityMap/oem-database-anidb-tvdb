@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "127151"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2703"
+            },
+            "names": [
+                "UFO Senshi Dai Apolon"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5079"
+            },
+            "names": [
+                "UFO Senshi Dai Apolon 2"
+            ]
+        }
+    }
+}

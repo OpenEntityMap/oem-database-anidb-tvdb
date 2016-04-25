@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11272",
+        "tvdb": "79880"
+    },
+    "names": [
+        "Utawarerumono: Itsuwari no Kamen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

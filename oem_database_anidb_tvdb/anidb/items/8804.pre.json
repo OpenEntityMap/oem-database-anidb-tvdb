@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8804",
+        "tvdb": "257519"
+    },
+    "names": [
+        "Natsu-iro Kiseki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

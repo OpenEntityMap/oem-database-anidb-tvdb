@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9788",
+        "tvdb": "81115"
+    },
+    "names": [
+        "Mahou Shoujo Lyrical Nanoha The Movie 3rd Reflection"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

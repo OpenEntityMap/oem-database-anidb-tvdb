@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "86",
+        "tvdb": "78933"
+    },
+    "names": [
+        "Samurai Deeper Kyou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

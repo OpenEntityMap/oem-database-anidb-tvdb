@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "tvdb": "71444"
+    },
+    "seasons": {
+        "3": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "165"
+                    },
+                    "names": [
+                        "Fushigi Yuugi: Eikouden"
+                    ],
+                    "parameters": {
+                        "episode_offset": "9"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "164"
+                    },
+                    "names": [
+                        "Fushigi Yuugi: Dai Ni Bu"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "163"
+            },
+            "names": [
+                "Fushigi Yuugi (1996)"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "87"
+            },
+            "names": [
+                "Fushigi Yuugi"
+            ]
+        }
+    }
+}

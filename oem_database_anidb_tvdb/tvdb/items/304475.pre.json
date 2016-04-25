@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10569",
+        "tvdb": "304475"
+    },
+    "names": [
+        "Macross Delta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

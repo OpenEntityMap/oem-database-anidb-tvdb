@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9481",
+        "tvdb": "272043"
+    },
+    "names": [
+        "Tokyo Ravens"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

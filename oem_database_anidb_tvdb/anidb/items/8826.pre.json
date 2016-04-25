@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8826",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters: Best Wishes! - Kyurem vs Seikenshi Keldeo"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

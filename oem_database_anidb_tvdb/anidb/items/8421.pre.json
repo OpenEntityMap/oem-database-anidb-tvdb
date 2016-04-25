@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8421",
+        "tvdb": "250084"
+    },
+    "names": [
+        "Mawaru Penguindrum"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

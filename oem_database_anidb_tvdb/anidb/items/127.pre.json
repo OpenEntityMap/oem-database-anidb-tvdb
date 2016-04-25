@@ -1,0 +1,49 @@
+{
+    "identifiers": {
+        "anidb": "127",
+        "tvdb": "71634"
+    },
+    "names": [
+        "Magic Knight Rayearth"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "TMS Entertainment"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "2995",
+        "tvdb": "76932"
+    },
+    "names": [
+        "Ranma 1/2 Special"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

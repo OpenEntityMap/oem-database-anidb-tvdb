@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9050",
+        "tvdb": "261484"
+    },
+    "names": [
+        "One Off"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

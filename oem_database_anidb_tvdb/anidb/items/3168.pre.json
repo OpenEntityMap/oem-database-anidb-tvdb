@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3168",
+        "tvdb": "80075"
+    },
+    "names": [
+        "Amaenaide yo!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

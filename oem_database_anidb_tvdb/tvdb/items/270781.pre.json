@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "10946",
+        "tvdb": "270781"
+    },
+    "names": [
+        "Pac-World"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "2": {
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 26,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

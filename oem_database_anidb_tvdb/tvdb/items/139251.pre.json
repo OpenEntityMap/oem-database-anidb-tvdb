@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6020",
+        "tvdb": "139251"
+    },
+    "names": [
+        "Porong Porong Pororo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

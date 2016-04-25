@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10657",
+        "tvdb": "283934"
+    },
+    "names": [
+        "World Trigger"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

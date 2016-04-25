@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "98",
+        "tvdb": "73752"
+    },
+    "names": [
+        "Kenpuu Denki Berserk"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "OLM"
+    }
+}

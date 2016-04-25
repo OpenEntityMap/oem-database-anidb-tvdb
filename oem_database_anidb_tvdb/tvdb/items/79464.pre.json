@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2249",
+        "tvdb": "79464"
+    },
+    "names": [
+        "Ninja Ryuukenden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4085",
+        "tvdb": "122291"
+    },
+    "names": [
+        "Nerima Daikon Brothers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Hibari"
+    }
+}

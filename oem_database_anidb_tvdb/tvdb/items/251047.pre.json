@@ -1,0 +1,59 @@
+{
+    "identifiers": {
+        "tvdb": "251047"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "8102"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Carnival Phantasm"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "8824"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Carnival Phantasm: EX Season"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "8102"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Carnival Phantasm"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8102"
+            },
+            "names": [
+                "Carnival Phantasm"
+            ]
+        }
+    }
+}

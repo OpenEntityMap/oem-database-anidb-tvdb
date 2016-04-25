@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5273",
+        "tvdb": "81184"
+    },
+    "names": [
+        "Rosario to Vampire"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

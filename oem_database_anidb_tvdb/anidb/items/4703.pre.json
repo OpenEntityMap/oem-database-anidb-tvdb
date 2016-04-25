@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4703",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Eiga Crayon Shin-chan: Henderland no Daibouken"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

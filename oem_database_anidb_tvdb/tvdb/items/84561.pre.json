@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6211",
+        "tvdb": "84561"
+    },
+    "names": [
+        "Kurokami The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

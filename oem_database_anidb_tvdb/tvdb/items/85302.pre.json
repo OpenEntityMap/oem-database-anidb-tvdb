@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3050",
+        "tvdb": "85302"
+    },
+    "names": [
+        "Fushigi na Melmo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

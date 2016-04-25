@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2139",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Honoo no Kioku - Tokyo Crisis"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

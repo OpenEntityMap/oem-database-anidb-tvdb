@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11266",
+        "tvdb": "299500"
+    },
+    "names": [
+        "Divine Gate"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

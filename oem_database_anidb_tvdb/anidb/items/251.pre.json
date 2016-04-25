@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "251",
+        "tvdb": "72471"
+    },
+    "names": [
+        "Kiddy Grade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

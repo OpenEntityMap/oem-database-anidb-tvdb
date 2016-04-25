@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "anidb": "314",
+        "tvdb": "82950"
+    },
+    "names": [
+        "A Kite"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

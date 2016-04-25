@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11251",
+        "tvdb": "295897"
+    },
+    "names": [
+        "Bikini Warriors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1430",
+        "tvdb": "217361"
+    },
+    "names": [
+        "Parappa the Rapper"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

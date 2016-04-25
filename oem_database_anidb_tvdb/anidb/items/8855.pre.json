@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8855",
+        "tvdb": "257764"
+    },
+    "names": [
+        "Hyouka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "tvdb": "103791"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "1809"
+                    },
+                    "names": [
+                        "Densetsu Kyojin Ideon Hatsudou Hen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "1808"
+            },
+            "names": [
+                "Densetsu Kyojin Ideon Sesshoku Hen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1807"
+            },
+            "names": [
+                "Densetsu Kyojin Ideon"
+            ]
+        }
+    }
+}

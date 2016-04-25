@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "457",
+        "tvdb": "84749"
+    },
+    "names": [
+        "Tokyo Babylon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

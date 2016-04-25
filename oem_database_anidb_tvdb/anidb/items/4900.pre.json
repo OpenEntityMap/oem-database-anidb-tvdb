@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4900",
+        "tvdb": "80003"
+    },
+    "names": [
+        "Moonlight Mile: 1st Season - Lift Off"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

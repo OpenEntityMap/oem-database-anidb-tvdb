@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "965",
+        "tvdb": "223491"
+    },
+    "names": [
+        "Machine Robo: Chronos no Dai Gyakushuu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

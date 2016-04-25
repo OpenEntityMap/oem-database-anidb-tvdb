@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "7483",
+        "tvdb": "79824"
+    },
+    "names": [
+        "Gekijouban Naruto Shippuuden: The Lost Tower"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

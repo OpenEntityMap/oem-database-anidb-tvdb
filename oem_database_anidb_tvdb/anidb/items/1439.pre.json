@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "1439",
+        "tvdb": "71767"
+    },
+    "names": [
+        "Master Keaton"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 15,
+                    "offset": 24,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

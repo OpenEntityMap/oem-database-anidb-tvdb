@@ -1,0 +1,45 @@
+{
+    "identifiers": {
+        "anidb": "422",
+        "tvdb": "70863"
+    },
+    "names": [
+        "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

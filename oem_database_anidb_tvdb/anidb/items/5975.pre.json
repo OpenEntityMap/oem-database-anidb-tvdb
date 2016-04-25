@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5975",
+        "tvdb": "83322"
+    },
+    "names": [
+        "Toaru Majutsu no Index"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

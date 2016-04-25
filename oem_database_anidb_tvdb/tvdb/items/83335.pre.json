@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "6040",
+        "tvdb": "83335"
+    },
+    "names": [
+        "Tales of the Abyss"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

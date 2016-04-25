@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "745",
+        "tvdb": "71654"
+    },
+    "names": [
+        "Betterman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

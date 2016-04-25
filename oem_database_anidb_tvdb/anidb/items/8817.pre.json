@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8817",
+        "tvdb": "255904"
+    },
+    "names": [
+        "Eiga Precure All Stars New Stage: Mirai no Tomodachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

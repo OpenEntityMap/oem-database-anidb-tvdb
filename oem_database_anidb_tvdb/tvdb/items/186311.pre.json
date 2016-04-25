@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "186311"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "4242"
+            },
+            "names": [
+                "Spider Riders: Oracle no Yuusha-tachi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5146"
+            },
+            "names": [
+                "Spider Riders: Yomigaeru Taiyou"
+            ]
+        }
+    }
+}

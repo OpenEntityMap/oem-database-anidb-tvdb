@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3986",
+        "tvdb": "150381"
+    },
+    "names": [
+        "Rean no Tsubasa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

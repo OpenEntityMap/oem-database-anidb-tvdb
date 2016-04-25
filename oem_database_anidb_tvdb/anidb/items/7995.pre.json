@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7995",
+        "tvdb": "272941"
+    },
+    "names": [
+        "Hiyokoi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

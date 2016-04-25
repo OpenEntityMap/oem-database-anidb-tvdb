@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "8357",
+        "tvdb": "102261"
+    },
+    "names": [
+        "Kizumonogatari"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

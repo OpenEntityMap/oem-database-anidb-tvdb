@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3333",
+        "tvdb": "262314"
+    },
+    "names": [
+        "Ginga no Uo Ursa Minor Blue"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

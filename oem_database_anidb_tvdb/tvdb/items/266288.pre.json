@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1221",
+        "tvdb": "266288"
+    },
+    "names": [
+        "Shin Megami Tensei: Tokyo Mokushiroku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

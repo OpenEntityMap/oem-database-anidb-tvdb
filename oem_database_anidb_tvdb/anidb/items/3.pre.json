@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "3",
+        "tvdb": "70973"
+    },
+    "names": [
+        "3x3 Eyes: Seima Densetsu"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Toei Douga"
+    }
+}

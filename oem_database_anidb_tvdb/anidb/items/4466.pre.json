@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4466",
+        "tvdb": "74890"
+    },
+    "names": [
+        "Kidou Senshi Gundam SEED Destiny: Sorezore no Tsurugi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

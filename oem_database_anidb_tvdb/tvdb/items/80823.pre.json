@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3522",
+        "tvdb": "80823"
+    },
+    "names": [
+        "Tactical Roar"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

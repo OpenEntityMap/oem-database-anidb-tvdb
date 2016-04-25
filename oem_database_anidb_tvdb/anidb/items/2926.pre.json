@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2926",
+        "tvdb": "80596"
+    },
+    "names": [
+        "Angel Heart"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8658",
+        "tvdb": "102261"
+    },
+    "names": [
+        "Nisemonogatari"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

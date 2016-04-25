@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9366",
+        "tvdb": "267437"
+    },
+    "names": [
+        "Yuyushiki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

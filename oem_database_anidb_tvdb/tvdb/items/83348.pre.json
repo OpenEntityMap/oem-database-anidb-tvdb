@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "83348"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2852"
+            },
+            "names": [
+                "Attacker You!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8695"
+            },
+            "names": [
+                "Zoku Attacker You! Kin Medal e no Michi"
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "6284",
+        "tvdb": "87881"
+    },
+    "names": [
+        "Sengoku Basara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

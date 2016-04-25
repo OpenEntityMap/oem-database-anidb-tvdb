@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1224",
+        "tvdb": "258512"
+    },
+    "names": [
+        "KO Seiki Beast Sanjuushi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9973",
+        "tvdb": "278127"
+    },
+    "names": [
+        "Hitsugi no Chaika"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

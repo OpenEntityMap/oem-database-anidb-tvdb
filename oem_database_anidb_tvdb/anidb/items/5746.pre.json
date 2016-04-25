@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5746",
+        "tvdb": "81849"
+    },
+    "names": [
+        "Golgo 13 (2008)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

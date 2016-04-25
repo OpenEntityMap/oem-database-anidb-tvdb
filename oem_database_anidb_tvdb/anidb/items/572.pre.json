@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "572",
+        "tvdb": "199551"
+    },
+    "names": [
+        "Mizuiro Jidai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

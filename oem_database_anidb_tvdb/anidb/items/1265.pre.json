@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1265",
+        "tvdb": "75092"
+    },
+    "names": [
+        "Mousou Dairinin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

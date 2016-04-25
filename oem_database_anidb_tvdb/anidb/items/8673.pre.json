@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8673",
+        "tvdb": "262093"
+    },
+    "names": [
+        "Code: Breaker"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

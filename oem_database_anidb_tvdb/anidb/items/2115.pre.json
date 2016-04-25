@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "anidb": "2115",
+        "tvdb": "138691"
+    },
+    "names": [
+        "Gall Force: Chikyuu Shou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

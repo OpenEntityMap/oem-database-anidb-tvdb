@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "847",
+        "tvdb": "85067"
+    },
+    "names": [
+        "Takahashi Rumiko Gekijou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "603",
+        "tvdb": "81789"
+    },
+    "names": [
+        "Fushigi no Umi no Nadia Gekijou you Original Han"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "10"
+    }
+}

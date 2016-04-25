@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4421",
+        "tvdb": "78857"
+    },
+    "names": [
+        "Gekijouban Naruto: Dai Koufun! Mikazukijima no Animal Panic Datte ba yo!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

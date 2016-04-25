@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10016",
+        "tvdb": "264055"
+    },
+    "names": [
+        "GJ-bu@"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

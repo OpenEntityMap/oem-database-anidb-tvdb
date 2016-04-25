@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9523",
+        "tvdb": "266581"
+    },
+    "names": [
+        "DokiDoki! Precure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

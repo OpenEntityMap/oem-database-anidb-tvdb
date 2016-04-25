@@ -1,0 +1,114 @@
+{
+    "identifiers": {
+        "anidb": "4149",
+        "tvdb": "80082"
+    },
+    "names": [
+        "Dai Mahou Touge"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

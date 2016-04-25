@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1950",
+        "tvdb": "138841"
+    },
+    "names": [
+        "Nanami-chan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

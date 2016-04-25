@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7672",
+        "tvdb": "197701"
+    },
+    "names": [
+        "Kaichuu!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

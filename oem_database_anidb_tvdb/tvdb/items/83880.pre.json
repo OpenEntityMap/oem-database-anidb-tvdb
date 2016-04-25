@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4759",
+        "tvdb": "83880"
+    },
+    "names": [
+        "Shuffle! Memories"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

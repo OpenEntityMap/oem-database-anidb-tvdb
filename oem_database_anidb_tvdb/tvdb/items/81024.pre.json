@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "tvdb": "81024"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "472"
+            },
+            "names": [
+                "Choujuushin Gravion"
+            ],
+            "supplemental": {
+                "studio": "Gonzo"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1329"
+            },
+            "names": [
+                "Choujuushin Gravion Zwei"
+            ],
+            "supplemental": {
+                "studio": "Gonzo"
+            }
+        }
+    }
+}

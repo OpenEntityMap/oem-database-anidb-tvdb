@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "509",
+        "tvdb": "72845"
+    },
+    "names": [
+        "Akihabara Dennou-gumi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

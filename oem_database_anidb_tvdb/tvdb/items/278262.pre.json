@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10366",
+        "tvdb": "278262"
+    },
+    "names": [
+        "Kenzen Robo Daimidaler"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

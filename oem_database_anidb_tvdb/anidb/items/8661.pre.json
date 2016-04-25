@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8661",
+        "tvdb": "252808"
+    },
+    "names": [
+        "Gudaguda Fairies"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

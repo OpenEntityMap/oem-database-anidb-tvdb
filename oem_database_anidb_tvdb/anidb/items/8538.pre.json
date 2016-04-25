@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8538",
+        "tvdb": "251982"
+    },
+    "names": [
+        "Chihayafuru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

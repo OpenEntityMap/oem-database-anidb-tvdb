@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "788",
+        "tvdb": "83950"
+    },
+    "names": [
+        "JoJo no Kimyou na Bouken"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

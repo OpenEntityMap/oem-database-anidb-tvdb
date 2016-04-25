@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7397",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Sore Ike! Anpanman: Dadandan to Futago no Hoshi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "46",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

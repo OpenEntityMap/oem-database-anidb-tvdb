@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "371",
+        "tvdb": "80456"
+    },
+    "names": [
+        "Gravitation"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

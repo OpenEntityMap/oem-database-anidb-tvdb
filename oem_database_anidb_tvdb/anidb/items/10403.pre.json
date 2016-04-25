@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10403",
+        "tvdb": "281950"
+    },
+    "names": [
+        "Momo Kyun Sword"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

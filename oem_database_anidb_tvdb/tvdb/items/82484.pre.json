@@ -1,0 +1,80 @@
+{
+    "identifiers": {
+        "tvdb": "82484"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8272"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Strike Witches Gekijouban"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10198"
+            },
+            "names": [
+                "Strike Witches: Operation Victory Arrow"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5970"
+            },
+            "names": [
+                "Strike Witches (2008)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7542"
+            },
+            "names": [
+                "Strike Witches 2"
+            ]
+        },
+        "4": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10198"
+            },
+            "names": [
+                "Strike Witches: Operation Victory Arrow"
+            ]
+        }
+    }
+}

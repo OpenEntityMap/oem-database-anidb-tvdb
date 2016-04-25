@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1087",
+        "tvdb": "80642"
+    },
+    "names": [
+        "Avenger"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

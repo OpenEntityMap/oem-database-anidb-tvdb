@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1052",
+        "tvdb": "73993"
+    },
+    "names": [
+        "Chrno Crusade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

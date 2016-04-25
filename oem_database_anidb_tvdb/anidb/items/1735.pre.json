@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1735",
+        "tvdb": "73526"
+    },
+    "names": [
+        "Burn-up"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

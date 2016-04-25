@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8941",
+        "tvdb": "73988"
+    },
+    "names": [
+        "The Big O (2003)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "56",
+        "tvdb": "73532"
+    },
+    "names": [
+        "Tennis no Ouji-sama"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "195861"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7655"
+            },
+            "names": [
+                "Omae Umasou Da na"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7942"
+            },
+            "names": [
+                "Miyanishi Tatsuya Gekijou: Omae Umasou Da na"
+            ],
+            "supplemental": {
+                "studio": "Ajia-dou"
+            }
+        }
+    }
+}

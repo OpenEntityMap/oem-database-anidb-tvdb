@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11487",
+        "tvdb": "303728"
+    },
+    "names": [
+        "Niji-iro Days"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "251941"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "3995"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Riki-Ou 2: Horobi no Ko"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "3994"
+            },
+            "names": [
+                "Riki-Ou: Toukatsu Jigoku"
+            ]
+        }
+    }
+}

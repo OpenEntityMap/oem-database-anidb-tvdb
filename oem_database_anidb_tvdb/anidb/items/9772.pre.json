@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9772",
+        "tvdb": "272129"
+    },
+    "names": [
+        "Strike the Blood"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9591",
+        "tvdb": "272309"
+    },
+    "names": [
+        "Yowamushi Pedal"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

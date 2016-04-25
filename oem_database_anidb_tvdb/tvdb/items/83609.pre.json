@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "tvdb": "83609"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "952"
+                    },
+                    "names": [
+                        "Mazinger Z Tai Ankoku Daishougun"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "951"
+            },
+            "names": [
+                "Mazinger Z Tai Devilman"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "950"
+            },
+            "names": [
+                "Mazinger-Z"
+            ]
+        }
+    }
+}

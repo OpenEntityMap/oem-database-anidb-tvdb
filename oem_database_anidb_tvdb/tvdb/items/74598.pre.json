@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "161",
+        "tvdb": "74598"
+    },
+    "names": [
+        "Tokyo Mew Mew"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

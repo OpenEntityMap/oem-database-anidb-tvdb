@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7512",
+        "tvdb": "195271"
+    },
+    "names": [
+        "Otome Youkai Zakuro"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

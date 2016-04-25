@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "165",
+        "tvdb": "71444"
+    },
+    "names": [
+        "Fushigi Yuugi: Eikouden"
+    ],
+    "parameters": {
+        "default_season": "3",
+        "episode_offset": "9"
+    }
+}

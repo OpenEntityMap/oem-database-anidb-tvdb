@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2",
+        "tvdb": "70973"
+    },
+    "names": [
+        "3x3 Eyes"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

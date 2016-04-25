@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2812",
+        "tvdb": "71585"
+    },
+    "names": [
+        "Turn A Gundam II: Gekkou Chou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

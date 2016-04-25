@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2810",
+        "tvdb": "78967"
+    },
+    "names": [
+        "Trinity Blood"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

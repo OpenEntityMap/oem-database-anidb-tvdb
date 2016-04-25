@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8242",
+        "tvdb": "81234"
+    },
+    "names": [
+        "Gyakkyou Burai Kaiji: Hakairoku Hen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

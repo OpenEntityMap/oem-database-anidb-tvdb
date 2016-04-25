@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9568",
+        "tvdb": "268289"
+    },
+    "names": [
+        "Kakumeiki Valvrave"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

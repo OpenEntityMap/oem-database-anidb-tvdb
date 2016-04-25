@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "anidb": "6526",
+        "tvdb": "80900"
+    },
+    "names": [
+        "Aika Zero"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

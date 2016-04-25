@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "963",
+        "tvdb": "81785"
+    },
+    "names": [
+        "Senkaiden Houshin Engi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

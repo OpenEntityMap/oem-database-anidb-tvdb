@@ -1,0 +1,91 @@
+{
+    "identifiers": {
+        "tvdb": "81115"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "6075"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Magical Girl Lyrical Nanoha The Movie 1st"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "8821"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Magical Girl Lyrical Nanoha The Movie 2nd A's"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "9788"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mahou Shoujo Lyrical Nanoha The Movie 3rd Reflection"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2701"
+            },
+            "names": [
+                "Triangle Heart: Sazanami Joshiryou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2430"
+            },
+            "names": [
+                "Mahou Shoujo Lyrical Nanoha"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "3440"
+            },
+            "names": [
+                "Mahou Shoujo Lyrical Nanoha A's"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "4688"
+            },
+            "names": [
+                "Mahou Shoujo Lyrical Nanoha StrikerS"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "10795"
+            },
+            "names": [
+                "Mahou Shoujo Lyrical Nanoha Vivid"
+            ]
+        }
+    }
+}

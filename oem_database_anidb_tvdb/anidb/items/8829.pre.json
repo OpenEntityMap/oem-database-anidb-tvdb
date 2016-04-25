@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8829",
+        "tvdb": "257887"
+    },
+    "names": [
+        "Upotte!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

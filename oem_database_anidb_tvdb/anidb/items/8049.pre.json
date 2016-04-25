@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8049",
+        "tvdb": "81086"
+    },
+    "names": [
+        "Nyankuri: Nyan x 2 Music Clip"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

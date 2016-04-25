@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8419",
+        "tvdb": "251908"
+    },
+    "names": [
+        "Boku wa Tomodachi ga Sukunai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8",
+        "tvdb": "83584"
+    },
+    "names": [
+        "Aquarian Age: Sign for Evolution"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

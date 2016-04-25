@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "821",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei Episode 0: 'First Contact'"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "23"
+    }
+}

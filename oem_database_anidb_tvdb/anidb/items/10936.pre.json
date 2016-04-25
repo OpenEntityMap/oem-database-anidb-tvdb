@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10936",
+        "tvdb": "289903"
+    },
+    "names": [
+        "Kyoukai no Rinne"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

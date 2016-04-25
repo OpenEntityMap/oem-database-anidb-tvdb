@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7477",
+        "tvdb": "193831"
+    },
+    "names": [
+        "Togainu no Chi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

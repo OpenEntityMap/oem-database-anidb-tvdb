@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "3991",
+        "tvdb": "120131"
+    },
+    "names": [
+        "Piyoko ni Omakase pyo!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

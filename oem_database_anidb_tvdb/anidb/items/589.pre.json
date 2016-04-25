@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "589",
+        "tvdb": "160061"
+    },
+    "names": [
+        "Melty Lancer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

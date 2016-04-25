@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6080",
+        "tvdb": "87491"
+    },
+    "names": [
+        "Queen's Blade: Rurou no Senshi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

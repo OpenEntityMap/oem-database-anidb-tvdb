@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2511",
+        "tvdb": "79473"
+    },
+    "names": [
+        "Witchblade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

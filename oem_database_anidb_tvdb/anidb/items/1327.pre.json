@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1327",
+        "tvdb": "79058"
+    },
+    "names": [
+        "Midori no Hibi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

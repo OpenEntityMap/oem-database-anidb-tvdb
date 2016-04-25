@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "247911"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7275"
+            },
+            "names": [
+                "Yondemasu yo, Azazel-san."
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8288"
+            },
+            "names": [
+                "Yondemasu yo, Azazel-san. (2011)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9501"
+            },
+            "names": [
+                "Yondemasu yo, Azazel-san. Z"
+            ]
+        }
+    }
+}

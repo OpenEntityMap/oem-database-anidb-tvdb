@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2002",
+        "tvdb": "79101"
+    },
+    "names": [
+        "Air"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

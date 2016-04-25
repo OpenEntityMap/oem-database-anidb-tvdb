@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3082",
+        "tvdb": "80604"
+    },
+    "names": [
+        "Personal Computer Travel Tanteidan"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

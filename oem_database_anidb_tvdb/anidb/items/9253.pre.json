@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9253",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Death Billiards"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

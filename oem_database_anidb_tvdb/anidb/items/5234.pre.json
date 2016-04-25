@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5234",
+        "tvdb": "80054"
+    },
+    "names": [
+        "Taiho Shichau zo: Full Throttle"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "24",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

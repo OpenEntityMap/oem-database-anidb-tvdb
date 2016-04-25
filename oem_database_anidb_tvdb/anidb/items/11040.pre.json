@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "11040",
+        "tvdb": "278157"
+    },
+    "names": [
+        "Gekijouban Haikyuu!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

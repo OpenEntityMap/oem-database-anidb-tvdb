@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5071",
+        "tvdb": "80321"
+    },
+    "names": [
+        "Doujin Work"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

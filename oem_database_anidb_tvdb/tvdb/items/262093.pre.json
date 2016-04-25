@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "262093"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9321"
+            },
+            "names": [
+                "Code: Breaker OVA"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8673"
+            },
+            "names": [
+                "Code: Breaker"
+            ]
+        }
+    }
+}

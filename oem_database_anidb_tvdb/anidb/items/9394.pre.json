@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9394",
+        "tvdb": "264049"
+    },
+    "names": [
+        "Kotoura-san"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

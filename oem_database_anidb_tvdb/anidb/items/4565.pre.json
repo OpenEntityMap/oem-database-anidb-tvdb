@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4565",
+        "tvdb": "75869"
+    },
+    "names": [
+        "Negima!?"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

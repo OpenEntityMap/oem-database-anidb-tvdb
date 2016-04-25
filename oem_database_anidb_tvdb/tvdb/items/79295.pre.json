@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79295"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9327"
+            },
+            "names": [
+                "Gunnm 3D Special"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "147"
+            },
+            "names": [
+                "Hyper Future Vision: Gunnm"
+            ]
+        }
+    }
+}

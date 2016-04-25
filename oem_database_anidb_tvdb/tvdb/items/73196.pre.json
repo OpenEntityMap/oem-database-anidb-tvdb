@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "73196"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "503"
+            },
+            "names": [
+                "Tokimeki Fushigi Diary: Ultra Maniac"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "710"
+            },
+            "names": [
+                "Ultra Maniac"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "584",
+        "tvdb": "81618"
+    },
+    "names": [
+        "Ginga Eiyuu Densetsu"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

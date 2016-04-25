@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4853",
+        "tvdb": "83405"
+    },
+    "names": [
+        "Hitohira"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

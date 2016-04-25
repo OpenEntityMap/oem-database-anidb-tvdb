@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79465"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2468"
+            },
+            "names": [
+                "New Story of Aura Battler Dunbine"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "899"
+            },
+            "names": [
+                "Seisenshi Dunbine"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2745",
+        "tvdb": "78884"
+    },
+    "names": [
+        "Starship Operators"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

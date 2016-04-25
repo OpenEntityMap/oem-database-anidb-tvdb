@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1554",
+        "tvdb": "83020"
+    },
+    "names": [
+        "Mai-HiME"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

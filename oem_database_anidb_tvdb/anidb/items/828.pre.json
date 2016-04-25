@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "828",
+        "tvdb": "144961"
+    },
+    "names": [
+        "Yuugen Kaisha"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

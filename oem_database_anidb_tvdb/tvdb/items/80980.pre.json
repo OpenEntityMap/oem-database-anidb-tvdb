@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "tvdb": "80980"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7300"
+            },
+            "names": [
+                "Chiccha na Yuki Tsukai Sugar Tokubetsu Hen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9"
+            },
+            "names": [
+                "Chiccha na Yuki Tsukai Sugar"
+            ]
+        }
+    }
+}

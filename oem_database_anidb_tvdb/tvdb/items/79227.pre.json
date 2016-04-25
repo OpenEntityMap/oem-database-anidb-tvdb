@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "809",
+        "tvdb": "79227"
+    },
+    "names": [
+        "Wild Arms: Twilight Venom"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

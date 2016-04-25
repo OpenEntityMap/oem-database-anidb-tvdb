@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "1050",
+        "tvdb": "80304"
+    },
+    "names": [
+        "Blame!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

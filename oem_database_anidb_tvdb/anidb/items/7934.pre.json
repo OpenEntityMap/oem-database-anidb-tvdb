@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7934",
+        "tvdb": "219771"
+    },
+    "names": [
+        "Beelzebub"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

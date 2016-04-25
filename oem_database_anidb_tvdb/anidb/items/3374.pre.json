@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3374",
+        "tvdb": "81432"
+    },
+    "names": [
+        "Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

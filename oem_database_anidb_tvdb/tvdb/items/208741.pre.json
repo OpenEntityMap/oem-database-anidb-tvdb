@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "208741"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "1029"
+            },
+            "names": [
+                "Massugu ni Ikou."
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2327"
+            },
+            "names": [
+                "Massugu ni Ikou. (2004)"
+            ]
+        }
+    }
+}

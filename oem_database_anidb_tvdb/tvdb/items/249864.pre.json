@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "249864"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8375"
+            },
+            "names": [
+                "Gekijouban Blood-C: The Last Dark"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8348"
+            },
+            "names": [
+                "Blood-C"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9499",
+        "tvdb": "264529"
+    },
+    "names": [
+        "Bakumatsu Gijinden Roman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

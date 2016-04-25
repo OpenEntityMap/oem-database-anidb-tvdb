@@ -1,0 +1,77 @@
+{
+    "identifiers": {
+        "tvdb": "146401"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8512"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9265"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Inazuma Eleven GO vs Danball Senki W"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7703"
+            },
+            "names": [
+                "Gekijouban Inazuma Eleven: Saikyou Gundan Ogre Shuurai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6143"
+            },
+            "names": [
+                "Inazuma Eleven"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8381"
+            },
+            "names": [
+                "Inazuma Eleven GO"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "9045"
+            },
+            "names": [
+                "Inazuma Eleven GO: Chrono Stone"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "9867"
+            },
+            "names": [
+                "Inazuma Eleven GO: Galaxy"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6288",
+        "tvdb": "87861"
+    },
+    "names": [
+        "Pandora Hearts"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

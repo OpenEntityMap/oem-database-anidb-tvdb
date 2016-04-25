@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "141751"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1472"
+            },
+            "names": [
+                "Genma Taisen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1473"
+            },
+            "names": [
+                "Genma Taisen: Shinwa Zen'ya no Shou"
+            ]
+        }
+    }
+}

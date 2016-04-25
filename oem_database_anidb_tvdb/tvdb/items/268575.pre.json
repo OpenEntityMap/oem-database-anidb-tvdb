@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9714",
+        "tvdb": "268575"
+    },
+    "names": [
+        "Sparrow's Hotel"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

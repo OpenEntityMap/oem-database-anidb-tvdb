@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2336",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z Special: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

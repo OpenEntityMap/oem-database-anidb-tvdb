@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8913",
+        "tvdb": "257320"
+    },
+    "names": [
+        "Ozuma"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

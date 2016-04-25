@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "21",
+        "tvdb": "82677"
+    },
+    "names": [
+        "Full Moon o Sagashite"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

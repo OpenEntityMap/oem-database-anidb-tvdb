@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5223",
+        "tvdb": "81145"
+    },
+    "names": [
+        "Shion no Ou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

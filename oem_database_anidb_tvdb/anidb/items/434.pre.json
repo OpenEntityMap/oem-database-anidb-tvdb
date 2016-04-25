@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "434",
+        "tvdb": "85455"
+    },
+    "names": [
+        "Chuuka Ichiban"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

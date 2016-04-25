@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3449",
+        "tvdb": "83126"
+    },
+    "names": [
+        "Ginga Densetsu Weed"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

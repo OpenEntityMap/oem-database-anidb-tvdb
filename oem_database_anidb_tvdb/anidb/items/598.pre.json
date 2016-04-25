@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "598",
+        "tvdb": "74544"
+    },
+    "names": [
+        "Happy Lesson"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

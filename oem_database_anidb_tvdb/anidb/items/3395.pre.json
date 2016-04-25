@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "3395",
+        "tvdb": "79604"
+    },
+    "names": [
+        "Black Lagoon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4232",
+        "tvdb": "259842"
+    },
+    "names": [
+        "Majuu Sensen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

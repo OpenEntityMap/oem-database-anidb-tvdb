@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "191",
+        "tvdb": "79071"
+    },
+    "names": [
+        "GTO"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

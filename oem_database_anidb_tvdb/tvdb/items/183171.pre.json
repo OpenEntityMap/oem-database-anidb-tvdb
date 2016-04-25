@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "183171"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7528"
+            },
+            "names": [
+                "Alexander Senki Gekijouban"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1194"
+            },
+            "names": [
+                "Alexander Senki"
+            ]
+        }
+    }
+}

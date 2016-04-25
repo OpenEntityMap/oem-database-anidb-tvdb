@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9295",
+        "tvdb": "262110"
+    },
+    "names": [
+        "Haitai Nanafa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

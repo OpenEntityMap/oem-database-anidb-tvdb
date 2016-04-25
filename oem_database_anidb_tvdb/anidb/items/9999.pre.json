@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9999",
+        "tvdb": "279984"
+    },
+    "names": [
+        "Seirei Tsukai no Blade Dance"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

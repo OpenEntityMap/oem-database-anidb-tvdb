@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10963",
+        "tvdb": "76894"
+    },
+    "names": [
+        "Yuu Gi Ou: The Dark Side of Dimensions"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "14"
+    }
+}

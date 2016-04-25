@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9754",
+        "tvdb": "256705"
+    },
+    "names": [
+        "Uchuu Kyoudai: Itten no Hikari"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

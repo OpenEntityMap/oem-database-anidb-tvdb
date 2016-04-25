@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2844",
+        "tvdb": "82213"
+    },
+    "names": [
+        "Shuffle!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

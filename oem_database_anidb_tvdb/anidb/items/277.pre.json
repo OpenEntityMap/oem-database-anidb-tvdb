@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "277",
+        "tvdb": "72842"
+    },
+    "names": [
+        "Juubee Ninpuuchou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

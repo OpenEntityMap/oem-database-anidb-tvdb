@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "81844"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8946"
+            },
+            "names": [
+                "Chii's Sweet Home: Chii to Kocchi, Deau."
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5801"
+            },
+            "names": [
+                "Chii's Sweet Home"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6452"
+            },
+            "names": [
+                "Chii's Sweet Home: Atarashii O'uchi"
+            ]
+        }
+    }
+}

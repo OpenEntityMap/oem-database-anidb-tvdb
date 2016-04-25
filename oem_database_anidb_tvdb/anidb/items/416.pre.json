@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "416",
+        "tvdb": "76664"
+    },
+    "names": [
+        "Blue Gender"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

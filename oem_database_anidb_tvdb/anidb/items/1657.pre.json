@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1657",
+        "tvdb": "94701"
+    },
+    "names": [
+        "Devilman: Tanjou Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Oh! Production"
+    }
+}

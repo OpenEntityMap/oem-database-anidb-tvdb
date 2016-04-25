@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "288",
+        "tvdb": "71776"
+    },
+    "names": [
+        "Maison Ikkoku"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

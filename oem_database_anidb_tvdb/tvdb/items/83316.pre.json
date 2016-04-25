@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6032",
+        "tvdb": "83316"
+    },
+    "names": [
+        "Casshern Sins"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "identifiers": {
+        "tvdb": "70516"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "3380"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Message"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "3380"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Message"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "3379"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Kikoutei Densetsu"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "3379"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Kikoutei Densetsu"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "3379"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Kikoutei Densetsu"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "3379"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Kikoutei Densetsu"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "3380"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Message"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "3380"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Message"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "3380"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yoroiden Samurai Troopers Message"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "3377"
+            },
+            "names": [
+                "Yoroiden Samurai Troopers Gaiden"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "460"
+            },
+            "names": [
+                "Yoroiden Samurai Troopers"
+            ]
+        }
+    }
+}

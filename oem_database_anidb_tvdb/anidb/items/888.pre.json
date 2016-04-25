@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "888",
+        "tvdb": "82378"
+    },
+    "names": [
+        "Ojamajo Doremi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

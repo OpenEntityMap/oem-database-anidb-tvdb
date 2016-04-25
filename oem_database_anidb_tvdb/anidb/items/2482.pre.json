@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2482",
+        "tvdb": "250920"
+    },
+    "names": [
+        "Ribbon no Kishi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

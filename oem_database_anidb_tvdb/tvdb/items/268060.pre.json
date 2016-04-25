@@ -1,0 +1,19 @@
+{
+    "identifiers": {
+        "tvdb": "268060"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "808",
+                    "9693"
+                ]
+            },
+            "names": [
+                "Cyclops Shoujo Saipuu",
+                "Kero Kero Chime"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7599",
+        "tvdb": "83322"
+    },
+    "names": [
+        "Toaru Majutsu no Index II"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

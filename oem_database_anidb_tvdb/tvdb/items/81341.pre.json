@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "tvdb": "81341"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1497"
+            },
+            "names": [
+                "Jungle Taitei (1966)"
+            ],
+            "parameters": {
+                "episode_offset": "-1"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1496"
+            },
+            "names": [
+                "Jungle Taitei"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1498"
+            },
+            "names": [
+                "Jungle Taitei Susume Leo!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "identifiers": {
+        "tvdb": "73526"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "1735",
+                    "456"
+                ]
+            },
+            "names": [
+                "Burn-up",
+                "Burn-up W"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "493"
+            },
+            "names": [
+                "Burn-up Excess"
+            ]
+        }
+    }
+}

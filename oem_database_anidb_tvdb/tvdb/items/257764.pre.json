@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "257764"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9102"
+            },
+            "names": [
+                "Hyouka: Motsubeki Mono wa"
+            ],
+            "supplemental": {
+                "studio": "Kyoto Animation"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8855"
+            },
+            "names": [
+                "Hyouka"
+            ]
+        }
+    }
+}

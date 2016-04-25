@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "87",
+        "tvdb": "71444"
+    },
+    "names": [
+        "Fushigi Yuugi"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

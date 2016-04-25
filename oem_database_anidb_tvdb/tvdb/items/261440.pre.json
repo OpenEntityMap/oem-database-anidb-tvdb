@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1633",
+        "tvdb": "261440"
+    },
+    "names": [
+        "Moekan The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

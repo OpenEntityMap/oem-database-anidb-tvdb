@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10542",
+        "tvdb": "279804"
+    },
+    "names": [
+        "Gekkan Shoujo Nozaki-kun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

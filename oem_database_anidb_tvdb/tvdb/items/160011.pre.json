@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3075",
+        "tvdb": "160011"
+    },
+    "names": [
+        "Ashita Tenki ni Naare"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

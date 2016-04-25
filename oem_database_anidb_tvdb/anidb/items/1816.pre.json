@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1816",
+        "tvdb": "161911"
+    },
+    "names": [
+        "Toushi Gordian"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

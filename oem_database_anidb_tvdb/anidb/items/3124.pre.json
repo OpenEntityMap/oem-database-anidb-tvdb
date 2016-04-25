@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3124",
+        "tvdb": "213231"
+    },
+    "names": [
+        "Uchuu Taitei God Sigma"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

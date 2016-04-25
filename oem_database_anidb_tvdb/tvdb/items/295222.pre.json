@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "tvdb": "295222"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "11602"
+                    },
+                    "names": [
+                        "Gate: Jieitai Kanochi nite, Kaku Tatakaeri (2016)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10982"
+            },
+            "names": [
+                "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+            ]
+        }
+    }
+}

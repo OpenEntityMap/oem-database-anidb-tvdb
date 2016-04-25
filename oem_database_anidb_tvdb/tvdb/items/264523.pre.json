@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "264523"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9257"
+            },
+            "names": [
+                "Yama no Susume"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10293"
+            },
+            "names": [
+                "Yama no Susume: Second Season"
+            ]
+        }
+    }
+}

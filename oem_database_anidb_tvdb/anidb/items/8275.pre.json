@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8275",
+        "tvdb": "249873"
+    },
+    "names": [
+        "Kamisama Dolls"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

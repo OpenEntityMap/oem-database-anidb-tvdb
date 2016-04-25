@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "538",
+        "tvdb": "72901"
+    },
+    "names": [
+        "Majutsushi Orphen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

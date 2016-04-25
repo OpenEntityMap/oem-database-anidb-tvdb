@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5022",
+        "tvdb": "84864"
+    },
+    "names": [
+        "Koutetsushin Jeeg"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

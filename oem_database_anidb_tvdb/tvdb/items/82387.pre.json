@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "82387"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "954"
+            },
+            "names": [
+                "Mazinkaiser: Shitou! Ankoku Daishougun"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "953"
+            },
+            "names": [
+                "Mazinkaiser"
+            ]
+        }
+    }
+}

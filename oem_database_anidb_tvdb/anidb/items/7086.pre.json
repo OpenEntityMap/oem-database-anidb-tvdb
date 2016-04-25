@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7086",
+        "tvdb": "79882"
+    },
+    "names": [
+        "Harukanaru Toki no Naka de 3: Owarinaki Unmei"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

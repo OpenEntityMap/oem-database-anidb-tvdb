@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4556",
+        "tvdb": "81109"
+    },
+    "names": [
+        "Soukou no Strain"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11742",
+        "tvdb": "79654"
+    },
+    "names": [
+        "Eiga Crayon Shin-chan: Bakusui! Yumemi World Dai Totsugeki"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "23"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10291",
+        "tvdb": "276777"
+    },
+    "names": [
+        "Buddy Complex"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

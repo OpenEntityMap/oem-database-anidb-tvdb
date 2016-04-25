@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "784",
+        "tvdb": "83347"
+    },
+    "names": [
+        "Hitsuji no Uta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

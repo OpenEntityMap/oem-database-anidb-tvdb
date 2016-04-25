@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10859",
+        "tvdb": "275670"
+    },
+    "names": [
+        "Nisekoi:"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "145",
+        "tvdb": "70900"
+    },
+    "names": [
+        "Initial D Second Stage"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

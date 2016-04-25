@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1389",
+        "tvdb": "85301"
+    },
+    "names": [
+        "Ace o Nerae! Final Stage"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5786",
+        "tvdb": "82807"
+    },
+    "names": [
+        "Sekirei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

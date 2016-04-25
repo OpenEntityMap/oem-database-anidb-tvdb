@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9437",
+        "tvdb": "245821"
+    },
+    "names": [
+        "Cardfight!! Vanguard: Link Joker Hen"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

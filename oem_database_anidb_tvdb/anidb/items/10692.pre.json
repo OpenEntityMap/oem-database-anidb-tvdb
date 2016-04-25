@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10692",
+        "tvdb": "284169"
+    },
+    "names": [
+        "Isuca"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

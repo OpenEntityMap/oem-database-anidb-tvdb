@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "tvdb": "264663"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "10688"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Date a Live: Mayuri Judgement"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9734"
+            },
+            "names": [
+                "Date a Live: Date to Date"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8808"
+            },
+            "names": [
+                "Date a Live"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9935"
+            },
+            "names": [
+                "Date a Live II"
+            ]
+        }
+    }
+}

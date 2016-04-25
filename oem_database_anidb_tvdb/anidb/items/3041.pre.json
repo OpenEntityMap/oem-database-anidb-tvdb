@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3041",
+        "tvdb": "79156"
+    },
+    "names": [
+        "Shin Kyuuseishu Densetsu Hokuto no Ken Toki-den"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

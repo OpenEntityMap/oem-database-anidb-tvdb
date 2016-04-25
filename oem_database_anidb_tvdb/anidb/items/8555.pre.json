@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8555",
+        "tvdb": "259636"
+    },
+    "names": [
+        "Cross Fight B-Daman"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

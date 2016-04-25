@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "2136",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: 1$ Money Wars"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

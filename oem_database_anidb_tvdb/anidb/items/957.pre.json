@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "957",
+        "tvdb": "93721"
+    },
+    "names": [
+        "Yuusha Ou GaoGaiGar"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

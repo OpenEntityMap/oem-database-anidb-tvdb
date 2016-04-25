@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "354",
+        "tvdb": "72832"
+    },
+    "names": [
+        "Kamikaze Kaitou Jeanne"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

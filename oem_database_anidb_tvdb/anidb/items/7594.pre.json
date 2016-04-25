@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7594",
+        "tvdb": "259890"
+    },
+    "names": [
+        "Ankoku Cat"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4201",
+        "tvdb": "156481"
+    },
+    "names": [
+        "Beast Wars Second Chou Seimeitai Transformers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9091",
+        "tvdb": "263445"
+    },
+    "names": [
+        "Aoi Sekai no Chuushin de"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

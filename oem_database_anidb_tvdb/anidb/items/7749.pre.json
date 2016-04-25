@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7749",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Sore Ike! Anpanman: Bokura wa Hero"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

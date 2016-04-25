@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1009",
+        "tvdb": "85199"
+    },
+    "names": [
+        "Tanoshii Muumin Ikka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

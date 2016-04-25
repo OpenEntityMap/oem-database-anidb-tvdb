@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9677",
+        "tvdb": "272128"
+    },
+    "names": [
+        "Log Horizon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "554",
+        "tvdb": "182921"
+    },
+    "names": [
+        "Bishoujo Yuugekitai Battle Skipper"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

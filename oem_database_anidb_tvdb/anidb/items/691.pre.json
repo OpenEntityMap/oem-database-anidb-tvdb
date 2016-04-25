@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "691",
+        "tvdb": "85312"
+    },
+    "names": [
+        "Legend of Crystania"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

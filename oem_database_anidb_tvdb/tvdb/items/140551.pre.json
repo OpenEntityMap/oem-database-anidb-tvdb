@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "928",
+        "tvdb": "140551"
+    },
+    "names": [
+        "Kakugo no Susume"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "257951"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8967"
+            },
+            "names": [
+                "Gakkatsu!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9657"
+            },
+            "names": [
+                "Gakkatsu! (2013)"
+            ]
+        }
+    }
+}

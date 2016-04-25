@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5611",
+        "tvdb": "97771"
+    },
+    "names": [
+        "Batman: Gotham Knight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

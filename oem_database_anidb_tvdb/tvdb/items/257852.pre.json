@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8852",
+        "tvdb": "257852"
+    },
+    "names": [
+        "Tasogare Otome x Amnesia"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "505",
+        "tvdb": "84045"
+    },
+    "names": [
+        "Captain Tsubasa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

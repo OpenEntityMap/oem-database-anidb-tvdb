@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "265386"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9455"
+            },
+            "names": [
+                "Puchimas! Wakku Waku!!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9445"
+            },
+            "names": [
+                "Puchimas! Petit Idolmaster"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10135"
+            },
+            "names": [
+                "Puchimas!! Petit Petit Idolmaster"
+            ]
+        }
+    }
+}

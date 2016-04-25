@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2022",
+        "tvdb": "81183"
+    },
+    "names": [
+        "Misutenaide Daisy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

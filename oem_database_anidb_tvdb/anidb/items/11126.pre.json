@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11126",
+        "tvdb": "299506"
+    },
+    "names": [
+        "Rakudai Kishi no Cavalry"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

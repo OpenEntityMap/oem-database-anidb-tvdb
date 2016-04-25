@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "257887"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8991"
+            },
+            "names": [
+                "Upotte!!: Miatte Waratte"
+            ],
+            "supplemental": {
+                "studio": "Xebec"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8829"
+            },
+            "names": [
+                "Upotte!!"
+            ]
+        }
+    }
+}

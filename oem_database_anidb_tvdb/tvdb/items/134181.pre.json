@@ -1,0 +1,93 @@
+{
+    "identifiers": {
+        "tvdb": "134181"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "17": {
+                    "identifiers": {
+                        "anidb": "7971"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Seikon no Qwaser: Jotei no Shouzou"
+                    ]
+                },
+                "18": {
+                    "identifiers": {
+                        "anidb": "8154"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Seikon no Qwaser II"
+                    ]
+                },
+                "19": {
+                    "identifiers": {
+                        "anidb": "8154"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Seikon no Qwaser II"
+                    ]
+                },
+                "20": {
+                    "identifiers": {
+                        "anidb": "8154"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Seikon no Qwaser II"
+                    ]
+                },
+                "21": {
+                    "identifiers": {
+                        "anidb": "8154"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Seikon no Qwaser II"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6816"
+            },
+            "names": [
+                "Seikon no Qwaser"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8154"
+            },
+            "names": [
+                "Seikon no Qwaser II"
+            ]
+        }
+    }
+}

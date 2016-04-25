@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "7257",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters Diamond & Pearl: Gen'ei no Hasha Zoroark"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

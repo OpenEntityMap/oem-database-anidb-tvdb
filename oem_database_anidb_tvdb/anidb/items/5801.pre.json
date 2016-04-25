@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5801",
+        "tvdb": "81844"
+    },
+    "names": [
+        "Chii's Sweet Home"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

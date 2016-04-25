@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1058",
+        "tvdb": "258124"
+    },
+    "names": [
+        "F-Zero Falcon Densetsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

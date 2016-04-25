@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8612",
+        "tvdb": "189371"
+    },
+    "names": [
+        "Gekijouban Geisters Inochi no Shou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

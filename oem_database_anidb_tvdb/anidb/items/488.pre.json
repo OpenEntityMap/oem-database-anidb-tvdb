@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "488",
+        "tvdb": "80587"
+    },
+    "names": [
+        "Gensou Maden Saiyuuki"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

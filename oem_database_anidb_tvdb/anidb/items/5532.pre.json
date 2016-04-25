@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5532",
+        "tvdb": "84230"
+    },
+    "names": [
+        "Junjou Romantica"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

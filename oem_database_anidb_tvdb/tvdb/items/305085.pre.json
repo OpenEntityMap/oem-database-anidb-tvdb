@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11568",
+        "tvdb": "305085"
+    },
+    "names": [
+        "Sansha Sanyou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

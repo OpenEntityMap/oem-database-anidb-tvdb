@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10272",
+        "tvdb": "279831"
+    },
+    "names": [
+        "Kiseijuu: Sei no Kakuritsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

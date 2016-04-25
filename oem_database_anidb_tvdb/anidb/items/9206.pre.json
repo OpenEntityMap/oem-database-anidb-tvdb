@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9206",
+        "tvdb": "251908"
+    },
+    "names": [
+        "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

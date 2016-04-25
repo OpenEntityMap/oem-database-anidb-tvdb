@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1300",
+        "tvdb": "120151"
+    },
+    "names": [
+        "Ningyo no Kizu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

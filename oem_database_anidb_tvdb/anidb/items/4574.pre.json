@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4574",
+        "tvdb": "80921"
+    },
+    "names": [
+        "Kekkaishi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

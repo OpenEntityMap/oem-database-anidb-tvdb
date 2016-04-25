@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "925",
+        "tvdb": "258267"
+    },
+    "names": [
+        "Miyuki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

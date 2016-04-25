@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2742",
+        "tvdb": "80819"
+    },
+    "names": [
+        "Jinki:Extend"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3390",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Conan vs Kid vs Yaiba"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

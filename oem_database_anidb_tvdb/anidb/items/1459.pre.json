@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1459",
+        "tvdb": "115141"
+    },
+    "names": [
+        "Kikou Kai Galient"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

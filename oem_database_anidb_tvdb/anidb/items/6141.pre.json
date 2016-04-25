@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6141",
+        "tvdb": "76932"
+    },
+    "names": [
+        "Ranma 1/2: Akumu! Shunmin Kou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

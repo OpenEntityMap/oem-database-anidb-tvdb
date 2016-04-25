@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8181",
+        "tvdb": "247958"
+    },
+    "names": [
+        "Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

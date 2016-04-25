@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "5087",
+        "tvdb": "72471"
+    },
+    "names": [
+        "Kiddy Grade III: Truth Dawn"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Gonzo Digimation"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11595",
+        "tvdb": "304491"
+    },
+    "names": [
+        "Ooya-san wa Shishunki!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

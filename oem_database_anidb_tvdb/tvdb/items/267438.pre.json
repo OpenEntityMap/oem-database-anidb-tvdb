@@ -1,0 +1,19 @@
+{
+    "identifiers": {
+        "tvdb": "267438"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "9186",
+                    "9334"
+                ]
+            },
+            "names": [
+                "Karneval (2013)",
+                "Karneval"
+            ]
+        }
+    }
+}

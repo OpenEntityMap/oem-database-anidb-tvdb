@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10281",
+        "tvdb": "278153"
+    },
+    "names": [
+        "Disk Wars: Avengers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4022",
+        "tvdb": "81100"
+    },
+    "names": [
+        "Inukami!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

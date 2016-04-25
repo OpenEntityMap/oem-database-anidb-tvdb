@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9144",
+        "tvdb": "255848"
+    },
+    "names": [
+        "Yurumates (2012)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

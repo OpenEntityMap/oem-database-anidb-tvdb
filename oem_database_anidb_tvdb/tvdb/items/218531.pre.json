@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7931",
+        "tvdb": "218531"
+    },
+    "names": [
+        "Rio: Rainbow Gate!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

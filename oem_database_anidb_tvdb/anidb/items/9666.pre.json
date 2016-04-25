@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9666",
+        "tvdb": "267439"
+    },
+    "names": [
+        "Mushibugyou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

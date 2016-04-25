@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "208",
+        "tvdb": "152531"
+    },
+    "names": [
+        "El-Hazard: The Magnificent World"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

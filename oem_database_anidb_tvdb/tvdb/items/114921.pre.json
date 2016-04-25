@@ -1,0 +1,67 @@
+{
+    "identifiers": {
+        "tvdb": "114921"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "4": {
+                    "identifiers": {
+                        "anidb": "7975"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "9484"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Toaru Kagaku no Railgun S"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "9484"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Toaru Kagaku no Railgun S"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6460"
+            },
+            "names": [
+                "Toaru Kagaku no Railgun"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9484"
+            },
+            "names": [
+                "Toaru Kagaku no Railgun S"
+            ]
+        }
+    }
+}

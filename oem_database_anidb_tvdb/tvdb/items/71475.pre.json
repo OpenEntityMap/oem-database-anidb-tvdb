@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2077",
+        "tvdb": "71475"
+    },
+    "names": [
+        "Transformers: The Headmasters"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

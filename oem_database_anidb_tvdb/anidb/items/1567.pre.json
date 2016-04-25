@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1567",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter: Bay City Wars"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

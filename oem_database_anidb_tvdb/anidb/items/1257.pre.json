@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1257",
+        "tvdb": "72217"
+    },
+    "names": [
+        "Kagaku Kyuujo-tai TechnoVoyager"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

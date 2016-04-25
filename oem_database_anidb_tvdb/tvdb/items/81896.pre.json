@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1533",
+        "tvdb": "81896"
+    },
+    "names": [
+        "Souryuuden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

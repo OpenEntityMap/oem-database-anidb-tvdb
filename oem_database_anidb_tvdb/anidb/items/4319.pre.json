@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4319",
+        "tvdb": "128411"
+    },
+    "names": [
+        "Majime ni Fumajime Kaiketsu Zorori Nazo no Otakara Daisakusen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

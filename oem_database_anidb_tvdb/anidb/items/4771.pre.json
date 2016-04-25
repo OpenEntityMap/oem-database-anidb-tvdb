@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4771",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Savers The Movie: Kyuukyoku Power! Burst Mode Hatsudou!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

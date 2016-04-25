@@ -1,0 +1,75 @@
+{
+    "identifiers": {
+        "tvdb": "85064"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "2266"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wind: A Breath of Heart OVA"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "2266"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wind: A Breath of Heart OVA"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "2266"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wind: A Breath of Heart OVA"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "1038"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wind: A Breath of Heart"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2147"
+            },
+            "names": [
+                "Wind: A Breath of Heart (2004)"
+            ]
+        }
+    }
+}

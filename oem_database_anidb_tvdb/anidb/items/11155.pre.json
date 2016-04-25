@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11155",
+        "tvdb": "270065"
+    },
+    "names": [
+        "Eiga High Speed!: Free! Starting Days"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "8"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1450",
+        "tvdb": "73887"
+    },
+    "names": [
+        "Kagaku Ninjatai Gatchaman Fighter"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "2557",
+        "tvdb": "83105"
+    },
+    "names": [
+        "Touch 2: Sayonara no Okurimono"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

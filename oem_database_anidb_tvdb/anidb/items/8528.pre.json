@@ -1,0 +1,52 @@
+{
+    "identifiers": {
+        "anidb": "8528",
+        "tvdb": "87491"
+    },
+    "names": [
+        "Queen's Blade"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "20"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "22"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9199",
+        "tvdb": "265138"
+    },
+    "names": [
+        "Oshiri Kajiri Mushi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

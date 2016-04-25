@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5558",
+        "tvdb": "81999"
+    },
+    "names": [
+        "Toshokan Sensou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

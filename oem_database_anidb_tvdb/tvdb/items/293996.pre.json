@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11177",
+        "tvdb": "293996"
+    },
+    "names": [
+        "Gakusen Toshi Asterisk"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2838",
+        "tvdb": "150771"
+    },
+    "names": [
+        "Taiko no Tatsujin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "184211"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "26": {
+                    "identifiers": {
+                        "anidb": "7540"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kaibutsu-kun: Demon no Ken"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7539"
+            },
+            "names": [
+                "Kaibutsu-kun: Kaibutsu Land e no Shoutai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5906"
+            },
+            "names": [
+                "Kaibutsu-kun (1980)"
+            ]
+        }
+    }
+}

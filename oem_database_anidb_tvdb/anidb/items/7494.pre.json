@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7494",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Kid in Trap Island"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

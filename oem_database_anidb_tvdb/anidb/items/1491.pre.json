@@ -1,0 +1,78 @@
+{
+    "identifiers": {
+        "anidb": "1491",
+        "tvdb": "232511"
+    },
+    "names": [
+        "Ryuuseiki Gakusaver"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "6",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

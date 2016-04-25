@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1867",
+        "tvdb": "98331"
+    },
+    "names": [
+        "Kekkou Kamen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

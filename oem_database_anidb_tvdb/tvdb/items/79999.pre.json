@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5025",
+        "tvdb": "79999"
+    },
+    "names": [
+        "Heroic Age"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

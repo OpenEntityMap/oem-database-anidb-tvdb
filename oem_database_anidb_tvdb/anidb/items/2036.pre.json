@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "anidb": "2036",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece: Norowareta Seiken"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

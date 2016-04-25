@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "tvdb": "82965"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2058"
+            },
+            "names": [
+                "Crusher Joe"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2057"
+            },
+            "names": [
+                "Crusher Joe (1989)"
+            ]
+        }
+    }
+}

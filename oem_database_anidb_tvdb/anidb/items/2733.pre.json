@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2733",
+        "tvdb": "76023"
+    },
+    "names": [
+        "Tsubasa Chronicle"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

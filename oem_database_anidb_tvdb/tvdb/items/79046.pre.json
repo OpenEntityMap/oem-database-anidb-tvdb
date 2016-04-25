@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "518",
+        "tvdb": "79046"
+    },
+    "names": [
+        "Gunparade March: Aratanaru Kougunka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

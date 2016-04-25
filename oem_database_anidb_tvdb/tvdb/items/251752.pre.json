@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "tvdb": "251752"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "1784"
+                    },
+                    "names": [
+                        "Rokushin Gattai GodMars: Juunanasai no Densetsu"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "968"
+            },
+            "names": [
+                "Rokushin Gattai GodMars (1982)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "967"
+            },
+            "names": [
+                "Rokushin Gattai GodMars"
+            ]
+        }
+    }
+}

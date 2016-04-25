@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "74504"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4012"
+            },
+            "names": [
+                "Fairy Princess Minky Momo: Yume no Naka no Rondo"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1635"
+            },
+            "names": [
+                "Mahou no Princess Minky Momo"
+            ]
+        }
+    }
+}

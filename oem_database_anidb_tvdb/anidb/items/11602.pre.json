@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11602",
+        "tvdb": "295222"
+    },
+    "names": [
+        "Gate: Jieitai Kanochi nite, Kaku Tatakaeri (2016)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}

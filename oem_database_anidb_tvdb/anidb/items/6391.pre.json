@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6391",
+        "tvdb": "256347"
+    },
+    "names": [
+        "Mainichi Kaa-san"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

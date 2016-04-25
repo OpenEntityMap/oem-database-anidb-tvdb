@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "155",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers Special"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "J.C.Staff"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "358",
+        "tvdb": "79064"
+    },
+    "names": [
+        "Tenchi Muyou! GXP"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

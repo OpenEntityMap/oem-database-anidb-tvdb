@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2710",
+        "tvdb": "78914"
+    },
+    "names": [
+        "Fullmetal Panic! The Second Raid"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

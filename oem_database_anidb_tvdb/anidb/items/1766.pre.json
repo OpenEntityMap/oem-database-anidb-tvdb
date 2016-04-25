@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1766",
+        "tvdb": "82378"
+    },
+    "names": [
+        "Motto! Ojamajo Doremi"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9359",
+        "tvdb": "262105"
+    },
+    "names": [
+        "Litchi De Hikari Club"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

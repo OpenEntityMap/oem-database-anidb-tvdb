@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "259",
+        "tvdb": "79289"
+    },
+    "names": [
+        "Galaxy Angel Z"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

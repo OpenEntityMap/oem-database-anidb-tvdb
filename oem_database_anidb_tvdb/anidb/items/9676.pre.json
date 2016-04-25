@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9676",
+        "tvdb": "78919"
+    },
+    "names": [
+        "Genshiken Nidaime"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

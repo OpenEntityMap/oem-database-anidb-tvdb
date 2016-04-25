@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8722",
+        "tvdb": "256182"
+    },
+    "names": [
+        "High Score"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

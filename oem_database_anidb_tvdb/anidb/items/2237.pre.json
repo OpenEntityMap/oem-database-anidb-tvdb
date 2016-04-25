@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2237",
+        "tvdb": "138421"
+    },
+    "names": [
+        "Groizer X"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

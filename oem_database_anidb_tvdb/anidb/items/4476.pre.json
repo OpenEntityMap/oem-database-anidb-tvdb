@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4476",
+        "tvdb": "79474"
+    },
+    "names": [
+        "Flag"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

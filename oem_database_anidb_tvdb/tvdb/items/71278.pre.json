@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "32",
+        "tvdb": "71278"
+    },
+    "names": [
+        "Hellsing"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Gonzo Digimation"
+    }
+}

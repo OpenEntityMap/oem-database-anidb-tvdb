@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "781",
+        "tvdb": "82873"
+    },
+    "names": [
+        "Cinderella Boy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

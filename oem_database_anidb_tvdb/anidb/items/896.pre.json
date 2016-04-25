@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "896",
+        "tvdb": "79108"
+    },
+    "names": [
+        "Kimi ga Nozomu Eien"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 7,
+                    "offset": 3,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

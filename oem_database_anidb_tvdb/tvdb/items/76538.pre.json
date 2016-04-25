@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "345",
+        "tvdb": "76538"
+    },
+    "names": [
+        "Bubblegum Crisis Tokyo 2040"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

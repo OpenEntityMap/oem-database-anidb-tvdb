@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "tvdb": "81832"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "3392"
+            },
+            "names": [
+                "Macross Plus Movie Edition"
+            ],
+            "supplemental": {
+                "studio": "Triangle Staff"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "67"
+            },
+            "names": [
+                "Macross Plus"
+            ],
+            "supplemental": {
+                "studio": "Triangle Staff"
+            }
+        }
+    }
+}

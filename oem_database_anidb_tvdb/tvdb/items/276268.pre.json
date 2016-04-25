@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1615",
+        "tvdb": "276268"
+    },
+    "names": [
+        "Seijuuki Cyguard"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

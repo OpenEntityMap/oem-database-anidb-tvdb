@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14",
+        "tvdb": "72720"
+    },
+    "names": [
+        "RahXephon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

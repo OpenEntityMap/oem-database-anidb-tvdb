@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7602",
+        "tvdb": "182081"
+    },
+    "names": [
+        "Kuttsukiboshi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "111131"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "947"
+            },
+            "names": [
+                "Grimm Meisaku Gekijou"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1751"
+            },
+            "names": [
+                "Shin Grimm Meisaku Gekijou"
+            ]
+        }
+    }
+}

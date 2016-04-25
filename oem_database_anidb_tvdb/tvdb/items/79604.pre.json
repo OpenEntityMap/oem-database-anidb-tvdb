@@ -1,0 +1,96 @@
+{
+    "identifiers": {
+        "tvdb": "79604"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "4597"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Black Lagoon: The Second Barrage"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "4597"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Black Lagoon: The Second Barrage"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "4597"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Black Lagoon: The Second Barrage"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "6645"
+                    },
+                    "names": [
+                        "Black Lagoon: Roberta's Blood Trail"
+                    ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    }
+                }
+            },
+            "mappings": [
+                {
+                    "end": 17,
+                    "identifiers": {
+                        "anidb": "6645"
+                    },
+                    "names": [
+                        "Black Lagoon: Roberta's Blood Trail"
+                    ],
+                    "offset": -12,
+                    "season": "0",
+                    "start": 13
+                }
+            ]
+        },
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "4597"
+                    },
+                    "names": [
+                        "Black Lagoon: The Second Barrage"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "3395"
+            },
+            "names": [
+                "Black Lagoon"
+            ]
+        }
+    }
+}

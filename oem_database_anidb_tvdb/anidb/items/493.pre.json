@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "493",
+        "tvdb": "73526"
+    },
+    "names": [
+        "Burn-up Excess"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

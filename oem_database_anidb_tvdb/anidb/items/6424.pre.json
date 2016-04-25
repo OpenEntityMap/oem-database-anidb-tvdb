@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6424",
+        "tvdb": "87901"
+    },
+    "names": [
+        "Cross Game"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

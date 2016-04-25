@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "tvdb": "79109"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "258"
+            },
+            "names": [
+                "Nurse Witch Komugi-chan Magikarte"
+            ]
+        },
+        "2": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2575"
+            },
+            "names": [
+                "Nurse Witch Komugi-chan Magikarte Z"
+            ]
+        }
+    }
+}

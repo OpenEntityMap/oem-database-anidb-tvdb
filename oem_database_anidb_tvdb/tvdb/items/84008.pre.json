@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4335",
+        "tvdb": "84008"
+    },
+    "names": [
+        "Galaxy Angel Rune"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

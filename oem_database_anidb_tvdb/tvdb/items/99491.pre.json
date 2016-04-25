@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "99491"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "3326"
+            },
+            "names": [
+                "Kingyo Chuuihou! (1992)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2088"
+            },
+            "names": [
+                "Kingyo Chuuihou!"
+            ]
+        }
+    }
+}

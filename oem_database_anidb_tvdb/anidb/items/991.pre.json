@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "991",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters: Celebi Toki o Koeta Deai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

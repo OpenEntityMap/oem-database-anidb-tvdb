@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4403",
+        "tvdb": "80044"
+    },
+    "names": [
+        "Seirei no Moribito"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

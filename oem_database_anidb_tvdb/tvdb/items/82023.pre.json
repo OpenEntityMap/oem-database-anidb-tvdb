@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "104",
+        "tvdb": "82023"
+    },
+    "names": [
+        "Hoshi no Koe"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "CoMix Wave"
+    }
+}

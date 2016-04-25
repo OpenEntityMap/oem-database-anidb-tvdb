@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "68",
+        "tvdb": "73247"
+    },
+    "names": [
+        "Bubblegum Crisis"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

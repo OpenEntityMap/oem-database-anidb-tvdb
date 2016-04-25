@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1912",
+        "tvdb": "261250"
+    },
+    "names": [
+        "Machine Hayabusa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

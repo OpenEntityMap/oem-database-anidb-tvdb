@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6947",
+        "tvdb": "81427"
+    },
+    "names": [
+        "Shugo Chara Party!"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

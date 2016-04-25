@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "42",
+        "tvdb": "72412"
+    },
+    "names": [
+        "Shadow Skill (1998)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

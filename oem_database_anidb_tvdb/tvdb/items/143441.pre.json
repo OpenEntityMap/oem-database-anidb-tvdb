@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4502",
+        "tvdb": "143441"
+    },
+    "names": [
+        "Hoshizora Kiseki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

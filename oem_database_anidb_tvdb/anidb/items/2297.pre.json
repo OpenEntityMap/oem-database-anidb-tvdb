@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2297",
+        "tvdb": "133811"
+    },
+    "names": [
+        "Ai Shoujo Pollyanna Story"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Nippon Animation"
+    }
+}

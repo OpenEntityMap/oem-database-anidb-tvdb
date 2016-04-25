@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "1342",
+        "tvdb": "72776"
+    },
+    "names": [
+        "Transformers: SuperLink"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 52,
+                    "offset": -1,
+                    "season": "1",
+                    "start": 45
+                }
+            ]
+        }
+    }
+}

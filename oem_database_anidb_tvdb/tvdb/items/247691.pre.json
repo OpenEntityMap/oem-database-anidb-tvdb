@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "tvdb": "247691"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8597"
+            },
+            "names": [
+                "A Channel +Smile"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8107"
+            },
+            "names": [
+                "A Channel: The Animation"
+            ]
+        }
+    }
+}

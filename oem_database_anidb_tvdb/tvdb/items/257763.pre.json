@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8916",
+        "tvdb": "257763"
+    },
+    "names": [
+        "Tsuritama"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

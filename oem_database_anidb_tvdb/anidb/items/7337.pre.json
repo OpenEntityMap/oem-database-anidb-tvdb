@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7337",
+        "tvdb": "77344"
+    },
+    "names": [
+        "Pecola"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

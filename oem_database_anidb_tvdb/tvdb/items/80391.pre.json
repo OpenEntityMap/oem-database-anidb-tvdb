@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "3450",
+        "tvdb": "80391"
+    },
+    "names": [
+        "IGPX: Immortal Grand Prix (2005)"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "2": {
+            "episodes": {
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

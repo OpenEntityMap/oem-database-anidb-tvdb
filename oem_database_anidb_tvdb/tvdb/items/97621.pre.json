@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "97621"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "5904"
+            },
+            "names": [
+                "Fireball"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8051"
+            },
+            "names": [
+                "Fireball Charming"
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "255904"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8939"
+            },
+            "names": [
+                "Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8819"
+            },
+            "names": [
+                "Smile Precure!"
+            ]
+        }
+    }
+}

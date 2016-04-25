@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "36",
+        "tvdb": "82719"
+    },
+    "names": [
+        "Iketeru Futari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

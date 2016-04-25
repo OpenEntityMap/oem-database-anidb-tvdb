@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1033",
+        "tvdb": "81723"
+    },
+    "names": [
+        "Uchuu no Kishi Tekkaman Blade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

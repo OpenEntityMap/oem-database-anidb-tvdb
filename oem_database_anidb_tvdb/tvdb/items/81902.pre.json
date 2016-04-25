@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3506",
+        "tvdb": "81902"
+    },
+    "names": [
+        "Black Jack: Futari no Kuroi Isha"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7874",
+        "tvdb": "246521"
+    },
+    "names": [
+        "Hanasaku Iroha"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10372",
+        "tvdb": "284211"
+    },
+    "names": [
+        "Ushinawareta Mirai o Motomete"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

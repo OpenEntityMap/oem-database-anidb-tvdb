@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "2094",
+        "tvdb": "157001"
+    },
+    "names": [
+        "Dragon Quest: Dai no Daibouken - Buchiyabure!! Shinsei 6 Daishougun"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

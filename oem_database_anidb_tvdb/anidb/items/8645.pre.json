@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8645",
+        "tvdb": "260746"
+    },
+    "names": [
+        "Chibi Devi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

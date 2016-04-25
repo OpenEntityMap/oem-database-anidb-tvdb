@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "anidb": "6271",
+        "tvdb": "153881"
+    },
+    "names": [
+        "Kowarekake no Orgel"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Electromagnetic Wave"
+    }
+}

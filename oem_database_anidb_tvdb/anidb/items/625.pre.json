@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "625",
+        "tvdb": "70900"
+    },
+    "names": [
+        "Initial D Third Stage"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

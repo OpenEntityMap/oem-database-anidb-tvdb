@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "84591"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "6087"
+            },
+            "names": [
+                "Maria Holic"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8041"
+            },
+            "names": [
+                "Maria Holic Alive"
+            ]
+        }
+    }
+}

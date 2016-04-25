@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "259589"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2829"
+            },
+            "names": [
+                "Fushigiboshi no Futago Hime"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4278"
+            },
+            "names": [
+                "Fushigiboshi no Futago Hime Gyu!"
+            ]
+        }
+    }
+}

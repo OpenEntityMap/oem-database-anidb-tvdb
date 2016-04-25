@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "2113",
+        "tvdb": "138691"
+    },
+    "names": [
+        "Gall Force 3: Stardust War"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

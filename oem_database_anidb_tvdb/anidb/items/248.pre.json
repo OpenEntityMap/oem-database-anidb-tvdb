@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "248",
+        "tvdb": "78917"
+    },
+    "names": [
+        "Gate Keepers 21"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Gonzo Digimation"
+    }
+}

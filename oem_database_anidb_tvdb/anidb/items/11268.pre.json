@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11268",
+        "tvdb": "281249"
+    },
+    "names": [
+        "OVA Tokyo Ghoul"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

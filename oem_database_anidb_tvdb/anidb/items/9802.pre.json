@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9802",
+        "tvdb": "254652"
+    },
+    "names": [
+        "Recorder to Ransel Mi"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

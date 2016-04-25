@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "72901"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "538"
+            },
+            "names": [
+                "Majutsushi Orphen"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "678"
+            },
+            "names": [
+                "Majutsushi Orphen Revenge"
+            ]
+        }
+    }
+}

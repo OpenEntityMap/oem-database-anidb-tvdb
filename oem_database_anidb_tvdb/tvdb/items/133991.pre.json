@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "597",
+        "tvdb": "133991"
+    },
+    "names": [
+        "Choujuu Densetsu Gestalt"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

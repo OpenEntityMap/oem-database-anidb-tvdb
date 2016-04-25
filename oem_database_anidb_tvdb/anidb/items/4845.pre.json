@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4845",
+        "tvdb": "258961"
+    },
+    "names": [
+        "Nanako SOS"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

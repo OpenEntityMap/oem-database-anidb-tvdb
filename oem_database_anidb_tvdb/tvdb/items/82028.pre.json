@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "82028"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2579"
+            },
+            "names": [
+                "Ring ni Kakero 1"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4415"
+            },
+            "names": [
+                "Ring ni Kakero 1: Nichibei Kessen Hen"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "7274"
+            },
+            "names": [
+                "Ring ni Kakero 1: Shadow"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "8153"
+            },
+            "names": [
+                "Ring ni Kakero 1: Sekai Taikai Hen"
+            ]
+        }
+    }
+}

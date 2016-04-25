@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "447",
+        "tvdb": "79099"
+    },
+    "names": [
+        ".hack//Tasogare no Udewa Densetsu"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "80811"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "5029"
+            },
+            "names": [
+                "Kodomo no Jikan (2007)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6091"
+            },
+            "names": [
+                "Kodomo no Jikan: Ni Gakki"
+            ]
+        }
+    }
+}

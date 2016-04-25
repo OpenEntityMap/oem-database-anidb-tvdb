@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10407",
+        "tvdb": "280329"
+    },
+    "names": [
+        "Akame ga Kill!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "identifiers": {
+        "tvdb": "87881"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "17": {
+                    "identifiers": {
+                        "anidb": "8203"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Sengoku Basara: The Last Party"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "6284"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Sengoku Basara"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6284"
+            },
+            "names": [
+                "Sengoku Basara"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7490"
+            },
+            "names": [
+                "Sengoku Basara Ni"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "10406"
+            },
+            "names": [
+                "Sengoku Basara: Judge End"
+            ]
+        }
+    }
+}

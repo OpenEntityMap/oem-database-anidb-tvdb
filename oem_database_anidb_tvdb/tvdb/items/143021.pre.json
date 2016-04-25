@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6324",
+        "tvdb": "143021"
+    },
+    "names": [
+        "Examurai Sengoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

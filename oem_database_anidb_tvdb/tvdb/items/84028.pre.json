@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4238",
+        "tvdb": "84028"
+    },
+    "names": [
+        "Princess Princess"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

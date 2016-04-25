@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "400",
+        "tvdb": "82029"
+    },
+    "names": [
+        "Sakura Taisen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

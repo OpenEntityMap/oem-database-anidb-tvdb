@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1472",
+        "tvdb": "141751"
+    },
+    "names": [
+        "Genma Taisen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

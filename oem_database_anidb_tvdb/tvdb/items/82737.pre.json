@@ -1,0 +1,1242 @@
+{
+    "identifiers": {
+        "anidb": "2737",
+        "tvdb": "82737"
+    },
+    "names": [
+        "Gera Gera Booth Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "100": {
+                    "mappings": [
+                        {
+                            "number": "52",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "101": {
+                    "mappings": [
+                        {
+                            "number": "49",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "102": {
+                    "mappings": [
+                        {
+                            "number": "52",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "103": {
+                    "mappings": [
+                        {
+                            "number": "51",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "27": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "28": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "29": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "30": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "31": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "32": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "34": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "35": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "36": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "37": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "38": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "40": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "41": {
+                    "mappings": [
+                        {
+                            "number": "20",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "42": {
+                    "mappings": [
+                        {
+                            "number": "21",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "43": {
+                    "mappings": [
+                        {
+                            "number": "22",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "44": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "45": {
+                    "mappings": [
+                        {
+                            "number": "22",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "46": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "47": {
+                    "mappings": [
+                        {
+                            "number": "24",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "48": {
+                    "mappings": [
+                        {
+                            "number": "24",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "49": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "50": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "51": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "52": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "53": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "54": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "55": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "56": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "57": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "58": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "59": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "60": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "61": {
+                    "mappings": [
+                        {
+                            "number": "31",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "62": {
+                    "mappings": [
+                        {
+                            "number": "32",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "63": {
+                    "mappings": [
+                        {
+                            "number": "31",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "64": {
+                    "mappings": [
+                        {
+                            "number": "32",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "65": {
+                    "mappings": [
+                        {
+                            "number": "35",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "66": {
+                    "mappings": [
+                        {
+                            "number": "34",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "67": {
+                    "mappings": [
+                        {
+                            "number": "33",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "68": {
+                    "mappings": [
+                        {
+                            "number": "33",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "69": {
+                    "mappings": [
+                        {
+                            "number": "34",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "70": {
+                    "mappings": [
+                        {
+                            "number": "36",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "71": {
+                    "mappings": [
+                        {
+                            "number": "35",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "72": {
+                    "mappings": [
+                        {
+                            "number": "36",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "73": {
+                    "mappings": [
+                        {
+                            "number": "48",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "74": {
+                    "mappings": [
+                        {
+                            "number": "38",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "75": {
+                    "mappings": [
+                        {
+                            "number": "40",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "76": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "77": {
+                    "mappings": [
+                        {
+                            "number": "38",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "78": {
+                    "mappings": [
+                        {
+                            "number": "43",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "79": {
+                    "mappings": [
+                        {
+                            "number": "39",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "80": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "81": {
+                    "mappings": [
+                        {
+                            "number": "39",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "82": {
+                    "mappings": [
+                        {
+                            "number": "41",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "83": {
+                    "mappings": [
+                        {
+                            "number": "42",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "84": {
+                    "mappings": [
+                        {
+                            "number": "42",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "85": {
+                    "mappings": [
+                        {
+                            "number": "43",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "86": {
+                    "mappings": [
+                        {
+                            "number": "50",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "87": {
+                    "mappings": [
+                        {
+                            "number": "45",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "88": {
+                    "mappings": [
+                        {
+                            "number": "41",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "89": {
+                    "mappings": [
+                        {
+                            "number": "49",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "90": {
+                    "mappings": [
+                        {
+                            "number": "44",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "91": {
+                    "mappings": [
+                        {
+                            "number": "47",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "92": {
+                    "mappings": [
+                        {
+                            "number": "44",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "93": {
+                    "mappings": [
+                        {
+                            "number": "46",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "94": {
+                    "mappings": [
+                        {
+                            "number": "48",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "95": {
+                    "mappings": [
+                        {
+                            "number": "47",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "96": {
+                    "mappings": [
+                        {
+                            "number": "51",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "97": {
+                    "mappings": [
+                        {
+                            "number": "50",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                },
+                "98": {
+                    "mappings": [
+                        {
+                            "number": "46",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

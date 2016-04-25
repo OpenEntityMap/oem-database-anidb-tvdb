@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2463",
+        "tvdb": "82595"
+    },
+    "names": [
+        "Shin Seiki GPX Cyber Formula Double One"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

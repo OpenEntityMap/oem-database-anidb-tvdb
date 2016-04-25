@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "128",
+        "tvdb": "158861"
+    },
+    "names": [
+        "Arcade Gamer Fubuki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8234",
+        "tvdb": "195571"
+    },
+    "names": [
+        "Tamayura: Hitotose"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

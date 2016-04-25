@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5723",
+        "tvdb": "82223"
+    },
+    "names": [
+        "Crystal Blaze"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

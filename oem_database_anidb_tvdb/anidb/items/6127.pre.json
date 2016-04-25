@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6127",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball: Ossu! Kaette Kita Son Gokuu to Nakama-tachi!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

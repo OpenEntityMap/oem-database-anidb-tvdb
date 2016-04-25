@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "4419",
+        "tvdb": "79022"
+    },
+    "names": [
+        "Stratos 4 Advance Kanketsuhen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Fantasia"
+    }
+}

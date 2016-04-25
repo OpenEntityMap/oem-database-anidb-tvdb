@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "103691"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "2488"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Heavy Metal L-Gaim II: Farewell My Lovely + Pentagona Dolls"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "2489"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Heavy Metal L-Gaim III: Fullmetal Soldier"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "523"
+            },
+            "names": [
+                "Heavy Metal L-Gaim I: Pentagona Window + Lady Gavlet"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "522"
+            },
+            "names": [
+                "Juusenki L-Gaim"
+            ]
+        }
+    }
+}

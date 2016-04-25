@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "247997"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8307"
+            },
+            "names": [
+                "Deadman Wonderland: Akai Knife Tsukai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7902"
+            },
+            "names": [
+                "Deadman Wonderland"
+            ]
+        }
+    }
+}

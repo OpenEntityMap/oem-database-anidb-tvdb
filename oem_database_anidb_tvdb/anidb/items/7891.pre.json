@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7891",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters: Best Wishes!"
+    ],
+    "parameters": {
+        "default_season": "14"
+    },
+    "supplemental": {
+        "studio": "OLM"
+    }
+}

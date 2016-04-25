@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8391",
+        "tvdb": "82832"
+    },
+    "names": [
+        "Bakugan: Mechtanium Surge"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

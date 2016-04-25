@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7625",
+        "tvdb": "206081"
+    },
+    "names": [
+        "Koe de Oshigoto! The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

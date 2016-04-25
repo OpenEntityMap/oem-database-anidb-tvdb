@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6626",
+        "tvdb": "75112"
+    },
+    "names": [
+        "Dr. Slump: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete..."
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

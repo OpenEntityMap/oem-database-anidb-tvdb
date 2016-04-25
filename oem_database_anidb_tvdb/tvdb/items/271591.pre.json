@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "271591"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9964"
+            },
+            "names": [
+                "Yami Shibai"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10717"
+            },
+            "names": [
+                "Yami Shibai 2"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "11748"
+            },
+            "names": [
+                "Yami Shibai 3"
+            ]
+        }
+    }
+}

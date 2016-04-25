@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2305",
+        "tvdb": "250848"
+    },
+    "names": [
+        "Kinnikuman: Haresugata! Seigi Choujin"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

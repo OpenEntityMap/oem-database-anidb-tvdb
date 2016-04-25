@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "anidb": "3705",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya: Meiou Hades Meikai Hen"
+    ],
+    "parameters": {
+        "default_season": "5"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

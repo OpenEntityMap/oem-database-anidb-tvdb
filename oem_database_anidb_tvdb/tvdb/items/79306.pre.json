@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1085",
+        "tvdb": "79306"
+    },
+    "names": [
+        "Gilgamesh"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

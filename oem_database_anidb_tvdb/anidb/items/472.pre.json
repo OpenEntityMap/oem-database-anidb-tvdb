@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "472",
+        "tvdb": "81024"
+    },
+    "names": [
+        "Choujuushin Gravion"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Gonzo"
+    }
+}

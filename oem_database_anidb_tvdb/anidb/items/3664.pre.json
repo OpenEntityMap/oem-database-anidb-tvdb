@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3664",
+        "tvdb": "251915"
+    },
+    "names": [
+        "Kojika Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

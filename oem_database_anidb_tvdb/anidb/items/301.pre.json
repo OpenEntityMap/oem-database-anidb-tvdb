@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "301",
+        "tvdb": "83178"
+    },
+    "names": [
+        "Hakaima Sadamitsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

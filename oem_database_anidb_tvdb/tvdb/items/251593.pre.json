@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3117",
+        "tvdb": "251593"
+    },
+    "names": [
+        "Ginga Senpuu Braiger"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

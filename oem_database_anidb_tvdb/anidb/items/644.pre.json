@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "644",
+        "tvdb": "76695"
+    },
+    "names": [
+        "Blue Seed"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 13,
+                    "offset": 3,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

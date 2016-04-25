@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "84348"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1866"
+            },
+            "names": [
+                "Maroko"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1865"
+            },
+            "names": [
+                "Gosenzosama Banbanzai!"
+            ],
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        }
+    }
+}

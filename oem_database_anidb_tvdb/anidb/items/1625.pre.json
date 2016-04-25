@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1625",
+        "tvdb": "80326"
+    },
+    "names": [
+        "Phantom The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10288",
+        "tvdb": "278196"
+    },
+    "names": [
+        "Bokura wa Minna Kawaisou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

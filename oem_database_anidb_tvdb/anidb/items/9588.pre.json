@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "9588",
+        "tvdb": "79824"
+    },
+    "names": [
+        "The Last: Naruto the Movie"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "13"
+    }
+}

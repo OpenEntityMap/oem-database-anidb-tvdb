@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "536",
+        "tvdb": "80054"
+    },
+    "names": [
+        "You're Under Arrest: No Mercy!!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "21"
+    }
+}

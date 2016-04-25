@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11739",
+        "tvdb": "305074"
+    },
+    "names": [
+        "Boku no Hero Academia"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

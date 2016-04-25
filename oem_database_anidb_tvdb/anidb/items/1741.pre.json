@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1741",
+        "tvdb": "164361"
+    },
+    "names": [
+        "Choujuu Kishin Dancougar: God Bless Dancougar"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

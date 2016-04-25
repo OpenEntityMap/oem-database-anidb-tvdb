@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1440",
+        "tvdb": "71952"
+    },
+    "names": [
+        "Tetsuwan Atom"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

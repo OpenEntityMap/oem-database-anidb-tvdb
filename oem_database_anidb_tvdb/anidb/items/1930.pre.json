@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1930",
+        "tvdb": "250848"
+    },
+    "names": [
+        "Kinnikuman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

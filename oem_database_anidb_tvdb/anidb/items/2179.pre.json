@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2179",
+        "tvdb": "79670"
+    },
+    "names": [
+        "Karas"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

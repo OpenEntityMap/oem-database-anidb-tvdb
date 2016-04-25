@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "718",
+        "tvdb": "71535"
+    },
+    "names": [
+        "Kidou Senshi Z Gundam"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

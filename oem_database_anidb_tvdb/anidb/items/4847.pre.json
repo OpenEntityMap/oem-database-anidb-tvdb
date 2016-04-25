@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4847",
+        "tvdb": "70350"
+    },
+    "names": [
+        "Evangelion Shin Gekijouban: Jo"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

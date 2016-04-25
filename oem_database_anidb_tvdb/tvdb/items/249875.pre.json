@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "249875"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8932"
+            },
+            "names": [
+                "Nekogami Yaoyorozu: Ohanami Ghostbusters"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8117"
+            },
+            "names": [
+                "Nekogami Yaoyorozu"
+            ],
+            "supplemental": {
+                "studio": "AIC Plus+"
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7873",
+        "tvdb": "219811"
+    },
+    "names": [
+        "Fractale"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

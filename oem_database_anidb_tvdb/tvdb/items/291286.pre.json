@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10904",
+        "tvdb": "291286"
+    },
+    "names": [
+        "Etotama: Eto Tamashii"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

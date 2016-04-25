@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11056",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya: Soul of Gold"
+    ],
+    "parameters": {
+        "default_season": "9"
+    }
+}

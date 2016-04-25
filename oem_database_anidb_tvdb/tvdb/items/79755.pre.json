@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79755"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "6063"
+            },
+            "names": [
+                "Afro Samurai Resurrection"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2656"
+            },
+            "names": [
+                "Afro Samurai"
+            ]
+        }
+    }
+}

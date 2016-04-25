@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1025",
+        "tvdb": "79835"
+    },
+    "names": [
+        "Cat's Eye"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

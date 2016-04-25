@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5081",
+        "tvdb": "81153"
+    },
+    "names": [
+        "Ginga Patrol PJ"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

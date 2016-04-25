@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3440",
+        "tvdb": "81115"
+    },
+    "names": [
+        "Mahou Shoujo Lyrical Nanoha A's"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

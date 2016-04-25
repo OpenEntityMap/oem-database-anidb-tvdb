@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "168421"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "7715"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Sangokushi 2: Amakakeru Otoko-tachi"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7713"
+            },
+            "names": [
+                "Sangokushi (1985)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "943"
+            },
+            "names": [
+                "Yokoyama Mitsuteru Sangokushi"
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10021",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "36",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

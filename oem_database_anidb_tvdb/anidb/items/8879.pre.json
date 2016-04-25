@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8879",
+        "tvdb": "259642"
+    },
+    "names": [
+        "Dakara Boku wa, H ga Dekinai."
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

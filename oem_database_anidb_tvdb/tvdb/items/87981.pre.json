@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "87981"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "6374"
+            },
+            "names": [
+                "Asura Cryin'"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6769"
+            },
+            "names": [
+                "Asura Cryin' 2"
+            ]
+        }
+    }
+}

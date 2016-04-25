@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7597",
+        "tvdb": "250155"
+    },
+    "names": [
+        "Penguin no Mondai Max"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

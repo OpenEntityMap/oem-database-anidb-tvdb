@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5585",
+        "tvdb": "82509"
+    },
+    "names": [
+        "Monochrome Factor"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8899",
+        "tvdb": "259651"
+    },
+    "names": [
+        "Joshiraku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "268055"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9770"
+            },
+            "names": [
+                "Namiuchigiwa no Muromi-san OAD"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9479"
+            },
+            "names": [
+                "Namiuchigiwa no Muromi-san"
+            ]
+        }
+    }
+}

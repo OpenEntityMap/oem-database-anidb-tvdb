@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3529",
+        "tvdb": "72280"
+    },
+    "names": [
+        "Corrector Yui"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

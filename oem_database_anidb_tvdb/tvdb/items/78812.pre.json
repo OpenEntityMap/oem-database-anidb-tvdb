@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "78812"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "6128"
+            },
+            "names": [
+                "Gunslinger Girl: Il Teatrino OVA"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1002"
+            },
+            "names": [
+                "Gunslinger Girl."
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5418"
+            },
+            "names": [
+                "Gunslinger Girl: Il Teatrino"
+            ]
+        }
+    }
+}

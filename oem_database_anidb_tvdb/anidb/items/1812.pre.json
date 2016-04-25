@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1812",
+        "tvdb": "223521"
+    },
+    "names": [
+        "Muteki Choujin Zanbot 3"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

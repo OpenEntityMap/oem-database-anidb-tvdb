@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2740",
+        "tvdb": "258990"
+    },
+    "names": [
+        "Hakushon Daimaou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

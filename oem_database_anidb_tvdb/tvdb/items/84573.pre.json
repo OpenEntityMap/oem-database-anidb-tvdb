@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6110",
+        "tvdb": "84573"
+    },
+    "names": [
+        "Asu no Yoichi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

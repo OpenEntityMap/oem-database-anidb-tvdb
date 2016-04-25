@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8934",
+        "tvdb": "257881"
+    },
+    "names": [
+        "Shirokuma Cafe"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "139",
+        "tvdb": "86921"
+    },
+    "names": [
+        "Photon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

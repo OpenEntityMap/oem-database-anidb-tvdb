@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8257",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Bannou Yasai Ninninman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

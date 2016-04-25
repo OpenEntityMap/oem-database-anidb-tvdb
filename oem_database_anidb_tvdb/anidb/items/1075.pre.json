@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1075",
+        "tvdb": "191221"
+    },
+    "names": [
+        "Mahou Shoujo Pretty Sammy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6646",
+        "tvdb": "134581"
+    },
+    "names": [
+        "Hanamaru Youchien"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

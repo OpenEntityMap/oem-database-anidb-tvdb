@@ -1,0 +1,45 @@
+{
+    "identifiers": {
+        "anidb": "352",
+        "tvdb": "138561"
+    },
+    "names": [
+        "H2"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "38",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "39",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "39": {
+                    "mappings": [
+                        {
+                            "number": "41"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

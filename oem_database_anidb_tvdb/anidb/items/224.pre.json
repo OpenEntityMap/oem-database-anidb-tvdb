@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "224",
+        "tvdb": "89771"
+    },
+    "names": [
+        "Neoranga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

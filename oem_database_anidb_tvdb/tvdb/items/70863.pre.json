@@ -1,0 +1,130 @@
+{
+    "identifiers": {
+        "tvdb": "70863"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "195"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou Hen"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "195"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou Hen"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "422"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "8595"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "8595"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "73"
+            },
+            "names": [
+                "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen"
+            ]
+        },
+        "3": {
+            "episodes": {
+                "33": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "90"
+            },
+            "names": [
+                "Rurouni Kenshin: Meiji Kenkaku Romantan"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "90"
+            },
+            "names": [
+                "Rurouni Kenshin: Meiji Kenkaku Romantan"
+            ]
+        }
+    }
+}

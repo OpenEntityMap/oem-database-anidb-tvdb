@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2438",
+        "tvdb": "82595"
+    },
+    "names": [
+        "Shin Seiki GPX Cyber Formula Sin"
+    ],
+    "parameters": {
+        "default_season": "5"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2269",
+        "tvdb": "75112"
+    },
+    "names": [
+        "Dr. Slump: Arale-chan Hello! Wonder Island"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

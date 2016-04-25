@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1698",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Soukou Kihei Votoms"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

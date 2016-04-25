@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7919",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Votoms Finder"
+    ],
+    "parameters": {
+        "default_season": "99"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "293647"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10994"
+            },
+            "names": [
+                "Ame-iro Cocoa"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11338"
+            },
+            "names": [
+                "Ame-iro Cocoa: Rainy Color e Youkoso"
+            ]
+        }
+    }
+}

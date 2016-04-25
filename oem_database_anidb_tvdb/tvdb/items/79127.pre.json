@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1542",
+        "tvdb": "79127"
+    },
+    "names": [
+        "Samurai 7"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

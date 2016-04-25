@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11747",
+        "tvdb": "289884"
+    },
+    "names": [
+        "Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku Bu e Youkoso"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "8"
+    }
+}

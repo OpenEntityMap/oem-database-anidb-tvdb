@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "8068",
+        "tvdb": "91431"
+    },
+    "names": [
+        "Issho ni Training Ofuro: Bathtime with Hinako & Hiyoko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Primastea"
+    }
+}

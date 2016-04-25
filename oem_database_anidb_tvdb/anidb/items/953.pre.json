@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "953",
+        "tvdb": "82387"
+    },
+    "names": [
+        "Mazinkaiser"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8131",
+        "tvdb": "252423"
+    },
+    "names": [
+        "Phi Brain: Kami no Puzzle"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

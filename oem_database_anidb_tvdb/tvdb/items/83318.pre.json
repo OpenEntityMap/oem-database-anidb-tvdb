@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5720",
+        "tvdb": "83318"
+    },
+    "names": [
+        "Kannagi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

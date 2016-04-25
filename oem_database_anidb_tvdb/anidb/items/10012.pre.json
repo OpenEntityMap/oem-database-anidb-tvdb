@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10012",
+        "tvdb": "252322"
+    },
+    "names": [
+        "Gekijouban Hunter x Hunter: The Last Mission"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "36",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

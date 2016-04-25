@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "247933"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8560"
+            },
+            "names": [
+                "Astarotte no Omocha! EX"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8062"
+            },
+            "names": [
+                "Astarotte no Omocha!"
+            ]
+        }
+    }
+}

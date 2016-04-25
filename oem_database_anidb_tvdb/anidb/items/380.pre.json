@@ -1,0 +1,16 @@
+{
+    "identifiers": {
+        "anidb": "380",
+        "tvdb": "75113"
+    },
+    "names": [
+        "Urusei Yatsura 3: Remember My Love"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    },
+    "supplemental": {
+        "studio": "Kitty Film"
+    }
+}

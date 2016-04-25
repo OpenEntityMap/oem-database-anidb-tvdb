@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "9513",
+        "tvdb": "87491"
+    },
+    "names": [
+        "Vanquished Queens"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

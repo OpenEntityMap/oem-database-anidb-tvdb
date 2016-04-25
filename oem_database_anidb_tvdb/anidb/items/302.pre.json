@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "302",
+        "tvdb": "80669"
+    },
+    "names": [
+        "Key the Metal Idol"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

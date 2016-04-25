@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9498",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Sore Ike! Anpanman: Outa to Teasobi Tanoshii ne"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "52",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

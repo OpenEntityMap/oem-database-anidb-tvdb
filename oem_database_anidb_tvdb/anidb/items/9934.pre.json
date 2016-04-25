@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9934",
+        "tvdb": "78919"
+    },
+    "names": [
+        "Genshiken Nidaime no Roku"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

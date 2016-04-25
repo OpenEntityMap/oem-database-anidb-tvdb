@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "1468",
+        "tvdb": "262312"
+    },
+    "names": [
+        "Dallos"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

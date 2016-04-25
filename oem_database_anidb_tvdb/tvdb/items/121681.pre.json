@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2178",
+        "tvdb": "121681"
+    },
+    "names": [
+        "Kakurenbo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

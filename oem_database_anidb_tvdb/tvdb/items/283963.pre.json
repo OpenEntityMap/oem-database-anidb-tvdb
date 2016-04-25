@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10745",
+        "tvdb": "283963"
+    },
+    "names": [
+        "Absolute Duo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

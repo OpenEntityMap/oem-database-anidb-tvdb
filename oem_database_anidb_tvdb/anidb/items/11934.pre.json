@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11934",
+        "tvdb": "309143"
+    },
+    "names": [
+        "Aikatsu Stars!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

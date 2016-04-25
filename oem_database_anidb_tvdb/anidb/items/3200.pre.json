@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "3200",
+        "tvdb": "98161"
+    },
+    "names": [
+        "Hi no Tori: Yamato Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Tezuka Productions"
+    }
+}

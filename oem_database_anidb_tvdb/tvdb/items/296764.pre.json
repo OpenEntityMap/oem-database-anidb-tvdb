@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11080",
+        "tvdb": "296764"
+    },
+    "names": [
+        "Chaos Dragon: Sekiryuu Sen'eki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

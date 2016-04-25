@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8055",
+        "tvdb": "245451"
+    },
+    "names": [
+        "Appleseed XIII"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

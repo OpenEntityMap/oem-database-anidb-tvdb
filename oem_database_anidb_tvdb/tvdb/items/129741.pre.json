@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "129741"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7059"
+            },
+            "names": [
+                "Gekijouban Perrine Monogatari"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2304"
+            },
+            "names": [
+                "Perrine Monogatari"
+            ]
+        }
+    }
+}

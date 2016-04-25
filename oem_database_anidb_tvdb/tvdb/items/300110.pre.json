@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11540",
+        "tvdb": "300110"
+    },
+    "names": [
+        "Ani Tore! EX"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

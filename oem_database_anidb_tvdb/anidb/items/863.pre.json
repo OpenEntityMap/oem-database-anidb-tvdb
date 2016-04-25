@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "863",
+        "tvdb": "115121"
+    },
+    "names": [
+        "Tiger Mask Nisei"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

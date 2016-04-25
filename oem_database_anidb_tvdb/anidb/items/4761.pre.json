@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4761",
+        "tvdb": "81111"
+    },
+    "names": [
+        "Super Robot Taisen: Original Generation - Divine Wars"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

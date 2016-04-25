@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3660",
+        "tvdb": "252853"
+    },
+    "names": [
+        "Hakugei Densetsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

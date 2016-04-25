@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7740",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Baikinman tai Baikinman!?"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "45",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

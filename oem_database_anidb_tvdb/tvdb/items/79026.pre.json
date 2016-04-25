@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2984",
+        "tvdb": "79026"
+    },
+    "names": [
+        "Futakoi Alternative"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

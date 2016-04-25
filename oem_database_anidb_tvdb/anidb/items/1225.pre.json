@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1225",
+        "tvdb": "80787"
+    },
+    "names": [
+        "Comic Party Revolution"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

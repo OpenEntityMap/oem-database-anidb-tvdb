@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "84709"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7249"
+            },
+            "names": [
+                "Eve no Jikan Gekijouban"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5132"
+            },
+            "names": [
+                "Eve no Jikan"
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "411",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece (2000)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "anidb": "2867",
+        "tvdb": "129751"
+    },
+    "names": [
+        "Tokyo Juushouden: Fuuma Gogyou Denshou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

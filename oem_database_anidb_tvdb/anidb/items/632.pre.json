@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "632",
+        "tvdb": "84536"
+    },
+    "names": [
+        "Matantei Loki Ragnarok"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

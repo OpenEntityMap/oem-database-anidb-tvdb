@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1560",
+        "tvdb": "176421"
+    },
+    "names": [
+        "Kyou kara Ore wa!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

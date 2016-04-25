@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5108",
+        "tvdb": "109061"
+    },
+    "names": [
+        "Shigurui"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2007",
+        "tvdb": "174721"
+    },
+    "names": [
+        "Igano Kabamaru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

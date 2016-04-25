@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "1069",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

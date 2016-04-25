@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10422",
+        "tvdb": "279225"
+    },
+    "names": [
+        "Washimo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2663",
+        "tvdb": "248353"
+    },
+    "names": [
+        "Kimagure Robot"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

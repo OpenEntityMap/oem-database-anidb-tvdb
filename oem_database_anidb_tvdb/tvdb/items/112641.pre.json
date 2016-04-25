@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "112641"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2221"
+            },
+            "names": [
+                "Great Mazinger Tai Getter Robo"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "955"
+            },
+            "names": [
+                "Getter Robo"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5197",
+        "tvdb": "248442"
+    },
+    "names": [
+        "Tetsuko no Tabi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

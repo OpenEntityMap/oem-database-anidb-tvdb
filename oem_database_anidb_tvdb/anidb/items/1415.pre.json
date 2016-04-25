@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1415",
+        "tvdb": "258415"
+    },
+    "names": [
+        "Mouryou Senki Madara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

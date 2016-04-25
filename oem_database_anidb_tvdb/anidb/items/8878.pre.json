@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8878",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Arve Rezzle: Kikaijikake no Yousei-tachi"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

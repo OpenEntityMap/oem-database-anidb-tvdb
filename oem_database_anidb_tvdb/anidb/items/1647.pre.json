@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1647",
+        "tvdb": "82206"
+    },
+    "names": [
+        "Virtua Fighter"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

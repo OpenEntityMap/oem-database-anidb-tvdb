@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9931",
+        "tvdb": "272045"
+    },
+    "names": [
+        "Walkure Romanze"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4576",
+        "tvdb": "76932"
+    },
+    "names": [
+        "Ranma 1/2"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

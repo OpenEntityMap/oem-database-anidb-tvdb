@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10357",
+        "tvdb": "279985"
+    },
+    "names": [
+        "Rail Wars!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

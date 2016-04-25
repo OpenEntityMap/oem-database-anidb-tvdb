@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "975",
+        "tvdb": "166821"
+    },
+    "names": [
+        "Shin Kujakuou"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

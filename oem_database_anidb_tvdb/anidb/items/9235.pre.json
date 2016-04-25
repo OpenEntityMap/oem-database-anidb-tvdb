@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9235",
+        "tvdb": "262107"
+    },
+    "names": [
+        "Tonari no Kaibutsu-kun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

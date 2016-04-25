@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5535",
+        "tvdb": "81810"
+    },
+    "names": [
+        "Kurenai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

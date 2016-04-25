@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "216",
+        "tvdb": "81736"
+    },
+    "names": [
+        "Uchuu no Kishi Tekkaman Blade II"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

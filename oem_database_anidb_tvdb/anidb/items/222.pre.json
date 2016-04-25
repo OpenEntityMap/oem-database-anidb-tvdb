@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "222",
+        "tvdb": "79099"
+    },
+    "names": [
+        ".hack//Liminality"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

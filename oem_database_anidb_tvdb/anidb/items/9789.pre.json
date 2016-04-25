@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9789",
+        "tvdb": "219701"
+    },
+    "names": [
+        "Freezing Vibration"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "63",
+        "tvdb": "79777"
+    },
+    "names": [
+        "Den'ei Shoujo Video Girl AI"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5280",
+        "tvdb": "81427"
+    },
+    "names": [
+        "Shugo Chara!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

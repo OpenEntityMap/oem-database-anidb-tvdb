@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "tvdb": "252471"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9092"
+            },
+            "names": [
+                "Guilty Crown: Lost Christmas - An Episode of Port Town"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8480"
+            },
+            "names": [
+                "Guilty Crown"
+            ]
+        }
+    }
+}

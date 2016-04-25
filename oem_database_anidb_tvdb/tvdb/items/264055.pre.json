@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "264055"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9311"
+            },
+            "names": [
+                "GJ-bu"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10016"
+            },
+            "names": [
+                "GJ-bu@"
+            ]
+        }
+    }
+}

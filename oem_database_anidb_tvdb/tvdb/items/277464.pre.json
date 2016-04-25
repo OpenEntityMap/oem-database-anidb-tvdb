@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10400",
+        "tvdb": "277464"
+    },
+    "names": [
+        "Ping Pong The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

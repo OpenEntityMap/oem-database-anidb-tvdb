@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8230",
+        "tvdb": "252343"
+    },
+    "names": [
+        "Maji de Watashi ni Koi Shinasai!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

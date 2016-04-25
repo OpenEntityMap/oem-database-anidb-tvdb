@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8484",
+        "tvdb": "250021"
+    },
+    "names": [
+        "Double-J"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "DLE"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1820",
+        "tvdb": "249430"
+    },
+    "names": [
+        "Chouja Raideen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

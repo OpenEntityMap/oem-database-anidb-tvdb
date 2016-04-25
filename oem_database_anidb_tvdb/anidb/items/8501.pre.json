@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8501",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: London kara no Maru Hi Shirei"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "35",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "250266"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "6536"
+            },
+            "names": [
+                "Gekijouban Yatterman: Shin Yattermecha Daishuugou! Omocha no Kuni de Daiketsudan Da Koron!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5522"
+            },
+            "names": [
+                "Yatterman"
+            ]
+        }
+    }
+}

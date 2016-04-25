@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "656",
+        "tvdb": "82267"
+    },
+    "names": [
+        "Ningen Kousaten"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "701",
+        "tvdb": "72445"
+    },
+    "names": [
+        "Bakuretsu Hunter"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

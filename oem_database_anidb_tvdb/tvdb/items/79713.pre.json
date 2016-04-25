@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4148",
+        "tvdb": "79713"
+    },
+    "names": [
+        "Ouran Koukou Host Club"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "39",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

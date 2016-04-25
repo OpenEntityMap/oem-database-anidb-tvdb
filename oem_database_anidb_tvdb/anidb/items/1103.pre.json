@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1103",
+        "tvdb": "84527"
+    },
+    "names": [
+        "Sakura Taisen Gouka Kenran"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

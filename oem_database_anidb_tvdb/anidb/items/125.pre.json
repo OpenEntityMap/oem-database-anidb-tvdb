@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "125",
+        "tvdb": "72973"
+    },
+    "names": [
+        "Groove Adventure Rave"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

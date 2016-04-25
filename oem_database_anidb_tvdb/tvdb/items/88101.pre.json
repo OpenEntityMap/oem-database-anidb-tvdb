@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5596",
+        "tvdb": "88101"
+    },
+    "names": [
+        "Tears to Tiara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

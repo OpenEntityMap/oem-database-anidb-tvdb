@@ -1,0 +1,49 @@
+{
+    "identifiers": {
+        "tvdb": "71776"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "601"
+                    },
+                    "names": [
+                        "Maison Ikkoku: Bangaihen Ikkokujima Nanpa Shimatsuki"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "288"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Maison Ikkoku"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "491"
+            },
+            "names": [
+                "Maison Ikkoku: Kanketsu Hen"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "288"
+            },
+            "names": [
+                "Maison Ikkoku"
+            ]
+        }
+    }
+}

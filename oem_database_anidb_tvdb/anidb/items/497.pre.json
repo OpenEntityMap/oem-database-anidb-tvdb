@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "497",
+        "tvdb": "72347"
+    },
+    "names": [
+        "Macross Dynamite 7"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

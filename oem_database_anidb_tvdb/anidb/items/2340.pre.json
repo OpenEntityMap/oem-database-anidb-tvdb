@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2340",
+        "tvdb": "163351"
+    },
+    "names": [
+        "Kappa no Kaikata"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

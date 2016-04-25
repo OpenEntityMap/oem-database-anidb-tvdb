@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11881",
+        "tvdb": "306153"
+    },
+    "names": [
+        "Sakamoto Desu ga?"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

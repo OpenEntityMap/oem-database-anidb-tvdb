@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8620",
+        "tvdb": "255056"
+    },
+    "names": [
+        "Ano Natsu de Matteru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

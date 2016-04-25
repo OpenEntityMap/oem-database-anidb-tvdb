@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1236",
+        "tvdb": "94701"
+    },
+    "names": [
+        "Devilman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

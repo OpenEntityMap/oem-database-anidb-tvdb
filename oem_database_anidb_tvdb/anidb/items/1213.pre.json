@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1213",
+        "tvdb": "216221"
+    },
+    "names": [
+        "Miracle Girls"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

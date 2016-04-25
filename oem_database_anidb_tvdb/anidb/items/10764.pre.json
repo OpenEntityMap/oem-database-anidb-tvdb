@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10764",
+        "tvdb": "290290"
+    },
+    "names": [
+        "Digimon Adventure Tri."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

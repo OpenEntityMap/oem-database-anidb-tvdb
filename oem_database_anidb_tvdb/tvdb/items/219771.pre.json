@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "219771"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7736"
+            },
+            "names": [
+                "Beelzebub: Hirotta Akachan wa Daimaou!?"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7934"
+            },
+            "names": [
+                "Beelzebub"
+            ]
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "identifiers": {
+        "tvdb": "79022"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "4419"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Stratos 4 Advance Kanketsuhen"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Fantasia"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "4419"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Stratos 4 Advance Kanketsuhen"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Fantasia"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "445"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Stratos 4"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "1858"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Stratos 4 (2004)"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "445"
+            },
+            "names": [
+                "Stratos 4"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2896"
+            },
+            "names": [
+                "Stratos 4 Advance"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7276",
+        "tvdb": "256891"
+    },
+    "names": [
+        "Yutori-chan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

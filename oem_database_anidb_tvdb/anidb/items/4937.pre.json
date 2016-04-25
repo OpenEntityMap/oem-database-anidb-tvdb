@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "4937",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Konpeki no Jolly Roger"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

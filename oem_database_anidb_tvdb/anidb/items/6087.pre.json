@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6087",
+        "tvdb": "84591"
+    },
+    "names": [
+        "Maria Holic"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

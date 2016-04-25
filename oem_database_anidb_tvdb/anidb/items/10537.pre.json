@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10537",
+        "tvdb": "279986"
+    },
+    "names": [
+        "Zankyou no Terror"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

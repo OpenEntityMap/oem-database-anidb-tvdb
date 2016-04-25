@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4917",
+        "tvdb": "80554"
+    },
+    "names": [
+        "Hayate no Gotoku!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

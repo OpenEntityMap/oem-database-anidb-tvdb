@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5314",
+        "tvdb": "80927"
+    },
+    "names": [
+        "Juushin Enbu: Hero Tales"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

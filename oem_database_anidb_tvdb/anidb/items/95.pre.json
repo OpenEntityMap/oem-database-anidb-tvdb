@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "95",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers Next"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

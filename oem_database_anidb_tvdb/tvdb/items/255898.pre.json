@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "255898"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8954"
+            },
+            "names": [
+                "Qin Shiming Yue Zhi Bai Bu Fei Jian"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8955"
+            },
+            "names": [
+                "Qin Shiming Yue Zhi Ye Jin Tianming"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "8956"
+            },
+            "names": [
+                "Qin Shiming Yue Zhi Zhu Zi Bai Jia"
+            ]
+        }
+    }
+}

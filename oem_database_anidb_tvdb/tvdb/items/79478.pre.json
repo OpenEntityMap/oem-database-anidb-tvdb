@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1349",
+        "tvdb": "79478"
+    },
+    "names": [
+        "Sci-fi Harry"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

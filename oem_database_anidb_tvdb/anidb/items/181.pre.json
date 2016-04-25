@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "181",
+        "tvdb": "80504"
+    },
+    "names": [
+        "Versailles no Bara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "TMS Entertainment"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6005",
+        "tvdb": "83364"
+    },
+    "names": [
+        "Tytania"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

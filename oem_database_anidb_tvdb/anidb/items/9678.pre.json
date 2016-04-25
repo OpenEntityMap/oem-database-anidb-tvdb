@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9678",
+        "tvdb": "197261"
+    },
+    "names": [
+        "Futari wa Milky Holmes"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "2116",
+        "tvdb": "138691"
+    },
+    "names": [
+        "Gall Force: Shin Seiki Hen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

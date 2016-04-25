@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1294",
+        "tvdb": "82080"
+    },
+    "names": [
+        "Seraphim Call"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

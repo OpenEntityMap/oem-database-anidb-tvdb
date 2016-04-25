@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9925",
+        "tvdb": "275610"
+    },
+    "names": [
+        "Noragami"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

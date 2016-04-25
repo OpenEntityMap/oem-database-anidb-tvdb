@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "tvdb": "93721"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "957"
+            },
+            "names": [
+                "Yuusha Ou GaoGaiGar"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1717"
+            },
+            "names": [
+                "Yuusha Ou GaoGaiGar Final"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "3152"
+            },
+            "names": [
+                "Yuusha Ou GaoGaiGar Final Grand Glorious Gathering"
+            ]
+        }
+    }
+}

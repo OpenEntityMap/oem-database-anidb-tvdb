@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8842",
+        "tvdb": "257756"
+    },
+    "names": [
+        "Jormungand"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

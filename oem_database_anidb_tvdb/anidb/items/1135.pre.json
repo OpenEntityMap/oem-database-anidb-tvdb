@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1135",
+        "tvdb": "79099"
+    },
+    "names": [
+        ".hack//GIFT"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "7"
+    }
+}

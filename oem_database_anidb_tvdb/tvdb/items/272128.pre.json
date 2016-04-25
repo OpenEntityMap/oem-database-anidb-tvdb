@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "272128"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9677"
+            },
+            "names": [
+                "Log Horizon"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10551"
+            },
+            "names": [
+                "Log Horizon (2014)"
+            ]
+        }
+    }
+}

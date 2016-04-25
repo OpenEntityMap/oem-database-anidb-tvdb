@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10011",
+        "tvdb": "276050"
+    },
+    "names": [
+        "D-Frag!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

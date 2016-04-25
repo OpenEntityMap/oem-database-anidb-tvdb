@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10918",
+        "tvdb": "289905"
+    },
+    "names": [
+        "Ore Monogatari!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2107",
+        "tvdb": "251801"
+    },
+    "names": [
+        "Bosco Adventure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

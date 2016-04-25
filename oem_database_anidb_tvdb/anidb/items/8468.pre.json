@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8468",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Wasurenagumo"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

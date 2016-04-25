@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10244",
+        "tvdb": "278152"
+    },
+    "names": [
+        "Baby Steps"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

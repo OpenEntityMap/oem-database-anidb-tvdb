@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "272316"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10232"
+            },
+            "names": [
+                "Non Non Biyori (2014)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9722"
+            },
+            "names": [
+                "Non Non Biyori"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10587"
+            },
+            "names": [
+                "Non Non Biyori Repeat"
+            ]
+        }
+    }
+}

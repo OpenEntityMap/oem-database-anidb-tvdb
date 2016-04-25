@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "82",
+        "tvdb": "79996"
+    },
+    "names": [
+        "Dual! Parallel Runrun Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

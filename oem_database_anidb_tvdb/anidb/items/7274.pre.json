@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7274",
+        "tvdb": "82028"
+    },
+    "names": [
+        "Ring ni Kakero 1: Shadow"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7435",
+        "tvdb": "171701"
+    },
+    "names": [
+        "Seikimatsu Occult Gakuin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

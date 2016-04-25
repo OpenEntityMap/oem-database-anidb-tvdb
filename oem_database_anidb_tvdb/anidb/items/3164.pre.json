@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3164",
+        "tvdb": "171491"
+    },
+    "names": [
+        "Sengoku Kitan Youtouden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4411",
+        "tvdb": "80768"
+    },
+    "names": [
+        "Kikoushi Enma"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

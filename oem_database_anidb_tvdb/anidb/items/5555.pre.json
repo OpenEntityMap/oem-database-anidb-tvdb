@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "5555",
+        "tvdb": "79460"
+    },
+    "names": [
+        "Kindaichi Shounen no Jikenbo Special"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

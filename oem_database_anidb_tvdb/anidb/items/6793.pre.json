@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "6793",
+        "tvdb": "82807"
+    },
+    "names": [
+        "Sekirei: Pure Engagement"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

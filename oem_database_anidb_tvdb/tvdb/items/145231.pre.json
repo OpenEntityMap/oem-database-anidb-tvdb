@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7229",
+        "tvdb": "145231"
+    },
+    "names": [
+        "Mayoi Neko Overrun!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

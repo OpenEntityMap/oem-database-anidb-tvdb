@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "88721"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "6636"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Higashi no Eden: Gekijouban I - The King of Eden"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "6637"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Higashi no Eden: Gekijouban II - Paradise Lost"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6763"
+            },
+            "names": [
+                "Higashi no Eden: Air Communication"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6238"
+            },
+            "names": [
+                "Higashi no Eden"
+            ]
+        }
+    }
+}

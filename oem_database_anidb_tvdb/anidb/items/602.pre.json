@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "602",
+        "tvdb": "81432"
+    },
+    "names": [
+        "Maze Bakunetsu Jikuu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

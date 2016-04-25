@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7291",
+        "tvdb": "81108"
+    },
+    "names": [
+        "Ookiku Furikabutte: Natsu no Taikai Hen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

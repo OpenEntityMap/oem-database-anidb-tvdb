@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4595",
+        "tvdb": "83292"
+    },
+    "names": [
+        "Deltora Quest"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

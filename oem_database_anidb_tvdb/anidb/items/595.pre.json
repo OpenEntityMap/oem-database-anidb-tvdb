@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "595",
+        "tvdb": "70799"
+    },
+    "names": [
+        "Bakuten Shoot Beyblade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

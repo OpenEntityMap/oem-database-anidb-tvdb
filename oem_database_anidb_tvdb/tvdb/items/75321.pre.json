@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "609",
+        "tvdb": "75321"
+    },
+    "names": [
+        "Overman King Gainer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

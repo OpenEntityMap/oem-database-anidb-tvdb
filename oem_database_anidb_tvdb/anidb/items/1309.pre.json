@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1309",
+        "tvdb": "81618"
+    },
+    "names": [
+        "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

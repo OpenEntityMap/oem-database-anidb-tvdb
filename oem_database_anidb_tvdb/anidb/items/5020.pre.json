@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5020",
+        "tvdb": "80003"
+    },
+    "names": [
+        "Moonlight Mile: 2nd Season - Touch Down"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

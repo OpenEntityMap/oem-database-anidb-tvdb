@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1551",
+        "tvdb": "75000"
+    },
+    "names": [
+        "Boukyaku no Senritsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

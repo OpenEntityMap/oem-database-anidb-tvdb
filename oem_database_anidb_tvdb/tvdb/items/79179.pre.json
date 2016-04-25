@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "tvdb": "79179"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "2651"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kino no Tabi: Nanika o Suru Tame ni - Life Goes On."
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "4939"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "575"
+            },
+            "names": [
+                "Kino no Tabi: The Beautiful World"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2837",
+        "tvdb": "79592"
+    },
+    "names": [
+        "Zettai Shounen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

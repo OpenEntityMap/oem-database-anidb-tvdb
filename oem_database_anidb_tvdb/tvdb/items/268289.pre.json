@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "268289"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9568"
+            },
+            "names": [
+                "Kakumeiki Valvrave"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9949"
+            },
+            "names": [
+                "Kakumeiki Valvrave (2013)"
+            ]
+        }
+    }
+}

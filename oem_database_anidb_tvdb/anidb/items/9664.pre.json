@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9664",
+        "tvdb": "255925"
+    },
+    "names": [
+        "Pretty Rhythm: Rainbow Live"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

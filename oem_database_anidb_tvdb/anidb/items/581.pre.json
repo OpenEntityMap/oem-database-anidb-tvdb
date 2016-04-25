@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "581",
+        "tvdb": "72902"
+    },
+    "names": [
+        "Last Exile"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

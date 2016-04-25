@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2442",
+        "tvdb": "79459"
+    },
+    "names": [
+        "Samurai Gun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

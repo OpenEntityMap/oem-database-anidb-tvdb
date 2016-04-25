@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6171",
+        "tvdb": "70350"
+    },
+    "names": [
+        "Evangelion Shin Gekijouban: Ha"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

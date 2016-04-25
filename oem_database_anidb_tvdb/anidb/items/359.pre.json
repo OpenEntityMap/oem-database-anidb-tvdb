@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "359",
+        "tvdb": "80009"
+    },
+    "names": [
+        "Tenchi Muyou! in Love"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

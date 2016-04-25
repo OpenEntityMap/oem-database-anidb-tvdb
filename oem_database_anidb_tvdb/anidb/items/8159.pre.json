@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8159",
+        "tvdb": "79824"
+    },
+    "names": [
+        "Naruto x UT"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

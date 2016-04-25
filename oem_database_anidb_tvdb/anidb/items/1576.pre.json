@@ -1,0 +1,30 @@
+{
+    "identifiers": {
+        "anidb": "1576",
+        "tvdb": "174131"
+    },
+    "names": [
+        "Seigi o Ai Suru Mono Gekkou Kamen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": -13,
+                    "season": "2",
+                    "start": 14
+                },
+                {
+                    "end": 39,
+                    "offset": -26,
+                    "season": "3",
+                    "start": 27
+                }
+            ]
+        }
+    }
+}

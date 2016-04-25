@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "836",
+        "tvdb": "75077"
+    },
+    "names": [
+        "Popotan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "4636",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Aoyama Goushou Tanpenshuu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "44",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "45",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "46",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

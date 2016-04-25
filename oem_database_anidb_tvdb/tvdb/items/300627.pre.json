@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11578",
+        "tvdb": "300627"
+    },
+    "names": [
+        "JK Meshi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

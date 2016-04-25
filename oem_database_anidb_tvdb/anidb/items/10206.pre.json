@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10206",
+        "tvdb": "262954"
+    },
+    "names": [
+        "JoJo no Kimyou na Bouken: Stardust Crusaders"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

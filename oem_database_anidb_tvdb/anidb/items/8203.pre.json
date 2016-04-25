@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8203",
+        "tvdb": "87881"
+    },
+    "names": [
+        "Gekijouban Sengoku Basara: The Last Party"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "17",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

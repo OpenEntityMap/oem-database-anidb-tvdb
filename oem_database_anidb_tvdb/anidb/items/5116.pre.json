@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "5116",
+        "tvdb": "80330"
+    },
+    "names": [
+        "Zombie-Loan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2798",
+        "tvdb": "87031"
+    },
+    "names": [
+        "Twilight Q"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

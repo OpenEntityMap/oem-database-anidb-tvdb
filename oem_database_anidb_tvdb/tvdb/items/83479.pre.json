@@ -1,0 +1,19 @@
+{
+    "identifiers": {
+        "tvdb": "83479"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "5843",
+                    "8398"
+                ]
+            },
+            "names": [
+                "Neko Ramen",
+                "Neko Ramen: Ore no Shoyu Aji"
+            ]
+        }
+    }
+}

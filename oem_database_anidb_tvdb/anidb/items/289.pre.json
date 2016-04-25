@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "289",
+        "tvdb": "84543"
+    },
+    "names": [
+        "Piano"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

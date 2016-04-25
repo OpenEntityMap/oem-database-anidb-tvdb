@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2815",
+        "tvdb": "79031"
+    },
+    "names": [
+        "Loveless"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

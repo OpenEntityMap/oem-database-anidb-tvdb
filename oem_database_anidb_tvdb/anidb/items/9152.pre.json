@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9152",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Excalibur no Kiseki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "53",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

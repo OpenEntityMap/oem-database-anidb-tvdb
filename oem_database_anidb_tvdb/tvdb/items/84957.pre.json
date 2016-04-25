@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "115",
+        "tvdb": "84957"
+    },
+    "names": [
+        "Nanako Kaitai Shinsho"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

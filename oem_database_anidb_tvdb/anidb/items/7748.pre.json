@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7748",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Baikinman to 3-bai Punch"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "19",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

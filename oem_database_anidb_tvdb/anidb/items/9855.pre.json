@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9855",
+        "tvdb": "273008"
+    },
+    "names": [
+        "Outbreak Company"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

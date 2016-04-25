@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6238",
+        "tvdb": "88721"
+    },
+    "names": [
+        "Higashi no Eden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

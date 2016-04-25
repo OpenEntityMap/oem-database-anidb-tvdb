@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10554",
+        "tvdb": "279983"
+    },
+    "names": [
+        "Dramatical Murder"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

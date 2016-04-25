@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8265",
+        "tvdb": "252474"
+    },
+    "names": [
+        "Maken-ki!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

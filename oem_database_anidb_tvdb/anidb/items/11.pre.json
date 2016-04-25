@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11",
+        "tvdb": "70900"
+    },
+    "names": [
+        "Initial D Battle Stage"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

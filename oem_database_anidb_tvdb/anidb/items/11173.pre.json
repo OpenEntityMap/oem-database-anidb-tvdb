@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11173",
+        "tvdb": "300106"
+    },
+    "names": [
+        "Kagewani"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

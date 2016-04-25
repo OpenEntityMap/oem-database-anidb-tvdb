@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7279",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Soukou Kihei Votoms: Gen'ei Hen"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "tvdb": "279827"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "10846"
+                    },
+                    "names": [
+                        "Aldnoah.Zero (2015)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10445"
+            },
+            "names": [
+                "Aldnoah.Zero"
+            ]
+        }
+    }
+}

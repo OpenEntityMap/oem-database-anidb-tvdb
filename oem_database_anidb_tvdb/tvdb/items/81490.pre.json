@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "81490"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9299"
+            },
+            "names": [
+                "Persona 3 the Movie"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5544"
+            },
+            "names": [
+                "Persona: Trinity Soul"
+            ]
+        }
+    }
+}

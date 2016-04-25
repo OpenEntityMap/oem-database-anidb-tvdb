@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8888",
+        "tvdb": "259644"
+    },
+    "names": [
+        "Binbougami ga!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

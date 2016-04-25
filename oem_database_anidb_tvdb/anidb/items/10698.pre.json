@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10698",
+        "tvdb": "278327"
+    },
+    "names": [
+        "Selector Spread WIXOSS"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

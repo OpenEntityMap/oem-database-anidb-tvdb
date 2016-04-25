@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8062",
+        "tvdb": "247933"
+    },
+    "names": [
+        "Astarotte no Omocha!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

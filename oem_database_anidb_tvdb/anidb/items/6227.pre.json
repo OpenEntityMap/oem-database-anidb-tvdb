@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "6227",
+        "tvdb": "83363"
+    },
+    "names": [
+        "Shikabane Hime: Kuro"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

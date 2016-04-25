@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "377",
+        "tvdb": "75113"
+    },
+    "names": [
+        "Urusei Yatsura"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

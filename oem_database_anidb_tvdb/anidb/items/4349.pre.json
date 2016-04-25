@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4349",
+        "tvdb": "255275"
+    },
+    "names": [
+        "Yoshimune"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

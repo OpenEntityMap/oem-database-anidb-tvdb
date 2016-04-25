@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "2093",
+        "tvdb": "157001"
+    },
+    "names": [
+        "Dragon Quest: Dai no Daibouken - Tachiagare!! Avan no Shito"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

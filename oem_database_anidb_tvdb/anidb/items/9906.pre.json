@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9906",
+        "tvdb": "280327"
+    },
+    "names": [
+        "Love Stage!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

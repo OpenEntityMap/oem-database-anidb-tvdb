@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1594",
+        "tvdb": "80587"
+    },
+    "names": [
+        "Saiyuuki Reload Gunlock"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

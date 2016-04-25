@@ -1,0 +1,56 @@
+{
+    "identifiers": {
+        "tvdb": "84932"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "2181"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Munto: Toki no Kabe o Koete"
+                    ],
+                    "supplemental": {
+                        "studio": "Kyoto Animation"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "6427"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tenjoubito to Akutobito Saigo no Tatakai"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "738"
+            },
+            "names": [
+                "Munto"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6263"
+            },
+            "names": [
+                "Sora o Miageru Shoujo no Hitomi ni Utsuru Sekai"
+            ]
+        }
+    }
+}

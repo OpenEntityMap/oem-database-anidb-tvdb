@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10588",
+        "tvdb": "283611"
+    },
+    "names": [
+        "Ninja Slayer from Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

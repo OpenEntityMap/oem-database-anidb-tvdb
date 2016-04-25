@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8820",
+        "tvdb": "259641"
+    },
+    "names": [
+        "Koi to Senkyo to Chocolate"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

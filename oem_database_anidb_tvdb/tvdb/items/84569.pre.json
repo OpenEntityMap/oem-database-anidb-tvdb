@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "84569"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7526"
+            },
+            "names": [
+                "Akage no Anne: Green Gables e no Michi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1061"
+            },
+            "names": [
+                "Akage no Anne"
+            ]
+        }
+    }
+}

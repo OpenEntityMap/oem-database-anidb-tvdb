@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11983",
+        "tvdb": "309151"
+    },
+    "names": [
+        "Bishoujo Yuugi Unit Crane Game"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

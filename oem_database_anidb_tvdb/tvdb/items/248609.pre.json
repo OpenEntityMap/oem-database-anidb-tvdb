@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4336",
+        "tvdb": "248609"
+    },
+    "names": [
+        "Master of Epic The Animation Age"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10360",
+        "tvdb": "278199"
+    },
+    "names": [
+        "Mekakucity Actors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5538",
+        "tvdb": "81907"
+    },
+    "names": [
+        "RD Sennou Chousashitsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

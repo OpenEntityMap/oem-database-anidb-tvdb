@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5186",
+        "tvdb": "81375"
+    },
+    "names": [
+        "Sketchbook: Full Color's"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

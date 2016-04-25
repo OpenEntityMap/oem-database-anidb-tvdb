@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10354",
+        "tvdb": "278269"
+    },
+    "names": [
+        "Majin Bone"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

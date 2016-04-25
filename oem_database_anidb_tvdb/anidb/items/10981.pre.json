@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10981",
+        "tvdb": "278157"
+    },
+    "names": [
+        "Haikyuu!! Second Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "71",
+        "tvdb": "71279"
+    },
+    "names": [
+        "Musekinin Kanchou Tylor: Tokubetsu Hen - Hitoribocchi no Sensou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Tatsunoko Production"
+    }
+}

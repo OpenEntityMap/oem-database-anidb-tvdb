@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "35",
+        "tvdb": "70861"
+    },
+    "names": [
+        "Love Hina"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "XEBEC"
+    }
+}

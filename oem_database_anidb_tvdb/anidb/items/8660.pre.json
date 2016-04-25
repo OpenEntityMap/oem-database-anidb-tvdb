@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8660",
+        "tvdb": "254653"
+    },
+    "names": [
+        "High School DxD"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5670",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya: Meiou Hades Elysion Hen"
+    ],
+    "parameters": {
+        "default_season": "6"
+    }
+}

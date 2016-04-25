@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5050",
+        "tvdb": "82883"
+    },
+    "names": [
+        "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Planet"
+    }
+}

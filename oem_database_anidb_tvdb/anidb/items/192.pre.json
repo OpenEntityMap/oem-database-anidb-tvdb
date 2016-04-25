@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "192",
+        "tvdb": "72393"
+    },
+    "names": [
+        "Mugen no Ryvius"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

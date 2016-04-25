@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6613",
+        "tvdb": "132941"
+    },
+    "names": [
+        "Katanagatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

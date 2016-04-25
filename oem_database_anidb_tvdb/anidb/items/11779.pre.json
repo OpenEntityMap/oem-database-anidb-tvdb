@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11779",
+        "tvdb": "114801"
+    },
+    "names": [
+        "Fairy Tail Zero"
+    ],
+    "parameters": {
+        "default_season": "7"
+    }
+}

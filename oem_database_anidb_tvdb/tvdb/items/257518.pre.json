@@ -1,0 +1,46 @@
+{
+    "identifiers": {
+        "tvdb": "257518"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8642"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Sankarea"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "8969"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Sankarea (2012)"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8642"
+            },
+            "names": [
+                "Sankarea"
+            ]
+        }
+    }
+}

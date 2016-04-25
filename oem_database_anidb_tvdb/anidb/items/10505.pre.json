@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10505",
+        "tvdb": "279555"
+    },
+    "names": [
+        "Bakumatsu Rock"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

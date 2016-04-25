@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8133",
+        "tvdb": "248027"
+    },
+    "names": [
+        "Hyouge Mono"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

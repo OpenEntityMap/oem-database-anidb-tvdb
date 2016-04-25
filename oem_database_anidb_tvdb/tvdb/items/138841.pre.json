@@ -1,0 +1,433 @@
+{
+    "identifiers": {
+        "tvdb": "138841"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "16": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "18": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "19": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "20": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "21": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "22": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "23": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "24": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "25": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "26": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "27": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "28": {
+                    "identifiers": {
+                        "anidb": "3319"
+                    },
+                    "mappings": [
+                        {
+                            "number": "16"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 2nd Series"
+                    ]
+                },
+                "29": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "30": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "31": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "32": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "33": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "34": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "36": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "38": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "39": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "40": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "41": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "42": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "43": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                },
+                "44": {
+                    "identifiers": {
+                        "anidb": "4837"
+                    },
+                    "mappings": [
+                        {
+                            "number": "16"
+                        }
+                    ],
+                    "names": [
+                        "Nanami-chan 3rd Series"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1950"
+            },
+            "names": [
+                "Nanami-chan"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7234",
+        "tvdb": "139631"
+    },
+    "names": [
+        "Giant Killing"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

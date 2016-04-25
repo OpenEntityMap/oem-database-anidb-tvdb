@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "8148",
+        "tvdb": "248035"
+    },
+    "names": [
+        "Ao no Exorcist"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

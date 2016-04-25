@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11740",
+        "tvdb": "305171"
+    },
+    "names": [
+        "Kidou Senshi Gundam: Thunderbolt"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

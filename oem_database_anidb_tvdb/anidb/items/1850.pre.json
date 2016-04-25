@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1850",
+        "tvdb": "251332"
+    },
+    "names": [
+        "Akakichi no Eleven"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

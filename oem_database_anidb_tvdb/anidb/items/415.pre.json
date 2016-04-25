@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "415",
+        "tvdb": "82029"
+    },
+    "names": [
+        "Sakura Taisen: Katsudou Shashin"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

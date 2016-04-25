@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1535",
+        "tvdb": "87111"
+    },
+    "names": [
+        "Uchuu no Senshi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

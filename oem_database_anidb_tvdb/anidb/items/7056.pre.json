@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7056",
+        "tvdb": "119781"
+    },
+    "names": [
+        "Aoi Bungaku Series"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

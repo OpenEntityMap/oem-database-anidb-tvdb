@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11481",
+        "tvdb": "305078"
+    },
+    "names": [
+        "Joker Game"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

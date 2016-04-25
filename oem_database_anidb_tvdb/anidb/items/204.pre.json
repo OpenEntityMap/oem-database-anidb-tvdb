@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "204",
+        "tvdb": "79042"
+    },
+    "names": [
+        "Vampire Hunter D"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

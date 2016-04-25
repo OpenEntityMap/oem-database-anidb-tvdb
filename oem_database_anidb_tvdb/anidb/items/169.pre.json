@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "169",
+        "tvdb": "78777"
+    },
+    "names": [
+        "Lodoss-tou Senki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Madhouse"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "544",
+        "tvdb": "91391"
+    },
+    "names": [
+        "Oh! Super Milk-chan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

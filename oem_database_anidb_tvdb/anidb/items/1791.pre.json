@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1791",
+        "tvdb": "82378"
+    },
+    "names": [
+        "Eiga Motto! Ojamajo Doremi Kaeru Ishi no Himitsu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

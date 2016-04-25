@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1945",
+        "tvdb": "80786"
+    },
+    "names": [
+        "Tetsuwan Birdy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

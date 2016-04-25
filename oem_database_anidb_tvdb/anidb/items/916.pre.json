@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "916",
+        "tvdb": "71585"
+    },
+    "names": [
+        "Turn A Gundam"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

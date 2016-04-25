@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7658",
+        "tvdb": "82927"
+    },
+    "names": [
+        "Alps no Shoujo Heidi: Alm no Yama Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

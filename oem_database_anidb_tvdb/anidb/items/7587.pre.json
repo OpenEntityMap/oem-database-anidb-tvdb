@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7587",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Omoi Gakenai Situation"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

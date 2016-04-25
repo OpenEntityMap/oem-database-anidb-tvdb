@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10039",
+        "tvdb": "289744"
+    },
+    "names": [
+        "Yamada-kun to 7-nin no Majo"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

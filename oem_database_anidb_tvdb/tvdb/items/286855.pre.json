@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10438",
+        "tvdb": "286855"
+    },
+    "names": [
+        "Seiken Tsukai no World Break"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

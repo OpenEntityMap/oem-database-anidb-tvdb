@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8272",
+        "tvdb": "82484"
+    },
+    "names": [
+        "Strike Witches Gekijouban"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

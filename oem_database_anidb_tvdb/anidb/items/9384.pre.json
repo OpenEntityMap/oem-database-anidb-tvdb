@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9384",
+        "tvdb": "79895"
+    },
+    "names": [
+        "Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

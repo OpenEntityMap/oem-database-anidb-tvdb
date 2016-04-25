@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "489",
+        "tvdb": "84527"
+    },
+    "names": [
+        "Sakura Taisen Ouka Kenran"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

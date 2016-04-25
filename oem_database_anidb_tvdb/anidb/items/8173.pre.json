@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8173",
+        "tvdb": "248781"
+    },
+    "names": [
+        "Suite Precure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

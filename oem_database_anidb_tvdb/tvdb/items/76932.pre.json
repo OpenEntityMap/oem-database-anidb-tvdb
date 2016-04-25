@@ -1,0 +1,303 @@
+{
+    "identifiers": {
+        "tvdb": "76932"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "367"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou Hen!!"
+                    ]
+                },
+                "10": {
+                    "identifiers": {
+                        "anidb": "2995"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2 Special"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "2850"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "2996"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2 Super"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "2996"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2 Super"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "2996"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2 Super"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "6141"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2: Akumu! Shunmin Kou"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "368"
+                    },
+                    "names": [
+                        "Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "2995"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ranma 1/2 Special"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4576"
+            },
+            "names": [
+                "Ranma 1/2"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "193"
+            },
+            "names": [
+                "Ranma 1/2 Nettou Hen"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "3": {
+            "episodes": {
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "51",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "45",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "193"
+            },
+            "names": [
+                "Ranma 1/2 Nettou Hen"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "4": {
+            "episodes": {
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "72",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "193"
+            },
+            "mappings": [
+                {
+                    "end": 5,
+                    "offset": 45,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Ranma 1/2 Nettou Hen"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "5": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "70",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "71",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "193"
+            },
+            "names": [
+                "Ranma 1/2 Nettou Hen"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "193"
+            },
+            "mappings": [
+                {
+                    "end": 24,
+                    "offset": 94,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Ranma 1/2 Nettou Hen"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "193"
+            },
+            "mappings": [
+                {
+                    "end": 25,
+                    "offset": 118,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Ranma 1/2 Nettou Hen"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        }
+    }
+}

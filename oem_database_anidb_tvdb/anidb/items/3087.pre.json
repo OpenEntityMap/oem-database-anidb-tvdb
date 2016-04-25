@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3087",
+        "tvdb": "256831"
+    },
+    "names": [
+        "Kyouryuu Daisensou Aizenborg"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

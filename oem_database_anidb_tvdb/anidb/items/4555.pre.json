@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4555",
+        "tvdb": "79990"
+    },
+    "names": [
+        "Hataraki Man"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

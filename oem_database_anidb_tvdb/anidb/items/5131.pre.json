@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5131",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Soukou Kihei Votoms: Pailsen Files"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

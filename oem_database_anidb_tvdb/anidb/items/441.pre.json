@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "441",
+        "tvdb": "79223"
+    },
+    "names": [
+        "A.D. Police"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

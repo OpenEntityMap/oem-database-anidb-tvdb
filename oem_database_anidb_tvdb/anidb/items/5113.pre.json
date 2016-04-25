@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5113",
+        "tvdb": "80470"
+    },
+    "names": [
+        "Mononoke"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

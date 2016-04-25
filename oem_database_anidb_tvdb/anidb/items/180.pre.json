@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "180",
+        "tvdb": "71313"
+    },
+    "names": [
+        "Kidou Senkan Nadesico"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "XEBEC"
+    }
+}

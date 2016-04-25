@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "274",
+        "tvdb": "72448"
+    },
+    "names": [
+        "Legend of Basara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6219",
+        "tvdb": "81463"
+    },
+    "names": [
+        "Minami-ke Okaeri"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

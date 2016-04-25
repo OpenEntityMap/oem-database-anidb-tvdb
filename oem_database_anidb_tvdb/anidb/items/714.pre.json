@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "714",
+        "tvdb": "250577"
+    },
+    "names": [
+        "Crush Gear Nitro"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1818",
+        "tvdb": "256744"
+    },
+    "names": [
+        "Red Baron"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

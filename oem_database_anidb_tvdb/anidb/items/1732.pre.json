@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1732",
+        "tvdb": "96231"
+    },
+    "names": [
+        "Landlock"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

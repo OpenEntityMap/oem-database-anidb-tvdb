@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11135",
+        "tvdb": "289763"
+    },
+    "names": [
+        "Idolmaster: Cinderella Girls (2015)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "13"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "103941"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "119"
+            },
+            "names": [
+                "Canvas: Sepia-iro no Motif"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3215"
+            },
+            "names": [
+                "Canvas 2: Niji-iro no Sketch"
+            ]
+        }
+    }
+}

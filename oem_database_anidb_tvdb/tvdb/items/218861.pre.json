@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7623",
+        "tvdb": "218861"
+    },
+    "names": [
+        "Mazinkaizer SKL"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

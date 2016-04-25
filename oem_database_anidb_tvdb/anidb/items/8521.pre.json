@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8521",
+        "tvdb": "80328"
+    },
+    "names": [
+        "Tales of Symphonia The Animation: Sekai Tougou Hen"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2605",
+        "tvdb": "75869"
+    },
+    "names": [
+        "Mahou Sensei Negima!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

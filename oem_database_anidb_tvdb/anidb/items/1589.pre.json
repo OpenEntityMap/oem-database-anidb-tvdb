@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1589",
+        "tvdb": "259771"
+    },
+    "names": [
+        "Compiler"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

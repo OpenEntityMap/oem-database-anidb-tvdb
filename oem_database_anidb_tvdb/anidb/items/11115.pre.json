@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11115",
+        "tvdb": "273005"
+    },
+    "names": [
+        "Dia no Ace: Second Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

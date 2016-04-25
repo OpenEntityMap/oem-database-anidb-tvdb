@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "378",
+        "tvdb": "75113"
+    },
+    "names": [
+        "Urusei Yatsura: Only You"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Kitty Film"
+    }
+}

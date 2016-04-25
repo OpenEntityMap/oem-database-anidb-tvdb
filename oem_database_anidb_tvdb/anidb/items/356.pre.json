@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "356",
+        "tvdb": "72421"
+    },
+    "names": [
+        "Marmalade Boy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9000",
+        "tvdb": "151281"
+    },
+    "names": [
+        "Gekijouban Hakuouki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

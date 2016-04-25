@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "8805",
+        "tvdb": "246381"
+    },
+    "names": [
+        "Gekijouban Tiger & Bunny"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

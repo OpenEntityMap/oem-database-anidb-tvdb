@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "143",
+        "tvdb": "72432"
+    },
+    "names": [
+        "Haunted Junction"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

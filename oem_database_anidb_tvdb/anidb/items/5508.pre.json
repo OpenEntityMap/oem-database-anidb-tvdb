@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5508",
+        "tvdb": "81732"
+    },
+    "names": [
+        "H2O: Footprints in the Sand"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

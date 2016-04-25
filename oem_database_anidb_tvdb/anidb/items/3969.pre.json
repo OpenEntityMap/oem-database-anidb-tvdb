@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "3969",
+        "tvdb": "71535"
+    },
+    "names": [
+        "Kidou Senshi Z Gundam: A New Translation - Koibito-tachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

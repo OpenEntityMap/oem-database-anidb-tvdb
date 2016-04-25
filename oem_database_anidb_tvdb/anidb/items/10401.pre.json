@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10401",
+        "tvdb": "281249"
+    },
+    "names": [
+        "Tokyo Ghoul"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

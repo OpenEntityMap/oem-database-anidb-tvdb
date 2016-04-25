@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1802",
+        "tvdb": "166821"
+    },
+    "names": [
+        "Kujakuou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "51",
+        "tvdb": "70861"
+    },
+    "names": [
+        "Love Hina Christmas Special: Silent Eve"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "XEBEC"
+    }
+}

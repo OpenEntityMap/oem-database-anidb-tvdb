@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4144",
+        "tvdb": "82721"
+    },
+    "names": [
+        "Renkin San-kyuu Magical? Pokaan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

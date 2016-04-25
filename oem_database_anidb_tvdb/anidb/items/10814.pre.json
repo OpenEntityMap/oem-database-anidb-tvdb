@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10814",
+        "tvdb": "285358"
+    },
+    "names": [
+        "Tribe Cool Crew"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

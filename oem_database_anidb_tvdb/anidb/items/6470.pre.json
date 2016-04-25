@@ -1,0 +1,231 @@
+{
+    "identifiers": {
+        "anidb": "6470",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya: The Lost Canvas - Meiou Shinwa"
+    ],
+    "parameters": {
+        "default_season": "7"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "8"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "season": "7"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

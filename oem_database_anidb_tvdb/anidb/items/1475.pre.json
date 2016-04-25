@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1475",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Tamers: Bousou Digimon Tokkyuu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "5"
+    }
+}

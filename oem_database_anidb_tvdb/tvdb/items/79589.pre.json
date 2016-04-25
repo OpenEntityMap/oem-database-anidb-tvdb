@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "610",
+        "tvdb": "79589"
+    },
+    "names": [
+        "Bannou Bunka Nekomusume Dash!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

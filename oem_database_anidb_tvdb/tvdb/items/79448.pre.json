@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1958",
+        "tvdb": "79448"
+    },
+    "names": [
+        "Otogizoushi"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

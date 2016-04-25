@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2298",
+        "tvdb": "237991"
+    },
+    "names": [
+        "Princess Sara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Nippon Animation"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4264",
+        "tvdb": "79483"
+    },
+    "names": [
+        "Kiba"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

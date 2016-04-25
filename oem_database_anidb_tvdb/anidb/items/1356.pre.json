@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1356",
+        "tvdb": "248423"
+    },
+    "names": [
+        "High School! Kimengumi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

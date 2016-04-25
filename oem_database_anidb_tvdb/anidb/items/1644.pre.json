@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1644",
+        "tvdb": "85428"
+    },
+    "names": [
+        "Kaiketsu Jouki Tanteidan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

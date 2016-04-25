@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "455",
+        "tvdb": "72493"
+    },
+    "names": [
+        "Silent Mobius"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

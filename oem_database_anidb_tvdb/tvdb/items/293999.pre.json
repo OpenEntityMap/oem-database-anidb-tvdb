@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11122",
+        "tvdb": "293999"
+    },
+    "names": [
+        "Venus Project: Climax"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

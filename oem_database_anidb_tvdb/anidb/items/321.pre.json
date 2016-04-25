@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "321",
+        "tvdb": "77248"
+    },
+    "names": [
+        "Escaflowne"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

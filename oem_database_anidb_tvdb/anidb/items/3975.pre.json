@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3975",
+        "tvdb": "238691"
+    },
+    "names": [
+        "Spectral Force"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

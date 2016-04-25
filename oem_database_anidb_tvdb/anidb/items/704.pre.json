@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "704",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Kutabare! Nostradamus"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

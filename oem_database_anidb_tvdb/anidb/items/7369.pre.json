@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7369",
+        "tvdb": "83996"
+    },
+    "names": [
+        "Kuroshitsuji II"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

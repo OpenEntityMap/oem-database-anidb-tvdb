@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "637",
+        "tvdb": "150781"
+    },
+    "names": [
+        "Firestorm"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

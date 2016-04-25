@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3574",
+        "tvdb": "79682"
+    },
+    "names": [
+        "Higurashi no Naku Koro ni"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8266",
+        "tvdb": "248018"
+    },
+    "names": [
+        "Softenni!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

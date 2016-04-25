@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "2380",
+        "tvdb": "73532"
+    },
+    "names": [
+        "Gekijouban Tennis no Ouji-sama: Futari no Samurai - The First Game"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

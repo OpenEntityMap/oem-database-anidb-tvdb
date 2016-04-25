@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "6564",
+        "tvdb": "150471"
+    },
+    "names": [
+        "Angel Beats!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

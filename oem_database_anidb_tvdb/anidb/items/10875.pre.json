@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10875",
+        "tvdb": "281249"
+    },
+    "names": [
+        "Tokyo Ghoul Root A"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

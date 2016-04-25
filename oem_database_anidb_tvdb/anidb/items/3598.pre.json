@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3598",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Hyouteki wa Kogoro! Shounen Tanteidan Maruhi Chousa"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

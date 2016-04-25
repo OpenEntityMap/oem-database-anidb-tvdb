@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2659",
+        "tvdb": "79839"
+    },
+    "names": [
+        "Aria the Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

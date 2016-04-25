@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10457",
+        "tvdb": "272556"
+    },
+    "names": [
+        "Tenkai Knight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

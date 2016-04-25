@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "560",
+        "tvdb": "85010"
+    },
+    "names": [
+        "Genocyber"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

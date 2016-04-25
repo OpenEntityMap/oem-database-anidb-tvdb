@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "267246"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9606"
+            },
+            "names": [
+                "Gin no Saji"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9968"
+            },
+            "names": [
+                "Gin no Saji (2014)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "6442",
+        "tvdb": "73532"
+    },
+    "names": [
+        "Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message"
+    ],
+    "parameters": {
+        "default_season": "11"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "11"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "11"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

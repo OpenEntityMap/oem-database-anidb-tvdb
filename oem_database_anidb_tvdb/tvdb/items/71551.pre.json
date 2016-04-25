@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "2065",
+        "tvdb": "71551"
+    },
+    "names": [
+        "Tatakae! Chou Robot Seimeitai Transformers Victory"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 44,
+                    "offset": -38,
+                    "season": "0",
+                    "start": 39
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "414",
+        "tvdb": "81766"
+    },
+    "names": [
+        "To Heart"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

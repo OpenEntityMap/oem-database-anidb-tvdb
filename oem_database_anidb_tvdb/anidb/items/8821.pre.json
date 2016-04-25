@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8821",
+        "tvdb": "81115"
+    },
+    "names": [
+        "Magical Girl Lyrical Nanoha The Movie 2nd A's"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

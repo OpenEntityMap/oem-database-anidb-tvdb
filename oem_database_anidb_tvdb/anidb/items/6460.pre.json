@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6460",
+        "tvdb": "114921"
+    },
+    "names": [
+        "Toaru Kagaku no Railgun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

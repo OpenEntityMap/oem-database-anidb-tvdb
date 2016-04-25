@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "136251"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2600"
+            },
+            "names": [
+                "Haru o Daite Ita"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4828"
+            },
+            "names": [
+                "Fuyu no Semi"
+            ]
+        }
+    }
+}

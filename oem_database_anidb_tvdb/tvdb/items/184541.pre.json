@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1836",
+        "tvdb": "184541"
+    },
+    "names": [
+        "Aishite Knight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

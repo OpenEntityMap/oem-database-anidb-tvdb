@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1015",
+        "tvdb": "74522"
+    },
+    "names": [
+        "Shingetsutan Tsukihime"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

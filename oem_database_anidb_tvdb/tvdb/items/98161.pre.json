@@ -1,0 +1,93 @@
+{
+    "identifiers": {
+        "tvdb": "98161"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "3200"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hi no Tori: Yamato Hen"
+                    ],
+                    "supplemental": {
+                        "studio": "Tezuka Productions"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "2878"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hi no Tori: Uchuu Hen"
+                    ],
+                    "supplemental": {
+                        "studio": "Tezuka Productions"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "9397"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hi no Tori: Hagoromo Hen"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "10055"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hi no Tori: Kizuna Hen"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2629"
+            },
+            "names": [
+                "Hi no Tori: Houou Hen"
+            ],
+            "supplemental": {
+                "studio": "Tezuka Productions"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1553"
+            },
+            "names": [
+                "Hi no Tori"
+            ],
+            "supplemental": {
+                "studio": "Tezuka Productions"
+            }
+        }
+    }
+}

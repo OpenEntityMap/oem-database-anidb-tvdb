@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8069",
+        "tvdb": "219181"
+    },
+    "names": [
+        "Mahou Shoujo Madoka Magica"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11067",
+        "tvdb": "299490"
+    },
+    "names": [
+        "Dance with Devils"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

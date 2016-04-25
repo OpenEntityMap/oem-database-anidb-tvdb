@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6103",
+        "tvdb": "83653"
+    },
+    "names": [
+        "Skip Beat!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

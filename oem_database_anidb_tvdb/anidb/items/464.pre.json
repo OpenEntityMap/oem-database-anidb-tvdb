@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "464",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Frontier"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

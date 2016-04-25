@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5052",
+        "tvdb": "81631"
+    },
+    "names": [
+        "Mokke"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

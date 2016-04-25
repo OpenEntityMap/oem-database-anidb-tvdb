@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "245",
+        "tvdb": "79059"
+    },
+    "names": [
+        "Spiral: Suiri no Kizuna"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

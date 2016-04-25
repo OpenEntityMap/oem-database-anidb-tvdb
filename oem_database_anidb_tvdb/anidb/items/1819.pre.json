@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1819",
+        "tvdb": "251649"
+    },
+    "names": [
+        "Yuusha Raideen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "171491"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1036"
+            },
+            "names": [
+                "Sengoku Kitan Youtouden Soushuuhen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3164"
+            },
+            "names": [
+                "Sengoku Kitan Youtouden"
+            ]
+        }
+    }
+}

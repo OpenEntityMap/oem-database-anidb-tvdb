@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7285",
+        "tvdb": "140711"
+    },
+    "names": [
+        "Heartcatch Precure!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

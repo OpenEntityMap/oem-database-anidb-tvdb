@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "945",
+        "tvdb": "70978"
+    },
+    "names": [
+        "B't X"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

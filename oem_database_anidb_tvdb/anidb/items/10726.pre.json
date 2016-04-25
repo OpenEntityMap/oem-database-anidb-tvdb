@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "10726",
+        "tvdb": "272697"
+    },
+    "names": [
+        "Gekijouban Kyoukai no Kanata: I'll Be Here"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

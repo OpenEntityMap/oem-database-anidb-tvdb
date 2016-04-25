@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4681",
+        "tvdb": "81091"
+    },
+    "names": [
+        "Bartender"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "identifiers": {
+        "anidb": "2025",
+        "tvdb": "84025"
+    },
+    "names": [
+        "Maria-sama ga Miteru: Haru"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 6,
+                    "offset": 7,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
+    },
+    "supplemental": {
+        "studio": "Studio Deen"
+    }
+}

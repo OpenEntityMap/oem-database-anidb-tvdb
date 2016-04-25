@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7674",
+        "tvdb": "220571"
+    },
+    "names": [
+        "Kore wa Zombie Desuka?"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

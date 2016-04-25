@@ -1,0 +1,19 @@
+{
+    "identifiers": {
+        "tvdb": "262110"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "9747",
+                    "9295"
+                ]
+            },
+            "names": [
+                "Haitai Nanafa (2013)",
+                "Haitai Nanafa"
+            ]
+        }
+    }
+}

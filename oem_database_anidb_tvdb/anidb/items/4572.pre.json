@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4572",
+        "tvdb": "79671"
+    },
+    "names": [
+        "Himawari!!"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

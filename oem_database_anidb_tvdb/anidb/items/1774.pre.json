@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1774",
+        "tvdb": "84040"
+    },
+    "names": [
+        "Zoids Shin Seiki/Zero"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

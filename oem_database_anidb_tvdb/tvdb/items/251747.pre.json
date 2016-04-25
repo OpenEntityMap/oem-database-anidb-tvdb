@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2350",
+        "tvdb": "251747"
+    },
+    "names": [
+        "Saikyou Robo Daiouja"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1553",
+        "tvdb": "98161"
+    },
+    "names": [
+        "Hi no Tori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Tezuka Productions"
+    }
+}

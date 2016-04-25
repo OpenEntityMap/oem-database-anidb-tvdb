@@ -1,0 +1,86 @@
+{
+    "identifiers": {
+        "tvdb": "72025"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "884"
+                    },
+                    "names": [
+                        "Seikai no Senki Tokubetsu Hen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "1623"
+                    },
+                    "names": [
+                        "Seikai no Monshou Tokubetsu Hen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "6"
+            },
+            "names": [
+                "Seikai no Danshou: Tanjou"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1"
+            },
+            "names": [
+                "Seikai no Monshou"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4"
+            },
+            "names": [
+                "Seikai no Senki"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "5"
+            },
+            "names": [
+                "Seikai no Senki II"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "2673"
+            },
+            "names": [
+                "Seikai no Senki III"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

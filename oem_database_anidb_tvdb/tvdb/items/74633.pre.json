@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1056",
+        "tvdb": "74633"
+    },
+    "names": [
+        "Peace Maker Kurogane"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

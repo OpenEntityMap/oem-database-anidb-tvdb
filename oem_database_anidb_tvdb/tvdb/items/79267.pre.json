@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "tvdb": "79267"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1059"
+            },
+            "names": [
+                "Ai yori Aoshi: Enishi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "74"
+            },
+            "names": [
+                "Ai yori Aoshi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1059"
+            },
+            "names": [
+                "Ai yori Aoshi: Enishi"
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "79481"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8147"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Death Note: R2 - L o Tsugu Mono"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8146"
+            },
+            "names": [
+                "Death Note: R - Genshi Suru Kami"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4563"
+            },
+            "names": [
+                "Death Note"
+            ]
+        }
+    }
+}

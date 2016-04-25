@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8143",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Tansu Warashi."
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

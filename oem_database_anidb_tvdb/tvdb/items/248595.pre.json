@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "248595"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8135"
+            },
+            "names": [
+                "Shouwa Monogatari"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8136"
+            },
+            "names": [
+                "TV Manga Shouwa Monogatari"
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2629",
+        "tvdb": "98161"
+    },
+    "names": [
+        "Hi no Tori: Houou Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Tezuka Productions"
+    }
+}

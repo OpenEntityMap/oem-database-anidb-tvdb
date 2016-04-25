@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "343",
+        "tvdb": "72775"
+    },
+    "names": [
+        "Saint Seiya: Meiou Hades Juuni Kyuu Hen"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

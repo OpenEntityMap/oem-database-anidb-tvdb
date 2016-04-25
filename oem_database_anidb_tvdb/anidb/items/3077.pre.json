@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3077",
+        "tvdb": "250062"
+    },
+    "names": [
+        "Ashita e Free Kick"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

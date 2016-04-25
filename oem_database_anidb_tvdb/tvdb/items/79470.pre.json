@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4396",
+        "tvdb": "79470"
+    },
+    "names": [
+        "Le Chevalier D'Eon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

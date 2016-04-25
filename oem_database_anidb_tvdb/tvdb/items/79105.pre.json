@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "271",
+        "tvdb": "79105"
+    },
+    "names": [
+        "Haibane Renmei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

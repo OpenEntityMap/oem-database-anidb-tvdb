@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4158",
+        "tvdb": "82278"
+    },
+    "names": [
+        "Pale Cocoon"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Rikka"
+    }
+}

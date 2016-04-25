@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3445",
+        "tvdb": "100561"
+    },
+    "names": [
+        "Baldr Force Exe Resolution"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

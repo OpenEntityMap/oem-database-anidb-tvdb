@@ -1,0 +1,55 @@
+{
+    "identifiers": {
+        "tvdb": "84527"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1028"
+            },
+            "names": [
+                "Sakura Taisen Sumire Kanzaki Intai Kinen: Su Mi Re"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "489"
+            },
+            "names": [
+                "Sakura Taisen Ouka Kenran"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1103"
+            },
+            "names": [
+                "Sakura Taisen Gouka Kenran"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "628"
+            },
+            "names": [
+                "Sakura Taisen: Ecole de Paris"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "2407"
+            },
+            "names": [
+                "Sakura Taisen: Le Nouveau Paris"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "4976"
+            },
+            "names": [
+                "Sakura Taisen: New York NY."
+            ]
+        }
+    }
+}

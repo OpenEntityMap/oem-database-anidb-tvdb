@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9292",
+        "tvdb": "264527"
+    },
+    "names": [
+        "Hakkenden: Touhou Hakken Ibun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5305",
+        "tvdb": "80808"
+    },
+    "names": [
+        "Moyashimon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

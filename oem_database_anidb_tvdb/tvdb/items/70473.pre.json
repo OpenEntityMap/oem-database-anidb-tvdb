@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5195",
+        "tvdb": "70473"
+    },
+    "names": [
+        "Mighty Orbots"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "692",
+        "tvdb": "81380"
+    },
+    "names": [
+        "Gad Guard"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

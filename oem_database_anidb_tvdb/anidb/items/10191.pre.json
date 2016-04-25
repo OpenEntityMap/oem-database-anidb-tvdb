@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10191",
+        "tvdb": "252474"
+    },
+    "names": [
+        "Maken-ki! Two: Takeru Nyotaika!? Minami no Shima de Supoon"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

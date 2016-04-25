@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10947",
+        "tvdb": "88161"
+    },
+    "names": [
+        "Hetalia: The World Twinkle"
+    ],
+    "parameters": {
+        "default_season": "6"
+    }
+}

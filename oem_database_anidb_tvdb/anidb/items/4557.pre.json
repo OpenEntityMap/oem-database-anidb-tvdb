@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4557",
+        "tvdb": "76013"
+    },
+    "names": [
+        "Major (2007)"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

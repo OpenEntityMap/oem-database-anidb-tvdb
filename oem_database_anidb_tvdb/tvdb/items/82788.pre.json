@@ -1,0 +1,57 @@
+{
+    "identifiers": {
+        "tvdb": "82788"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9904"
+            },
+            "names": [
+                "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5787"
+            },
+            "names": [
+                "Natsume Yuujinchou"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6185"
+            },
+            "names": [
+                "Zoku Natsume Yuujinchou"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "8286"
+            },
+            "names": [
+                "Natsume Yuujinchou San"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "8667"
+            },
+            "names": [
+                "Natsume Yuujinchou Shi"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2852",
+        "tvdb": "83348"
+    },
+    "names": [
+        "Attacker You!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

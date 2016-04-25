@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5068",
+        "tvdb": "93491"
+    },
+    "names": [
+        "Prism Ark"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

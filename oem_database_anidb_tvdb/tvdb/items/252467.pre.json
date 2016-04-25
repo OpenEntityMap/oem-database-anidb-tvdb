@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "252467"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8367"
+            },
+            "names": [
+                "Kimi to Boku."
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8875"
+            },
+            "names": [
+                "Kimi to Boku. 2"
+            ]
+        }
+    }
+}

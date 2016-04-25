@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8271",
+        "tvdb": "118101"
+    },
+    "names": [
+        "Sora no Otoshimono: Tokeijikake no Angeloid"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

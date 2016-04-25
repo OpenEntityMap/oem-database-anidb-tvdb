@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "anidb": "210",
+        "tvdb": "75534"
+    },
+    "names": [
+        "Street Fighter Zero: The Animation"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

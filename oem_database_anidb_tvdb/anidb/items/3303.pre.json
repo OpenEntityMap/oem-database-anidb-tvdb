@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3303",
+        "tvdb": "76906"
+    },
+    "names": [
+        "Medarot"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

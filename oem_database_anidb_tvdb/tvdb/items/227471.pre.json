@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "227471"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1386"
+            },
+            "names": [
+                "Akai Koudan Zillion Utahime Yakyoku"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1385"
+            },
+            "names": [
+                "Akai Koudan Zillion"
+            ]
+        }
+    }
+}

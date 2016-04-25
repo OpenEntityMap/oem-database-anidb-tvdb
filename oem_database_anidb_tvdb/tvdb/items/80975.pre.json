@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4747",
+        "tvdb": "80975"
+    },
+    "names": [
+        "Katekyou Hitman Reborn!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Artland"
+    }
+}

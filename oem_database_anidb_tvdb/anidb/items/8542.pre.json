@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8542",
+        "tvdb": "252696"
+    },
+    "names": [
+        "Eiga Doraemon: Nobita to Kiseki no Shima - Animal Adventure"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

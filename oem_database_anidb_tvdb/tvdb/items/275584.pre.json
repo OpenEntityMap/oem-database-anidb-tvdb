@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "275584"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10391"
+            },
+            "names": [
+                "Inari, Konkon, Koi Iroha. Inari, Konkon, Semi Shigure."
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9536"
+            },
+            "names": [
+                "Inari, Konkon, Koi Iroha."
+            ]
+        }
+    }
+}

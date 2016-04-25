@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "118",
+        "tvdb": "115891"
+    },
+    "names": [
+        "Ajimu: Kaigan Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

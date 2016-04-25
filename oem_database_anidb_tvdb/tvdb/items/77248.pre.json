@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "77248"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "321"
+            },
+            "names": [
+                "Escaflowne"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "184"
+            },
+            "names": [
+                "Tenkuu no Escaflowne"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

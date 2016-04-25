@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11255",
+        "tvdb": "303291"
+    },
+    "names": [
+        "Schwarzesmarken"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

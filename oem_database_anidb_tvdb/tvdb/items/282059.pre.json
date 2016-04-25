@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10515",
+        "tvdb": "282059"
+    },
+    "names": [
+        "PriPara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

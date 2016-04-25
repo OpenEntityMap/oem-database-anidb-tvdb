@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8117",
+        "tvdb": "249875"
+    },
+    "names": [
+        "Nekogami Yaoyorozu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "AIC Plus+"
+    }
+}

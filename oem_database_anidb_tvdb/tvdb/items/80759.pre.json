@@ -1,0 +1,57 @@
+{
+    "identifiers": {
+        "tvdb": "80759"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4141"
+            },
+            "names": [
+                "Ichigo 100% (2005)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3067"
+            },
+            "names": [
+                "Ichigo 100%"
+            ]
+        }
+    }
+}

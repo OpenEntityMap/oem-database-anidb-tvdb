@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4594",
+        "tvdb": "130391"
+    },
+    "names": [
+        "Happiness!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

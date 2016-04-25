@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4472",
+        "tvdb": "79484"
+    },
+    "names": [
+        "Night Head Genesis"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

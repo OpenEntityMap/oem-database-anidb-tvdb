@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "7128",
+        "tvdb": "82154"
+    },
+    "names": [
+        "Hidamari Sketch x Hoshimittsu"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11260",
+        "tvdb": "297314"
+    },
+    "names": [
+        "Suzakinishi The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

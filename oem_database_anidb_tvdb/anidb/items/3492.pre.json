@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "3492",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters: Pikachu no Fuyuyasumi (2000)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

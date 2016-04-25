@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "132",
+        "tvdb": "79076"
+    },
+    "names": [
+        "Hunter x Hunter (1999)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

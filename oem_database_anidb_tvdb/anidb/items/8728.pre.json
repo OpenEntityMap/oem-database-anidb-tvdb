@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8728",
+        "tvdb": "257395"
+    },
+    "names": [
+        "Zetman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

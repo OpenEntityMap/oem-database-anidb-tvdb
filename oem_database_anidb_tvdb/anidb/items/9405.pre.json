@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9405",
+        "tvdb": "271156"
+    },
+    "names": [
+        "Beast Saga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

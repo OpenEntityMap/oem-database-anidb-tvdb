@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9731",
+        "tvdb": "260822"
+    },
+    "names": [
+        "Robocar Poli"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

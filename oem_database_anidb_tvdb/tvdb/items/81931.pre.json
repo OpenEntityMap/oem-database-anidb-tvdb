@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "346",
+        "tvdb": "81931"
+    },
+    "names": [
+        "Cyber City Oedo 808"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10243",
+        "tvdb": "275631"
+    },
+    "names": [
+        "Nobunaga the Fool"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

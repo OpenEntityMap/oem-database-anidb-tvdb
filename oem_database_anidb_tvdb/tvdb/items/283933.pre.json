@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10530",
+        "tvdb": "283933"
+    },
+    "names": [
+        "Gugure! Kokkuri-san"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

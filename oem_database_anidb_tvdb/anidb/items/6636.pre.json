@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6636",
+        "tvdb": "88721"
+    },
+    "names": [
+        "Higashi no Eden: Gekijouban I - The King of Eden"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

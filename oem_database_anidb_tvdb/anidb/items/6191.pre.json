@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6191",
+        "tvdb": "76023"
+    },
+    "names": [
+        "Tsubasa Shunraiki"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4564",
+        "tvdb": "79527"
+    },
+    "names": [
+        "Ghost Hunt"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

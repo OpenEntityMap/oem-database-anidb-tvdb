@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5145",
+        "tvdb": "78962"
+    },
+    "names": [
+        "Shakugan no Shana Second"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

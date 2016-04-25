@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "642",
+        "tvdb": "79134"
+    },
+    "names": [
+        "Tantei Gakuen Q"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "79879"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "5457"
+            },
+            "names": [
+                "Kyou kara Maou! R"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "5815"
+            },
+            "names": [
+                "Kyou kara Maou! (2008)"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "1677"
+            },
+            "names": [
+                "Kyou kara Maou!"
+            ]
+        }
+    }
+}

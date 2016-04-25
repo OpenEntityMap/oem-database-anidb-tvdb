@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4242",
+        "tvdb": "186311"
+    },
+    "names": [
+        "Spider Riders: Oracle no Yuusha-tachi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

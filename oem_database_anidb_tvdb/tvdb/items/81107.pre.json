@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5042",
+        "tvdb": "81107"
+    },
+    "names": [
+        "Ooedo Rocket"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

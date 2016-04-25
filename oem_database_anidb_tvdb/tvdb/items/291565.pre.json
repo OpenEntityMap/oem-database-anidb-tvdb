@@ -1,0 +1,43 @@
+{
+    "identifiers": {
+        "tvdb": "291565"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "11341"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Eiga Go! Princess Precure Go! Go!! Gouka 3-bondate!!!"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": [
+                    "10941",
+                    "10937"
+                ]
+            },
+            "names": [
+                "Eiga Precure All Stars: Haru no Carnival",
+                "Koe no Katachi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10903"
+            },
+            "names": [
+                "Go! Princess Precure"
+            ]
+        }
+    }
+}

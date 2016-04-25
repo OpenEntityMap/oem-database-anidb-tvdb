@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10622",
+        "tvdb": "299510"
+    },
+    "names": [
+        "Lance N' Masques"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

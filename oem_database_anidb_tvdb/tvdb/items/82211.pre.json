@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "621",
+        "tvdb": "82211"
+    },
+    "names": [
+        "D.N. Angel"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

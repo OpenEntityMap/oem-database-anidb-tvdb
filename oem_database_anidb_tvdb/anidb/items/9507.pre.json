@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9507",
+        "tvdb": "265530"
+    },
+    "names": [
+        "Ishida to Asakura"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

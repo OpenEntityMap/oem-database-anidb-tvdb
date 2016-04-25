@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7432",
+        "tvdb": "249827"
+    },
+    "names": [
+        "Mirai Nikki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

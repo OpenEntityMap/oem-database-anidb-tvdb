@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11081",
+        "tvdb": "297317"
+    },
+    "names": [
+        "Danchigai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

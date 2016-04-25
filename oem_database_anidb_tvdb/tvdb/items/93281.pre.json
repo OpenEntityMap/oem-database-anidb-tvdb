@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "93281"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "6049"
+            },
+            "names": [
+                "Tentai Senshi Sunred"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6777"
+            },
+            "names": [
+                "Tentai Senshi Sunred 2"
+            ]
+        }
+    }
+}

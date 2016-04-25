@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2528",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Frontier: Kodai Digimon Fukkatsu!!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1317",
+        "tvdb": "111431"
+    },
+    "names": [
+        "Abashiri Ikka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

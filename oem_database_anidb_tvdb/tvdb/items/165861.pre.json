@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "360",
+        "tvdb": "165861"
+    },
+    "names": [
+        "Kikou Sennyo Rouran"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

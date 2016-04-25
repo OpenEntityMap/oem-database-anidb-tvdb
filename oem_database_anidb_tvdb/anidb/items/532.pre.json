@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "532",
+        "tvdb": "74600"
+    },
+    "names": [
+        "Doctor Slump"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

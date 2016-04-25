@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "4095",
+        "tvdb": "71535"
+    },
+    "names": [
+        "Kidou Senshi Z Gundam: A New Translation - Hoshi no Kodou wa Ai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

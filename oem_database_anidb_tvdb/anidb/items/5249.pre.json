@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5249",
+        "tvdb": "170651"
+    },
+    "names": [
+        "Reporter Blues (1992)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

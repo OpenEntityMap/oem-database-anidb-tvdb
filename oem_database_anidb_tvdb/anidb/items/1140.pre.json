@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1140",
+        "tvdb": "102191"
+    },
+    "names": [
+        "Psychic Force"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

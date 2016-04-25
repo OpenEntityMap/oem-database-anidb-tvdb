@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4539",
+        "tvdb": "215301"
+    },
+    "names": [
+        "Shin Seiki Den Mars"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

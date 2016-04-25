@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10161",
+        "tvdb": "279533"
+    },
+    "names": [
+        "Kantai Collection: KanColle"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

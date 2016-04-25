@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7434",
+        "tvdb": "256452"
+    },
+    "names": [
+        "Saikyou Bushou-den Sangoku Engi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "identifiers": {
+        "tvdb": "79101"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "4",
+                            "season": "1"
+                        },
+                        {
+                            "number": "5",
+                            "season": "1"
+                        },
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1667"
+            },
+            "names": [
+                "Gekijouban Air"
+            ],
+            "supplemental": {
+                "studio": "Toei Animation"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2002"
+            },
+            "names": [
+                "Air"
+            ]
+        }
+    }
+}

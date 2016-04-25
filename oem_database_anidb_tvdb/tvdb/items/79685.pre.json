@@ -1,0 +1,55 @@
+{
+    "identifiers": {
+        "tvdb": "79685"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "1086"
+                    },
+                    "names": [
+                        "Hajime no Ippo: The Fighting! - Kimura Tatsuya vs Mashiba Ryo"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "982"
+            },
+            "names": [
+                "Hajime no Ippo: Champion Road"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "129"
+            },
+            "names": [
+                "Hajime no Ippo: The Fighting!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6153"
+            },
+            "names": [
+                "Hajime no Ippo: The Fighting! - New Challenger"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "9982"
+            },
+            "names": [
+                "Hajime no Ippo: The Fighting! - Rising"
+            ]
+        }
+    }
+}

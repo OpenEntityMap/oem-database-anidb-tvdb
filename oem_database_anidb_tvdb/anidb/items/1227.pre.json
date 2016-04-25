@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1227",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Tamers: Boukensha-tachi no Tatakai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

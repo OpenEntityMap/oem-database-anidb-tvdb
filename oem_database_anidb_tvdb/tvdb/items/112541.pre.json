@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1271",
+        "tvdb": "112541"
+    },
+    "names": [
+        "Getter Robo G"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

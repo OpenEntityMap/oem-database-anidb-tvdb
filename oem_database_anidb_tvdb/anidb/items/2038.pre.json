@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2038",
+        "tvdb": "219581"
+    },
+    "names": [
+        "Takarajima"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

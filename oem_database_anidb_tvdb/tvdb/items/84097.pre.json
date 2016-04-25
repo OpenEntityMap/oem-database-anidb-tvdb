@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1822",
+        "tvdb": "84097"
+    },
+    "names": [
+        "Dash Kappei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

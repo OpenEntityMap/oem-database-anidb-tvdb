@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "72796"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "848"
+            },
+            "names": [
+                "Battle Athletess Daiundoukai"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "504"
+            },
+            "names": [
+                "Battle Athletess Daiundoukai (1997)"
+            ]
+        }
+    }
+}

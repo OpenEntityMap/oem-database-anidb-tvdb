@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10254",
+        "tvdb": "278371"
+    },
+    "names": [
+        "Soul Eater Not!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

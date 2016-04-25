@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5843",
+        "tvdb": "83479"
+    },
+    "names": [
+        "Neko Ramen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

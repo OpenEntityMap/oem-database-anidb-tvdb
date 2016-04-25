@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "290",
+        "tvdb": "72900"
+    },
+    "names": [
+        "Kokoro Toshokan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

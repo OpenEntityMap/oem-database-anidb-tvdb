@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "251288"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "1920"
+            },
+            "names": [
+                "Entaku no Kishi Monogatari: Moero Arthur"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1922"
+            },
+            "names": [
+                "Moero Arthur: Hakuba no Ouji"
+            ]
+        }
+    }
+}

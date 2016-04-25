@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9348",
+        "tvdb": "263310"
+    },
+    "names": [
+        "Aikatsu! Idol Katsudou!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

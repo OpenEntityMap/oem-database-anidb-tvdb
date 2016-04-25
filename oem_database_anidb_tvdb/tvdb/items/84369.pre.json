@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "84369"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2163"
+            },
+            "names": [
+                "Kujibiki Unbalance"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4513"
+            },
+            "names": [
+                "Kujibiki Unbalance (2006)"
+            ]
+        }
+    }
+}

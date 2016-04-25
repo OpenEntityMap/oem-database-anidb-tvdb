@@ -1,0 +1,74 @@
+{
+    "identifiers": {
+        "tvdb": "82595"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "2464",
+                    "2461"
+                ]
+            },
+            "names": [
+                "Shin Seiki GPX Cyber Formula Graffiti",
+                "Shin Seiki GPX Cyber Formula Earlydays Renewal"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "739"
+            },
+            "names": [
+                "Shin Seiki GPX Cyber Formula"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2463"
+            },
+            "names": [
+                "Shin Seiki GPX Cyber Formula Double One"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "2462"
+            },
+            "names": [
+                "Shin Seiki GPX Cyber Formula Zero"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "2149"
+            },
+            "names": [
+                "Shin Seiki GPX Cyber Formula Saga"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "2438"
+            },
+            "names": [
+                "Shin Seiki GPX Cyber Formula Sin"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

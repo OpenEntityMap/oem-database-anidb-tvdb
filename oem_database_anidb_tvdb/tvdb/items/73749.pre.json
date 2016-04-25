@@ -1,0 +1,149 @@
+{
+    "identifiers": {
+        "tvdb": "73749"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "61"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        },
+                        {
+                            "number": "4",
+                            "season": "1"
+                        },
+                        {
+                            "number": "5",
+                            "season": "1"
+                        },
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ghost in the Shell"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "890"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        },
+                        {
+                            "number": "4",
+                            "season": "1"
+                        },
+                        {
+                            "number": "5",
+                            "season": "1"
+                        },
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Innocence"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "3431"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Koukaku Kidoutai Stand Alone Complex: The Laughing Man"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "4290"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Koukaku Kidoutai S.A.C. 2nd GIG: Individual Eleven"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "4414"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Koukaku Kidoutai Stand Alone Complex: Solid State Society"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "6122"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ghost in the Shell (2008)"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "247"
+            },
+            "names": [
+                "Koukaku Kidoutai Stand Alone Complex"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1176"
+            },
+            "names": [
+                "Koukaku Kidoutai S.A.C. 2nd GIG"
+            ]
+        }
+    }
+}

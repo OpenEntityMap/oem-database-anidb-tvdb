@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1125",
+        "tvdb": "121611"
+    },
+    "names": [
+        "Gundam Evolve"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

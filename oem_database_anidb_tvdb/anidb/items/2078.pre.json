@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2078",
+        "tvdb": "260280"
+    },
+    "names": [
+        "Maple Town Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7113",
+        "tvdb": "83317"
+    },
+    "names": [
+        "Hyakko Extra"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

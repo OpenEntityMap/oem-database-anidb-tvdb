@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4777",
+        "tvdb": "80177"
+    },
+    "names": [
+        "Lucky Star"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3298",
+        "tvdb": "80818"
+    },
+    "names": [
+        "PaniPoni Dash!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

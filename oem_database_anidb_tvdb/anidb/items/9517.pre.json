@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9517",
+        "tvdb": "247836"
+    },
+    "names": [
+        "Dog Days''"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

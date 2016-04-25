@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8101",
+        "tvdb": "246381"
+    },
+    "names": [
+        "Tiger & Bunny"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

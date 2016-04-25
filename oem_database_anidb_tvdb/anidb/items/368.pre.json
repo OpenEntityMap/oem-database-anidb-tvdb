@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "368",
+        "tvdb": "76932"
+    },
+    "names": [
+        "Ranma 1/2: Kessen Tougenkyou! Hanayome o Torimodose!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

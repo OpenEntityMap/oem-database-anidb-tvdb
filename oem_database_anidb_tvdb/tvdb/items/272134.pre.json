@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9966",
+        "tvdb": "272134"
+    },
+    "names": [
+        "Galilei Donna: Storia di Tre Sorelle a Caccia di un Mistero"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

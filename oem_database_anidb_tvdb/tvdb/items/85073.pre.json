@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "85073"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "396"
+            },
+            "names": [
+                "Geobreeders: File-X Chibi Neko Dakkan"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "706"
+            },
+            "names": [
+                "Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa"
+            ]
+        }
+    }
+}

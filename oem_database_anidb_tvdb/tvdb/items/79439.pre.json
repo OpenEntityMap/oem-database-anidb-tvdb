@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79439"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2097"
+            },
+            "names": [
+                "Aoki Densetsu Shoot! (1994)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1840"
+            },
+            "names": [
+                "Aoki Densetsu Shoot!"
+            ]
+        }
+    }
+}

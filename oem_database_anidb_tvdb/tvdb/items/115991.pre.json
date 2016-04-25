@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "tvdb": "115991"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8163"
+            },
+            "names": [
+                "Kampfer: Fur die Liebe"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6685"
+            },
+            "names": [
+                "Kampfer"
+            ]
+        }
+    }
+}

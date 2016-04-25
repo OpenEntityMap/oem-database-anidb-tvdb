@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2634",
+        "tvdb": "234941"
+    },
+    "names": [
+        "Yuusha Keisatsu J-Decker"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

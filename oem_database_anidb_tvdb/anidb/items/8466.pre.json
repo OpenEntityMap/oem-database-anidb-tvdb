@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8466",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Shiranpuri (2012)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

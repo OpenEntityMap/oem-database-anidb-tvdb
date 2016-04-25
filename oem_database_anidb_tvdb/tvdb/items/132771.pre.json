@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6783",
+        "tvdb": "132771"
+    },
+    "names": [
+        "Sora no Oto"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

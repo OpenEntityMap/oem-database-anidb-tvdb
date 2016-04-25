@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7723",
+        "tvdb": "193821"
+    },
+    "names": [
+        "Iron Man"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5685",
+        "tvdb": "80478"
+    },
+    "names": [
+        "School Days: Valentine Days"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

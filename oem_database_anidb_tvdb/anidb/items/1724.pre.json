@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1724",
+        "tvdb": "70900"
+    },
+    "names": [
+        "Initial D Fourth Stage"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

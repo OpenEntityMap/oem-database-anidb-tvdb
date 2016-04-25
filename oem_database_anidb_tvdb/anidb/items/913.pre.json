@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "913",
+        "tvdb": "154471"
+    },
+    "names": [
+        "Variable Geo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

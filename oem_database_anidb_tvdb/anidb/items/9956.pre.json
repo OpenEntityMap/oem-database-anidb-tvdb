@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9956",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters XY"
+    ],
+    "parameters": {
+        "default_season": "16"
+    }
+}

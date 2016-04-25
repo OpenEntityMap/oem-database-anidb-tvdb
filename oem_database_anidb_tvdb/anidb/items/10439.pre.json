@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10439",
+        "tvdb": "279828"
+    },
+    "names": [
+        "Terra Formars"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

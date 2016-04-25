@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "205",
+        "tvdb": "80009"
+    },
+    "names": [
+        "Tenchi Muyou! Ryououki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

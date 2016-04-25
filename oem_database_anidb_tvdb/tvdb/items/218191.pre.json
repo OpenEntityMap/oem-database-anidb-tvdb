@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7719",
+        "tvdb": "218191"
+    },
+    "names": [
+        "Gosick"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

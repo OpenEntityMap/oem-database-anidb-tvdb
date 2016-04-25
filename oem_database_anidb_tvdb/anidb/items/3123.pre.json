@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3123",
+        "tvdb": "160981"
+    },
+    "names": [
+        "Uchuu Senshi Baldios"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

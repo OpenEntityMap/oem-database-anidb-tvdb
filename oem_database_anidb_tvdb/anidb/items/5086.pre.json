@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "5086",
+        "tvdb": "72471"
+    },
+    "names": [
+        "Kiddy Grade II: Maelstrom"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Gonzo Digimation"
+    }
+}

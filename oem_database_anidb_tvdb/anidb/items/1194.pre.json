@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1194",
+        "tvdb": "183171"
+    },
+    "names": [
+        "Alexander Senki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

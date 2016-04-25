@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5658",
+        "tvdb": "81984"
+    },
+    "names": [
+        "Top Secret: The Revelation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

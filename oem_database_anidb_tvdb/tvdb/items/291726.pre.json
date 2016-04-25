@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10830",
+        "tvdb": "291726"
+    },
+    "names": [
+        "Show by Rock!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

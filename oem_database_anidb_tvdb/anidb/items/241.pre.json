@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "241",
+        "tvdb": "83105"
+    },
+    "names": [
+        "Touch"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

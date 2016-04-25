@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4776",
+        "tvdb": "80224"
+    },
+    "names": [
+        "Devil May Cry"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

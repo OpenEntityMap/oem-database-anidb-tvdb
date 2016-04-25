@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "852",
+        "tvdb": "167111"
+    },
+    "names": [
+        "Kaitou Saint Tail"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

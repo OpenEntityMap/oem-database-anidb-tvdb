@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1532",
+        "tvdb": "123691"
+    },
+    "names": [
+        "Hit o Nerae!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

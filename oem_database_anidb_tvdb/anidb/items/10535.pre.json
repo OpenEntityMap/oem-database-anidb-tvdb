@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10535",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin the IIIrd: Jigen Daisuke no Bohyou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

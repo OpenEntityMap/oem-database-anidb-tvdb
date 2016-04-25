@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "446",
+        "tvdb": "82745"
+    },
+    "names": [
+        "Final Fantasy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

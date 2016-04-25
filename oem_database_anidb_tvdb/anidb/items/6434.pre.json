@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6434",
+        "tvdb": "199111"
+    },
+    "names": [
+        "Marie & Gali"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

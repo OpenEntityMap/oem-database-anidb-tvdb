@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7588",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Rouge no Dengon"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

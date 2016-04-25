@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "252621"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9719"
+            },
+            "names": [
+                "Kidou Senshi Gundam AGE: Memory of Eden"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8494"
+            },
+            "names": [
+                "Kidou Senshi Gundam AGE"
+            ]
+        }
+    }
+}

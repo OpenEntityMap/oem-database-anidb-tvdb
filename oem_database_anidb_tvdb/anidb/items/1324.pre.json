@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1324",
+        "tvdb": "266792"
+    },
+    "names": [
+        "PopoloCrois"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3572",
+        "tvdb": "82490"
+    },
+    "names": [
+        "Shinigami no Ballad"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

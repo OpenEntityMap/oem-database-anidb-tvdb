@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6098",
+        "tvdb": "83408"
+    },
+    "names": [
+        "Kurozuka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

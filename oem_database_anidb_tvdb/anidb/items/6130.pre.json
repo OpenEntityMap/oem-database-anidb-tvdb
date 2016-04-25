@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6130",
+        "tvdb": "89741"
+    },
+    "names": [
+        "Genji Monogatari Sennenki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

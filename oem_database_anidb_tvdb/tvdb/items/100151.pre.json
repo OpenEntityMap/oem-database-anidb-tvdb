@@ -1,0 +1,44 @@
+{
+    "identifiers": {
+        "tvdb": "100151"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "727"
+                    },
+                    "names": [
+                        "Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "9687"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Space Pirate Captain Harlock"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "725"
+            },
+            "names": [
+                "Uchuu Kaizoku Captain Harlock"
+            ]
+        }
+    }
+}

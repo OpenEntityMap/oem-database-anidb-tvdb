@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1010",
+        "tvdb": "85199"
+    },
+    "names": [
+        "Tanoshii Muumin Ikka Bouken Nikki"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

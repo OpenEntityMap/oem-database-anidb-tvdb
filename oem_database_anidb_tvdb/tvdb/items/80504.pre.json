@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "80504"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "3542"
+            },
+            "names": [
+                "Versailles no Bara: Seimei Aru Kagiri Aishite"
+            ],
+            "supplemental": {
+                "studio": "TMS Entertainment"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "181"
+            },
+            "names": [
+                "Versailles no Bara"
+            ],
+            "supplemental": {
+                "studio": "TMS Entertainment"
+            }
+        }
+    }
+}

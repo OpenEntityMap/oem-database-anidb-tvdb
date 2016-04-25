@@ -1,0 +1,35 @@
+{
+    "identifiers": {
+        "tvdb": "293491"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "206"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9658"
+            },
+            "names": [
+                "Koukaku Kidoutai Arise: Ghost in the Shell"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11023"
+            },
+            "names": [
+                "Koukaku Kidoutai Arise: Alternative Architecture"
+            ]
+        }
+    }
+}

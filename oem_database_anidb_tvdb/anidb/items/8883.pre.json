@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8883",
+        "tvdb": "261862"
+    },
+    "names": [
+        "Chuunibyou demo Koi ga Shitai!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

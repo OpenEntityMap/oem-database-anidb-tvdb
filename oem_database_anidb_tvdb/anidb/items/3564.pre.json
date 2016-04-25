@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3564",
+        "tvdb": "79143"
+    },
+    "names": [
+        "The King of Fighters: Another Day"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

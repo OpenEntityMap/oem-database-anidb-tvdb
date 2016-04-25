@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "233",
+        "tvdb": "79275"
+    },
+    "names": [
+        "Dragon Ball GT"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

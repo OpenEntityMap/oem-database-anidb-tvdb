@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1740",
+        "tvdb": "164361"
+    },
+    "names": [
+        "Choujuu Kishin Dancougar: Hakunetsu no Shuushou"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

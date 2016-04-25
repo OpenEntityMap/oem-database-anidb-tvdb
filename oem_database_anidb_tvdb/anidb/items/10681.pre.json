@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10681",
+        "tvdb": "273004"
+    },
+    "names": [
+        "Gundam Build Fighters Try"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

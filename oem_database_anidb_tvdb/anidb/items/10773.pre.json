@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10773",
+        "tvdb": "304316"
+    },
+    "names": [
+        "Shouwa Genroku Rakugo Shinjuu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

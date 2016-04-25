@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8269",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters: Best Wishes! - Victini to Shiroki Eiyuu Reshiram"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

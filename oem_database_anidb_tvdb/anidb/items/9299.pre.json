@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9299",
+        "tvdb": "81490"
+    },
+    "names": [
+        "Persona 3 the Movie"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

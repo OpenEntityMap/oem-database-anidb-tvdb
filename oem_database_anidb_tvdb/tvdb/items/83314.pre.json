@@ -1,0 +1,62 @@
+{
+    "identifiers": {
+        "tvdb": "83314"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "6400"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shin Koihime Musou"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "7470"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shin Koihime Musou Live Revolution"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5922"
+            },
+            "names": [
+                "Koihime Musou"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6400"
+            },
+            "names": [
+                "Shin Koihime Musou"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "7277"
+            },
+            "names": [
+                "Shin Koihime Musou: Otome Tairan"
+            ]
+        }
+    }
+}

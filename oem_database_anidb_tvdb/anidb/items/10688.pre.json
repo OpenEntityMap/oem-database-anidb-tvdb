@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10688",
+        "tvdb": "264663"
+    },
+    "names": [
+        "Gekijouban Date a Live: Mayuri Judgement"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

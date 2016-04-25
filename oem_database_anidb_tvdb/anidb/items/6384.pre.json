@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6384",
+        "tvdb": "88481"
+    },
+    "names": [
+        "Ristorante Paradiso"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7134",
+        "tvdb": "133451"
+    },
+    "names": [
+        "Ookami Kakushi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

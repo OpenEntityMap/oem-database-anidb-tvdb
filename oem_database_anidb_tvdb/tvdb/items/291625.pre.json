@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10818",
+        "tvdb": "291625"
+    },
+    "names": [
+        "Triage X"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

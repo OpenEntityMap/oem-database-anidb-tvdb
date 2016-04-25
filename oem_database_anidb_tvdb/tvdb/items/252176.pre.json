@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "252176"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "805"
+            },
+            "names": [
+                "Hamelin no Violin Hiki"
+            ],
+            "supplemental": {
+                "studio": "Studio DEEN"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "775"
+            },
+            "names": [
+                "Hamelin no Violin Hiki (1997)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1717",
+        "tvdb": "93721"
+    },
+    "names": [
+        "Yuusha Ou GaoGaiGar Final"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10782",
+        "tvdb": "289908"
+    },
+    "names": [
+        "Re-Kan!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

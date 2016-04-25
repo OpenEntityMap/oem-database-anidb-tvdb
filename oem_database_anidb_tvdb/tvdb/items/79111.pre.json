@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3203",
+        "tvdb": "79111"
+    },
+    "names": [
+        "Suzuka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

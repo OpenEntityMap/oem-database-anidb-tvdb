@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "194951"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9410"
+            },
+            "names": [
+                "Star Driver The Movie"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7591"
+            },
+            "names": [
+                "Star Driver: Kagayaki no Takuto"
+            ]
+        }
+    }
+}

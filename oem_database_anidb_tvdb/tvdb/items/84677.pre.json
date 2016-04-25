@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5911",
+        "tvdb": "84677"
+    },
+    "names": [
+        "Koukaku no Regios"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

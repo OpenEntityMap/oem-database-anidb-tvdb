@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3304",
+        "tvdb": "150641"
+    },
+    "names": [
+        "Hoero Bunbun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2432",
+        "tvdb": "250972"
+    },
+    "names": [
+        "Monkey Turn V"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

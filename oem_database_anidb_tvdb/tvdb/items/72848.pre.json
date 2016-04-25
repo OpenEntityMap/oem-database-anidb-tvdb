@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "72848"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "362"
+            },
+            "names": [
+                "The Hakkenden"
+            ],
+            "supplemental": {
+                "studio": "AIC"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "3353"
+            },
+            "names": [
+                "The Hakkenden: Shin Shou"
+            ]
+        }
+    }
+}

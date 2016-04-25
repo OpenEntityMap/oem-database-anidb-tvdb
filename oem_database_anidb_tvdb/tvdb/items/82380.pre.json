@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "82380"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "7643"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Attack No.1: Namida no Kaiten Receive"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "7644"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Attack No.1: Namida no Sekai Senshuken"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7642"
+            },
+            "names": [
+                "Attack No.1 (1970)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "757"
+            },
+            "names": [
+                "Attack Number One"
+            ]
+        }
+    }
+}

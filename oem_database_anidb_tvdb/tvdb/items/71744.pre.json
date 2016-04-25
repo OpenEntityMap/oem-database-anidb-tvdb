@@ -1,0 +1,44 @@
+{
+    "identifiers": {
+        "tvdb": "71744"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "463"
+                    },
+                    "names": [
+                        "Vandread Gekitouhen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "462"
+            },
+            "names": [
+                "Vandread Taidouhen"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "177"
+            },
+            "names": [
+                "VanDread"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "178"
+            },
+            "names": [
+                "VanDread the Second Stage"
+            ]
+        }
+    }
+}

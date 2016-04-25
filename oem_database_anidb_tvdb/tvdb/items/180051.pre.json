@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1465",
+        "tvdb": "180051"
+    },
+    "names": [
+        "Cleopatra DC"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

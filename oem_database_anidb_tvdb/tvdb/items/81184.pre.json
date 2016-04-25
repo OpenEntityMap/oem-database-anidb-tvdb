@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "81184"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "5273"
+            },
+            "names": [
+                "Rosario to Vampire"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5873"
+            },
+            "names": [
+                "Rosario to Vampire Capu2"
+            ]
+        }
+    }
+}

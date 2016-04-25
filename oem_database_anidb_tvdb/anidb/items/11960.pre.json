@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11960",
+        "tvdb": "277063"
+    },
+    "names": [
+        "Future Card Buddyfight DDD"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

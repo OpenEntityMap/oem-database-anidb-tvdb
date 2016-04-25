@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9836",
+        "tvdb": "273003"
+    },
+    "names": [
+        "Gingitsune"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

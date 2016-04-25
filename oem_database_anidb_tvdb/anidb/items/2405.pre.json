@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2405",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Nusumareta Lupin"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

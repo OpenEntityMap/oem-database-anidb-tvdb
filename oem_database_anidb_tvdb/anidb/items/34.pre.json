@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "34",
+        "tvdb": "78900"
+    },
+    "names": [
+        "Fruits Basket"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

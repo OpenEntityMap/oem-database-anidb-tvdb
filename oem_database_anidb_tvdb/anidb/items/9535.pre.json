@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9535",
+        "tvdb": "266581"
+    },
+    "names": [
+        "Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6244",
+        "tvdb": "87851"
+    },
+    "names": [
+        "Senjou no Valkyria: Valkyria Chronicles"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

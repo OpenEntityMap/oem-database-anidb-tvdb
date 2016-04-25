@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "83363"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "6227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ],
+                    "names": [
+                        "Shikabane Hime: Kuro"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "6227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ],
+                    "names": [
+                        "Shikabane Hime: Kuro"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6036"
+            },
+            "names": [
+                "Shikabane Hime: Aka"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6227"
+            },
+            "names": [
+                "Shikabane Hime: Kuro"
+            ]
+        }
+    }
+}

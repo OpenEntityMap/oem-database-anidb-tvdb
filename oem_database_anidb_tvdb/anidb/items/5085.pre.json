@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5085",
+        "tvdb": "72471"
+    },
+    "names": [
+        "Kiddy Grade I: Ignition"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Gonzo Digimation"
+    }
+}

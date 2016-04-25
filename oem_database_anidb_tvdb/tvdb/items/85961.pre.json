@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5986",
+        "tvdb": "85961"
+    },
+    "names": [
+        "Chocolate Underground"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

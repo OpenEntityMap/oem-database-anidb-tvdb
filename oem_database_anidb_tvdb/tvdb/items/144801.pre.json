@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "264",
+        "tvdb": "144801"
+    },
+    "names": [
+        "Mister Ajikko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

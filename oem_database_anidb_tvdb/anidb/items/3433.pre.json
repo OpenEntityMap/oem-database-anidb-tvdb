@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3433",
+        "tvdb": "79214"
+    },
+    "names": [
+        "Mushishi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

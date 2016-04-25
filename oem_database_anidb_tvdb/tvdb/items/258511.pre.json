@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "258511"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1580"
+            },
+            "names": [
+                "Cutey Honey Flash (1997)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1238"
+            },
+            "names": [
+                "Cutey Honey Flash"
+            ]
+        }
+    }
+}

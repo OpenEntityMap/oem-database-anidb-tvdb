@@ -1,0 +1,27 @@
+{
+    "identifiers": {
+        "anidb": "3061",
+        "tvdb": "83105"
+    },
+    "names": [
+        "Touch: Crossroad - Kaze no Yukue"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

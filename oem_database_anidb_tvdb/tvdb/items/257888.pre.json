@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8890",
+        "tvdb": "257888"
+    },
+    "names": [
+        "Acchi Kocchi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

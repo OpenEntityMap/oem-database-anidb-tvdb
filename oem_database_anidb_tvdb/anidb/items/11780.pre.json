@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11780",
+        "tvdb": "303955"
+    },
+    "names": [
+        "Luck and Logic"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

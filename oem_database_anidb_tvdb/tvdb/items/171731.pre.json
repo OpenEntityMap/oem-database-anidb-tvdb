@@ -1,0 +1,102 @@
+{
+    "identifiers": {
+        "tvdb": "171731"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "7404"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nurarihyon no Mago"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "7404"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Nurarihyon no Mago"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "8177"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nurarihyon no Mago: Sennen Makyou"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "8177"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Nurarihyon no Mago: Sennen Makyou"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "9368"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nurarihyon no Mago (2012)"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7404"
+            },
+            "names": [
+                "Nurarihyon no Mago"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8177"
+            },
+            "names": [
+                "Nurarihyon no Mago: Sennen Makyou"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        }
+    }
+}

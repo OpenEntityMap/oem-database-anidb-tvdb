@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "tvdb": "85301"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1074"
+            },
+            "names": [
+                "Ace o Nerae! (1979)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1072"
+            },
+            "names": [
+                "Ace o Nerae!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1073"
+            },
+            "names": [
+                "Shin Ace o Nerae!"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "1390"
+            },
+            "names": [
+                "Ace o Nerae! 2"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "1389"
+            },
+            "names": [
+                "Ace o Nerae! Final Stage"
+            ]
+        }
+    }
+}

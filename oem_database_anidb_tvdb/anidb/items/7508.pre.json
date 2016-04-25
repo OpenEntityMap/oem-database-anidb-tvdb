@@ -1,0 +1,50 @@
+{
+    "identifiers": {
+        "anidb": "7508",
+        "tvdb": "79525"
+    },
+    "names": [
+        "Code Geass: Boukoku no Akito"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7271",
+        "tvdb": "78777"
+    },
+    "names": [
+        "Youkoso Lodoss Tou e!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

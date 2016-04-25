@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "450",
+        "tvdb": "83635"
+    },
+    "names": [
+        "Mouse"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

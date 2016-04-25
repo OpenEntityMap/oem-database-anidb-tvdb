@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "510",
+        "tvdb": "80608"
+    },
+    "names": [
+        "Green Green"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Studio Matrix"
+    }
+}

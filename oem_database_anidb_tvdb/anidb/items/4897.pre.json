@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "anidb": "4897",
+        "tvdb": "80421"
+    },
+    "names": [
+        "Baccano!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

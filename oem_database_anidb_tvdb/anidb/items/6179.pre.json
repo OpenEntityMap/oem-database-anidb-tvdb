@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6179",
+        "tvdb": "77681"
+    },
+    "names": [
+        "Slayers Evolution-R"
+    ],
+    "parameters": {
+        "default_season": "5"
+    }
+}

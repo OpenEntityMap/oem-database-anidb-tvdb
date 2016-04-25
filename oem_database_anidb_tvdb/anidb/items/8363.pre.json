@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8363",
+        "tvdb": "261667"
+    },
+    "names": [
+        "Duel Masters Victory"
+    ],
+    "parameters": {
+        "default_season": "7"
+    }
+}

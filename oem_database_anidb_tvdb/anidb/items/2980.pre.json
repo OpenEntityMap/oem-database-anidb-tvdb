@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2980",
+        "tvdb": "251636"
+    },
+    "names": [
+        "Honoo no Tenkousei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

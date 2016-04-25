@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "75",
+        "tvdb": "84011"
+    },
+    "names": [
+        "Tenshi na Konamaiki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

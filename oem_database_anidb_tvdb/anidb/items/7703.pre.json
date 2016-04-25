@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7703",
+        "tvdb": "146401"
+    },
+    "names": [
+        "Gekijouban Inazuma Eleven: Saikyou Gundan Ogre Shuurai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

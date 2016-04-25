@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4473",
+        "tvdb": "81221"
+    },
+    "names": [
+        "Pumpkin Scissors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

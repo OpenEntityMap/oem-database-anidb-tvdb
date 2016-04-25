@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "822",
+        "tvdb": "79161"
+    },
+    "names": [
+        "Divergence Eve"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

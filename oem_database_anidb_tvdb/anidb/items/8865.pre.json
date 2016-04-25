@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8865",
+        "tvdb": "256705"
+    },
+    "names": [
+        "Uchuu Kyoudai"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

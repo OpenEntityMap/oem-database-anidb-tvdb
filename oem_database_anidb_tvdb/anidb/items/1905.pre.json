@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1905",
+        "tvdb": "253280"
+    },
+    "names": [
+        "Miracle Shoujo Limit-chan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

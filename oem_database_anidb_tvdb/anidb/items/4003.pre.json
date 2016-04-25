@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4003",
+        "tvdb": "79840"
+    },
+    "names": [
+        "Otome wa Boku ni Koishiteru"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

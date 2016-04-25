@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "998",
+        "tvdb": "79446"
+    },
+    "names": [
+        "Mezzo DSA"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

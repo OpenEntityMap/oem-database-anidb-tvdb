@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "279830"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10892"
+            },
+            "names": [
+                "Shigatsu wa Kimi no Uso: Moments"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10539"
+            },
+            "names": [
+                "Shigatsu wa Kimi no Uso"
+            ]
+        }
+    }
+}

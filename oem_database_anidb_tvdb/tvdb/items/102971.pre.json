@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6479",
+        "tvdb": "102971"
+    },
+    "names": [
+        "Higepiyo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

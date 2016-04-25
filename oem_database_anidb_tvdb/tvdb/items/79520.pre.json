@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "114",
+        "tvdb": "79520"
+    },
+    "names": [
+        "Ima, Soko ni Iru Boku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "AIC"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1540",
+        "tvdb": "78974"
+    },
+    "names": [
+        "Tenjou Tenge"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

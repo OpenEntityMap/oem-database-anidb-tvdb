@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11598",
+        "tvdb": "305077"
+    },
+    "names": [
+        "Gyakuten Saiban"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

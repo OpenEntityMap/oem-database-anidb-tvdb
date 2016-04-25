@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "329",
+        "tvdb": "185371"
+    },
+    "names": [
+        "Ken'yuu Densetsu Yaiba"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

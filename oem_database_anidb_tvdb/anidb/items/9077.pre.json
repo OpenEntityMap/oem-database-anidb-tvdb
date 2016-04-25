@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9077",
+        "tvdb": "259634"
+    },
+    "names": [
+        "Tari Tari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

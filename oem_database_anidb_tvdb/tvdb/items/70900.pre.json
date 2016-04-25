@@ -1,0 +1,132 @@
+{
+    "identifiers": {
+        "tvdb": "70900"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "631"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Initial D Extra Stage"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "11"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Initial D Battle Stage"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "5298"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Initial D Battle Stage 2"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "6129"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Initial D Extra Stage 2"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "9987"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shin Gekijouban Initial D"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "135"
+            },
+            "names": [
+                "Initial D"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "145"
+            },
+            "names": [
+                "Initial D Second Stage"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "625"
+            },
+            "names": [
+                "Initial D Third Stage"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "1724"
+            },
+            "names": [
+                "Initial D Fourth Stage"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "9344"
+            },
+            "names": [
+                "Initial D Fifth Stage"
+            ]
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "10486"
+            },
+            "names": [
+                "Initial D Final Stage"
+            ]
+        }
+    }
+}

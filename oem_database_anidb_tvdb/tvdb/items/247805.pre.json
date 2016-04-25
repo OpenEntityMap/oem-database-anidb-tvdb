@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "247805"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9471"
+            },
+            "names": [
+                "Sket Dance (2013)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8039"
+            },
+            "names": [
+                "Sket Dance"
+            ],
+            "supplemental": {
+                "studio": "Tatsunoko Production"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "6400",
+        "tvdb": "83314"
+    },
+    "names": [
+        "Shin Koihime Musou"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

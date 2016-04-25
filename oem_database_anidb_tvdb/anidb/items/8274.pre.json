@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8274",
+        "tvdb": "75869"
+    },
+    "names": [
+        "Gekijouban Mahou Sensei Negima! Anime Final"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

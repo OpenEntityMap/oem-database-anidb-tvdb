@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6785",
+        "tvdb": "125561"
+    },
+    "names": [
+        "Kaidan Restaurant"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

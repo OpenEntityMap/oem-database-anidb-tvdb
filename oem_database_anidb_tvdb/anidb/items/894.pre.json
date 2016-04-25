@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "894",
+        "tvdb": "82319"
+    },
+    "names": [
+        "R.O.D: The TV"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

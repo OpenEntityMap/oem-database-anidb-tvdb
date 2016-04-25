@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "922",
+        "tvdb": "75002"
+    },
+    "names": [
+        "Mamotte Shugogetten!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Toei Animation"
+    }
+}

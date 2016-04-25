@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "721",
+        "tvdb": "71536"
+    },
+    "names": [
+        "Kidou Senshi Victory Gundam"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "8074",
+        "tvdb": "248781"
+    },
+    "names": [
+        "Eiga Precure All Stars DX3: Mirai ni Todoke! Sekai o Tsunagu Niji-iro no Hana"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Toei Animation"
+    }
+}

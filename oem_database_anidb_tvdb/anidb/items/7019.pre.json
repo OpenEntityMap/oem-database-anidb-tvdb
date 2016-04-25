@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "7019",
+        "tvdb": "80005"
+    },
+    "names": [
+        "Nodame Cantabile: Finale"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

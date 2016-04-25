@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "952",
+        "tvdb": "83609"
+    },
+    "names": [
+        "Mazinger Z Tai Ankoku Daishougun"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

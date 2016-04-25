@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4327",
+        "tvdb": "79652"
+    },
+    "names": [
+        "Coyote Ragtime Show"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

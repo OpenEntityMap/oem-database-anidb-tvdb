@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5101",
+        "tvdb": "80644"
+    },
+    "names": [
+        "Clannad"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "23",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

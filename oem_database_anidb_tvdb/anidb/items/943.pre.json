@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "943",
+        "tvdb": "168421"
+    },
+    "names": [
+        "Yokoyama Mitsuteru Sangokushi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

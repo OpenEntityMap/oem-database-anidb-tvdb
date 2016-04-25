@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4974",
+        "tvdb": "92701"
+    },
+    "names": [
+        "Ice"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

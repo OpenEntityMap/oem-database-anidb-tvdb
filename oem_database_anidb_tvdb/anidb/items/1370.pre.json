@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "1370",
+        "tvdb": "89101"
+    },
+    "names": [
+        "Kikou Souseiki Mospeada"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

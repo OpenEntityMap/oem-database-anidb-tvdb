@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "141691"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "6552"
+            },
+            "names": [
+                "Weiss Survive"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7207"
+            },
+            "names": [
+                "Weiss Survive R"
+            ]
+        }
+    }
+}

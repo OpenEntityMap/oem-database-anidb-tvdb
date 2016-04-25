@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3983",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Bokutachi Pichu Brothers: Party wa Oosawagi! no Maki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "16",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1796",
+        "tvdb": "253278"
+    },
+    "names": [
+        "Cybot Robotchi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

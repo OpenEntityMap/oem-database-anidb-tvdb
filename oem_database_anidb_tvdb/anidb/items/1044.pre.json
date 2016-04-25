@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "1044",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Toei Animation"
+    }
+}

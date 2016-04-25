@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "81810"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7373"
+            },
+            "names": [
+                "Kurenai (2010)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "5535"
+            },
+            "names": [
+                "Kurenai"
+            ]
+        }
+    }
+}

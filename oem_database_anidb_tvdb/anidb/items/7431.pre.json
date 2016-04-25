@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7431",
+        "tvdb": "231961"
+    },
+    "names": [
+        "Hen Semi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

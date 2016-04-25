@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10015",
+        "tvdb": "81463"
+    },
+    "names": [
+        "Minami-ke Natsuyasumi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

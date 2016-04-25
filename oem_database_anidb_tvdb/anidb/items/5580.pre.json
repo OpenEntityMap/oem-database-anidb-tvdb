@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5580",
+        "tvdb": "81908"
+    },
+    "names": [
+        "Kyouran Kazoku Nikki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

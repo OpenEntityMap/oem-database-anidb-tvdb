@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6182",
+        "tvdb": "84654"
+    },
+    "names": [
+        "Akikan!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

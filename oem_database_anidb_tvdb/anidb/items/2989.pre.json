@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2989",
+        "tvdb": "71160"
+    },
+    "names": [
+        "Hare Tokidoki Buta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

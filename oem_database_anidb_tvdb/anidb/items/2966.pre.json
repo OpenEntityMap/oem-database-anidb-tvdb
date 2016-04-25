@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2966",
+        "tvdb": "262210"
+    },
+    "names": [
+        "Onegai My Melody"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

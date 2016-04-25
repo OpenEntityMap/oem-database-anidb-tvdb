@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4549",
+        "tvdb": "79635"
+    },
+    "names": [
+        "D.Gray-man"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "supplemental": {
+        "studio": "TMS Entertainment"
+    }
+}

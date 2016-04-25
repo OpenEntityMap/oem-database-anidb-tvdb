@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2070",
+        "tvdb": "212471"
+    },
+    "names": [
+        "Sakigake!! Otoko Juku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

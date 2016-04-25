@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1809",
+        "tvdb": "103791"
+    },
+    "names": [
+        "Densetsu Kyojin Ideon Hatsudou Hen"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "275609"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "10977"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wake Up, Girls! Zoku Gekijouban"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "10977"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Wake Up, Girls! Zoku Gekijouban"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10245"
+            },
+            "names": [
+                "Wake Up, Girls! Shichinin no Idol"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9417"
+            },
+            "names": [
+                "Wake Up, Girls!"
+            ]
+        }
+    }
+}

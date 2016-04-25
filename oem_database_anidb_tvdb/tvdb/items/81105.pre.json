@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "81105"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2257"
+            },
+            "names": [
+                "Kishin Houkou Demonbane"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4021"
+            },
+            "names": [
+                "Kishin Houkou Demonbane (2006)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3442",
+        "tvdb": "79232"
+    },
+    "names": [
+        "Last Order: Final Fantasy VII"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2088",
+        "tvdb": "99491"
+    },
+    "names": [
+        "Kingyo Chuuihou!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

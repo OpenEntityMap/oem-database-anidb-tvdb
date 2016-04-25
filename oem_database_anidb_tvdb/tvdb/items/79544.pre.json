@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79544"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2905"
+            },
+            "names": [
+                "Kodomo no Omocha OVA"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "285"
+            },
+            "names": [
+                "Kodomo no Omocha"
+            ]
+        }
+    }
+}

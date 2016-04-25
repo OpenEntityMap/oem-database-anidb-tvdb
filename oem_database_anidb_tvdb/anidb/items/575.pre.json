@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "575",
+        "tvdb": "79179"
+    },
+    "names": [
+        "Kino no Tabi: The Beautiful World"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

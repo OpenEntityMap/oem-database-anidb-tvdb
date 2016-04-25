@@ -1,0 +1,35 @@
+{
+    "identifiers": {
+        "anidb": "2498",
+        "tvdb": "72442"
+    },
+    "names": [
+        "Dirty Pair: Lovely Angels yori Ai o Komete"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "25"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

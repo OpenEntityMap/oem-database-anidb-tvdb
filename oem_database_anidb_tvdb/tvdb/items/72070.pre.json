@@ -1,0 +1,64 @@
+{
+    "identifiers": {
+        "anidb": "12",
+        "tvdb": "72070"
+    },
+    "names": [
+        "Chobits"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 16,
+                    "offset": 1,
+                    "season": "1",
+                    "start": 9
+                },
+                {
+                    "end": 24,
+                    "offset": 2,
+                    "season": "1",
+                    "start": 17
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6552",
+        "tvdb": "141691"
+    },
+    "names": [
+        "Weiss Survive"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5072",
+        "tvdb": "82831"
+    },
+    "names": [
+        "OverDrive"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

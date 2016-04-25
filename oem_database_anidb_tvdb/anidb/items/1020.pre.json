@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1020",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters: Maboroshi no Pokemon Lugia Bakutan"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

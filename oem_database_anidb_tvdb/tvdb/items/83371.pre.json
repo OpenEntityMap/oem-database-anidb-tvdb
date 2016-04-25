@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1759",
+        "tvdb": "83371"
+    },
+    "names": [
+        "Fuujin Monogatari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

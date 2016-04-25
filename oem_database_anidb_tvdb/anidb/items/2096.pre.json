@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2096",
+        "tvdb": "74731"
+    },
+    "names": [
+        "Ghost Sweeper Mikami"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

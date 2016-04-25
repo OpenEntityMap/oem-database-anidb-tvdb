@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10905",
+        "tvdb": "289177"
+    },
+    "names": [
+        "Death Parade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

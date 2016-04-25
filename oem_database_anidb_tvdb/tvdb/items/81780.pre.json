@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "787",
+        "tvdb": "81780"
+    },
+    "names": [
+        "Honoo no Mirage"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

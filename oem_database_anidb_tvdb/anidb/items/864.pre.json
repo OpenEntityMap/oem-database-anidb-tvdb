@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "864",
+        "tvdb": "115121"
+    },
+    "names": [
+        "Tiger Mask"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "430",
+        "tvdb": "75111"
+    },
+    "names": [
+        "I'll/CKBC"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

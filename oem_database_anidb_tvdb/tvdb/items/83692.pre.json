@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "19",
+        "tvdb": "83692"
+    },
+    "names": [
+        "Rizelmine"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

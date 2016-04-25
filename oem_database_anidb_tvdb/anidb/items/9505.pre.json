@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9505",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan: Zekkai no Private Eye"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "58",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

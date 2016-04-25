@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6816",
+        "tvdb": "134181"
+    },
+    "names": [
+        "Seikon no Qwaser"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

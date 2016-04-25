@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7942",
+        "tvdb": "195861"
+    },
+    "names": [
+        "Miyanishi Tatsuya Gekijou: Omae Umasou Da na"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Ajia-dou"
+    }
+}

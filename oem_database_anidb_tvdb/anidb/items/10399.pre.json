@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10399",
+        "tvdb": "280330"
+    },
+    "names": [
+        "Amagi Brilliant Park"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

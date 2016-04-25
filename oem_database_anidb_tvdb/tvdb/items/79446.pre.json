@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79446"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "214"
+            },
+            "names": [
+                "Mezzo Forte"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "998"
+            },
+            "names": [
+                "Mezzo DSA"
+            ]
+        }
+    }
+}

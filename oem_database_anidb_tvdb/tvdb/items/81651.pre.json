@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4773",
+        "tvdb": "81651"
+    },
+    "names": [
+        "Idol Master Xenoglossia"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

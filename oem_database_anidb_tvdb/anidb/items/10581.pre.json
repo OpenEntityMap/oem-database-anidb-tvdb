@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10581",
+        "tvdb": "167921"
+    },
+    "names": [
+        "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

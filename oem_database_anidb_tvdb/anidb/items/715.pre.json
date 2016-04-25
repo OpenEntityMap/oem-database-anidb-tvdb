@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "715",
+        "tvdb": "76547"
+    },
+    "names": [
+        "Kidou Senshi Gundam"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

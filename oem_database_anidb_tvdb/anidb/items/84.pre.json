@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "84",
+        "tvdb": "72905"
+    },
+    "names": [
+        "Hikaru no Go"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "supplemental": {
+        "studio": "Studio Pierrot"
+    }
+}

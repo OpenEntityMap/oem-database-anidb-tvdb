@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "8691",
+        "tvdb": "257516"
+    },
+    "names": [
+        "Accel World"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

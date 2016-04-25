@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6443",
+        "tvdb": "102011"
+    },
+    "names": [
+        "Aoi Hana"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "412",
+        "tvdb": "79174"
+    },
+    "names": [
+        "Z.O.E Dolores,i"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

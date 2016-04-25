@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1655",
+        "tvdb": "99461"
+    },
+    "names": [
+        "Kishin Heidan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

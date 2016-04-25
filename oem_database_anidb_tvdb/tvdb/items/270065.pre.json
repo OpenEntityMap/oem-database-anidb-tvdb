@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "tvdb": "270065"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11155"
+            },
+            "names": [
+                "Eiga High Speed!: Free! Starting Days"
+            ],
+            "parameters": {
+                "episode_offset": "8"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9858"
+            },
+            "names": [
+                "Free!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10415"
+            },
+            "names": [
+                "Free! Eternal Summer"
+            ]
+        }
+    }
+}

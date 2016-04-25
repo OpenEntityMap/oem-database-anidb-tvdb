@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "187",
+        "tvdb": "75982"
+    },
+    "names": [
+        "Magical Nyan Nyan Taruto"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

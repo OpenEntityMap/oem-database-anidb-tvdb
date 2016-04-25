@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6325",
+        "tvdb": "80096"
+    },
+    "names": [
+        "Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

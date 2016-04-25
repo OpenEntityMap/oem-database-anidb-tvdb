@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "5903",
+        "tvdb": "80675"
+    },
+    "names": [
+        "Kidou Senshi Gundam 00 (2008)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

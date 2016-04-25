@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "895",
+        "tvdb": "75796"
+    },
+    "names": [
+        "Planetes"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

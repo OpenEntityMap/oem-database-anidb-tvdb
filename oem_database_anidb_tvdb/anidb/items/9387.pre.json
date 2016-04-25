@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9387",
+        "tvdb": "272073"
+    },
+    "names": [
+        "Nagi no Asukara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

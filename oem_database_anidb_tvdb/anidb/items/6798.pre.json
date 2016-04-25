@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6798",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pichu to Pikachu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "24",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

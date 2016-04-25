@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7268",
+        "tvdb": "172941"
+    },
+    "names": [
+        "Shiki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

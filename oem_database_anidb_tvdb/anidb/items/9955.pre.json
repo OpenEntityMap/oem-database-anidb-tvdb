@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9955",
+        "tvdb": "275613"
+    },
+    "names": [
+        "Hoozuki no Reitetsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

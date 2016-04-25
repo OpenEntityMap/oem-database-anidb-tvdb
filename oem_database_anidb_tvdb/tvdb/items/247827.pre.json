@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3297",
+        "tvdb": "247827"
+    },
+    "names": [
+        "Let's Nupu Nupu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

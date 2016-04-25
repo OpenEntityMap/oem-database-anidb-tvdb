@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10951",
+        "tvdb": "305082"
+    },
+    "names": [
+        "Koutetsujou no Kabaneri"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "878",
+        "tvdb": "81062"
+    },
+    "names": [
+        "Angel Cop"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "17",
+        "tvdb": "78914"
+    },
+    "names": [
+        "Fullmetal Panic!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "327",
+        "tvdb": "76968"
+    },
+    "names": [
+        "Boku no Chikyuu o Mamotte"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

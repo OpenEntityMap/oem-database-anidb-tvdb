@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8798",
+        "tvdb": "254660"
+    },
+    "names": [
+        "Area no Kishi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

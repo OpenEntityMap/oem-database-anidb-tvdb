@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5238",
+        "tvdb": "146491"
+    },
+    "names": [
+        "Hoshi no Ko Chobin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

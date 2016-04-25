@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2481",
+        "tvdb": "79454"
+    },
+    "names": [
+        "Uta Kata"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

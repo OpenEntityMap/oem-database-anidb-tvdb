@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4548",
+        "tvdb": "80328"
+    },
+    "names": [
+        "Tales of Symphonia The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

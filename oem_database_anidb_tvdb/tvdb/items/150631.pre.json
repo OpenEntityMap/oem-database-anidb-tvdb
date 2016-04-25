@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "150631"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "857"
+            },
+            "names": [
+                "Shin Hurricane Polymer"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1562"
+            },
+            "names": [
+                "Hurricane Polymer"
+            ]
+        }
+    }
+}

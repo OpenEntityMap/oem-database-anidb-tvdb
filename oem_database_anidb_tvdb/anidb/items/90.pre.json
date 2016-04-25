@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "90",
+        "tvdb": "70863"
+    },
+    "names": [
+        "Rurouni Kenshin: Meiji Kenkaku Romantan"
+    ],
+    "parameters": {
+        "default_season": "a"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "33",
+                            "season": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

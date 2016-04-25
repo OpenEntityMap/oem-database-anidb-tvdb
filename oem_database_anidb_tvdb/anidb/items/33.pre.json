@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "33",
+        "tvdb": "74544"
+    },
+    "names": [
+        "Happy Lesson (2002)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

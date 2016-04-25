@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9368",
+        "tvdb": "171731"
+    },
+    "names": [
+        "Nurarihyon no Mago (2012)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

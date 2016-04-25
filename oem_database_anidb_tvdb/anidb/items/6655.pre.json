@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6655",
+        "tvdb": "81086"
+    },
+    "names": [
+        "Gekijouban Macross F: Itsuwari no Utahime"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

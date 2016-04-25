@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9749",
+        "tvdb": "281949"
+    },
+    "names": [
+        "Grisaia no Kajitsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

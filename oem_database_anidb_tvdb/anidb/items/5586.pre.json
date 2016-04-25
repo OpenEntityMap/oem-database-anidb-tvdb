@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5586",
+        "tvdb": "81816"
+    },
+    "names": [
+        "Vampire Knight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

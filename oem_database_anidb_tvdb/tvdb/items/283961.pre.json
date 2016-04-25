@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10733",
+        "tvdb": "283961"
+    },
+    "names": [
+        "Gangsta."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

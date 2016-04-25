@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6144",
+        "tvdb": "81427"
+    },
+    "names": [
+        "Shugo Chara!! Doki"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

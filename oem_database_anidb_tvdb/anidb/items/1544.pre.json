@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1544",
+        "tvdb": "75941"
+    },
+    "names": [
+        "Elfen Lied"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

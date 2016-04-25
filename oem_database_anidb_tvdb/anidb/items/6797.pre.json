@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6797",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pikachu Tankentai"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

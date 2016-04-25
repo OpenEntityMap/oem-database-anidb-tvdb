@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "904",
+        "tvdb": "73988"
+    },
+    "names": [
+        "The Big O"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

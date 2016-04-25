@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10222",
+        "tvdb": "82378"
+    },
+    "names": [
+        "Ojamajo Doremi no Koutsuu Anzen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

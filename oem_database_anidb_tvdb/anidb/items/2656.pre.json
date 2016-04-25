@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2656",
+        "tvdb": "79755"
+    },
+    "names": [
+        "Afro Samurai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

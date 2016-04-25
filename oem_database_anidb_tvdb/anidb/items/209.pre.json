@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "209",
+        "tvdb": "82970"
+    },
+    "names": [
+        "Pet Shop of Horrors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "159551"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "6311"
+            },
+            "names": [
+                "Kin'iro no Chord: Secondo Passo"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4509"
+            },
+            "names": [
+                "Kin'iro no Chord: Primo Passo"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10210"
+            },
+            "names": [
+                "Kin'iro no Chord: Blue Sky"
+            ]
+        }
+    }
+}

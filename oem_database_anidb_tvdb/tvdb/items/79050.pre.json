@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "79050"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "228"
+            },
+            "names": [
+                "Jungle wa Itsumo Hare Nochi Guu"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "317"
+            },
+            "names": [
+                "Jungle wa Itsumo Hare Nochi Guu Deluxe"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "1282"
+            },
+            "names": [
+                "Jungle wa Itsumo Hare Nochi Guu Final"
+            ]
+        }
+    }
+}

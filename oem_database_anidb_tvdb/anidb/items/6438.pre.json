@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6438",
+        "tvdb": "105131"
+    },
+    "names": [
+        "Princess Lover!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

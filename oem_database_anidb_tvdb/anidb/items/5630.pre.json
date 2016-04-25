@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5630",
+        "tvdb": "81811"
+    },
+    "names": [
+        "Nabari no Ou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

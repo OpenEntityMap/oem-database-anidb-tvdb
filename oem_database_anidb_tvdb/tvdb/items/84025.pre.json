@@ -1,0 +1,128 @@
+{
+    "identifiers": {
+        "tvdb": "84025"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "14": {
+                    "identifiers": {
+                        "anidb": "4138"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Maria-sama ga Miteru 3rd Season"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "4138"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Maria-sama ga Miteru 3rd Season"
+                    ]
+                },
+                "16": {
+                    "identifiers": {
+                        "anidb": "4138"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Maria-sama ga Miteru 3rd Season"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "4138"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Maria-sama ga Miteru 3rd Season"
+                    ]
+                },
+                "18": {
+                    "identifiers": {
+                        "anidb": "4138"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Maria-sama ga Miteru 3rd Season"
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 13,
+                    "identifiers": {
+                        "anidb": "2025"
+                    },
+                    "names": [
+                        "Maria-sama ga Miteru: Haru"
+                    ],
+                    "offset": -7,
+                    "season": "0",
+                    "start": 8
+                }
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1297"
+            },
+            "names": [
+                "Maria-sama ga Miteru"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2025"
+            },
+            "names": [
+                "Maria-sama ga Miteru: Haru"
+            ],
+            "supplemental": {
+                "studio": "Studio Deen"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "4138"
+            },
+            "names": [
+                "Maria-sama ga Miteru 3rd Season"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "5694"
+            },
+            "names": [
+                "Maria-sama ga Miteru 4th"
+            ]
+        }
+    }
+}

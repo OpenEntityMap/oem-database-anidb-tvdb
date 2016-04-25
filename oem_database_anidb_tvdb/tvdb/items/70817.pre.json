@@ -1,0 +1,83 @@
+{
+    "identifiers": {
+        "tvdb": "70817"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "3330",
+                    "1649",
+                    "2396",
+                    "2397",
+                    "2395",
+                    "3328",
+                    "3329",
+                    "2398"
+                ]
+            },
+            "names": [
+                "Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou",
+                "Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken",
+                "Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono",
+                "Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess",
+                "Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi",
+                "Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu",
+                "Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi",
+                "Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "557"
+            },
+            "names": [
+                "Tottoko Hamtarou"
+            ]
+        },
+        "2": {
+            "episodes": {
+                "54": {
+                    "identifiers": {
+                        "anidb": "3330"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!"
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 30,
+                    "identifiers": {
+                        "anidb": "557"
+                    },
+                    "names": [
+                        "Tottoko Hamtarou"
+                    ],
+                    "offset": 52,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 52,
+                    "identifiers": {
+                        "anidb": "557"
+                    },
+                    "names": [
+                        "Tottoko Hamtarou"
+                    ],
+                    "offset": 53,
+                    "season": "1",
+                    "start": 31
+                }
+            ]
+        }
+    }
+}

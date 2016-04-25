@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "255925"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8240"
+            },
+            "names": [
+                "Pretty Rhythm: Aurora Dream"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8938"
+            },
+            "names": [
+                "Pretty Rhythm: Dear My Future"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "9664"
+            },
+            "names": [
+                "Pretty Rhythm: Rainbow Live"
+            ]
+        }
+    }
+}

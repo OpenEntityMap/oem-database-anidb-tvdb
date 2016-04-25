@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "65",
+        "tvdb": "79714"
+    },
+    "names": [
+        "Puni Puni Poemi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

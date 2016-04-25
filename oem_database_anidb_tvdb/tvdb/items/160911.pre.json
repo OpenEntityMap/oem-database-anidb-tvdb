@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7469",
+        "tvdb": "160911"
+    },
+    "names": [
+        "Magic Kaito"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

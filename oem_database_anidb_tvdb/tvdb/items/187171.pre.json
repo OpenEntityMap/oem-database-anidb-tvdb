@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7370",
+        "tvdb": "187171"
+    },
+    "names": [
+        "Shoka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

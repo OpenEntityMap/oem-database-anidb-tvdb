@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8403",
+        "tvdb": "251243"
+    },
+    "names": [
+        "Copihan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

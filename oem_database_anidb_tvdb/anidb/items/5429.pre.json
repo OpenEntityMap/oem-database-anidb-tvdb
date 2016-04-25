@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5429",
+        "tvdb": "123661"
+    },
+    "names": [
+        "Tokyo Marble Chocolate"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

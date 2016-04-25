@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2056",
+        "tvdb": "166751"
+    },
+    "names": [
+        "Maps"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

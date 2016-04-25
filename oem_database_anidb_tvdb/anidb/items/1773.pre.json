@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1773",
+        "tvdb": "87941"
+    },
+    "names": [
+        "Eat-Man"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

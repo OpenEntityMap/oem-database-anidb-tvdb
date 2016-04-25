@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "3995",
+        "tvdb": "251941"
+    },
+    "names": [
+        "Riki-Ou 2: Horobi no Ko"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

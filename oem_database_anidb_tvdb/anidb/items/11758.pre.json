@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11758",
+        "tvdb": "300835"
+    },
+    "names": [
+        "Ajin OAD"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "247836"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "8206"
+            },
+            "names": [
+                "Dog Days"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8882"
+            },
+            "names": [
+                "Dog Days'"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "9517"
+            },
+            "names": [
+                "Dog Days''"
+            ]
+        }
+    }
+}

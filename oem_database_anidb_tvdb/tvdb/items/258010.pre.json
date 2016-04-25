@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8942",
+        "tvdb": "258010"
+    },
+    "names": [
+        "Tales of Gekijou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

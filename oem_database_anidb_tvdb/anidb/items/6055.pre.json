@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6055",
+        "tvdb": "98661"
+    },
+    "names": [
+        "Stitch!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

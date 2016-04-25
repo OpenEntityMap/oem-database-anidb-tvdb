@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4783",
+        "tvdb": "81415"
+    },
+    "names": [
+        "Venus Versus Virus"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

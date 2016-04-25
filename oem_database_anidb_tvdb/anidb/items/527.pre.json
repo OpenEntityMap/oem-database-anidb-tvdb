@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "527",
+        "tvdb": "160051"
+    },
+    "names": [
+        "Houma Hunter Lime"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

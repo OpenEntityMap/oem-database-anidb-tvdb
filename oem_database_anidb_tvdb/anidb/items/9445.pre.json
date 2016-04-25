@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9445",
+        "tvdb": "265386"
+    },
+    "names": [
+        "Puchimas! Petit Idolmaster"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

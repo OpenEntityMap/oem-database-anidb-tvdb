@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2132",
+        "tvdb": "71419"
+    },
+    "names": [
+        "Kinnikuman II Sei: Muscle Ninjin Soudatsu! Choujin Daisensou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

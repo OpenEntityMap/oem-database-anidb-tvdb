@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5356",
+        "tvdb": "80673"
+    },
+    "names": [
+        "Bamboo Blade"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

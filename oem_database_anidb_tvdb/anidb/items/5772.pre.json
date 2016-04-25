@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5772",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

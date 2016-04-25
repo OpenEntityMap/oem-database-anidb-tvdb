@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "122",
+        "tvdb": "82031"
+    },
+    "names": [
+        "Urda"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

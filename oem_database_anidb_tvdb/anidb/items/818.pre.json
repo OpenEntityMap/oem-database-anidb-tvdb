@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "818",
+        "tvdb": "79884"
+    },
+    "names": [
+        "Candy Candy (1992)"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

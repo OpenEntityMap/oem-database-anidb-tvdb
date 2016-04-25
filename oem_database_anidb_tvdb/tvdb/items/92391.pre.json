@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2161",
+        "tvdb": "92391"
+    },
+    "names": [
+        "Agatha Christie no Meitantei Poirot to Marple"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

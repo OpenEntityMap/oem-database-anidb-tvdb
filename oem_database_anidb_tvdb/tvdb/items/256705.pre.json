@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "256705"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "9754"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Uchuu Kyoudai: Itten no Hikari"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "10320"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Uchuu Kyoudai: Number Zero"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9032"
+            },
+            "names": [
+                "Uchuu Kyoudai: Apo's Dream"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "8865"
+            },
+            "names": [
+                "Uchuu Kyoudai"
+            ]
+        }
+    }
+}

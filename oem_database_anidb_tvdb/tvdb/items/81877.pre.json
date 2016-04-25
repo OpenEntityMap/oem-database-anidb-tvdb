@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "tvdb": "81877"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7651"
+            },
+            "names": [
+                "Kaibutsu Oujo (2010)"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "4940"
+            },
+            "names": [
+                "Kaibutsu Oujo"
+            ]
+        }
+    }
+}

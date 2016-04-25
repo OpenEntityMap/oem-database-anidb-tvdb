@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6780",
+        "tvdb": "145211"
+    },
+    "names": [
+        "Working!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

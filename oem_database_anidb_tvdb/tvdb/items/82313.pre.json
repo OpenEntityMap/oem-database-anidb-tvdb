@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4074",
+        "tvdb": "82313"
+    },
+    "names": [
+        "Magikano"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

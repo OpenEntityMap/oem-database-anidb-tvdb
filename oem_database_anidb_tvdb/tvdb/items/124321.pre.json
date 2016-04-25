@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "124321"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "3600"
+            },
+            "names": [
+                "Tenkuu Senki Shurato: Sousei e no Antou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1777"
+            },
+            "names": [
+                "Tenkuu Senki Shurato"
+            ]
+        }
+    }
+}

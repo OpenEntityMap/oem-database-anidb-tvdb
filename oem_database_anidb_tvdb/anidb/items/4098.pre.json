@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4098",
+        "tvdb": "232181"
+    },
+    "names": [
+        "Wild 7"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

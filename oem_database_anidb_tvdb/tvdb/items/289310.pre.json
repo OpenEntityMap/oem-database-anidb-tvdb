@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10751",
+        "tvdb": "289310"
+    },
+    "names": [
+        "Military!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

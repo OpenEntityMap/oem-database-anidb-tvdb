@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7540",
+        "tvdb": "184211"
+    },
+    "names": [
+        "Kaibutsu-kun: Demon no Ken"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

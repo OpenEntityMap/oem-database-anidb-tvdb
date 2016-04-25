@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6235",
+        "tvdb": "84576"
+    },
+    "names": [
+        "Ride Back"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

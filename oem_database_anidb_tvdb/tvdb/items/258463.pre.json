@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1189",
+        "tvdb": "258463"
+    },
+    "names": [
+        "Shin Kaitei Gunkan"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

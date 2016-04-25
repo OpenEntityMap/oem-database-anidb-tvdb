@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "454",
+        "tvdb": "79224"
+    },
+    "names": [
+        "Himiko-Den"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5547",
+        "tvdb": "81846"
+    },
+    "names": [
+        "Bus Gamer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

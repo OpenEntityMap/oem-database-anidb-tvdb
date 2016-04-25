@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6428",
+        "tvdb": "115971"
+    },
+    "names": [
+        "Nyan Koi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

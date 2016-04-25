@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1523",
+        "tvdb": "78975"
+    },
+    "names": [
+        "Ragnarok The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

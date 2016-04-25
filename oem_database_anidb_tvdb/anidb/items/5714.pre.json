@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5714",
+        "tvdb": "80294"
+    },
+    "names": [
+        "Mirai Shounen Conan (1979)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

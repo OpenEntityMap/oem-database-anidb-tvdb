@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9671",
+        "tvdb": "247231"
+    },
+    "names": [
+        "Gekijouban Toriko: Bishokushin no Special Menu"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

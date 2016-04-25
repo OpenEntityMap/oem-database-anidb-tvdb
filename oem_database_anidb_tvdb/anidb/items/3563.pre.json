@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3563",
+        "tvdb": "248361"
+    },
+    "names": [
+        "Tekken Chinmi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

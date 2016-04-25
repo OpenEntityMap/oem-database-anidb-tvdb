@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "555",
+        "tvdb": "73239"
+    },
+    "names": [
+        "Ou Dorobou Jing"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

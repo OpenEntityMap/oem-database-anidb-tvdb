@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "259655"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9503"
+            },
+            "names": [
+                "Asako Get You!!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9158"
+            },
+            "names": [
+                "Chitose Get You!!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "83303"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2695"
+            },
+            "names": [
+                "Eikoku Koi Monogatari Emma"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4729"
+            },
+            "names": [
+                "Eikoku Koi Monogatari Emma: Molders Hen"
+            ]
+        }
+    }
+}

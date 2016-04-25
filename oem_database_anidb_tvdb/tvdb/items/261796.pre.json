@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "261796"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "742"
+            },
+            "names": [
+                "Fortune Quest: Yo ni mo Shiawase na Boukensha-tachi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "743"
+            },
+            "names": [
+                "Fortune Quest L"
+            ]
+        }
+    }
+}

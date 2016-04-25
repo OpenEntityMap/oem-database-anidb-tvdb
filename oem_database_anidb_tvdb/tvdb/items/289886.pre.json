@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "289886"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11889"
+            },
+            "names": [
+                "Kekkai Sensen: Ou-sama no Restaurant no Ou-sama"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10663"
+            },
+            "names": [
+                "Kekkai Sensen"
+            ]
+        }
+    }
+}

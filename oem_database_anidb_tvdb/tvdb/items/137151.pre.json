@@ -1,0 +1,57 @@
+{
+    "identifiers": {
+        "tvdb": "137151"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "6392"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Cobra The Animation: Time Drive"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "6392"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Cobra The Animation: Time Drive"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "5894"
+            },
+            "names": [
+                "Cobra The Animation: The Psychogun"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "6392",
+                    "6494"
+                ]
+            },
+            "names": [
+                "Cobra The Animation: Time Drive",
+                "Cobra The Animation"
+            ]
+        }
+    }
+}

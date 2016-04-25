@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7590",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Soushuuhen Tanabata Special"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

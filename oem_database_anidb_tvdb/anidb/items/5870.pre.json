@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5870",
+        "tvdb": "80320"
+    },
+    "names": [
+        "Mission-E"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

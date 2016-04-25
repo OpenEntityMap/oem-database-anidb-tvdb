@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "249868"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8944"
+            },
+            "names": [
+                "Dantalian no Shoka: Ibarahime"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7939"
+            },
+            "names": [
+                "Dantalian no Shoka"
+            ]
+        }
+    }
+}

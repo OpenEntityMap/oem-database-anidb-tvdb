@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2091",
+        "tvdb": "157001"
+    },
+    "names": [
+        "Dragon Quest"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

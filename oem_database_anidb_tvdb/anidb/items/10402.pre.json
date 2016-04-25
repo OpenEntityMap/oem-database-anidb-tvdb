@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10402",
+        "tvdb": "83996"
+    },
+    "names": [
+        "Kuroshitsuji: Book of Circus"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

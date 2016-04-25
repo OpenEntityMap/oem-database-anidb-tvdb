@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "240",
+        "tvdb": "72726"
+    },
+    "names": [
+        "Gasaraki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

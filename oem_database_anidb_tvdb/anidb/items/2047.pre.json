@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "2047",
+        "tvdb": "83601"
+    },
+    "names": [
+        "UFO Robo Grendizer Tai Great Mazinger"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

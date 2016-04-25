@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "85329"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "4763"
+            },
+            "names": [
+                "Kodai Ouja Kyouryuu King"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5709"
+            },
+            "names": [
+                "Kodai Ouja Kyouryuu King D-Kids Adventure Yokuryuu Densetsu"
+            ]
+        }
+    }
+}

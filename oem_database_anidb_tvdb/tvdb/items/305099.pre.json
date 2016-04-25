@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11863",
+        "tvdb": "305099"
+    },
+    "names": [
+        "Mayoiga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

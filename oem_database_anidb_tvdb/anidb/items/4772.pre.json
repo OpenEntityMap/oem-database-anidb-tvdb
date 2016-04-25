@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4772",
+        "tvdb": "75411"
+    },
+    "names": [
+        "Rozen Maiden: Ouverture"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

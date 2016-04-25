@@ -1,0 +1,37 @@
+{
+    "identifiers": {
+        "anidb": "3038",
+        "tvdb": "79156"
+    },
+    "names": [
+        "Shin Kyuuseishu Densetsu Hokuto no Ken Raou-den Jun'ai no Shou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

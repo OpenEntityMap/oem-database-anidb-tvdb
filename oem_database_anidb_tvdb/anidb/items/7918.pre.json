@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7918",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Soukou Kihei Votoms: Case;Irvine"
+    ],
+    "parameters": {
+        "default_season": "99"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

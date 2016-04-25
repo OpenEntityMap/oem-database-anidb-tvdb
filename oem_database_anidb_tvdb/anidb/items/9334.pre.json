@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9334",
+        "tvdb": "267438"
+    },
+    "names": [
+        "Karneval"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

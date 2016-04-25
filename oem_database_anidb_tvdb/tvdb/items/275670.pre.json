@@ -1,0 +1,44 @@
+{
+    "identifiers": {
+        "tvdb": "275670"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "11551"
+                    },
+                    "names": [
+                        "Nisekoi: OAD"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10638"
+            },
+            "names": [
+                "Nisekoi OAD"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9903"
+            },
+            "names": [
+                "Nisekoi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10859"
+            },
+            "names": [
+                "Nisekoi:"
+            ]
+        }
+    }
+}

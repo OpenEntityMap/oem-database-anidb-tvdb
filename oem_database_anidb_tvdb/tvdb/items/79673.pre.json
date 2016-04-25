@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "323",
+        "tvdb": "79673"
+    },
+    "names": [
+        "Pita Ten"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

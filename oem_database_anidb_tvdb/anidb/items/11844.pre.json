@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11844",
+        "tvdb": "254653"
+    },
+    "names": [
+        "High School DxD Born: Yomigaeranai Fushichou"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "14"
+    }
+}

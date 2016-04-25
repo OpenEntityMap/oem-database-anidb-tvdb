@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9418",
+        "tvdb": "268287"
+    },
+    "names": [
+        "Aiura"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "2638",
+        "tvdb": "72493"
+    },
+    "names": [
+        "Silent Mobius 2"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2103",
+        "tvdb": "101511"
+    },
+    "names": [
+        "Transformers Zone"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

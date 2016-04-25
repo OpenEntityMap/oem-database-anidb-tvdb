@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9242",
+        "tvdb": "264530"
+    },
+    "names": [
+        "Vividred Operation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

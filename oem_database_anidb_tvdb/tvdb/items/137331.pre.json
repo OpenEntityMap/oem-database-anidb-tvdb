@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1727",
+        "tvdb": "137331"
+    },
+    "names": [
+        "Panda-Z The Robonimation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "617",
+        "tvdb": "73082"
+    },
+    "names": [
+        "Meitantei Holmes"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

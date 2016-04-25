@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "421",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

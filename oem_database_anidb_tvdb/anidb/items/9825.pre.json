@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9825",
+        "tvdb": "195711"
+    },
+    "names": [
+        "Kami nomi zo Shiru Sekai: Magical Star Kanon 100%"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

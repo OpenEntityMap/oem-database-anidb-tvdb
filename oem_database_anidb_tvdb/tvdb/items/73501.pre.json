@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "tvdb": "73501"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "769"
+            },
+            "names": [
+                "Gekijouban Di Gi Charat: Hoshi no Tabi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "553"
+            },
+            "names": [
+                "Di Gi Charat"
+            ]
+        }
+    }
+}

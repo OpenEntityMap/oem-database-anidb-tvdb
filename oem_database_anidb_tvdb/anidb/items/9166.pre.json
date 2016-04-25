@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9166",
+        "tvdb": "264053"
+    },
+    "names": [
+        "Senran Kagura"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1143",
+        "tvdb": "73820"
+    },
+    "names": [
+        "Rockman.EXE Axess"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

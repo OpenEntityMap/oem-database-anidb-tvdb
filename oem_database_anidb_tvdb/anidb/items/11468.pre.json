@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11468",
+        "tvdb": "299882"
+    },
+    "names": [
+        "Shingeki! Kyojin Chuugakkou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

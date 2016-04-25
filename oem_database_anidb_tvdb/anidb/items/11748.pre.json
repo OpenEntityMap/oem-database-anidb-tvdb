@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11748",
+        "tvdb": "271591"
+    },
+    "names": [
+        "Yami Shibai 3"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

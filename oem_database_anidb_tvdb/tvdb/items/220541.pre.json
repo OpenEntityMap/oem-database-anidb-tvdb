@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7671",
+        "tvdb": "220541"
+    },
+    "names": [
+        "Dragon Crisis!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9002",
+        "tvdb": "262838"
+    },
+    "names": [
+        "Shinsekai yori"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

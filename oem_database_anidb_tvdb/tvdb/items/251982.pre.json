@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "251982"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9887"
+            },
+            "names": [
+                "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8538"
+            },
+            "names": [
+                "Chihayafuru"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9261"
+            },
+            "names": [
+                "Chihayafuru 2"
+            ]
+        }
+    }
+}

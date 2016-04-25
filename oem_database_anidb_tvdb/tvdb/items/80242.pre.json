@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2166",
+        "tvdb": "80242"
+    },
+    "names": [
+        "Sunabouzu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

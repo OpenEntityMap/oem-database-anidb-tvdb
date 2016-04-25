@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "85",
+        "tvdb": "79145"
+    },
+    "names": [
+        "Star Ocean Ex"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

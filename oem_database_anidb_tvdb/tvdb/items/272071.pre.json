@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9893",
+        "tvdb": "272071"
+    },
+    "names": [
+        "BlazBlue: Alter Memory"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

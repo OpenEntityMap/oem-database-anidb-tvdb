@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2729",
+        "tvdb": "85308"
+    },
+    "names": [
+        "Tokimeki Tonight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

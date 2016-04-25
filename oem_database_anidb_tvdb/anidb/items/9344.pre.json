@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9344",
+        "tvdb": "70900"
+    },
+    "names": [
+        "Initial D Fifth Stage"
+    ],
+    "parameters": {
+        "default_season": "5"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9801",
+        "tvdb": "275579"
+    },
+    "names": [
+        "Nourin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2100",
+        "tvdb": "258908"
+    },
+    "names": [
+        "Jigoku Sensei Nube"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

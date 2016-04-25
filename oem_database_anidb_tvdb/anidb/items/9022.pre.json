@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9022",
+        "tvdb": "260070"
+    },
+    "names": [
+        "Juusen Battle Monsuno"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

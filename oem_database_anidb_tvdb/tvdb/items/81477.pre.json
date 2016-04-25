@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "81477"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "160"
+            },
+            "names": [
+                "UFO Princess Valkyrie"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1111"
+            },
+            "names": [
+                "UFO Princess Valkyrie: Juunigatsu no Yasoukyoku"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "2775"
+            },
+            "names": [
+                "UFO Princess Valkyrie: Seireisetsu no Hanayome"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "4375"
+            },
+            "names": [
+                "UFO Princess Valkyrie: Toki to Yume to Ginga no Utage"
+            ]
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "267435"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9890"
+            },
+            "names": [
+                "Yahari Ore no Seishun Lovecome wa Machigatte Iru. Kochira to Shite mo Karera Kanojora no Yukusue ni Sachi Ookaran Koto o Negawazaru o Enai."
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9310"
+            },
+            "names": [
+                "Yahari Ore no Seishun Lovecome wa Machigatte Iru."
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10601"
+            },
+            "names": [
+                "Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2664",
+        "tvdb": "75097"
+    },
+    "names": [
+        "Rockman.EXE Stream"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

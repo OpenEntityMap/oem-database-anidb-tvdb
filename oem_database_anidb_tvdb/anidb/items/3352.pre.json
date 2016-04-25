@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3352",
+        "tvdb": "261465"
+    },
+    "names": [
+        "Natsuki Crisis"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

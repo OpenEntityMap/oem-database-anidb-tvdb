@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "843",
+        "tvdb": "120331"
+    },
+    "names": [
+        "Kaikan Phrase"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8792",
+        "tvdb": "79077"
+    },
+    "names": [
+        "Azumanga Web Daiou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

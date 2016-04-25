@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "316",
+        "tvdb": "146611"
+    },
+    "names": [
+        "Buttobi!! CPU"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

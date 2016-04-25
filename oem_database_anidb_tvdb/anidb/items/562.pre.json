@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "562",
+        "tvdb": "72241"
+    },
+    "names": [
+        "Digimon Tamers"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

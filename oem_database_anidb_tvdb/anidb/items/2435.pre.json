@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2435",
+        "tvdb": "84392"
+    },
+    "names": [
+        "Gakuen Alice"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

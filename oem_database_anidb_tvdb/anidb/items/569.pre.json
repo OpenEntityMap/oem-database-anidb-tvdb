@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "569",
+        "tvdb": "81867"
+    },
+    "names": [
+        "Area 88"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

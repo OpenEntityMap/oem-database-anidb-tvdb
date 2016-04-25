@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "91",
+        "tvdb": "78918"
+    },
+    "names": [
+        "Gate Keepers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Gonzo"
+    }
+}

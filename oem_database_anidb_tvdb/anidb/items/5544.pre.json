@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5544",
+        "tvdb": "81490"
+    },
+    "names": [
+        "Persona: Trinity Soul"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

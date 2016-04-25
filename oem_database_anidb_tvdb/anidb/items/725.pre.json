@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "725",
+        "tvdb": "100151"
+    },
+    "names": [
+        "Uchuu Kaizoku Captain Harlock"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

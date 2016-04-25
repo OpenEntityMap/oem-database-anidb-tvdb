@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4260",
+        "tvdb": "259219"
+    },
+    "names": [
+        "Koguma no Misha"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

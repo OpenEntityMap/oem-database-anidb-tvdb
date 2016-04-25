@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2127",
+        "tvdb": "103261"
+    },
+    "names": [
+        "Mushrambo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

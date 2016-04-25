@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11543",
+        "tvdb": "305100"
+    },
+    "names": [
+        "Shounen Maid"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

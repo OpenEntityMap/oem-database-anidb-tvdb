@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9718",
+        "tvdb": "268026"
+    },
+    "names": [
+        "Kara The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

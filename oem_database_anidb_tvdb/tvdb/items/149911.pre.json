@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "149911"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "4197"
+            },
+            "names": [
+                "Koi Suru Tenshi Angelique: Kokoro no Mezameru Toki"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4753"
+            },
+            "names": [
+                "Koi Suru Tenshi Angelique: Kagayaki no Ashita"
+            ]
+        }
+    }
+}

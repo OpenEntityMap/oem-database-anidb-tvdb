@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10760",
+        "tvdb": "278626"
+    },
+    "names": [
+        "Fate/Stay Night: Unlimited Blade Works (2015)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

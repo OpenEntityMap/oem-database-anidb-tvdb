@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10709",
+        "tvdb": "283928"
+    },
+    "names": [
+        "Girlfriend (Kari)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

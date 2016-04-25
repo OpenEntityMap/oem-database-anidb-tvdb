@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1268",
+        "tvdb": "82829"
+    },
+    "names": [
+        "Yumeria"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

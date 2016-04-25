@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5088",
+        "tvdb": "81658"
+    },
+    "names": [
+        "Wangan Midnight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

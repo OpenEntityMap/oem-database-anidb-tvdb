@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2331",
+        "tvdb": "162971"
+    },
+    "names": [
+        "Gensou Jotan Ellcia"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7904",
+        "tvdb": "248584"
+    },
+    "names": [
+        "T.P. Sakura: Time Paladin Sakura"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

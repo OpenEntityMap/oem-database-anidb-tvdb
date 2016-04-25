@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8571",
+        "tvdb": "254665"
+    },
+    "names": [
+        "Brave 10"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

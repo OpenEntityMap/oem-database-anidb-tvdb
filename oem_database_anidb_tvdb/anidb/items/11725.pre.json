@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11725",
+        "tvdb": "303147"
+    },
+    "names": [
+        "Shoujo-tachi wa Kouya o Mezasu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8740",
+        "tvdb": "70820"
+    },
+    "names": [
+        "X Bomber"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

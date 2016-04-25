@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "325",
+        "tvdb": "90331"
+    },
+    "names": [
+        "Atashinchi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

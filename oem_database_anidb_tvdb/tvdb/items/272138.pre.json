@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9771",
+        "tvdb": "272138"
+    },
+    "names": [
+        "Golden Time"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

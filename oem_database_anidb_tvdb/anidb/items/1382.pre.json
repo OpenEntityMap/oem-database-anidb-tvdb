@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1382",
+        "tvdb": "73315"
+    },
+    "names": [
+        "Zoids"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

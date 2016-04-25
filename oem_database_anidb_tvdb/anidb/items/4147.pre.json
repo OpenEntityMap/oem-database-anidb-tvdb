@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "4147",
+        "tvdb": "80059"
+    },
+    "names": [
+        "Kamisama Kazoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Toei Animation"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "identifiers": {
+        "tvdb": "120041"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "2711",
+                    "3174"
+                ]
+            },
+            "names": [
+                "Angelique: Seichi yori Ai o Komete",
+                "Angelique: Shiroi Tsubasa no Memoire"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3173"
+            },
+            "names": [
+                "Angelique"
+            ]
+        }
+    }
+}

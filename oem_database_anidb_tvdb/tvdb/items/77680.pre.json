@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "77680"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7208"
+            },
+            "names": [
+                "Trigun: Badlands Rumble"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "53"
+            },
+            "names": [
+                "Trigun"
+            ]
+        }
+    }
+}

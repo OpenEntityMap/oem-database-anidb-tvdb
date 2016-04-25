@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "131",
+        "tvdb": "78262"
+    },
+    "names": [
+        "Ayashi no Ceres"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

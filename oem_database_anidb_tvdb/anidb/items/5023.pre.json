@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5023",
+        "tvdb": "80320"
+    },
+    "names": [
+        "Code-E"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1045",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z: Tobikkiri no Saikyou Tai Saikyou"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

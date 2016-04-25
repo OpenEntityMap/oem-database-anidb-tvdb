@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "265138"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "9199"
+            },
+            "names": [
+                "Oshiri Kajiri Mushi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "9990"
+            },
+            "names": [
+                "Oshiri Kajiri Mushi (2013)"
+            ]
+        }
+    }
+}

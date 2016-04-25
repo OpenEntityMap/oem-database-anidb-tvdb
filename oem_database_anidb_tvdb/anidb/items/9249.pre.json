@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9249",
+        "tvdb": "262095"
+    },
+    "names": [
+        "Btooom!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

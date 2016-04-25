@@ -1,0 +1,68 @@
+{
+    "identifiers": {
+        "tvdb": "87251"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "1957"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ],
+                    "names": [
+                        "Spirit of Wonder: Shounen Kagaku Club"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "1957"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ],
+                    "names": [
+                        "Spirit of Wonder: Shounen Kagaku Club"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "1957"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ],
+                    "names": [
+                        "Spirit of Wonder: Shounen Kagaku Club"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "1952"
+            },
+            "names": [
+                "The Spirit of Wonder: China-san no Yuuutsu"
+            ]
+        }
+    }
+}

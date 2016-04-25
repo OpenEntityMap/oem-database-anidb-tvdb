@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "79174"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "408"
+            },
+            "names": [
+                "Z.O.E. 2167 Idolo"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "412"
+            },
+            "names": [
+                "Z.O.E Dolores,i"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
+    }
+}

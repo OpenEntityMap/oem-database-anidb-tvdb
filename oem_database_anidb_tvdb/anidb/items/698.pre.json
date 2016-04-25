@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "698",
+        "tvdb": "72491"
+    },
+    "names": [
+        "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

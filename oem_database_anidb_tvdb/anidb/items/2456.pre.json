@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2456",
+        "tvdb": "83584"
+    },
+    "names": [
+        "Aquarian Age: Saga II"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

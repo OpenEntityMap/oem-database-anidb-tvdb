@@ -1,0 +1,46 @@
+{
+    "identifiers": {
+        "anidb": "2117",
+        "tvdb": "138691"
+    },
+    "names": [
+        "Gall Force: The Revolution"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

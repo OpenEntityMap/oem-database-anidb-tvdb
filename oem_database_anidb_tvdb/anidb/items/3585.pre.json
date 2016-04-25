@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3585",
+        "tvdb": "72904"
+    },
+    "names": [
+        "Bomberman B-Daman Bakugaiden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "anidb": "10648",
+        "tvdb": "278127"
+    },
+    "names": [
+        "Hitsugi no Chaika: Nerawareta Hitsugi / Yomigaeru Iseki"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0",
+                            "timeline": {
+                                "source": {
+                                    "end": 50
+                                }
+                            }
+                        },
+                        {
+                            "number": "2",
+                            "season": "0",
+                            "timeline": {
+                                "source": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

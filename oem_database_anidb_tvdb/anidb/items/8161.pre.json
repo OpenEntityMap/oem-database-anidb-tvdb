@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8161",
+        "tvdb": "76013"
+    },
+    "names": [
+        "Major: Message"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

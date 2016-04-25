@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "590",
+        "tvdb": "72491"
+    },
+    "names": [
+        "Slam Dunk"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9820",
+        "tvdb": "269873"
+    },
+    "names": [
+        "Gatchaman Crowds"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

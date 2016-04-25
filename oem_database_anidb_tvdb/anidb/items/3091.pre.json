@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3091",
+        "tvdb": "256835"
+    },
+    "names": [
+        "Manga Sarutobi Sasuke"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

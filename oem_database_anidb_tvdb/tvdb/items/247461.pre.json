@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "247461"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8060"
+            },
+            "names": [
+                "Morita-san wa Mukuchi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8406"
+            },
+            "names": [
+                "Morita-san wa Mukuchi."
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8700"
+            },
+            "names": [
+                "Morita-san wa Mukuchi. 2"
+            ]
+        }
+    }
+}

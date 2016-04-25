@@ -1,0 +1,127 @@
+{
+    "identifiers": {
+        "tvdb": "71361"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "273"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Inuyasha: Toki o Koeru Omoi"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "903"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        },
+                        {
+                            "number": "4",
+                            "season": "1"
+                        },
+                        {
+                            "number": "5",
+                            "season": "1"
+                        },
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Inuyasha: Kagami no Naka no Mugenjou"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "1320"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Inuyasha: Tenka Hadou no Ken"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "2321"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Inuyasha: Guren no Houraijima"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                }
+            }
+        },
+        "8": {
+            "identifiers": {
+                "anidb": "6716"
+            },
+            "names": [
+                "Inuyasha Kanketsuhen"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5212",
+        "tvdb": "80380"
+    },
+    "names": [
+        "Mushiuta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "212471"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2071"
+            },
+            "names": [
+                "Sakigake!! Otoko Juku (1988)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2070"
+            },
+            "names": [
+                "Sakigake!! Otoko Juku"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "740",
+        "tvdb": "112951"
+    },
+    "names": [
+        "Detonator Orgun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

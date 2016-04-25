@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "449",
+        "tvdb": "79060"
+    },
+    "names": [
+        "Wolf's Rain"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 4,
+                    "offset": 26,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

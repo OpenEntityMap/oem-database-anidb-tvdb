@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2168",
+        "tvdb": "76013"
+    },
+    "names": [
+        "Major"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

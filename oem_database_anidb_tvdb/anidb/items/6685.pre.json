@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6685",
+        "tvdb": "115991"
+    },
+    "names": [
+        "Kampfer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

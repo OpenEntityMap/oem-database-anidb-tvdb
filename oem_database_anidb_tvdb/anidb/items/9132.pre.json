@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9132",
+        "tvdb": "259638"
+    },
+    "names": [
+        "Little Busters!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

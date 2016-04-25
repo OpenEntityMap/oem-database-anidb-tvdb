@@ -1,0 +1,67 @@
+{
+    "identifiers": {
+        "tvdb": "195161"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "5109"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mahou no Tenshi Creamy Mami: Lovely Serenade"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "4602"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mahou no Tenshi Creamy Mami: Long Goodbye"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "5114"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mahou no Tenshi Creamy Mami: Curtain Call"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "1863"
+            },
+            "names": [
+                "Mahou no Tenshi Creamy Mami: Eien no Once More"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "521"
+            },
+            "names": [
+                "Mahou no Tenshi Creamy Mami"
+            ]
+        }
+    }
+}

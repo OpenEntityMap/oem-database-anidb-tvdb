@@ -1,0 +1,34 @@
+{
+    "identifiers": {
+        "anidb": "8534",
+        "tvdb": "72454"
+    },
+    "names": [
+        "Meitantei Conan vs. Wooo"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "34",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "36",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

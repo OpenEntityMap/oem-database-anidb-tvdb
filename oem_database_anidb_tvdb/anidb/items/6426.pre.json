@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6426",
+        "tvdb": "70799"
+    },
+    "names": [
+        "Metal Fight Beyblade"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

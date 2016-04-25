@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3081",
+        "tvdb": "80604"
+    },
+    "names": [
+        "Anime Oyako Gekijou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

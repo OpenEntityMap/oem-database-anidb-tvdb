@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10555",
+        "tvdb": "282688"
+    },
+    "names": [
+        "Minarai Diva"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

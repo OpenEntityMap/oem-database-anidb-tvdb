@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "337",
+        "tvdb": "80583"
+    },
+    "names": [
+        "Shin Tenchi Muyou!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

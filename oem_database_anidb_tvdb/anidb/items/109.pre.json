@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "109",
+        "tvdb": "79035"
+    },
+    "names": [
+        "Mahoromatic: Automatic Maiden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

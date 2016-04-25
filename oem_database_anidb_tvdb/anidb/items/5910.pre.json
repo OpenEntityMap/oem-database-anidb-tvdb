@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5910",
+        "tvdb": "83317"
+    },
+    "names": [
+        "Hyakko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

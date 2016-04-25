@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3654",
+        "tvdb": "79202"
+    },
+    "names": [
+        "Ayakashi: Japanese Classic Horror"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

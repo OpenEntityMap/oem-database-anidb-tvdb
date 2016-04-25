@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "10842",
+        "tvdb": "295224"
+    },
+    "names": [
+        "God Eater"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 4,
+                    "offset": 2,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

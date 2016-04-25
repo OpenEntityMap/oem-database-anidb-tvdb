@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9216",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters: Best Wishes! Season 2"
+    ],
+    "parameters": {
+        "default_season": "15"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "identifiers": {
+        "anidb": "1957",
+        "tvdb": "87251"
+    },
+    "names": [
+        "Spirit of Wonder: Shounen Kagaku Club"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

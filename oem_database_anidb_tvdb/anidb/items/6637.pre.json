@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6637",
+        "tvdb": "88721"
+    },
+    "names": [
+        "Higashi no Eden: Gekijouban II - Paradise Lost"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

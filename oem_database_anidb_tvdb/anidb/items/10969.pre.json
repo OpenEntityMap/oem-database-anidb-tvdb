@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10969",
+        "tvdb": "292926"
+    },
+    "names": [
+        "Mikagura Gakuen Kumikyoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

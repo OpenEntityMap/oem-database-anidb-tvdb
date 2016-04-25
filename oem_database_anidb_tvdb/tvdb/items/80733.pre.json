@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5127",
+        "tvdb": "80733"
+    },
+    "names": [
+        "Shinreigari: Ghost Hound"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

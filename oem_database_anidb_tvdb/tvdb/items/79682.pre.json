@@ -1,0 +1,81 @@
+{
+    "identifiers": {
+        "tvdb": "79682"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8350"
+            },
+            "names": [
+                "Higurashi no Naku Koro ni Kira"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3574"
+            },
+            "names": [
+                "Higurashi no Naku Koro ni"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4894"
+            },
+            "names": [
+                "Higurashi no Naku Koro ni Kai"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "5634"
+            },
+            "names": [
+                "Higurashi no Naku Koro ni Rei"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "9574"
+            },
+            "names": [
+                "Higurashi no Naku Koro ni Kaku: Outbreak"
+            ]
+        }
+    }
+}

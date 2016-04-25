@@ -1,0 +1,130 @@
+{
+    "identifiers": {
+        "anidb": "9653",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pocket Monsters: Best Wishes! Season 2 - Episode N"
+    ],
+    "parameters": {
+        "default_season": "15"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "25",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "34",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "35",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "36",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "37",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "38",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "27",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "29",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "30",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "31",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "32",
+                            "season": "15"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "33",
+                            "season": "15"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1139",
+        "tvdb": "81628"
+    },
+    "names": [
+        "Futatsu no Spica"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

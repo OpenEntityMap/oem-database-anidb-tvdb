@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8999",
+        "tvdb": "151281"
+    },
+    "names": [
+        "Hakuouki: Reimei-roku - Shinsengumi Kitan"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

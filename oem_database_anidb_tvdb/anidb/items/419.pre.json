@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "419",
+        "tvdb": "115051"
+    },
+    "names": [
+        "Riding Bean"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

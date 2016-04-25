@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4841",
+        "tvdb": "80238"
+    },
+    "names": [
+        "Shounan Jun'ai-gumi!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

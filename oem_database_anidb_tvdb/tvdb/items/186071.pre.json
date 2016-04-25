@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6717",
+        "tvdb": "186071"
+    },
+    "names": [
+        "Ontama!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

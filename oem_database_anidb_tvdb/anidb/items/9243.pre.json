@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9243",
+        "tvdb": "81961"
+    },
+    "names": [
+        "Kita e: Pure Session"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

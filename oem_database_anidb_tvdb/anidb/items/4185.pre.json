@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4185",
+        "tvdb": "85153"
+    },
+    "names": [
+        "Yume Tsukai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

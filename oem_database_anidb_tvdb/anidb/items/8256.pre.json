@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8256",
+        "tvdb": "259863"
+    },
+    "names": [
+        "Ojiisan no Lamp"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

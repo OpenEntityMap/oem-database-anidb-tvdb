@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6139",
+        "tvdb": "84616"
+    },
+    "names": [
+        "One Outs"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

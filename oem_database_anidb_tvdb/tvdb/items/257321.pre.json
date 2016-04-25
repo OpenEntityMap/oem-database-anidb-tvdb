@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9320",
+        "tvdb": "257321"
+    },
+    "names": [
+        "Tai Chi Chasers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

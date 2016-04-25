@@ -1,0 +1,49 @@
+{
+    "identifiers": {
+        "tvdb": "98661"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9184"
+            },
+            "names": [
+                "Stitch to Suna no Wakusei"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "6055"
+            },
+            "names": [
+                "Stitch!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7079"
+            },
+            "names": [
+                "Stitch! Itazura Alien no Daibouken"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "7570"
+            },
+            "names": [
+                "Stitch! Zutto Saikou no Tomodachi"
+            ]
+        }
+    }
+}

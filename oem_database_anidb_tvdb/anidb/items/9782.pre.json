@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9782",
+        "tvdb": "269876"
+    },
+    "names": [
+        "Uchouten Kazoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

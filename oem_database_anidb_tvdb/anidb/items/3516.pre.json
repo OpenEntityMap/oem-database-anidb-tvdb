@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3516",
+        "tvdb": "70476"
+    },
+    "names": [
+        "Monkey Magic"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11210",
+        "tvdb": "295068"
+    },
+    "names": [
+        "Dragon Ball Super"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

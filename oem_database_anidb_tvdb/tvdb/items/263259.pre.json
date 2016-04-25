@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8847",
+        "tvdb": "263259"
+    },
+    "names": [
+        "Chousoku Henkei Gyrozetter"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

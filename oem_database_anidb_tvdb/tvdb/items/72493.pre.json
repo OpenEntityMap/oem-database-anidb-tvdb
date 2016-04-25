@@ -1,0 +1,42 @@
+{
+    "identifiers": {
+        "tvdb": "72493"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "2638"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Silent Mobius 2"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2334"
+            },
+            "names": [
+                "Silent Mobius: The Motion Picture"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "455"
+            },
+            "names": [
+                "Silent Mobius"
+            ],
+            "supplemental": {
+                "studio": "AIC"
+            }
+        }
+    }
+}

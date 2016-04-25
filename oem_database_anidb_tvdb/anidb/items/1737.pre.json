@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1737",
+        "tvdb": "80131"
+    },
+    "names": [
+        "Oban Star-Racers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

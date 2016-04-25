@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "80294"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4676"
+            },
+            "names": [
+                "Mirai Shounen Conan: Tokubetsu Hen - Kyodaiki Gigant no Fukkatsu"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "330"
+            },
+            "names": [
+                "Mirai Shounen Conan"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "4675"
+            },
+            "names": [
+                "Mirai Shounen Conan II: Taiga Adventure"
+            ]
+        }
+    }
+}

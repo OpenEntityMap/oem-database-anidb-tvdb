@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9525",
+        "tvdb": "264534"
+    },
+    "names": [
+        "Tamako Market"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

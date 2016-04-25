@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "70",
+        "tvdb": "73616"
+    },
+    "names": [
+        "Abenobashi Mahou Shoutengai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

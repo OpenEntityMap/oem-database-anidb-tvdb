@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1018",
+        "tvdb": "84915"
+    },
+    "names": [
+        "Crying Freeman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

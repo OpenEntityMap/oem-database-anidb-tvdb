@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "8512",
+        "tvdb": "146401"
+    },
+    "names": [
+        "Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

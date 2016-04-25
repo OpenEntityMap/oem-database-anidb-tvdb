@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "84138"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "5623"
+            },
+            "names": [
+                "Neo Angelique Abyss"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5988"
+            },
+            "names": [
+                "Neo Angelique Abyss: Second Age"
+            ]
+        }
+    }
+}

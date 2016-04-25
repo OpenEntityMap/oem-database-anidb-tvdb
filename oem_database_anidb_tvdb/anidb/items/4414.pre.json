@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4414",
+        "tvdb": "73749"
+    },
+    "names": [
+        "Koukaku Kidoutai Stand Alone Complex: Solid State Society"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

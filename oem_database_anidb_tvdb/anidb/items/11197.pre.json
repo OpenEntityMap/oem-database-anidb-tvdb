@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11197",
+        "tvdb": "278327"
+    },
+    "names": [
+        "Gekijouban Selector Destructed Wixoss"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

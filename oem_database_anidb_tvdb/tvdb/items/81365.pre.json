@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5530",
+        "tvdb": "81365"
+    },
+    "names": [
+        "Mnemosyne: Mnemosyne no Musume-tachi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

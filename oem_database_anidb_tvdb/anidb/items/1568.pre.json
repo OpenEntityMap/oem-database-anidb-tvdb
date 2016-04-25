@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1568",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter: Hyakuman Dollar no Inbou"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

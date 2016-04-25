@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "81011"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9426"
+            },
+            "names": [
+                "Rekka no Honoo: Final Burning"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "571"
+            },
+            "names": [
+                "Rekka no Honoo"
+            ],
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        }
+    }
+}

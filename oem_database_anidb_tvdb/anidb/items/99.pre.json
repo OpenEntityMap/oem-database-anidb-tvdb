@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "99",
+        "tvdb": "78814"
+    },
+    "names": [
+        "Serial Experiments Lain"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

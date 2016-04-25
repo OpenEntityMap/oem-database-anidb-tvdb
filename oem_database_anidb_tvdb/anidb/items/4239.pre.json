@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4239",
+        "tvdb": "79754"
+    },
+    "names": [
+        "Simoun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

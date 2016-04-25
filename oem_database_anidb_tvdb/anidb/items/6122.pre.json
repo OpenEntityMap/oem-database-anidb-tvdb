@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6122",
+        "tvdb": "73749"
+    },
+    "names": [
+        "Ghost in the Shell (2008)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

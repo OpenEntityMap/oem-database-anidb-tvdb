@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "413",
+        "tvdb": "79447"
+    },
+    "names": [
+        "Najica Dengeki Sakusen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "identifiers": {
+        "tvdb": "80009"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "359"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tenchi Muyou! in Love"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "375"
+                    },
+                    "names": [
+                        "Tenchi Muyou! Manatsu no Eve"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    },
+                    "supplemental": {
+                        "studio": "AIC"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "376"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tenchi Muyou! in Love 2 - Haruka Naru Omoi"
+                    ],
+                    "supplemental": {
+                        "studio": "AIC"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "759"
+            },
+            "names": [
+                "Tenchi Muyou! Bangaihen: Galaxy Police Mihoshi Space Adventure"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "7": {
+                    "identifiers": {
+                        "anidb": "2508"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tenchi Muyou! Ryououki Omatsuri Zen'ya no Yoru!"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "205"
+            },
+            "names": [
+                "Tenchi Muyou! Ryououki"
+            ]
+        },
+        "2": {
+            "episodes": {
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2509"
+            },
+            "names": [
+                "Tenchi Muyou! Ryououki (1994)"
+            ]
+        },
+        "3": {
+            "episodes": {
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "2510"
+            },
+            "names": [
+                "Tenchi Muyou! Ryououki (2003)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "372",
+        "tvdb": "71750"
+    },
+    "names": [
+        "Brain Powerd"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

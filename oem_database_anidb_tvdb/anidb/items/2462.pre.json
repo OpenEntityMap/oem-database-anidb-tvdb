@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2462",
+        "tvdb": "82595"
+    },
+    "names": [
+        "Shin Seiki GPX Cyber Formula Zero"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

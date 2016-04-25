@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8550",
+        "tvdb": "252322"
+    },
+    "names": [
+        "Hunter x Hunter (2011)"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

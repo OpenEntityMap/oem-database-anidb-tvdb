@@ -1,0 +1,32 @@
+{
+    "identifiers": {
+        "anidb": "8505",
+        "tvdb": "173301"
+    },
+    "names": [
+        "Asobi ni Iku yo! Asobi ni Oide"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "1564",
+        "tvdb": "72877"
+    },
+    "names": [
+        "City Hunter 3"
+    ],
+    "parameters": {
+        "default_season": "3"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

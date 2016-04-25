@@ -1,0 +1,46 @@
+{
+    "identifiers": {
+        "tvdb": "283947"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "10702"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ansatsu Kyoushitsu (2015)"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "9985"
+            },
+            "names": [
+                "Ansatsu Kyoushitsu"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10702"
+            },
+            "names": [
+                "Ansatsu Kyoushitsu (2015)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11203"
+            },
+            "names": [
+                "Ansatsu Kyoushitsu: Second Season"
+            ]
+        }
+    }
+}

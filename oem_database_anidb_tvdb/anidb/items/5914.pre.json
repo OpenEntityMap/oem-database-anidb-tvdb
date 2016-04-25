@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "5914",
+        "tvdb": "79824"
+    },
+    "names": [
+        "Gekijouban Naruto Shippuuden: Kizuna"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

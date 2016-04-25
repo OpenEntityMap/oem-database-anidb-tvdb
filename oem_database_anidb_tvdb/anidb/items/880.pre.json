@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "880",
+        "tvdb": "79237"
+    },
+    "names": [
+        "Grappler Baki: Saidai Tournament Hen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

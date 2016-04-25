@@ -1,0 +1,24 @@
+{
+    "identifiers": {
+        "anidb": "1697",
+        "tvdb": "84012"
+    },
+    "names": [
+        "Sensei no Ojikan: Doki Doki School Hours"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 7,
+                    "offset": 13,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

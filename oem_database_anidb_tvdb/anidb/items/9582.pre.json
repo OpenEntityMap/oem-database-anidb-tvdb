@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9582",
+        "tvdb": "270062"
+    },
+    "names": [
+        "Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

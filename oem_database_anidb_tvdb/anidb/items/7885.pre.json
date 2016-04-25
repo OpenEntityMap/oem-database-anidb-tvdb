@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7885",
+        "tvdb": "139361"
+    },
+    "names": [
+        "Cheburashka"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

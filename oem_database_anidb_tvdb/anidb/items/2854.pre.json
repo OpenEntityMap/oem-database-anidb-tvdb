@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2854",
+        "tvdb": "129751"
+    },
+    "names": [
+        "Tokyo Juushouden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

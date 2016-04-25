@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3301",
+        "tvdb": "107431"
+    },
+    "names": [
+        "Happy Seven: The TV Manga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

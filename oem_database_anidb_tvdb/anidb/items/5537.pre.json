@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5537",
+        "tvdb": "261667"
+    },
+    "names": [
+        "Zero Duel Masters"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

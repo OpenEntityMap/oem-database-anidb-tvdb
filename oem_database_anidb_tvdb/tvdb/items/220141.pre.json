@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7384",
+        "tvdb": "220141"
+    },
+    "names": [
+        "Wolverine"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

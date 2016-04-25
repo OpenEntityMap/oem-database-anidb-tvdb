@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11144",
+        "tvdb": "299742"
+    },
+    "names": [
+        "Starmyu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

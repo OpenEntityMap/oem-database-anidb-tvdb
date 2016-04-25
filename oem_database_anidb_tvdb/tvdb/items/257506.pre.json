@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5016",
+        "tvdb": "257506"
+    },
+    "names": [
+        "Eiyuu Gaiden Mozaicka"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

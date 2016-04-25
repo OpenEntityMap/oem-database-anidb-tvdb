@@ -1,0 +1,43 @@
+{
+    "identifiers": {
+        "tvdb": "173211"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "7224"
+            },
+            "names": [
+                "Mitsudomoe"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "7224"
+            },
+            "names": [
+                "Mitsudomoe"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "7948"
+            },
+            "names": [
+                "Mitsudomoe Zouryouchuu!"
+            ],
+            "supplemental": {
+                "studio": "Bridge"
+            }
+        }
+    }
+}

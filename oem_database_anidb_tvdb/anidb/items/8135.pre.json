@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8135",
+        "tvdb": "248595"
+    },
+    "names": [
+        "Shouwa Monogatari"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

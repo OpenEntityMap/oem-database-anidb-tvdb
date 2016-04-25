@@ -1,0 +1,31 @@
+{
+    "identifiers": {
+        "tvdb": "72858"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4106"
+            },
+            "names": [
+                "Monster Farm 5: Circus Caravan"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "4695"
+            },
+            "names": [
+                "Monster Farm: Legend e no Michi"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "2908"
+            },
+            "names": [
+                "Monster Farm: Enbanseki no Himitsu"
+            ]
+        }
+    }
+}

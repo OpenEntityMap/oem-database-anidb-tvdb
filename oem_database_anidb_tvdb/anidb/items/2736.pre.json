@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "2736",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece: Taose! Kaizoku Ganzack"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

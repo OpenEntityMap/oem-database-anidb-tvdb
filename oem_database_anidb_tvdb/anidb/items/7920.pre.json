@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "7920",
+        "tvdb": "90521"
+    },
+    "names": [
+        "Soukou Kihei Votoms: Koei Futatabi"
+    ],
+    "parameters": {
+        "default_season": "99"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

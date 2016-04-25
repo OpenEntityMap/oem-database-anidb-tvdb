@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "77586"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "5523"
+            },
+            "names": [
+                "Rokumon Tengai Mon Colle Knight: Densetsu no Fire Dragon"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "3511"
+            },
+            "names": [
+                "Rokumon Tengai Mon Colle Knight"
+            ]
+        }
+    }
+}

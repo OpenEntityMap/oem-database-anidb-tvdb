@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5446",
+        "tvdb": "82847"
+    },
+    "names": [
+        "Ayakashi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

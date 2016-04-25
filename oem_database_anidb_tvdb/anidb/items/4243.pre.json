@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4243",
+        "tvdb": "79839"
+    },
+    "names": [
+        "Aria the Natural"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

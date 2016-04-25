@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1543",
+        "tvdb": "79089"
+    },
+    "names": [
+        "Samurai Champloo"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

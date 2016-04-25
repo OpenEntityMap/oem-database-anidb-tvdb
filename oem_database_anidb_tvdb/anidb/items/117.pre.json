@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "117",
+        "tvdb": "78878"
+    },
+    "names": [
+        "Furi Kuri"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

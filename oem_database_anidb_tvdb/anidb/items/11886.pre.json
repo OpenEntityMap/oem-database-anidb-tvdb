@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11886",
+        "tvdb": "309148"
+    },
+    "names": [
+        "Kamiwaza Wanda"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

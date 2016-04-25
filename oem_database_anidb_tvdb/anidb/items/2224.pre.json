@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2224",
+        "tvdb": "79760"
+    },
+    "names": [
+        "Uchuu Enban Dai-Sensou"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

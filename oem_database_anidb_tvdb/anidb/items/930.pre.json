@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "930",
+        "tvdb": "257562"
+    },
+    "names": [
+        "Di Gi Charat Nyo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "identifiers": {
+        "tvdb": "83105"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "2557"
+                    },
+                    "names": [
+                        "Touch 2: Sayonara no Okurimono"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "3059"
+                    },
+                    "names": [
+                        "Touch: Miss Lonely Yesterday - Arekara, Kimi wa"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "3061"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Touch: Crossroad - Kaze no Yukue"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": [
+                    "923",
+                    "2556"
+                ]
+            },
+            "names": [
+                "Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By",
+                "Touch: Sebangou no Nai Ace"
+            ]
+        },
+        "a": {
+            "identifiers": {
+                "anidb": "241"
+            },
+            "names": [
+                "Touch"
+            ]
+        }
+    }
+}

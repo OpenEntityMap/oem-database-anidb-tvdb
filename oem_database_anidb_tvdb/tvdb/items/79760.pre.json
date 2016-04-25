@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "79760"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2224"
+            },
+            "names": [
+                "Uchuu Enban Dai-Sensou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "962"
+            },
+            "names": [
+                "UFO Robo Grendizer"
+            ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11713",
+        "tvdb": "72902"
+    },
+    "names": [
+        "Gekijouban Last Exile: Gin'yoku no Fam - Over the Wishes"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

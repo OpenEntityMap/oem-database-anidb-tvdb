@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "2673",
+        "tvdb": "72025"
+    },
+    "names": [
+        "Seikai no Senki III"
+    ],
+    "parameters": {
+        "default_season": "4"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

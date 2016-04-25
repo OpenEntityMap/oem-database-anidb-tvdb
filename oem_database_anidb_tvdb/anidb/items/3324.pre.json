@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3324",
+        "tvdb": "93441"
+    },
+    "names": [
+        "Plawres Sanshirou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

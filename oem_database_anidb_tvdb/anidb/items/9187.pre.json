@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "9187",
+        "tvdb": "257516"
+    },
+    "names": [
+        "Accel World OVA"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

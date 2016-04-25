@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "8205",
+        "tvdb": "249939"
+    },
+    "names": [
+        "Sacred Seven"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

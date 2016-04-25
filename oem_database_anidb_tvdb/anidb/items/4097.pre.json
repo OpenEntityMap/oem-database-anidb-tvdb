@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "4097",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece The Movie: Karakurijou no Mecha Kyohei"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

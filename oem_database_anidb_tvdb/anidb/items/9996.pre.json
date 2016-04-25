@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9996",
+        "tvdb": "278941"
+    },
+    "names": [
+        "Seikoku no Dragonar"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

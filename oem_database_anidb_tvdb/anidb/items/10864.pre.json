@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10864",
+        "tvdb": "299516"
+    },
+    "names": [
+        "Heavy Object"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

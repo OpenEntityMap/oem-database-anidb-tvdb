@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6408",
+        "tvdb": "90641"
+    },
+    "names": [
+        "Souten Kouro"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

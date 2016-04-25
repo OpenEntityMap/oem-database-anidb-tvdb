@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "4888",
+        "tvdb": "209611"
+    },
+    "names": [
+        "Glass Eye"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

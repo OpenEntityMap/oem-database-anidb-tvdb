@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "18",
+        "tvdb": "71279"
+    },
+    "names": [
+        "Musekinin Kanchou Tylor"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

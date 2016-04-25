@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "2400",
+        "tvdb": "78916"
+    },
+    "names": [
+        "Gantz"
+    ],
+    "parameters": {
+        "default_season": "a"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1060",
+        "tvdb": "88251"
+    },
+    "names": [
+        "Robin Hood no Daibouken"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

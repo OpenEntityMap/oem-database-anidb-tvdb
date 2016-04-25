@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11902",
+        "tvdb": "306845"
+    },
+    "names": [
+        "Endride"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

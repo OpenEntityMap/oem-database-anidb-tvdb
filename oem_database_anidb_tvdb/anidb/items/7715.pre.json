@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7715",
+        "tvdb": "168421"
+    },
+    "names": [
+        "Sangokushi 2: Amakakeru Otoko-tachi"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

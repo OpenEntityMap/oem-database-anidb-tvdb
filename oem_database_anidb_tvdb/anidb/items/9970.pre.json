@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9970",
+        "tvdb": "128411"
+    },
+    "names": [
+        "Eiga Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

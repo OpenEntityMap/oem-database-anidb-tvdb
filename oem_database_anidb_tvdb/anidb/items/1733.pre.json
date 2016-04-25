@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1733",
+        "tvdb": "79225"
+    },
+    "names": [
+        "Miami Guns"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

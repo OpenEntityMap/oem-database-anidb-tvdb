@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7089",
+        "tvdb": "81867"
+    },
+    "names": [
+        "Area 88 Gekijouban"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

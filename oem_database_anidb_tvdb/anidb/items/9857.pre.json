@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "9857",
+        "tvdb": "270064"
+    },
+    "names": [
+        "Kitakubu Katsudou Kiroku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

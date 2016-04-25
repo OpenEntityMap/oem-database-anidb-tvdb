@@ -1,0 +1,48 @@
+{
+    "identifiers": {
+        "tvdb": "259640"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10022"
+            },
+            "names": [
+                "Sword Art Online: Extra Edition"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8692"
+            },
+            "names": [
+                "Sword Art Online"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10376"
+            },
+            "names": [
+                "Sword Art Online II"
+            ]
+        }
+    }
+}

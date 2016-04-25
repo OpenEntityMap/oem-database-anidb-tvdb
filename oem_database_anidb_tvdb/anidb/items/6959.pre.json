@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6959",
+        "tvdb": "210291"
+    },
+    "names": [
+        "Gekijouban Bungaku Shoujo"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

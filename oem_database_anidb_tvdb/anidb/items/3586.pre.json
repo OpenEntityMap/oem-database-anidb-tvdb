@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "3586",
+        "tvdb": "72904"
+    },
+    "names": [
+        "Bomberman B-Daman Bakugaiden Victory"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

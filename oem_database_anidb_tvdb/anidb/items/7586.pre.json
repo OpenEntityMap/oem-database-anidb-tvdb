@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "7586",
+        "tvdb": "78923"
+    },
+    "names": [
+        "Kimagure Orange Road: Koi no Stage = Heart on Fire! Star Tanjou!"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

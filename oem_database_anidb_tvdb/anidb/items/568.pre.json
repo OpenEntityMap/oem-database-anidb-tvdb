@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "568",
+        "tvdb": "79853"
+    },
+    "names": [
+        "Geneshaft"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

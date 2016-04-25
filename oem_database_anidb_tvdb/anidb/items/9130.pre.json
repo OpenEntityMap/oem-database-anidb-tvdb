@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9130",
+        "tvdb": "84230"
+    },
+    "names": [
+        "Junjou Romantica (2012)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

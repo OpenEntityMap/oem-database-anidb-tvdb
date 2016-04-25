@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "6800",
+        "tvdb": "76703"
+    },
+    "names": [
+        "Pika Pika Hoshizora Camp"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

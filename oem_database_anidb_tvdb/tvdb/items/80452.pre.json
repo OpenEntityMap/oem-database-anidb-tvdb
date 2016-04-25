@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5019",
+        "tvdb": "80452"
+    },
+    "names": [
+        "Sola"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

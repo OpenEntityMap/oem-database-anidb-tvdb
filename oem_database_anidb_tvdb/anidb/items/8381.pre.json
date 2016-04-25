@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "8381",
+        "tvdb": "146401"
+    },
+    "names": [
+        "Inazuma Eleven GO"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

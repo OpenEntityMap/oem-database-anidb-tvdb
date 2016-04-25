@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11234",
+        "tvdb": "299501"
+    },
+    "names": [
+        "Hundred"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

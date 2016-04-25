@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11453",
+        "tvdb": "299489"
+    },
+    "names": [
+        "Comet Lucifer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

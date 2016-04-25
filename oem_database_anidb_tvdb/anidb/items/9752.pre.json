@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9752",
+        "tvdb": "82154"
+    },
+    "names": [
+        "Hidamari Sketch: Sae Hiro Sotsugyou Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

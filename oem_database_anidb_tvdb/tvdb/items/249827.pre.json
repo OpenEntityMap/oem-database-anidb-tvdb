@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "tvdb": "249827"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "9585"
+                    },
+                    "names": [
+                        "Mirai Nikki Redial: Data Ikou"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "7432"
+            },
+            "names": [
+                "Mirai Nikki"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8395"
+            },
+            "names": [
+                "Mirai Nikki (2011)"
+            ]
+        }
+    }
+}

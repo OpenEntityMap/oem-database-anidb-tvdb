@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "750",
+        "tvdb": "78855"
+    },
+    "names": [
+        "Yami no Matsuei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

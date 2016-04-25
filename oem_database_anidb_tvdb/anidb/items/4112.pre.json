@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "4112",
+        "tvdb": "84890"
+    },
+    "names": [
+        "Kage kara Mamoru!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
