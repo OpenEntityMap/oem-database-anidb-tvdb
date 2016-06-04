@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"1"}]}}},"0":{"episodes":{"1":{"mappings":[{"season":"1","number":"2"}]}}}},"identifiers":{"tvdb":"70862","anidb":"391"},"names":["Kyuuketsuki Miyu (1997)"],"parameters":{"episode_offset":"1","default_season":"1"}}
+{"identifiers":{"anidb":"391","tvdb":"70862"},"names":["Kyuuketsuki Miyu (1997)"],"parameters":{"default_season":"1","episode_offset":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"2","season":"1"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"1"}]}}}}}

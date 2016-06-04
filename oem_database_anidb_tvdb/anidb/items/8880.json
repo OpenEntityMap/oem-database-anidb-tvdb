@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"6"}]},"3":{"mappings":[{"number":"8"}]},"2":{"mappings":[{"number":"7"}]}}}},"identifiers":{"tvdb":"275798","anidb":"8880"},"names":["Fate/Zero (2012)"],"parameters":{"episode_offset":"13","default_season":"1"}}
+{"identifiers":{"anidb":"8880","tvdb":"275798"},"names":["Fate/Zero (2012)"],"parameters":{"default_season":"1","episode_offset":"13"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"6"}]},"2":{"mappings":[{"number":"7"}]},"3":{"mappings":[{"number":"8"}]}}}}}

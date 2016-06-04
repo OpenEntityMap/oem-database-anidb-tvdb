@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"85249","anidb":"8090"},"names":["Hagane no Renkinjutsushi: Milos no Seinaru Hoshi"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8090","tvdb":"85249"},"names":["Hagane no Renkinjutsushi: Milos no Seinaru Hoshi"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]}}}}}

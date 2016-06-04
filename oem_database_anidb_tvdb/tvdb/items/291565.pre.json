@@ -26,10 +26,14 @@
                     "10937"
                 ]
             },
-            "names": [
-                "Eiga Precure All Stars: Haru no Carnival",
-                "Koe no Katachi"
-            ]
+            "names": {
+                "10937": [
+                    "Eiga Koe no Katachi"
+                ],
+                "10941": [
+                    "Eiga Precure All Stars: Haru no Carnival"
+                ]
+            }
         },
         "1": {
             "identifiers": {

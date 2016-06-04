@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"100151","anidb":"9687"},"names":["Space Pirate Captain Harlock"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9687","tvdb":"100151"},"names":["Space Pirate Captain Harlock"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]}}}}}

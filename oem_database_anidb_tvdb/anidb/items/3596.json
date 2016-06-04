@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"9"}]}}}},"identifiers":{"tvdb":"72454","anidb":"3596"},"names":["Meitantei Conan: Conan to Heiji to Kieta Shounen"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"3596","tvdb":"72454"},"names":["Meitantei Conan: Conan to Heiji to Kieta Shounen"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"9","season":"0"}]}}}}}

@@ -10,10 +10,14 @@
                     "3209"
                 ]
             },
-            "names": [
-                "Ninkuu (1995)",
-                "Ninkuu: Knife no Bohyou"
-            ]
+            "names": {
+                "1730": [
+                    "Ninkuu (1995)"
+                ],
+                "3209": [
+                    "Ninkuu: Knife no Bohyou"
+                ]
+            }
         },
         "1": {
             "identifiers": {

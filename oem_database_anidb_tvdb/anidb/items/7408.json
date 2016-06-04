@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"6"}]}}}},"identifiers":{"tvdb":"80675","anidb":"7408"},"parameters":{"default_season":"0"},"names":["Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer"],"supplemental":{"studio":"Sunrise"}}
+{"identifiers":{"anidb":"7408","tvdb":"80675"},"names":["Gekijouban Kidou Senshi Gundam 00: A Wakening of the Trailblazer"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"6","season":"0"}]}}}},"supplemental":{"studio":"Sunrise"}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"75141","anidb":"7765"},"names":["The Doraemons: Dokidoki Kikansha Daibakusou!"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7765","tvdb":"75141"},"names":["The Doraemons: Dokidoki Kikansha Daibakusou!"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

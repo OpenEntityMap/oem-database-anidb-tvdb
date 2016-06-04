@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"11":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"72470","anidb":"60"},"names":["Hand Maid May"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"60","tvdb":"72470"},"names":["Hand Maid May"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"11":{"mappings":[{"number":"1","season":"0"}]}}}}}

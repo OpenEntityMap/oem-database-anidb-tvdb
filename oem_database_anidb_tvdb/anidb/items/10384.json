@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"11":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"79214","anidb":"10384"},"names":["Mushishi Zoku Shou"],"parameters":{"default_season":"2"}}
+{"identifiers":{"anidb":"10384","tvdb":"79214"},"names":["Mushishi Zoku Shou"],"parameters":{"default_season":"2"},"seasons":{"1":{"episodes":{"11":{"mappings":[{"number":"3","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"6"}]},"2":{"mappings":[{"season":"0","number":"7"}]}}}},"identifiers":{"tvdb":"80327","anidb":"7214"},"names":["Zan Sayonara Zetsubou-sensei Bangaichi"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7214","tvdb":"80327"},"names":["Zan Sayonara Zetsubou-sensei Bangaichi"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"6","season":"0"}]},"2":{"mappings":[{"number":"7","season":"0"}]}}}}}

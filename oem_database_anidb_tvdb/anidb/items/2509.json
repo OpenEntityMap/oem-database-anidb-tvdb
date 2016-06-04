@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"season":"2","number":"6"}]}}}},"identifiers":{"tvdb":"80009","anidb":"2509"},"names":["Tenchi Muyou! Ryououki (1994)"],"parameters":{"default_season":"2"}}
+{"identifiers":{"anidb":"2509","tvdb":"80009"},"names":["Tenchi Muyou! Ryououki (1994)"],"parameters":{"default_season":"2"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"6","season":"2"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"2","offset":-13,"end":26,"start":14}]}},"identifiers":{"tvdb":"70827","anidb":"1661"},"names":["Power Stone"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"1661","tvdb":"70827"},"names":["Power Stone"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":26,"offset":-13,"season":"2","start":14}]}}}

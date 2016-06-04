@@ -18,10 +18,14 @@
                     "start": 4
                 }
             ],
-            "names": [
-                "Kimi ga Nozomu Eien",
-                "Akane Maniax"
-            ]
+            "names": {
+                "2425": [
+                    "Akane Maniax"
+                ],
+                "896": [
+                    "Kimi ga Nozomu Eien"
+                ]
+            }
         },
         "1": {
             "identifiers": {

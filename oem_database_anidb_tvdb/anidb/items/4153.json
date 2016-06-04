@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"season":"2","number":"23"}]},"2":{"mappings":[{"season":"2","number":"24"}]}}}},"identifiers":{"tvdb":"78920","anidb":"4153"},"names":["Aa! Megami-sama! Sorezore no Tsubasa"],"parameters":{"default_season":"2"}}
+{"identifiers":{"anidb":"4153","tvdb":"78920"},"names":["Aa! Megami-sama! Sorezore no Tsubasa"],"parameters":{"default_season":"2"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"23","season":"2"}]},"2":{"mappings":[{"number":"24","season":"2"}]}}}}}

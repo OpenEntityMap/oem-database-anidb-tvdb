@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"15":{"mappings":[{"season":"0","number":"2"}]},"14":{"mappings":[{"season":"0","number":"1"}]},"16":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"80421","anidb":"4897"},"names":["Baccano!"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"4897","tvdb":"80421"},"names":["Baccano!"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"14":{"mappings":[{"number":"1","season":"0"}]},"15":{"mappings":[{"number":"2","season":"0"}]},"16":{"mappings":[{"number":"3","season":"0"}]}}}}}

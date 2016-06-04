@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"13"}]}}}},"identifiers":{"tvdb":"81797","anidb":"2644"},"names":["One Piece: Omatsuri Danshaku to Himitsu no Shima"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2644","tvdb":"81797"},"names":["One Piece: Omatsuri Danshaku to Himitsu no Shima"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"13","season":"0"}]}}}}}

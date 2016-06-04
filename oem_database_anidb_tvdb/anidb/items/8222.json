@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"168561","anidb":"8222"},"names":["Tono to Issho 1.5"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8222","tvdb":"168561"},"names":["Tono to Issho 1.5"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

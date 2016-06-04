@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"103691","anidb":"2489"},"names":["Heavy Metal L-Gaim III: Fullmetal Soldier"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2489","tvdb":"103691"},"names":["Heavy Metal L-Gaim III: Fullmetal Soldier"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"20"}]}}}},"identifiers":{"tvdb":"81472","anidb":"6540"},"names":["Dragon Ball Z: Atsumare! Gokuu World"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6540","tvdb":"81472"},"names":["Dragon Ball Z: Atsumare! Gokuu World"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"20","season":"0"}]}}}}}

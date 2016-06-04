@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"25":{"mappings":[{"season":"0","number":"1"}]},"26":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"79282","anidb":"2858"},"names":["Solty Rei"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"2858","tvdb":"79282"},"names":["Solty Rei"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"25":{"mappings":[{"number":"1","season":"0"}]},"26":{"mappings":[{"number":"2","season":"0"}]}}}}}

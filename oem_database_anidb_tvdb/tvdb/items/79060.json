@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"0","offset":-26,"end":30,"start":27}]}},"identifiers":{"tvdb":"79060","anidb":"449"},"names":["Wolf's Rain"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"449","tvdb":"79060"},"names":["Wolf's Rain"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":30,"offset":-26,"season":"0","start":27}]}}}

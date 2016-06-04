@@ -12,12 +12,20 @@
                     "2691"
                 ]
             },
-            "names": [
-                "2112 Nen Doraemon Tanjou",
-                "Doraemon: Nobita no Wan Nyan Jikuuden",
-                "Nobita no Kekkon Zenya: The night before a wedding",
-                "Obaa-chan no Omoide"
-            ]
+            "names": {
+                "1951": [
+                    "Doraemon: Nobita no Wan Nyan Jikuuden"
+                ],
+                "2691": [
+                    "2112 Nen Doraemon Tanjou"
+                ],
+                "3314": [
+                    "Obaa-chan no Omoide"
+                ],
+                "4765": [
+                    "Nobita no Kekkon Zenya: The night before a wedding"
+                ]
+            }
         }
     }
 }

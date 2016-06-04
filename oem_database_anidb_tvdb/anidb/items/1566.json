@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"3":{"mappings":[{"season":"0","number":"1"}]},"2":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"72877","anidb":"1566"},"names":["City Hunter: Ai to Shukumei no Magnum"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"1566","tvdb":"72877"},"names":["City Hunter: Ai to Shukumei no Magnum"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"2":{"mappings":[{"number":"1","season":"0"}]},"3":{"mappings":[{"number":"1","season":"0"}]}}}}}

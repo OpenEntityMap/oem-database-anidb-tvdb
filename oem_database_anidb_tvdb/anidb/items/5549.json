@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"season":"1","number":"13"}]}}}},"identifiers":{"tvdb":"81807","anidb":"5549"},"names":["Shigofumi"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"5549","tvdb":"81807"},"names":["Shigofumi"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"13","season":"1"}]}}}}}

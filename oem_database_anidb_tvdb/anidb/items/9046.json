@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]},"2":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"195721","anidb":"9046"},"parameters":{"default_season":"0"},"names":["Shinryaku!! Ika Musume"],"supplemental":{"studio":"Diomedea"}}
+{"identifiers":{"anidb":"9046","tvdb":"195721"},"names":["Shinryaku!! Ika Musume"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]},"2":{"mappings":[{"number":"4","season":"0"}]}}}},"supplemental":{"studio":"Diomedea"}}

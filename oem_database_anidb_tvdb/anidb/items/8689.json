@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"12"}]}}}},"identifiers":{"tvdb":"248035","anidb":"8689"},"names":["Ao no Exorcist Gekijouban"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8689","tvdb":"248035"},"names":["Ao no Exorcist Gekijouban"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"12","season":"0"}]}}}}}

@@ -10,10 +10,14 @@
                     "5509"
                 ]
             },
-            "names": [
-                "Chibi Maruko-chan (1990)",
-                "Chibi Maruko-chan: Watashi no Suki na Uta"
-            ]
+            "names": {
+                "1323": [
+                    "Chibi Maruko-chan (1990)"
+                ],
+                "5509": [
+                    "Chibi Maruko-chan: Watashi no Suki na Uta"
+                ]
+            }
         },
         "1": {
             "identifiers": {

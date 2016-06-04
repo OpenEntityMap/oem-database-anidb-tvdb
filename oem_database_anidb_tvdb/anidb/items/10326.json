@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"7"}]}}}},"identifiers":{"tvdb":"264534","anidb":"10326"},"names":["Tamako Love Story"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10326","tvdb":"264534"},"names":["Tamako Love Story"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"7","season":"0"}]}}}}}

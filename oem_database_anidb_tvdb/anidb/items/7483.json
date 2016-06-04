@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"79824","anidb":"7483"},"parameters":{"default_season":"0"},"names":["Gekijouban Naruto Shippuuden: The Lost Tower"],"supplemental":{"studio":"Studio Pierrot"}}
+{"identifiers":{"anidb":"7483","tvdb":"79824"},"names":["Gekijouban Naruto Shippuuden: The Lost Tower"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]}}}},"supplemental":{"studio":"Studio Pierrot"}}

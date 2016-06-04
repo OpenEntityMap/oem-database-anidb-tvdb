@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"6":{"mappings":[{"season":"0","number":"0"}]}},"mappings":[{"season":"6","offset":-13,"end":43,"start":14}]}},"identifiers":{"tvdb":"79156","anidb":"984"},"names":["Seikimatsu Kyuuseishu Densetsu: Hokuto no Ken 2"],"parameters":{"default_season":"5"}}
+{"identifiers":{"anidb":"984","tvdb":"79156"},"names":["Seikimatsu Kyuuseishu Densetsu: Hokuto no Ken 2"],"parameters":{"default_season":"5"},"seasons":{"1":{"episodes":{"6":{"mappings":[{"number":"0","season":"0"}]}},"mappings":[{"end":43,"offset":-13,"season":"6","start":14}]}}}

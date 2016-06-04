@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"12"}]},"3":{"mappings":[{"season":"0","number":"14"}]},"2":{"mappings":[{"season":"0","number":"13"}]}}}},"identifiers":{"tvdb":"85230","anidb":"2919"},"names":["Yamato 2520"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2919","tvdb":"85230"},"names":["Yamato 2520"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"12","season":"0"}]},"2":{"mappings":[{"number":"13","season":"0"}]},"3":{"mappings":[{"number":"14","season":"0"}]}}}}}

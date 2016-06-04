@@ -48,10 +48,14 @@
                     "6494"
                 ]
             },
-            "names": [
-                "Cobra The Animation: Time Drive",
-                "Cobra The Animation"
-            ]
+            "names": {
+                "6392": [
+                    "Cobra The Animation: Time Drive"
+                ],
+                "6494": [
+                    "Cobra The Animation"
+                ]
+            }
         }
     }
 }

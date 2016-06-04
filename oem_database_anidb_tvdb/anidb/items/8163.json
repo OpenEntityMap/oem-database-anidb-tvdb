@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"9"}]},"2":{"mappings":[{"season":"0","number":"10"}]}}}},"identifiers":{"tvdb":"115991","anidb":"8163"},"names":["Kampfer: Fur die Liebe"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8163","tvdb":"115991"},"names":["Kampfer: Fur die Liebe"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"9","season":"0"}]},"2":{"mappings":[{"number":"10","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"3":{"mappings":[{"season":"0","number":"1"}]},"2":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"100171","anidb":"485"},"names":["Ginga Tetsudou 999 (1979)"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"485","tvdb":"100171"},"names":["Ginga Tetsudou 999 (1979)"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"2":{"mappings":[{"number":"1","season":"0"}]},"3":{"mappings":[{"number":"1","season":"0"}]}}}}}

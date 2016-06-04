@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"20"}]}}}},"identifiers":{"tvdb":"75113","anidb":"7322"},"parameters":{"default_season":"0"},"names":["Urusei Yatsura: The Shougaibutsu Suieitaikai"],"supplemental":{"studio":"Kitty Film"}}
+{"identifiers":{"anidb":"7322","tvdb":"75113"},"names":["Urusei Yatsura: The Shougaibutsu Suieitaikai"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"20","season":"0"}]}}}},"supplemental":{"studio":"Kitty Film"}}

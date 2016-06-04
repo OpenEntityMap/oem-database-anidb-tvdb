@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"73038","anidb":"8539"},"names":["Macross XX"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8539","tvdb":"73038"},"names":["Macross XX"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

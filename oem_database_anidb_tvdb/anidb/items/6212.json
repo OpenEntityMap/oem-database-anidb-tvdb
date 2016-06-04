@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"5"}]},"2":{"mappings":[{"season":"0","number":"6"}]}}}},"identifiers":{"tvdb":"81007","anidb":"6212"},"names":["Ichigo Marshmallow Encore"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6212","tvdb":"81007"},"names":["Ichigo Marshmallow Encore"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]},"2":{"mappings":[{"number":"6","season":"0"}]}}}}}

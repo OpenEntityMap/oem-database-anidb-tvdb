@@ -10,10 +10,14 @@
                     "2461"
                 ]
             },
-            "names": [
-                "Shin Seiki GPX Cyber Formula Graffiti",
-                "Shin Seiki GPX Cyber Formula Earlydays Renewal"
-            ]
+            "names": {
+                "2461": [
+                    "Shin Seiki GPX Cyber Formula Earlydays Renewal"
+                ],
+                "2464": [
+                    "Shin Seiki GPX Cyber Formula Graffiti"
+                ]
+            }
         },
         "1": {
             "identifiers": {

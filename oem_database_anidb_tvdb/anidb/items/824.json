@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"2","offset":-26,"end":52,"start":27}]}},"identifiers":{"tvdb":"74718","anidb":"824"},"names":["Bomberman Jetters"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"824","tvdb":"74718"},"names":["Bomberman Jetters"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":52,"offset":-26,"season":"2","start":27}]}}}

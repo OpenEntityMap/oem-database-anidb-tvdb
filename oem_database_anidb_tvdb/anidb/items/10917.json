@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"9"}]}}}},"identifiers":{"tvdb":"79895","anidb":"10917"},"names":["Gintama' (2014)"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10917","tvdb":"79895"},"names":["Gintama' (2014)"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"9","season":"0"}]}}}}}

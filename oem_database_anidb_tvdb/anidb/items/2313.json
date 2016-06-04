@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"8"}]}}}},"identifiers":{"tvdb":"250848","anidb":"2313"},"names":["Kinnikuman: Seigi Choujin vs Senshi Choujin"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2313","tvdb":"250848"},"names":["Kinnikuman: Seigi Choujin vs Senshi Choujin"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"8","season":"0"}]}}}}}

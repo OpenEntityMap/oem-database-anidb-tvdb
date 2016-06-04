@@ -10,10 +10,14 @@
                     "7091"
                 ]
             },
-            "names": [
-                "Sengoku Majin Goushougun (1982)",
-                "Sengoku Majin Goushougun: Toki no Etranger"
-            ]
+            "names": {
+                "7091": [
+                    "Sengoku Majin Goushougun (1982)"
+                ],
+                "944": [
+                    "Sengoku Majin Goushougun: Toki no Etranger"
+                ]
+            }
         },
         "1": {
             "identifiers": {

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"43"}]}}}},"identifiers":{"tvdb":"76703","anidb":"8735"},"names":["Pikachu no Summer Bridge Story"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8735","tvdb":"76703"},"names":["Pikachu no Summer Bridge Story"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"43","season":"0"}]}}}}}

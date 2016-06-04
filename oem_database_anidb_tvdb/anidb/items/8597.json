@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"12"}]},"2":{"mappings":[{"season":"0","number":"13"}]}}}},"identifiers":{"tvdb":"247691","anidb":"8597"},"names":["A Channel +Smile"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8597","tvdb":"247691"},"names":["A Channel +Smile"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"12","season":"0"}]},"2":{"mappings":[{"number":"13","season":"0"}]}}}}}

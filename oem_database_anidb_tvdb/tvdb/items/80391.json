@@ -1,1 +1,1 @@
-{"seasons":{"2":{"episodes":{"13":{"mappings":[{"season":"0","number":"2"}]},"12":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"80391","anidb":"3450"},"names":["IGPX: Immortal Grand Prix (2005)"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"3450","tvdb":"80391"},"names":["IGPX: Immortal Grand Prix (2005)"],"parameters":{"default_season":"a"},"seasons":{"2":{"episodes":{"12":{"mappings":[{"number":"1","season":"0"}]},"13":{"mappings":[{"number":"2","season":"0"}]}}}}}

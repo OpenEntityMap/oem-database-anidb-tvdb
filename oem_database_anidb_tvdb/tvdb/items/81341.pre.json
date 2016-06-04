@@ -4,14 +4,18 @@
     },
     "seasons": {
         "0": {
-            "identifiers": {
-                "anidb": "1497"
-            },
-            "names": [
-                "Jungle Taitei (1966)"
-            ],
-            "parameters": {
-                "episode_offset": "-1"
+            "episodes": {
+                "0": {
+                    "identifiers": {
+                        "anidb": "1497"
+                    },
+                    "names": [
+                        "Jungle Taitei (1966)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "-1"
+                    }
+                }
             }
         },
         "1": {

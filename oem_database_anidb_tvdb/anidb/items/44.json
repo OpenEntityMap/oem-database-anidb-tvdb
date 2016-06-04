@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"94701","anidb":"44"},"names":["Amon Devilman Mokushiroku"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"44","tvdb":"94701"},"names":["Amon Devilman Mokushiroku"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]},"2":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"79283","anidb":"7178"},"names":["xxxHOLiC Rou"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7178","tvdb":"79283"},"names":["xxxHOLiC Rou"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]},"2":{"mappings":[{"number":"5","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"80587","anidb":"4973"},"names":["Gensou Maden Saiyuuki: Kibou no Zaika"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"4973","tvdb":"80587"},"names":["Gensou Maden Saiyuuki: Kibou no Zaika"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

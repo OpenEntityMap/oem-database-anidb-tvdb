@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"34"}]},"2":{"mappings":[{"season":"0","number":"36"}]}}}},"identifiers":{"tvdb":"72454","anidb":"8534"},"names":["Meitantei Conan vs. Wooo"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8534","tvdb":"72454"},"names":["Meitantei Conan vs. Wooo"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"34","season":"0"}]},"2":{"mappings":[{"number":"36","season":"0"}]}}}}}

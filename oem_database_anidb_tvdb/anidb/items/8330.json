@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"50"}]}}}},"identifiers":{"tvdb":"167921","anidb":"8330"},"names":["Utatte Teasobi! Anpanman to Mori no Takara"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8330","tvdb":"167921"},"names":["Utatte Teasobi! Anpanman to Mori no Takara"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"50","season":"0"}]}}}}}

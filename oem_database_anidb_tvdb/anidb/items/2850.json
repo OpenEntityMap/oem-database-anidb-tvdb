@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"11"}]}}}},"identifiers":{"tvdb":"76932","anidb":"2850"},"parameters":{"default_season":"0"},"names":["Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou"],"supplemental":{"studio":"Studio Deen"}}
+{"identifiers":{"anidb":"2850","tvdb":"76932"},"names":["Ranma 1/2: Chou Musabetsu Kessen! Ranma Team VS Densetsu no Houou"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"11","season":"0"}]}}}},"supplemental":{"studio":"Studio Deen"}}

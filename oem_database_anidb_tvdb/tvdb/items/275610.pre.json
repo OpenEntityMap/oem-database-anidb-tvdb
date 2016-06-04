@@ -3,6 +3,27 @@
         "tvdb": "275610"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "11860"
+                    },
+                    "names": [
+                        "Noragami Aragoto OAD"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10179"
+            },
+            "names": [
+                "Noragami OAD"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "9925"

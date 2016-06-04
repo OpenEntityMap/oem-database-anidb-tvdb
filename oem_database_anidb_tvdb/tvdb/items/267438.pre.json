@@ -10,10 +10,14 @@
                     "9334"
                 ]
             },
-            "names": [
-                "Karneval (2013)",
-                "Karneval"
-            ]
+            "names": {
+                "9186": [
+                    "Karneval (2013)"
+                ],
+                "9334": [
+                    "Karneval"
+                ]
+            }
         }
     }
 }

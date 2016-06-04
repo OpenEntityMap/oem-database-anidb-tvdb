@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"15"}]}}}},"identifiers":{"tvdb":"79099","anidb":"8606"},"names":[".hack//Sekai no Mukou ni"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8606","tvdb":"79099"},"names":[".hack//Sekai no Mukou ni"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"15","season":"0"}]}}}}}

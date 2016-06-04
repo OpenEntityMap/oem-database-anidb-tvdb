@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"10"}]},"2":{"mappings":[{"season":"0","number":"11"}]}}}},"identifiers":{"tvdb":"87851","anidb":"8158"},"names":["Senjou no Valkyria 3: Unrecorded Chronicles - Tagatame no Juusou"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8158","tvdb":"87851"},"names":["Senjou no Valkyria 3: Unrecorded Chronicles - Tagatame no Juusou"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"10","season":"0"}]},"2":{"mappings":[{"number":"11","season":"0"}]}}}}}

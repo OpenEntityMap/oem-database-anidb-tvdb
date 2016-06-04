@@ -18,10 +18,14 @@
                     "499"
                 ]
             },
-            "names": [
-                "Mahou no Yousei Persia",
-                "Sekiei Ayakashi Mangatan"
-            ]
+            "names": {
+                "499": [
+                    "Mahou no Yousei Persia"
+                ],
+                "8945": [
+                    "Sekiei Ayakashi Mangatan"
+                ]
+            }
         }
     }
 }

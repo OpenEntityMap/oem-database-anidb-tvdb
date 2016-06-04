@@ -18,10 +18,14 @@
                     "9298"
                 ]
             },
-            "names": [
-                "Kamisama Hajimemashita 2",
-                "Kamisama Hajimemashita"
-            ]
+            "names": {
+                "10763": [
+                    "Kamisama Hajimemashita 2"
+                ],
+                "9298": [
+                    "Kamisama Hajimemashita"
+                ]
+            }
         }
     }
 }

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"75112","anidb":"6624"},"names":["Dr. Slump: Arale-chan Ncha! Penguin Mura yori Ai o Komete"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6624","tvdb":"75112"},"names":["Dr. Slump: Arale-chan Ncha! Penguin Mura yori Ai o Komete"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

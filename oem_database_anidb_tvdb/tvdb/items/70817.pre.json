@@ -16,16 +16,32 @@
                     "2398"
                 ]
             },
-            "names": [
-                "Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou",
-                "Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken",
-                "Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono",
-                "Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess",
-                "Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi",
-                "Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu",
-                "Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi",
-                "Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!"
-            ]
+            "names": {
+                "1649": [
+                    "Hamtarou no Otanjoubi: Mama o Tasunete Sanzen Techi Techi"
+                ],
+                "2395": [
+                    "Gekijouban Tottoko Hamtarou: Ham-Ham Land Daibouken"
+                ],
+                "2396": [
+                    "Gekijouban Tottoko Hamtarou: Ham-Ham Hamuuja! Maboroshi no Princess"
+                ],
+                "2397": [
+                    "Gekijouban Tottoko Hamtarou: Ham-Ham Grand Prix Aurora Tani no Kiseki - Ribbon-chan Kiki Ippatsu"
+                ],
+                "2398": [
+                    "Gekijouban Tottoko Hamtarou: Hamtarou to Fushigi no Oni no Emon Tou"
+                ],
+                "3328": [
+                    "Ham-chanz no Takara Sagashi Daisakusen: Ham wa! Suteki na Umi no Natsuyasumi"
+                ],
+                "3329": [
+                    "Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono"
+                ],
+                "3330": [
+                    "Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!"
+                ]
+            }
         },
         "1": {
             "identifiers": {

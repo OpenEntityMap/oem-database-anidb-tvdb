@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}},"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}}},"identifiers":{"tvdb":"76547","anidb":"9038"},"names":["Ring of Gundam"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9038","tvdb":"76547"},"names":["Ring of Gundam"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

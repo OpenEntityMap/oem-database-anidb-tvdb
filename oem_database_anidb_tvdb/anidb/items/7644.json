@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"82380","anidb":"7644"},"names":["Attack No.1: Namida no Sekai Senshuken"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7644","tvdb":"82380"},"names":["Attack No.1: Namida no Sekai Senshuken"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}}}

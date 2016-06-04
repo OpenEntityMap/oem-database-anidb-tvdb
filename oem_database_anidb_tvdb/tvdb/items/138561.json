@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"39":{"mappings":[{"season":"0","number":"2"}]},"38":{"mappings":[{"season":"0","number":"1"}]},"41":{"mappings":[{"number":"39"}]}}}},"identifiers":{"tvdb":"138561","anidb":"352"},"names":["H2"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"352","tvdb":"138561"},"names":["H2"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"38":{"mappings":[{"number":"1","season":"0"}]},"39":{"mappings":[{"number":"2","season":"0"}]},"41":{"mappings":[{"number":"39"}]}}}}}

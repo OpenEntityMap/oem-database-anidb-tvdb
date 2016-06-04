@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"3":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"0"}]}}}},"identifiers":{"tvdb":"81115","anidb":"958"},"names":["Triangle Heart: Sweet Songs Forever"],"parameters":{"episode_offset":"5","default_season":"0"}}
+{"identifiers":{"anidb":"958","tvdb":"81115"},"names":["Triangle Heart: Sweet Songs Forever"],"parameters":{"default_season":"0","episode_offset":"5"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"0"}]},"3":{"mappings":[{"number":"0"}]}}}}}

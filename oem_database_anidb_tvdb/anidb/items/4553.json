@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"33"}]}}}},"identifiers":{"tvdb":"76703","anidb":"4553"},"names":["Pikachu no Obake Carnival"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"4553","tvdb":"76703"},"names":["Pikachu no Obake Carnival"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"33","season":"0"}]}}}}}

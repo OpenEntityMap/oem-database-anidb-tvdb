@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"2","offset":-26,"end":52,"start":27}]}},"identifiers":{"tvdb":"105441","anidb":"1670"},"names":["Tetsujin 28-gou"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"1670","tvdb":"105441"},"names":["Tetsujin 28-gou"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":52,"offset":-26,"season":"2","start":27}]}}}

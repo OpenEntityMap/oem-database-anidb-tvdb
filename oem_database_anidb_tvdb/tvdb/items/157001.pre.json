@@ -42,10 +42,14 @@
                     "2091"
                 ]
             },
-            "names": [
-                "Dragon Quest: Dai no Daibouken",
-                "Dragon Quest"
-            ]
+            "names": {
+                "1105": [
+                    "Dragon Quest: Dai no Daibouken"
+                ],
+                "2091": [
+                    "Dragon Quest"
+                ]
+            }
         }
     }
 }

@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"season":"1","number":"14"}]}}}},"identifiers":{"tvdb":"72448","anidb":"274"},"names":["Legend of Basara"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"274","tvdb":"72448"},"names":["Legend of Basara"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"14","season":"1"}]}}}}}

@@ -626,6 +626,62 @@
                         "episode_offset": "4"
                     }
                 },
+                "50": {
+                    "identifiers": {
+                        "anidb": "10563"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters XY: Mega Evolution"
+                    ]
+                },
+                "55": {
+                    "identifiers": {
+                        "anidb": "10563"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters XY: Mega Evolution"
+                    ]
+                },
+                "56": {
+                    "identifiers": {
+                        "anidb": "10563"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters XY: Mega Evolution"
+                    ]
+                },
+                "59": {
+                    "identifiers": {
+                        "anidb": "10563"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Pocket Monsters XY: Mega Evolution"
+                    ]
+                },
                 "6": {
                     "identifiers": {
                         "anidb": "921"

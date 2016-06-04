@@ -11,11 +11,17 @@
                     "7297"
                 ]
             },
-            "names": [
-                "Gunparade Orchestra: Ao no Shou - Hikari no Umi kara Tegami o Okurimasu",
-                "Gunparade Orchestra: Midori no Shou - Ookami to Kare no Shounen",
-                "Gunparade Orchestra: Shiro no Shou - Aomori Penguin Densetsu"
-            ]
+            "names": {
+                "7296": [
+                    "Gunparade Orchestra: Shiro no Shou - Aomori Penguin Densetsu"
+                ],
+                "7297": [
+                    "Gunparade Orchestra: Midori no Shou - Ookami to Kare no Shounen"
+                ],
+                "7298": [
+                    "Gunparade Orchestra: Ao no Shou - Hikari no Umi kara Tegami o Okurimasu"
+                ]
+            }
         },
         "1": {
             "identifiers": {

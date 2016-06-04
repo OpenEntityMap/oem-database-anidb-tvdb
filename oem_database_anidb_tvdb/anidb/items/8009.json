@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"247231","anidb":"8009"},"names":["Toriko 3D: Kaimaku! Gourmet Adventure!!"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8009","tvdb":"247231"},"names":["Toriko 3D: Kaimaku! Gourmet Adventure!!"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}}}

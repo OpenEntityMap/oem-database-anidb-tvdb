@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"76547","anidb":"4741"},"names":["Gundam: Mission to the Rise"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"4741","tvdb":"76547"},"names":["Gundam: Mission to the Rise"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

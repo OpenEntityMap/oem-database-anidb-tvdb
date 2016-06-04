@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"12"}]}}}},"identifiers":{"tvdb":"257765","anidb":"9991"},"names":["Kuroko no Baske: Baka ja Katenai no yo!"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9991","tvdb":"257765"},"names":["Kuroko no Baske: Baka ja Katenai no yo!"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"12","season":"0"}]}}}}}

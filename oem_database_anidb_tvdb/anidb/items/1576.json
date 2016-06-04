@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"2","offset":-13,"end":26,"start":14},{"season":"3","offset":-26,"end":39,"start":27}]}},"identifiers":{"tvdb":"174131","anidb":"1576"},"names":["Seigi o Ai Suru Mono Gekkou Kamen"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"1576","tvdb":"174131"},"names":["Seigi o Ai Suru Mono Gekkou Kamen"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":26,"offset":-13,"season":"2","start":14},{"end":39,"offset":-26,"season":"3","start":27}]}}}

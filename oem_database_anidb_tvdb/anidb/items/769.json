@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"14"}]}}},"0":{"episodes":{"1":{"mappings":[{"number":"15"}]}}}},"identifiers":{"tvdb":"73501","anidb":"769"},"names":["Gekijouban Di Gi Charat: Hoshi no Tabi"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"769","tvdb":"73501"},"names":["Gekijouban Di Gi Charat: Hoshi no Tabi"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"15"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"14","season":"0"}]}}}}}

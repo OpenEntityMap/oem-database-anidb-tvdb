@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"10"}]},"2":{"mappings":[{"season":"0","number":"11"}]}}}},"identifiers":{"tvdb":"78920","anidb":"7973"},"names":["Aa! Megami-sama! (2011)"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7973","tvdb":"78920"},"names":["Aa! Megami-sama! (2011)"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"10","season":"0"}]},"2":{"mappings":[{"number":"11","season":"0"}]}}}}}

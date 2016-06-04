@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"19"}]}}}},"identifiers":{"tvdb":"80158","anidb":"8569"},"names":["Ikkitousen: Shuugaku Toushi Keppuu-roku"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8569","tvdb":"80158"},"names":["Ikkitousen: Shuugaku Toushi Keppuu-roku"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"19","season":"0"}]}}}}}

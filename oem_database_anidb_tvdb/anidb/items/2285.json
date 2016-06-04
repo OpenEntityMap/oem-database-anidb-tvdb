@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"250848","anidb":"2285"},"names":["Kinnikuman: Seigi Choujin vs Kodai Choujin"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2285","tvdb":"250848"},"names":["Kinnikuman: Seigi Choujin vs Kodai Choujin"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]}}}}}

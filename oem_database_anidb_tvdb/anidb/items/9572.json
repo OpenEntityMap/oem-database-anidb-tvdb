@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"79252","anidb":"9572"},"names":["Tetsuwan Atom Tokubetsu Hen: Atom Tanjou no Himitsu"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9572","tvdb":"79252"},"names":["Tetsuwan Atom Tokubetsu Hen: Atom Tanjou no Himitsu"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

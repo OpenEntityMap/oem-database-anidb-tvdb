@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"80096","anidb":"6325"},"names":["Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6325","tvdb":"80096"},"names":["Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]}}}}}

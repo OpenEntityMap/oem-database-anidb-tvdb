@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3"}]},"2":{"mappings":[{"number":"4"}]}}}},"identifiers":{"tvdb":"113671","anidb":"3545"},"names":["Megazone 23 III"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"3545","tvdb":"113671"},"names":["Megazone 23 III"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3"}]},"2":{"mappings":[{"number":"4"}]}}}}}

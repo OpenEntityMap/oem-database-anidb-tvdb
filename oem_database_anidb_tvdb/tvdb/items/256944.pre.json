@@ -10,10 +10,14 @@
                     "4979"
                 ]
             },
-            "names": [
-                "Susume! Super Angels!",
-                "Dennou Sentai Voogie's Angel: Forever and Ever"
-            ]
+            "names": {
+                "4979": [
+                    "Dennou Sentai Voogie's Angel: Forever and Ever"
+                ],
+                "7201": [
+                    "Susume! Super Angels!"
+                ]
+            }
         },
         "1": {
             "identifiers": {

@@ -18,10 +18,14 @@
                     "start": 3
                 }
             ],
-            "names": [
-                "God Eater",
-                "God Eater Promotion"
-            ]
+            "names": {
+                "10842": [
+                    "God Eater"
+                ],
+                "10908": [
+                    "God Eater Promotion"
+                ]
+            }
         },
         "1": {
             "identifiers": {

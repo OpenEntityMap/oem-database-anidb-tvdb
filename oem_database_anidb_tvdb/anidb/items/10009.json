@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"33"}]}}}},"identifiers":{"tvdb":"262098","anidb":"10009"},"names":["Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10009","tvdb":"262098"},"names":["Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"33","season":"0"}]}}}}}

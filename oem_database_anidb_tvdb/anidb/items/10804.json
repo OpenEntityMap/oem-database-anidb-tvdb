@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"12"}]}}}},"identifiers":{"tvdb":"269319","anidb":"10804"},"names":["Fate/Kaleid Liner Prisma Illya Zwei! (2015)"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10804","tvdb":"269319"},"names":["Fate/Kaleid Liner Prisma Illya Zwei! (2015)"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"12","season":"0"}]}}}}}

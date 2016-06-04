@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"21"}]}}}},"identifiers":{"tvdb":"81472","anidb":"8809"},"names":["Dragon Ball: Episode of Bardock"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8809","tvdb":"81472"},"names":["Dragon Ball: Episode of Bardock"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"21","season":"0"}]}}}}}

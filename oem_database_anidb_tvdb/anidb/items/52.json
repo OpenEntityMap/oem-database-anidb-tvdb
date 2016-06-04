@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"70861","anidb":"52"},"parameters":{"default_season":"0"},"names":["Love Hina Haru Special: Kimi Sakura Chiru Nakare!!"],"supplemental":{"studio":"XEBEC"}}
+{"identifiers":{"anidb":"52","tvdb":"70861"},"names":["Love Hina Haru Special: Kimi Sakura Chiru Nakare!!"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}},"supplemental":{"studio":"XEBEC"}}

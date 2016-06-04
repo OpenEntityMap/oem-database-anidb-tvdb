@@ -10,10 +10,14 @@
                     "9295"
                 ]
             },
-            "names": [
-                "Haitai Nanafa (2013)",
-                "Haitai Nanafa"
-            ]
+            "names": {
+                "9295": [
+                    "Haitai Nanafa"
+                ],
+                "9747": [
+                    "Haitai Nanafa (2013)"
+                ]
+            }
         }
     }
 }

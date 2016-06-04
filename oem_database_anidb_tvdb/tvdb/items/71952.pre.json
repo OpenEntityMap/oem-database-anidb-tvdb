@@ -10,10 +10,14 @@
                     "1440"
                 ]
             },
-            "names": [
-                "Tetsuwan Atom",
-                "Tetsuwan Atom: Uchuu no Yuusha"
-            ]
+            "names": {
+                "1440": [
+                    "Tetsuwan Atom"
+                ],
+                "1514": [
+                    "Tetsuwan Atom: Uchuu no Yuusha"
+                ]
+            }
         }
     }
 }

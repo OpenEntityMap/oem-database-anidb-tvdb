@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"84932","anidb":"2181"},"parameters":{"default_season":"0"},"names":["Munto: Toki no Kabe o Koete"],"supplemental":{"studio":"Kyoto Animation"}}
+{"identifiers":{"anidb":"2181","tvdb":"84932"},"names":["Munto: Toki no Kabe o Koete"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}},"supplemental":{"studio":"Kyoto Animation"}}

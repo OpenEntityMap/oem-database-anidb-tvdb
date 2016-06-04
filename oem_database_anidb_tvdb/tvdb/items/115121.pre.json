@@ -10,10 +10,14 @@
                     "6971"
                 ]
             },
-            "names": [
-                "Tiger Mask (1970)",
-                "Tiger Mask Fuku Men League Sen"
-            ]
+            "names": {
+                "6971": [
+                    "Tiger Mask Fuku Men League Sen"
+                ],
+                "7647": [
+                    "Tiger Mask (1970)"
+                ]
+            }
         },
         "1": {
             "identifiers": {

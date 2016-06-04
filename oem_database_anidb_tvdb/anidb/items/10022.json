@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"10"}]}}},"0":{"episodes":{"1":{"mappings":[{"number":"11"}]}}}},"identifiers":{"tvdb":"259640","anidb":"10022"},"names":["Sword Art Online: Extra Edition"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10022","tvdb":"259640"},"names":["Sword Art Online: Extra Edition"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"11"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"10","season":"0"}]}}}}}

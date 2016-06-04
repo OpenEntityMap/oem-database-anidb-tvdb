@@ -121,11 +121,17 @@
                     "7920"
                 ]
             },
-            "names": [
-                "Soukou Kihei Votoms: Case;Irvine",
-                "Votoms Finder",
-                "Soukou Kihei Votoms: Koei Futatabi"
-            ],
+            "names": {
+                "7918": [
+                    "Soukou Kihei Votoms: Case;Irvine"
+                ],
+                "7919": [
+                    "Votoms Finder"
+                ],
+                "7920": [
+                    "Soukou Kihei Votoms: Koei Futatabi"
+                ]
+            },
             "supplemental": {
                 "studio": "Sunrise"
             }

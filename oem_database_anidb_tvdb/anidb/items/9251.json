@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"3","number":"3"}]}}}},"identifiers":{"tvdb":"259863","anidb":"9251"},"names":["Ryo"],"parameters":{"default_season":"3"}}
+{"identifiers":{"anidb":"9251","tvdb":"259863"},"names":["Ryo"],"parameters":{"default_season":"3"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"3"}]}}}}}

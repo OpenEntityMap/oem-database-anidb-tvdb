@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]},"2":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"72445","anidb":"213"},"names":["Chivas 1-2-3"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"213","tvdb":"72445"},"names":["Chivas 1-2-3"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]},"2":{"mappings":[{"number":"5","season":"0"}]}}}}}

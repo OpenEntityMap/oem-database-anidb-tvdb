@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}},"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}}},"identifiers":{"tvdb":"251047","anidb":"8824"},"names":["Carnival Phantasm: EX Season"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8824","tvdb":"251047"},"names":["Carnival Phantasm: EX Season"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

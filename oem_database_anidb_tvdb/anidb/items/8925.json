@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"8"}]}}}},"identifiers":{"tvdb":"254653","anidb":"8925"},"parameters":{"default_season":"0"},"names":["High School DxD OAD"],"supplemental":{"studio":"TNK"}}
+{"identifiers":{"anidb":"8925","tvdb":"254653"},"names":["High School DxD OAD"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"8","season":"0"}]}}}},"supplemental":{"studio":"TNK"}}

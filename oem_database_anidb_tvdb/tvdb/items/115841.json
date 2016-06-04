@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"51":{"mappings":[{"season":"0","number":"2"}]},"50":{"mappings":[{"season":"0","number":"1"}]},"52":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"115841","anidb":"4261"},"names":["Moero! Top Striker"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"4261","tvdb":"115841"},"names":["Moero! Top Striker"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"50":{"mappings":[{"number":"1","season":"0"}]},"51":{"mappings":[{"number":"2","season":"0"}]},"52":{"mappings":[{"number":"3","season":"0"}]}}}}}

@@ -10,10 +10,14 @@
                     "1578"
                 ]
             },
-            "names": [
-                "Gokuu no Daibouken",
-                "Yume Senshi Wingman"
-            ]
+            "names": {
+                "1517": [
+                    "Gokuu no Daibouken"
+                ],
+                "1578": [
+                    "Yume Senshi Wingman"
+                ]
+            }
         }
     }
 }

@@ -11,11 +11,17 @@
                     "3460"
                 ]
             },
-            "names": [
-                "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen",
-                "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie",
-                "Kochira Katsushikaku Kameari Kouenmae Hashutsujo"
-            ]
+            "names": {
+                "1823": [
+                    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie"
+                ],
+                "3460": [
+                    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo"
+                ],
+                "3461": [
+                    "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen"
+                ]
+            }
         },
         "1": {
             "identifiers": {

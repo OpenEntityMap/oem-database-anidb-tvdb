@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"8"}]},"2":{"mappings":[{"season":"0","number":"9"}]}}}},"identifiers":{"tvdb":"78920","anidb":"5426"},"names":["Aa! Megami-sama! Tatakau Tsubasa"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"5426","tvdb":"78920"},"names":["Aa! Megami-sama! Tatakau Tsubasa"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"8","season":"0"}]},"2":{"mappings":[{"number":"9","season":"0"}]}}}}}

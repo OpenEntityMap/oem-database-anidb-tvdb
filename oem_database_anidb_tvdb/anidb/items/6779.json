@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]},"2":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"80005","anidb":"6779"},"names":["Nodame Cantabile OVA"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6779","tvdb":"80005"},"names":["Nodame Cantabile OVA"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]},"2":{"mappings":[{"number":"4","season":"0"}]}}}}}

@@ -10,10 +10,14 @@
                     "8398"
                 ]
             },
-            "names": [
-                "Neko Ramen",
-                "Neko Ramen: Ore no Shoyu Aji"
-            ]
+            "names": {
+                "5843": [
+                    "Neko Ramen"
+                ],
+                "8398": [
+                    "Neko Ramen: Ore no Shoyu Aji"
+                ]
+            }
         }
     }
 }

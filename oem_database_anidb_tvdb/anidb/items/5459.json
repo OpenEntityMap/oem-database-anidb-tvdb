@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"12"}]}}},"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"13"}]}}}},"identifiers":{"tvdb":"79099","anidb":"5459"},"names":[".hack//G.U. Trilogy"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"5459","tvdb":"79099"},"names":[".hack//G.U. Trilogy"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"13"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"12","season":"0"}]}}}}}

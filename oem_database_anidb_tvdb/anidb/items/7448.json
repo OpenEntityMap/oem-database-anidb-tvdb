@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"3":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"0"}]},"4":{"mappings":[{"number":"5"}]}}}},"identifiers":{"tvdb":"88161","anidb":"7448"},"names":["Hetalia World Series"],"parameters":{"default_season":"3"}}
+{"identifiers":{"anidb":"7448","tvdb":"88161"},"names":["Hetalia World Series"],"parameters":{"default_season":"3"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"0"}]},"3":{"mappings":[{"number":"0"}]},"4":{"mappings":[{"number":"5"}]}}}}}

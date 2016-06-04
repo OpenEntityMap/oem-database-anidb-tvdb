@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"30"}]}}}},"identifiers":{"tvdb":"71863","anidb":"5698"},"names":["Lupin Sansei: Green vs Red"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"5698","tvdb":"71863"},"names":["Lupin Sansei: Green vs Red"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"30","season":"0"}]}}}}}

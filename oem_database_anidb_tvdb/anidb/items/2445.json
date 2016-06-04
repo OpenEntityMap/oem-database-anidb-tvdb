@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"5"}]},"2":{"mappings":[{"season":"0","number":"6"}]}}}},"identifiers":{"tvdb":"74474","anidb":"2445"},"names":["Kidou Senshi Gundam SEED MSV ASTRAY"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2445","tvdb":"74474"},"names":["Kidou Senshi Gundam SEED MSV ASTRAY"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]},"2":{"mappings":[{"number":"6","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"8","offset":-26,"end":52,"start":27}]}},"identifiers":{"tvdb":"84045","anidb":"508"},"names":["Captain Tsubasa (2001)"],"parameters":{"default_season":"7"}}
+{"identifiers":{"anidb":"508","tvdb":"84045"},"names":["Captain Tsubasa (2001)"],"parameters":{"default_season":"7"},"seasons":{"1":{"mappings":[{"end":52,"offset":-26,"season":"8","start":27}]}}}

@@ -36,10 +36,14 @@
                     "9751"
                 ]
             },
-            "names": [
-                "Kimi no Iru Machi",
-                "Kimi no Iru Machi: Tasogare Kousaten"
-            ]
+            "names": {
+                "8587": [
+                    "Kimi no Iru Machi: Tasogare Kousaten"
+                ],
+                "9751": [
+                    "Kimi no Iru Machi"
+                ]
+            }
         }
     }
 }

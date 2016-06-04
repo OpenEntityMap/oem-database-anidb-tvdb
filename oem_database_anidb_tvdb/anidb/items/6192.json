@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]},"2":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"79283","anidb":"6192"},"names":["xxxHOLiC Shunmuki"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6192","tvdb":"79283"},"names":["xxxHOLiC Shunmuki"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]},"2":{"mappings":[{"number":"3","season":"0"}]}}}}}

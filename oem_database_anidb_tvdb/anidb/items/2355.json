@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"171771","anidb":"2355"},"names":["Document Taiyou no Kiba Dougram"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"2355","tvdb":"171771"},"names":["Document Taiyou no Kiba Dougram"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}}}

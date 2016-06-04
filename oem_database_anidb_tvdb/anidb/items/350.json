@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"8"}]},"3":{"mappings":[{"season":"0","number":"8"}]},"2":{"mappings":[{"season":"0","number":"8"}]}}}},"identifiers":{"tvdb":"77681","anidb":"350"},"names":["Slayers Return"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"350","tvdb":"77681"},"names":["Slayers Return"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"8","season":"0"}]},"2":{"mappings":[{"number":"8","season":"0"}]},"3":{"mappings":[{"number":"8","season":"0"}]}}}}}

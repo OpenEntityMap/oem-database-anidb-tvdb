@@ -1,1 +1,1 @@
-{"seasons":{"0":{"mappings":[{"season":"0","offset":-1,"end":7,"start":1}]}},"identifiers":{"tvdb":"262092","anidb":"9230"},"names":["Onii-chan Dakedo Ai sae Areba Kankei Nai yo ne!"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"9230","tvdb":"262092"},"names":["Onii-chan Dakedo Ai sae Areba Kankei Nai yo ne!"],"parameters":{"default_season":"1"},"seasons":{"0":{"mappings":[{"end":7,"offset":-1,"season":"0","start":1}]}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"2","offset":-26,"end":52,"start":27}]}},"identifiers":{"tvdb":"270781","anidb":"10946"},"names":["Pac-World"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"10946","tvdb":"270781"},"names":["Pac-World"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":52,"offset":-26,"season":"2","start":27}]}}}

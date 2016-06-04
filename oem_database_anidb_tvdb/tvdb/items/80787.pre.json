@@ -18,10 +18,14 @@
                     "3068"
                 ]
             },
-            "names": [
-                "Comic Party Revolution (2005)",
-                "Comic Party Revolution"
-            ]
+            "names": {
+                "1225": [
+                    "Comic Party Revolution"
+                ],
+                "3068": [
+                    "Comic Party Revolution (2005)"
+                ]
+            }
         }
     }
 }

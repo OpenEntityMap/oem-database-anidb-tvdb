@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"6"}]}}}},"identifiers":{"tvdb":"85230","anidb":"6680"},"parameters":{"default_season":"0"},"names":["Uchuu Senkan Yamato: Fukkatsu Hen"],"supplemental":{"studio":"Enagio"}}
+{"identifiers":{"anidb":"6680","tvdb":"85230"},"names":["Uchuu Senkan Yamato: Fukkatsu Hen"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"6","season":"0"}]}}}},"supplemental":{"studio":"Enagio"}}

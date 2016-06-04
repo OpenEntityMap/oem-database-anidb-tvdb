@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"98161","anidb":"10055"},"names":["Hi no Tori: Kizuna Hen"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10055","tvdb":"98161"},"names":["Hi no Tori: Kizuna Hen"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]}}}}}

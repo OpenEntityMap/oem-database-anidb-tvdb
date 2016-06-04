@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"79824","anidb":"5914"},"names":["Gekijouban Naruto Shippuuden: Kizuna"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"5914","tvdb":"79824"},"names":["Gekijouban Naruto Shippuuden: Kizuna"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"2"}]},"2":{"mappings":[{"number":"1"}]}}}},"identifiers":{"tvdb":"79878","anidb":"4708"},"parameters":{"default_season":"1"},"names":["Freedom"],"supplemental":{"studio":"Sunrise"}}
+{"identifiers":{"anidb":"4708","tvdb":"79878"},"names":["Freedom"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"2"}]},"2":{"mappings":[{"number":"1"}]}}}},"supplemental":{"studio":"Sunrise"}}

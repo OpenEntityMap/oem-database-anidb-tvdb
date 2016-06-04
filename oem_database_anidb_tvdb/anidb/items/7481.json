@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"40"}]},"2":{"mappings":[{"season":"0","number":"40"}]}}}},"identifiers":{"tvdb":"76703","anidb":"7481"},"names":["Pokemon Ranger: Hikari no Kiseki"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7481","tvdb":"76703"},"names":["Pokemon Ranger: Hikari no Kiseki"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"40","season":"0"}]},"2":{"mappings":[{"number":"40","season":"0"}]}}}}}

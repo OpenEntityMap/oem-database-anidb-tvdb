@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"7"}]}}}},"identifiers":{"tvdb":"79882","anidb":"5454"},"names":["Harukanaru Toki no Naka de 3: Kurenai no Tsuki"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"5454","tvdb":"79882"},"names":["Harukanaru Toki no Naka de 3: Kurenai no Tsuki"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"7","season":"0"}]}}}}}

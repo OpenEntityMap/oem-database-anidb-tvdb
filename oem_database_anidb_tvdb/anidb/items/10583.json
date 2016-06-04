@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"14"}]},"2":{"mappings":[{"season":"0","number":"15"}]}}}},"identifiers":{"tvdb":"267440","anidb":"10583"},"names":["Gekijouban Shingeki no Kyojin"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10583","tvdb":"267440"},"names":["Gekijouban Shingeki no Kyojin"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"14","season":"0"}]},"2":{"mappings":[{"number":"15","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"254654","anidb":"9720"},"names":["Papa no Iu Koto o Kikinasai! OAD"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9720","tvdb":"254654"},"names":["Papa no Iu Koto o Kikinasai! OAD"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

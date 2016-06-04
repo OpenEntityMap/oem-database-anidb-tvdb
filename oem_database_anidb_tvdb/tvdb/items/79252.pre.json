@@ -11,11 +11,17 @@
                     "9449"
                 ]
             },
-            "names": [
-                "Tetsuwan Atom Tokubetsu Hen: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...",
-                "Tetsuwan Atom: Chikyuu Saigo no Hi",
-                "Tetsuwan Atom Tokubetsu Hen: Ivan no Wakusei - Robot to Ningen no Yuujou"
-            ]
+            "names": {
+                "9449": [
+                    "Tetsuwan Atom: Chikyuu Saigo no Hi"
+                ],
+                "9450": [
+                    "Tetsuwan Atom Tokubetsu Hen: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii..."
+                ],
+                "9451": [
+                    "Tetsuwan Atom Tokubetsu Hen: Ivan no Wakusei - Robot to Ningen no Yuujou"
+                ]
+            }
         },
         "1": {
             "identifiers": {

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"75534","anidb":"7321"},"names":["Super Street Fighter IV"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7321","tvdb":"75534"},"names":["Super Street Fighter IV"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]}}}}}

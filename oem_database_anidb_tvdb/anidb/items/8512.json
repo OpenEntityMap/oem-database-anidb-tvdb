@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"146401","anidb":"8512"},"names":["Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8512","tvdb":"146401"},"names":["Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

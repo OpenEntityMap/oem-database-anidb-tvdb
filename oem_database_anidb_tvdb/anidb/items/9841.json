@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"61"}]}}}},"identifiers":{"tvdb":"72454","anidb":"9841"},"names":["Lupin Sansei vs. Meitantei Conan The Movie"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9841","tvdb":"72454"},"names":["Lupin Sansei vs. Meitantei Conan The Movie"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"61","season":"0"}]}}}}}

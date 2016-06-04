@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]},"2":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"275609","anidb":"10977"},"names":["Wake Up, Girls! Zoku Gekijouban"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"10977","tvdb":"275609"},"names":["Wake Up, Girls! Zoku Gekijouban"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]},"2":{"mappings":[{"number":"4","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"252696","anidb":"4757"},"parameters":{"default_season":"0"},"names":["Doraemon: Nobita no Kyouryuu (2006)"],"supplemental":{"studio":"Shin-Ei Animation"}}
+{"identifiers":{"anidb":"4757","tvdb":"252696"},"names":["Doraemon: Nobita no Kyouryuu (2006)"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}},"supplemental":{"studio":"Shin-Ei Animation"}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"10"}]}}}},"identifiers":{"tvdb":"81115","anidb":"6075"},"names":["Magical Girl Lyrical Nanoha The Movie 1st"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6075","tvdb":"81115"},"names":["Magical Girl Lyrical Nanoha The Movie 1st"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"10","season":"0"}]}}}}}

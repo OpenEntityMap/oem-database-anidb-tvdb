@@ -10,10 +10,14 @@
                     "9693"
                 ]
             },
-            "names": [
-                "Cyclops Shoujo Saipuu",
-                "Kero Kero Chime"
-            ]
+            "names": {
+                "808": [
+                    "Kero Kero Chime"
+                ],
+                "9693": [
+                    "Cyclops Shoujo Saipuu"
+                ]
+            }
         }
     }
 }

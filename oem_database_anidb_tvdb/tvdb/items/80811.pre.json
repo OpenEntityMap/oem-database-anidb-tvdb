@@ -3,6 +3,14 @@
         "tvdb": "80811"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7926"
+            },
+            "names": [
+                "Kodomo no Jikan OAD"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "5029"

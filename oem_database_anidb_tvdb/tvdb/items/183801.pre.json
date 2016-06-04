@@ -10,10 +10,14 @@
                     "2228"
                 ]
             },
-            "names": [
-                "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
-                "Wakusei Robo Danguard Ace Tai Konchuu Robot Gundan"
-            ]
+            "names": {
+                "1918": [
+                    "Wakusei Robo Danguard Ace Tai Konchuu Robot Gundan"
+                ],
+                "2228": [
+                    "Wakusei Robo Danguard Ace: Uchuu Daikaisen"
+                ]
+            }
         },
         "1": {
             "identifiers": {

@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"18"}]},"3":{"mappings":[{"number":"20"}]},"2":{"mappings":[{"number":"19"}]},"4":{"mappings":[{"number":"21"}]}}}},"identifiers":{"tvdb":"134181","anidb":"8154"},"names":["Seikon no Qwaser II"],"parameters":{"default_season":"2"}}
+{"identifiers":{"anidb":"8154","tvdb":"134181"},"names":["Seikon no Qwaser II"],"parameters":{"default_season":"2"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"18"}]},"2":{"mappings":[{"number":"19"}]},"3":{"mappings":[{"number":"20"}]},"4":{"mappings":[{"number":"21"}]}}}}}

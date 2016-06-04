@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"3":{"mappings":[{"season":"0","number":"1"}]},"2":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"71313","anidb":"369"},"names":["Kidou Senkan Nadesico: The Prince of Darkness"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"369","tvdb":"71313"},"names":["Kidou Senkan Nadesico: The Prince of Darkness"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"2":{"mappings":[{"number":"1","season":"0"}]},"3":{"mappings":[{"number":"1","season":"0"}]}}}}}

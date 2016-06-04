@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"14":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"79996","anidb":"82"},"parameters":{"default_season":"1"},"names":["Dual! Parallel Runrun Monogatari"],"supplemental":{"studio":"AIC"}}
+{"identifiers":{"anidb":"82","tvdb":"79996"},"names":["Dual! Parallel Runrun Monogatari"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"14":{"mappings":[{"number":"1","season":"0"}]}}}},"supplemental":{"studio":"AIC"}}

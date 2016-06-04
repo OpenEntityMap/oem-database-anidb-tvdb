@@ -60,10 +60,14 @@
                     "931"
                 ]
             },
-            "names": [
-                "Taiho Shichau zo Special",
-                "You're Under Arrest: No Mercy!!"
-            ]
+            "names": {
+                "536": [
+                    "You're Under Arrest: No Mercy!!"
+                ],
+                "931": [
+                    "Taiho Shichau zo Special"
+                ]
+            }
         },
         "1": {
             "episodes": {
@@ -87,10 +91,14 @@
                     "2690"
                 ]
             },
-            "names": [
-                "Taiho Shichau zo: You're Under Arrest",
-                "Taiho Shichau zo: You're Under Arrest (1996)"
-            ]
+            "names": {
+                "2690": [
+                    "Taiho Shichau zo: You're Under Arrest"
+                ],
+                "438": [
+                    "Taiho Shichau zo: You're Under Arrest (1996)"
+                ]
+            }
         },
         "2": {
             "identifiers": {
@@ -107,10 +115,14 @@
                     "993"
                 ]
             },
-            "names": [
-                "Taiho Shichau zo The Movie",
-                "Taiho Shichau zo: Full Throttle"
-            ]
+            "names": {
+                "5234": [
+                    "Taiho Shichau zo: Full Throttle"
+                ],
+                "993": [
+                    "Taiho Shichau zo The Movie"
+                ]
+            }
         }
     }
 }

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0"}]},"2":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"70900","anidb":"631"},"names":["Initial D Extra Stage"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"631","tvdb":"70900"},"names":["Initial D Extra Stage"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0"}]},"2":{"mappings":[{"number":"1","season":"0"}]}}}}}

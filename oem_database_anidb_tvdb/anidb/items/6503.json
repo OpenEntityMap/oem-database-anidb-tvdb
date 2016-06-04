@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"79824","anidb":"6503"},"parameters":{"default_season":"0"},"names":["Gekijouban Naruto Shippuuden: Hi no Ishi o Tsugu Mono"],"supplemental":{"studio":"Studio Pierrot"}}
+{"identifiers":{"anidb":"6503","tvdb":"79824"},"names":["Gekijouban Naruto Shippuuden: Hi no Ishi o Tsugu Mono"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}},"supplemental":{"studio":"Studio Pierrot"}}

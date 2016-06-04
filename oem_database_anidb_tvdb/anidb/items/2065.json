@@ -1,1 +1,1 @@
-{"seasons":{"0":{"mappings":[{"season":"1","offset":38,"end":6,"start":1}]}},"identifiers":{"tvdb":"71551","anidb":"2065"},"names":["Tatakae! Chou Robot Seimeitai Transformers Victory"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"2065","tvdb":"71551"},"names":["Tatakae! Chou Robot Seimeitai Transformers Victory"],"parameters":{"default_season":"1"},"seasons":{"0":{"mappings":[{"end":6,"offset":38,"season":"1","start":1}]}}}

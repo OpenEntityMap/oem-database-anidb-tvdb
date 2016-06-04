@@ -1,1 +1,1 @@
-{"seasons":{"2":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]},"2":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"82971","anidb":"1091"},"names":["Space Cobra"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"1091","tvdb":"82971"},"names":["Space Cobra"],"parameters":{"default_season":"1"},"seasons":{"2":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]},"2":{"mappings":[{"number":"0","season":"0"}]}}}}}

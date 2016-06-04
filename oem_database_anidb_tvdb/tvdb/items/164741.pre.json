@@ -12,12 +12,20 @@
                     "2608"
                 ]
             },
-            "names": [
-                "Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou Tai Miracle Tamago",
-                "Ninja Hattori-kun Plus Perman: Chounouryoku Wars",
-                "Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki",
-                "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki"
-            ]
+            "names": {
+                "2608": [
+                    "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki"
+                ],
+                "4742": [
+                    "Ninja Hattori-kun Plus Perman: Chounouryoku Wars"
+                ],
+                "7564": [
+                    "Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki"
+                ],
+                "9025": [
+                    "Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou Tai Miracle Tamago"
+                ]
+            }
         },
         "1": {
             "identifiers": {

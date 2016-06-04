@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"season":"2","number":"3"}]}}}},"identifiers":{"tvdb":"79109","anidb":"2575"},"names":["Nurse Witch Komugi-chan Magikarte Z"],"parameters":{"default_season":"2"}}
+{"identifiers":{"anidb":"2575","tvdb":"79109"},"names":["Nurse Witch Komugi-chan Magikarte Z"],"parameters":{"default_season":"2"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"3","season":"2"}]}}}}}

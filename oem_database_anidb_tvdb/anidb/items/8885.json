@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"2"}]}}}},"identifiers":{"tvdb":"81999","anidb":"8885"},"names":["Toshokan Sensou: Kakumei no Tsubasa"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8885","tvdb":"81999"},"names":["Toshokan Sensou: Kakumei no Tsubasa"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}}}}}

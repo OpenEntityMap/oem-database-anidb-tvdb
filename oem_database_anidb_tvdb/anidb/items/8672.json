@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"45"}]}}}},"identifiers":{"tvdb":"76703","anidb":"8672"},"names":["Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"8672","tvdb":"76703"},"names":["Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"45","season":"0"}]}}}}}

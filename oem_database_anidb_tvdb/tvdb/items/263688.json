@@ -1,1 +1,1 @@
-{"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"15"}]},"3":{"mappings":[{"number":"17"}]},"2":{"mappings":[{"number":"16"}]}}}},"identifiers":{"tvdb":"263688","anidb":"3296"},"names":["Hellsing (2006)"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"3296","tvdb":"263688"},"names":["Hellsing (2006)"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"15"}]},"2":{"mappings":[{"number":"16"}]},"3":{"mappings":[{"number":"17"}]}}}}}

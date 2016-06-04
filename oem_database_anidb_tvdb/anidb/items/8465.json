@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"2","number":"3"}]}}}},"identifiers":{"tvdb":"259863","anidb":"8465"},"names":["Pukapuka Dudu"],"parameters":{"default_season":"2"}}
+{"identifiers":{"anidb":"8465","tvdb":"259863"},"names":["Pukapuka Dudu"],"parameters":{"default_season":"2"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"2"}]}}}}}

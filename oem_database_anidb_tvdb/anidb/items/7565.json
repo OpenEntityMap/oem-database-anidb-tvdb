@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"70350","anidb":"7565"},"parameters":{"default_season":"0"},"names":["Evangelion Shin Gekijouban: Q"],"supplemental":{"studio":"Studio Khara"}}
+{"identifiers":{"anidb":"7565","tvdb":"70350"},"names":["Evangelion Shin Gekijouban: Q"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]}}}},"supplemental":{"studio":"Studio Khara"}}

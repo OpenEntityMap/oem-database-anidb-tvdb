@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"13":{"mappings":[{"season":"0","number":"2"}]},"12":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"80330","anidb":"5116"},"names":["Zombie-Loan"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"5116","tvdb":"80330"},"names":["Zombie-Loan"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"12":{"mappings":[{"number":"1","season":"0"}]},"13":{"mappings":[{"number":"2","season":"0"}]}}}}}

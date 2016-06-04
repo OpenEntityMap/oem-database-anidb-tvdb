@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"10"}]}}}},"identifiers":{"tvdb":"79824","anidb":"9023"},"names":["Road to Ninja: Naruto the Movie"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9023","tvdb":"79824"},"names":["Road to Ninja: Naruto the Movie"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"10","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"0":{"mappings":[{"season":"0","offset":12,"end":5,"start":1}]}},"identifiers":{"tvdb":"79604","anidb":"6645"},"names":["Black Lagoon: Roberta's Blood Trail"],"parameters":{"episode_offset":"7","default_season":"0"}}
+{"identifiers":{"anidb":"6645","tvdb":"79604"},"names":["Black Lagoon: Roberta's Blood Trail"],"parameters":{"default_season":"0","episode_offset":"7"},"seasons":{"0":{"mappings":[{"end":5,"offset":12,"season":"0","start":1}]}}}

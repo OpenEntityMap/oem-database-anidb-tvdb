@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"32"}]}}}},"identifiers":{"tvdb":"76703","anidb":"6792"},"names":["Pikachu Tanken Club"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6792","tvdb":"76703"},"names":["Pikachu Tanken Club"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"32","season":"0"}]}}}}}

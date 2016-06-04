@@ -10,10 +10,14 @@
                     "292"
                 ]
             },
-            "names": [
-                "Tokimeki Memorial",
-                "Tokimeki Memorial 4: Original Animation - Hajimari no Finder"
-            ]
+            "names": {
+                "292": [
+                    "Tokimeki Memorial"
+                ],
+                "7411": [
+                    "Tokimeki Memorial 4: Original Animation - Hajimari no Finder"
+                ]
+            }
         },
         "1": {
             "episodes": {

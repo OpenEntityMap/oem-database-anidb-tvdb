@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]},"2":{"mappings":[{"season":"0","number":"5"}]}}}},"identifiers":{"tvdb":"79035","anidb":"6819"},"names":["Mahoromatic: Tadaima Okaeri"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6819","tvdb":"79035"},"names":["Mahoromatic: Tadaima Okaeri"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]},"2":{"mappings":[{"number":"5","season":"0"}]}}}}}

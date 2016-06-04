@@ -48,10 +48,14 @@
                     "2126"
                 ]
             },
-            "names": [
-                "Kindaichi Shounen no Jikenbo 2: Satsuriku no Deep Blue",
-                "Kindaichi Shounen no Jikenbo (1997)"
-            ]
+            "names": {
+                "1240": [
+                    "Kindaichi Shounen no Jikenbo (1997)"
+                ],
+                "2126": [
+                    "Kindaichi Shounen no Jikenbo 2: Satsuriku no Deep Blue"
+                ]
+            }
         },
         "2": {
             "identifiers": {

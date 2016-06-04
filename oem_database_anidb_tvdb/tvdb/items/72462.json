@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"26":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"72462","anidb":"25"},"names":["Heppoko Jikken Animation Excel Saga"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"25","tvdb":"72462"},"names":["Heppoko Jikken Animation Excel Saga"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"26":{"mappings":[{"number":"1","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"3"}]}}}},"identifiers":{"tvdb":"80096","anidb":"5783"},"names":["Gekijouban Tengen Toppa Gurren Lagann: Gurren Hen"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"5783","tvdb":"80096"},"names":["Gekijouban Tengen Toppa Gurren Lagann: Gurren Hen"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"0"}]}}}}}

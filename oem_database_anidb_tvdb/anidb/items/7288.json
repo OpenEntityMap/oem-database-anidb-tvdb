@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"33"}]}}}},"identifiers":{"tvdb":"72454","anidb":"7288"},"names":["Lupin Sansei: The Last Job"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7288","tvdb":"72454"},"names":["Lupin Sansei: The Last Job"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"33","season":"0"}]}}}}}

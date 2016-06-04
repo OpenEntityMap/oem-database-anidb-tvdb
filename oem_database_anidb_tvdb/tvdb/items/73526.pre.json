@@ -10,10 +10,14 @@
                     "456"
                 ]
             },
-            "names": [
-                "Burn-up",
-                "Burn-up W"
-            ]
+            "names": {
+                "1735": [
+                    "Burn-up"
+                ],
+                "456": [
+                    "Burn-up W"
+                ]
+            }
         },
         "1": {
             "identifiers": {

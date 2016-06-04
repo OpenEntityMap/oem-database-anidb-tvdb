@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"27"}]}}}},"identifiers":{"tvdb":"76703","anidb":"6801"},"names":["Odoru Pokemon Himitsu Kichi"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6801","tvdb":"76703"},"names":["Odoru Pokemon Himitsu Kichi"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"27","season":"0"}]}}}}}

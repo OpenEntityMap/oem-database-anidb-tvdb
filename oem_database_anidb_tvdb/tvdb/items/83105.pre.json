@@ -51,10 +51,14 @@
                     "2556"
                 ]
             },
-            "names": [
-                "Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By",
-                "Touch: Sebangou no Nai Ace"
-            ]
+            "names": {
+                "2556": [
+                    "Touch: Sebangou no Nai Ace"
+                ],
+                "923": [
+                    "Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By"
+                ]
+            }
         },
         "a": {
             "identifiers": {

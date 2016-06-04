@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"3":{"mappings":[{"season":"0","number":"1"}]},"2":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"82029","anidb":"415"},"names":["Sakura Taisen: Katsudou Shashin"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"415","tvdb":"82029"},"names":["Sakura Taisen: Katsudou Shashin"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"2":{"mappings":[{"number":"1","season":"0"}]},"3":{"mappings":[{"number":"1","season":"0"}]}}}}}

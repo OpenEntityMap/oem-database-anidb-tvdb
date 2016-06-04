@@ -1,1 +1,1 @@
-{"seasons":{"1":{"mappings":[{"season":"1","offset":1,"end":51,"start":44}]},"0":{"episodes":{"1":{"mappings":[{"season":"1","number":"44"}]}}}},"identifiers":{"tvdb":"72776","anidb":"1342"},"names":["Transformers: SuperLink"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"1342","tvdb":"72776"},"names":["Transformers: SuperLink"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"44","season":"1"}]}}},"1":{"mappings":[{"end":51,"offset":1,"season":"1","start":44}]}}}

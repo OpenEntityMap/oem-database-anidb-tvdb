@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"14":{"mappings":[{"season":"2","number":"1"}]}}},"0":{"episodes":{"1":{"mappings":[{"season":"2","number":"2"}]}}}},"identifiers":{"tvdb":"73550","anidb":"353"},"names":["HeatGuy J"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"353","tvdb":"73550"},"names":["HeatGuy J"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"2","season":"2"}]}}},"1":{"episodes":{"14":{"mappings":[{"number":"1","season":"2"}]}}}}}

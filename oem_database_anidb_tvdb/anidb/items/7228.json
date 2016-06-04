@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"78857","anidb":"7228"},"names":["Naruto: The Cross Roads"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7228","tvdb":"78857"},"names":["Naruto: The Cross Roads"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"0"}]}}}},"identifiers":{"tvdb":"247788","anidb":"9950"},"names":["Gekijouban Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"9950","tvdb":"247788"},"names":["Gekijouban Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}

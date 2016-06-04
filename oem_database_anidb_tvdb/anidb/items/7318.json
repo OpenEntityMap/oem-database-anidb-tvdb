@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0"}]},"2":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"265194","anidb":"7318"},"names":["Boku, Otaryman."],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"7318","tvdb":"265194"},"names":["Boku, Otaryman."],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0"}]},"2":{"mappings":[{"number":"1","season":"0"}]}}}}}

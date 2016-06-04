@@ -26,10 +26,14 @@
                     "348"
                 ]
             },
-            "names": [
-                "Shadow Skill (1996)",
-                "Shadow Skill"
-            ]
+            "names": {
+                "2543": [
+                    "Shadow Skill"
+                ],
+                "348": [
+                    "Shadow Skill (1996)"
+                ]
+            }
         },
         "1": {
             "identifiers": {

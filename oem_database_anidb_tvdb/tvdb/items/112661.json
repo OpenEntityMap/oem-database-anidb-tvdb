@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"14":{"mappings":[{"season":"0","number":"1"}]}}}},"identifiers":{"tvdb":"112661","anidb":"480"},"names":["G-on Riders"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"480","tvdb":"112661"},"names":["G-on Riders"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"14":{"mappings":[{"number":"1","season":"0"}]}}}}}

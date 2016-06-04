@@ -1,1 +1,1 @@
-{"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0","number":"4"}]}}}},"identifiers":{"tvdb":"75534","anidb":"6283"},"names":["Street Fighter IV: Aratanaru Kizuna"],"parameters":{"default_season":"0"}}
+{"identifiers":{"anidb":"6283","tvdb":"75534"},"names":["Street Fighter IV: Aratanaru Kizuna"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"4","season":"0"}]}}}}}
