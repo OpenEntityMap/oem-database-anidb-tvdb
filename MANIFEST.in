@@ -1,2 +1,0 @@
-recursive-include oem_anidb_tvdb *.json
-recursive-include oem_anidb_tvdb *.mpack

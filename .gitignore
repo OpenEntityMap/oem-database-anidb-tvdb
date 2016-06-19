@@ -1,3 +1,9 @@
+/.build
+/.cache
+/.eggs
+/.tox
+/dist
+
 *.egg-info
 *.iml
 *.pyc
