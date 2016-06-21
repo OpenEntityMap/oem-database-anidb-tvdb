@@ -7,7 +7,7 @@
         "Yuu Yuu Hakusho"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -76,6 +76,34 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 25,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 66,
+                    "offset": -25,
+                    "season": "2",
+                    "start": 26
+                },
+                {
+                    "end": 94,
+                    "offset": -66,
+                    "season": "3",
+                    "start": 67
+                },
+                {
+                    "end": 112,
+                    "offset": -94,
+                    "season": "4",
+                    "start": 95
+                }
+            ]
         }
     }
 }

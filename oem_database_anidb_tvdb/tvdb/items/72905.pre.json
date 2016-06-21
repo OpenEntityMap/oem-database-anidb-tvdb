@@ -7,7 +7,27 @@
         "Hikaru no Go"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 30
+            }
+        },
+        "3": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 60
+            }
+        }
     },
     "supplemental": {
         "studio": "Studio Pierrot"

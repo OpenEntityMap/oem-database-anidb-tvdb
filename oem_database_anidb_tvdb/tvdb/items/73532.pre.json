@@ -47,6 +47,18 @@
                 }
             }
         },
+        "1": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
         "10": {
             "identifiers": {
                 "anidb": "5750"
@@ -97,6 +109,78 @@
                 "Shin Tennis no Ouji-sama"
             ]
         },
+        "2": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 53
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 75
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 101
+            }
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 128
+            }
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "56"
+            },
+            "names": [
+                "Tennis no Ouji-sama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 165
+            }
+        },
         "8": {
             "identifiers": {
                 "anidb": "4244"
@@ -111,14 +195,6 @@
             },
             "names": [
                 "Tennis no Ouji-sama: Zenkoku Taikai Hen - Semifinal"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "56"
-            },
-            "names": [
-                "Tennis no Ouji-sama"
             ]
         }
     }

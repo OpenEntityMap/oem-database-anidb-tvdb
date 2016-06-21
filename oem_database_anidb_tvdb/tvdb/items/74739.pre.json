@@ -41,13 +41,29 @@
                 "Kaleido Star: Aratanaru Tsubasa - Extra Stage"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "635"
             },
             "names": [
                 "Kaleido Star"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "635"
+            },
+            "names": [
+                "Kaleido Star"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
         }
     }
 }

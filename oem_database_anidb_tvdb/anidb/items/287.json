@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"287","tvdb":"79449"},"names":["Shoujo Kakumei Utena"],"parameters":{"default_season":"a"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}}}}
+{"identifiers":{"anidb":"287","tvdb":"79449"},"names":["Shoujo Kakumei Utena"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}},"1":{"mappings":[{"end":13,"offset":0,"season":"1","start":1},{"end":24,"offset":-13,"season":"2","start":14},{"end":33,"offset":-24,"season":"3","start":25},{"end":39,"offset":-33,"season":"4","start":34}]}}}

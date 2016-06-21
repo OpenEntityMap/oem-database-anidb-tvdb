@@ -7,6 +7,24 @@
         "Kyou kara Maou!"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 39,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 78,
+                    "offset": -39,
+                    "season": "2",
+                    "start": 40
+                }
+            ]
+        }
     }
 }

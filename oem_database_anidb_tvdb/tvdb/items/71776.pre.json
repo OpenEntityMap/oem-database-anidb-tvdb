@@ -37,13 +37,53 @@
                 "Maison Ikkoku: Kanketsu Hen"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "288"
             },
             "names": [
                 "Maison Ikkoku"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "288"
+            },
+            "names": [
+                "Maison Ikkoku"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "288"
+            },
+            "names": [
+                "Maison Ikkoku"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 52
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "288"
+            },
+            "names": [
+                "Maison Ikkoku"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 76
+            }
         }
     }
 }

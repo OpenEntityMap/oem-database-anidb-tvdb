@@ -79,13 +79,242 @@
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "2369"
             },
             "names": [
                 "Bleach"
             ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "10": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 189
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "11": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 205
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "12": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 212
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "13": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 229
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "14": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 265
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "15": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 316
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "16": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 342
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 20
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 41
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 63
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 91
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 109
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 131
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "8": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 151
+            },
+            "supplemental": {
+                "studio": "Studio Pierrot"
+            }
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "2369"
+            },
+            "names": [
+                "Bleach"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 167
+            },
             "supplemental": {
                 "studio": "Studio Pierrot"
             }

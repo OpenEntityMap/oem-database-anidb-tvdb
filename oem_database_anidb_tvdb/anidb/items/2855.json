@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"2855","tvdb":"80830"},"names":["MAR Heaven"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"2855","tvdb":"80830"},"names":["MAR Heaven"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":26,"offset":0,"season":"1","start":1},{"end":52,"offset":-26,"season":"2","start":27},{"end":78,"offset":-52,"season":"3","start":53},{"end":102,"offset":-78,"season":"4","start":79}]}}}

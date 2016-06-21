@@ -7,7 +7,7 @@
         "Dragon Ball GT"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -27,6 +27,28 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 16,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 40,
+                    "offset": -16,
+                    "season": "2",
+                    "start": 17
+                },
+                {
+                    "end": 64,
+                    "offset": -40,
+                    "season": "3",
+                    "start": 41
+                }
+            ]
         }
     }
 }

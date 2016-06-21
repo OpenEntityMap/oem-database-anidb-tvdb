@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"233","tvdb":"79275"},"names":["Dragon Ball GT"],"parameters":{"default_season":"a"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"1"}]}}}}}
+{"identifiers":{"anidb":"233","tvdb":"79275"},"names":["Dragon Ball GT"],"parameters":{"default_season":"1"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"1"}]}}},"1":{"mappings":[{"end":16,"offset":0,"season":"1","start":1},{"end":40,"offset":-16,"season":"2","start":17},{"end":64,"offset":-40,"season":"3","start":41}]}}}

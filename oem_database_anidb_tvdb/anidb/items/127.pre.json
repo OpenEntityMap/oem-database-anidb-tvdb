@@ -7,7 +7,7 @@
         "Magic Knight Rayearth"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -41,6 +41,22 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 20,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 49,
+                    "offset": -20,
+                    "season": "2",
+                    "start": 21
+                }
+            ]
         }
     },
     "supplemental": {

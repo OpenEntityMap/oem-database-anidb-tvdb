@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"239","tvdb":"78857"},"names":["Naruto"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"239","tvdb":"78857"},"names":["Naruto"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":35,"offset":0,"season":"1","start":1},{"end":83,"offset":-35,"season":"2","start":36},{"end":131,"offset":-83,"season":"3","start":84},{"end":179,"offset":-131,"season":"4","start":132},{"end":220,"offset":-179,"season":"5","start":180}]}}}

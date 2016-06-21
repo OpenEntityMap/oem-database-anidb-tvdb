@@ -7,7 +7,7 @@
         "Maison Ikkoku"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -27,6 +27,34 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 52,
+                    "offset": -26,
+                    "season": "2",
+                    "start": 27
+                },
+                {
+                    "end": 76,
+                    "offset": -52,
+                    "season": "3",
+                    "start": 53
+                },
+                {
+                    "end": 96,
+                    "offset": -76,
+                    "season": "4",
+                    "start": 77
+                }
+            ]
         }
     }
 }

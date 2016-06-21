@@ -7,7 +7,7 @@
         "Rurouni Kenshin: Meiji Kenkaku Romantan"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -21,6 +21,28 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 28,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 62,
+                    "offset": -28,
+                    "season": "2",
+                    "start": 29
+                },
+                {
+                    "end": 95,
+                    "offset": -62,
+                    "season": "3",
+                    "start": 63
+                }
+            ]
         }
     }
 }

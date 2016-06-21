@@ -11,20 +11,36 @@
                 "Monster Farm 5: Circus Caravan"
             ]
         },
+        "1": {
+            "identifiers": {
+                "anidb": "2908"
+            },
+            "names": [
+                "Monster Farm: Enbanseki no Himitsu"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2908"
+            },
+            "names": [
+                "Monster Farm: Enbanseki no Himitsu"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
+        },
         "3": {
             "identifiers": {
                 "anidb": "4695"
             },
             "names": [
                 "Monster Farm: Legend e no Michi"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "2908"
-            },
-            "names": [
-                "Monster Farm: Enbanseki no Himitsu"
             ]
         }
     }

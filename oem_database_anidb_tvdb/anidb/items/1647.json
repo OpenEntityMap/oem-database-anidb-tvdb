@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"1647","tvdb":"82206"},"names":["Virtua Fighter"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"1647","tvdb":"82206"},"names":["Virtua Fighter"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":24,"offset":0,"season":"1","start":1},{"end":36,"offset":-24,"season":"2","start":25}]}}}

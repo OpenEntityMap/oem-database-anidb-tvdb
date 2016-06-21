@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"8865","tvdb":"256705"},"names":["Uchuu Kyoudai"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"8865","tvdb":"256705"},"names":["Uchuu Kyoudai"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":51,"offset":0,"season":"1","start":1},{"end":99,"offset":-51,"season":"2","start":52}]}}}

@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"1382","tvdb":"73315"},"names":["Zoids"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"1382","tvdb":"73315"},"names":["Zoids"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":34}}}}

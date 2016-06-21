@@ -7,9 +7,15 @@
         "IGPX: Immortal Grand Prix (2005)"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
+        "1": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
         "2": {
             "episodes": {
                 "12": {
@@ -28,6 +34,10 @@
                         }
                     ]
                 }
+            },
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 13
             }
         }
     }

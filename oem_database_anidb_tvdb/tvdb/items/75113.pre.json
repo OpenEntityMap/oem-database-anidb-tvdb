@@ -123,9 +123,6 @@
                     "names": [
                         "Urusei Yatsura OVA"
                     ],
-                    "parameters": {
-                        "episode_offset": "7"
-                    },
                     "supplemental": {
                         "studio": "Kitty Film"
                     }
@@ -157,9 +154,6 @@
                     "names": [
                         "Urusei Yatsura OVA"
                     ],
-                    "parameters": {
-                        "episode_offset": "7"
-                    },
                     "supplemental": {
                         "studio": "Kitty Film"
                     }
@@ -177,22 +171,59 @@
                     "names": [
                         "Urusei Yatsura OVA"
                     ],
-                    "parameters": {
-                        "episode_offset": "7"
-                    },
                     "supplemental": {
                         "studio": "Kitty Film"
                     }
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "377"
             },
             "names": [
                 "Urusei Yatsura"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "377"
+            },
+            "names": [
+                "Urusei Yatsura"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 21
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "377"
+            },
+            "names": [
+                "Urusei Yatsura"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 80
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "377"
+            },
+            "names": [
+                "Urusei Yatsura"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 130
+            }
         }
     }
 }

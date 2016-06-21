@@ -7,7 +7,7 @@
         "Dragon Ball Z"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -48,6 +48,64 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 39,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 74,
+                    "offset": -39,
+                    "season": "2",
+                    "start": 40
+                },
+                {
+                    "end": 107,
+                    "offset": -74,
+                    "season": "3",
+                    "start": 75
+                },
+                {
+                    "end": 139,
+                    "offset": -107,
+                    "season": "4",
+                    "start": 108
+                },
+                {
+                    "end": 165,
+                    "offset": -139,
+                    "season": "5",
+                    "start": 140
+                },
+                {
+                    "end": 194,
+                    "offset": -165,
+                    "season": "6",
+                    "start": 166
+                },
+                {
+                    "end": 219,
+                    "offset": -194,
+                    "season": "7",
+                    "start": 195
+                },
+                {
+                    "end": 253,
+                    "offset": -219,
+                    "season": "8",
+                    "start": 220
+                },
+                {
+                    "end": 291,
+                    "offset": -253,
+                    "season": "9",
+                    "start": 254
+                }
+            ]
         }
     }
 }

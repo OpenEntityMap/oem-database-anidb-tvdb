@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"161","tvdb":"74598"},"names":["Tokyo Mew Mew"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"161","tvdb":"74598"},"names":["Tokyo Mew Mew"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":26}}}}

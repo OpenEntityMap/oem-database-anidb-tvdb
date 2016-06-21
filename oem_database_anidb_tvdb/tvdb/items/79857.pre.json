@@ -7,7 +7,7 @@
         "Shaman King"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -40,6 +40,12 @@
                         }
                     ]
                 }
+            }
+        },
+        "1": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
             }
         }
     }

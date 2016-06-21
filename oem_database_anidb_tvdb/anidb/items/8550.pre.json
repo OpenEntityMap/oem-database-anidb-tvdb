@@ -7,6 +7,30 @@
         "Hunter x Hunter (2011)"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 58,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 136,
+                    "offset": -58,
+                    "season": "2",
+                    "start": 59
+                },
+                {
+                    "end": 148,
+                    "offset": -136,
+                    "season": "3",
+                    "start": 137
+                }
+            ]
+        }
     }
 }

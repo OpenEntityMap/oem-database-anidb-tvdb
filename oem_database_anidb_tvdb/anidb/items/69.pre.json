@@ -7,7 +7,7 @@
         "One Piece"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -167,6 +167,118 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 8,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 30,
+                    "offset": -8,
+                    "season": "2",
+                    "start": 9
+                },
+                {
+                    "end": 47,
+                    "offset": -30,
+                    "season": "3",
+                    "start": 31
+                },
+                {
+                    "end": 60,
+                    "offset": -47,
+                    "season": "4",
+                    "start": 48
+                },
+                {
+                    "end": 69,
+                    "offset": -60,
+                    "season": "5",
+                    "start": 61
+                },
+                {
+                    "end": 91,
+                    "offset": -69,
+                    "season": "6",
+                    "start": 70
+                },
+                {
+                    "end": 130,
+                    "offset": -91,
+                    "season": "7",
+                    "start": 92
+                },
+                {
+                    "end": 143,
+                    "offset": -130,
+                    "season": "8",
+                    "start": 131
+                },
+                {
+                    "end": 195,
+                    "offset": -143,
+                    "season": "9",
+                    "start": 144
+                },
+                {
+                    "end": 226,
+                    "offset": -195,
+                    "season": "10",
+                    "start": 196
+                },
+                {
+                    "end": 325,
+                    "offset": -226,
+                    "season": "11",
+                    "start": 227
+                },
+                {
+                    "end": 381,
+                    "offset": -325,
+                    "season": "12",
+                    "start": 326
+                },
+                {
+                    "end": 481,
+                    "offset": -381,
+                    "season": "13",
+                    "start": 382
+                },
+                {
+                    "end": 516,
+                    "offset": -481,
+                    "season": "14",
+                    "start": 482
+                },
+                {
+                    "end": 578,
+                    "offset": -516,
+                    "season": "15",
+                    "start": 517
+                },
+                {
+                    "end": 627,
+                    "offset": -578,
+                    "season": "16",
+                    "start": 579
+                },
+                {
+                    "end": 746,
+                    "offset": -628,
+                    "season": "17",
+                    "start": 629
+                },
+                {
+                    "end": 748,
+                    "offset": -746,
+                    "season": "18",
+                    "start": 747
+                }
+            ]
         }
     }
 }

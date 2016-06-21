@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"584","tvdb":"81618"},"names":["Ginga Eiyuu Densetsu"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"584","tvdb":"81618"},"names":["Ginga Eiyuu Densetsu"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":26,"offset":0,"season":"1","start":1},{"end":54,"offset":-26,"season":"2","start":27},{"end":86,"offset":-54,"season":"3","start":55},{"end":110,"offset":-86,"season":"4","start":87}]}}}

@@ -7,7 +7,7 @@
         "Bleach"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -41,6 +41,106 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 20,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 41,
+                    "offset": -20,
+                    "season": "2",
+                    "start": 21
+                },
+                {
+                    "end": 63,
+                    "offset": -41,
+                    "season": "3",
+                    "start": 42
+                },
+                {
+                    "end": 91,
+                    "offset": -63,
+                    "season": "4",
+                    "start": 64
+                },
+                {
+                    "end": 109,
+                    "offset": -91,
+                    "season": "5",
+                    "start": 92
+                },
+                {
+                    "end": 131,
+                    "offset": -109,
+                    "season": "6",
+                    "start": 110
+                },
+                {
+                    "end": 151,
+                    "offset": -131,
+                    "season": "7",
+                    "start": 132
+                },
+                {
+                    "end": 167,
+                    "offset": -151,
+                    "season": "8",
+                    "start": 152
+                },
+                {
+                    "end": 189,
+                    "offset": -167,
+                    "season": "9",
+                    "start": 168
+                },
+                {
+                    "end": 205,
+                    "offset": -189,
+                    "season": "10",
+                    "start": 190
+                },
+                {
+                    "end": 212,
+                    "offset": -205,
+                    "season": "11",
+                    "start": 206
+                },
+                {
+                    "end": 229,
+                    "offset": -212,
+                    "season": "12",
+                    "start": 213
+                },
+                {
+                    "end": 265,
+                    "offset": -229,
+                    "season": "13",
+                    "start": 230
+                },
+                {
+                    "end": 316,
+                    "offset": -265,
+                    "season": "14",
+                    "start": 266
+                },
+                {
+                    "end": 342,
+                    "offset": -316,
+                    "season": "15",
+                    "start": 317
+                },
+                {
+                    "end": 366,
+                    "offset": -342,
+                    "season": "16",
+                    "start": 343
+                }
+            ]
         }
     },
     "supplemental": {

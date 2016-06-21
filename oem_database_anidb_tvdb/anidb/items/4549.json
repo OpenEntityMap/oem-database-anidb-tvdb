@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"4549","tvdb":"79635"},"names":["D.Gray-man"],"parameters":{"default_season":"a"},"supplemental":{"studio":"TMS Entertainment"}}
+{"identifiers":{"anidb":"4549","tvdb":"79635"},"names":["D.Gray-man"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":51,"offset":0,"season":"1","start":1},{"end":103,"offset":-51,"season":"2","start":52}]}},"supplemental":{"studio":"TMS Entertainment"}}

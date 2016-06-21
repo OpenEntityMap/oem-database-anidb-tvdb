@@ -764,6 +764,18 @@
                 }
             }
         },
+        "1": {
+            "identifiers": {
+                "anidb": "230"
+            },
+            "names": [
+                "Pocket Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
         "10": {
             "episodes": {
                 "1": {
@@ -2687,6 +2699,54 @@
                 "Pocket Monsters XY"
             ]
         },
+        "2": {
+            "identifiers": {
+                "anidb": "230"
+            },
+            "names": [
+                "Pocket Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 82
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "230"
+            },
+            "names": [
+                "Pocket Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 118
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "230"
+            },
+            "names": [
+                "Pocket Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 159
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "230"
+            },
+            "names": [
+                "Pocket Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 211
+            }
+        },
         "6": {
             "identifiers": {
                 "anidb": "1041"
@@ -2741,14 +2801,6 @@
             ],
             "names": [
                 "Pocket Monsters Advanced Generation"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "230"
-            },
-            "names": [
-                "Pocket Monsters"
             ]
         }
     }

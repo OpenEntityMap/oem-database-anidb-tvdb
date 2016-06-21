@@ -21,13 +21,29 @@
                 "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "5674"
             },
             "names": [
                 "Zettai Karen Children"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5674"
+            },
+            "names": [
+                "Zettai Karen Children"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
         }
     }
 }

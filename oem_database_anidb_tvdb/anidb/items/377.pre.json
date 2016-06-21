@@ -7,6 +7,36 @@
         "Urusei Yatsura"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 21,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 80,
+                    "offset": -21,
+                    "season": "2",
+                    "start": 22
+                },
+                {
+                    "end": 130,
+                    "offset": -80,
+                    "season": "3",
+                    "start": 81
+                },
+                {
+                    "end": 195,
+                    "offset": -130,
+                    "season": "4",
+                    "start": 131
+                }
+            ]
+        }
     }
 }

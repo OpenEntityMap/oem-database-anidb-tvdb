@@ -41,13 +41,17 @@
                 "Ganso Bakuretsu Hunter"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "701"
             },
             "names": [
                 "Bakuretsu Hunter"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
         }
     }
 }

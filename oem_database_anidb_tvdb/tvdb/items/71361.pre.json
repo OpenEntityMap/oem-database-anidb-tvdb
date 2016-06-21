@@ -107,20 +107,96 @@
                 }
             }
         },
+        "1": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 27
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 54
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 81
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 99
+            }
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 126
+            }
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "144"
+            },
+            "names": [
+                "Inuyasha"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 159
+            }
+        },
         "8": {
             "identifiers": {
                 "anidb": "6716"
             },
             "names": [
                 "Inuyasha Kanketsuhen"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "144"
-            },
-            "names": [
-                "Inuyasha"
             ]
         }
     }

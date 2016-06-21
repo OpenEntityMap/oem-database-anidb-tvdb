@@ -35,13 +35,41 @@
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "638"
             },
             "names": [
                 "Konjiki no Gash Bell!!"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "638"
+            },
+            "names": [
+                "Konjiki no Gash Bell!!"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 50
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "638"
+            },
+            "names": [
+                "Konjiki no Gash Bell!!"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 100
+            }
         }
     }
 }

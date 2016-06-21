@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"241","tvdb":"83105"},"names":["Touch"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"241","tvdb":"83105"},"names":["Touch"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":27,"offset":0,"season":"1","start":1},{"end":56,"offset":-27,"season":"2","start":28},{"end":79,"offset":-56,"season":"3","start":57},{"end":101,"offset":-79,"season":"4","start":80}]}}}

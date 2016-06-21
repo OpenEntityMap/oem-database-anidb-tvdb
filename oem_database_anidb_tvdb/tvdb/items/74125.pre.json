@@ -7,6 +7,14 @@
         "Juuni Kokuki"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        }
     }
 }

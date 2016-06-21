@@ -51,13 +51,65 @@
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "2061"
             },
             "names": [
                 "Yuu Gi Ou: Duel Monsters"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2061"
+            },
+            "names": [
+                "Yuu Gi Ou: Duel Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 49
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "2061"
+            },
+            "names": [
+                "Yuu Gi Ou: Duel Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 97
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "2061"
+            },
+            "names": [
+                "Yuu Gi Ou: Duel Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 144
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "2061"
+            },
+            "names": [
+                "Yuu Gi Ou: Duel Monsters"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 184
+            }
         }
     }
 }

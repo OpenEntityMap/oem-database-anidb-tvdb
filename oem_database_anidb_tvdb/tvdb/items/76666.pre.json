@@ -83,13 +83,65 @@
                 "Dragon Ball: Shen Long no Densetsu"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "231"
             },
             "names": [
                 "Dragon Ball"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "231"
+            },
+            "names": [
+                "Dragon Ball"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 28
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "231"
+            },
+            "names": [
+                "Dragon Ball"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 53
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "231"
+            },
+            "names": [
+                "Dragon Ball"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 101
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "231"
+            },
+            "names": [
+                "Dragon Ball"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 122
+            }
         }
     }
 }

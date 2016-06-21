@@ -100,6 +100,30 @@
                 "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen"
             ]
         },
+        "1": {
+            "identifiers": {
+                "anidb": "90"
+            },
+            "names": [
+                "Rurouni Kenshin: Meiji Kenkaku Romantan"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "90"
+            },
+            "names": [
+                "Rurouni Kenshin: Meiji Kenkaku Romantan"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 28
+            }
+        },
         "3": {
             "episodes": {
                 "33": {
@@ -116,15 +140,11 @@
             },
             "names": [
                 "Rurouni Kenshin: Meiji Kenkaku Romantan"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "90"
-            },
-            "names": [
-                "Rurouni Kenshin: Meiji Kenkaku Romantan"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 62
+            }
         }
     }
 }

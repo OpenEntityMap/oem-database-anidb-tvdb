@@ -41,13 +41,29 @@
                 "Uchuu Kyoudai: Apo's Dream"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "8865"
             },
             "names": [
                 "Uchuu Kyoudai"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8865"
+            },
+            "names": [
+                "Uchuu Kyoudai"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 51
+            }
         }
     }
 }

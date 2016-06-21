@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"84","tvdb":"72905"},"names":["Hikaru no Go"],"parameters":{"default_season":"a"},"supplemental":{"studio":"Studio Pierrot"}}
+{"identifiers":{"anidb":"84","tvdb":"72905"},"names":["Hikaru no Go"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":30}},"3":{"parameters":{"default_season":1,"episode_offset":60}}},"supplemental":{"studio":"Studio Pierrot"}}

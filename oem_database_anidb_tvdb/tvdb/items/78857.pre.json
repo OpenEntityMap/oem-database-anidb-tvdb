@@ -71,13 +71,65 @@
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "239"
             },
             "names": [
                 "Naruto"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "239"
+            },
+            "names": [
+                "Naruto"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 35
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "239"
+            },
+            "names": [
+                "Naruto"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 83
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "239"
+            },
+            "names": [
+                "Naruto"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 131
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "239"
+            },
+            "names": [
+                "Naruto"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 179
+            }
         }
     }
 }

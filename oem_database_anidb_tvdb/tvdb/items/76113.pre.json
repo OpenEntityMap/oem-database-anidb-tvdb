@@ -7,6 +7,32 @@
         "Yuu Gi Ou: Duel Monsters GX"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 52
+            }
+        },
+        "3": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 104
+            }
+        },
+        "4": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 156
+            }
+        }
     }
 }

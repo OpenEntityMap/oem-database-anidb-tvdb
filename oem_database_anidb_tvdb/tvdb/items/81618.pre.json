@@ -63,13 +63,53 @@
                 "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "584"
             },
             "names": [
                 "Ginga Eiyuu Densetsu"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "584"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "584"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 54
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "584"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 86
+            }
         }
     }
 }

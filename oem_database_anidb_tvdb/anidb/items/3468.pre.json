@@ -7,7 +7,37 @@
         "Gintama"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 49,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 99,
+                    "offset": -49,
+                    "season": "2",
+                    "start": 50
+                },
+                {
+                    "end": 150,
+                    "offset": -99,
+                    "season": "3",
+                    "start": 100
+                },
+                {
+                    "end": 201,
+                    "offset": -150,
+                    "season": "4",
+                    "start": 151
+                }
+            ]
+        }
     },
     "supplemental": {
         "studio": "Sunrise"

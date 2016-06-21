@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"127","tvdb":"71634"},"names":["Magic Knight Rayearth"],"parameters":{"default_season":"a"},"supplemental":{"studio":"TMS Entertainment"}}
+{"identifiers":{"anidb":"127","tvdb":"71634"},"names":["Magic Knight Rayearth"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":20}}},"supplemental":{"studio":"TMS Entertainment"}}

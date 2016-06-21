@@ -7,7 +7,7 @@
         "Cardcaptor Sakura"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -76,6 +76,28 @@
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 35,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 47,
+                    "offset": -35,
+                    "season": "2",
+                    "start": 36
+                },
+                {
+                    "end": 70,
+                    "offset": -46,
+                    "season": "3",
+                    "start": 47
+                }
+            ]
         }
     }
 }

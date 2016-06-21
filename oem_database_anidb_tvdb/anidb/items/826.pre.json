@@ -7,6 +7,30 @@
         "Saint Seiya"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 73,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 99,
+                    "offset": -73,
+                    "season": "2",
+                    "start": 74
+                },
+                {
+                    "end": 114,
+                    "offset": -99,
+                    "season": "3",
+                    "start": 100
+                }
+            ]
+        }
     }
 }

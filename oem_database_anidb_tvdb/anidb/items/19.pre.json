@@ -7,6 +7,24 @@
         "Rizelmine"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 24,
+                    "offset": -12,
+                    "season": "2",
+                    "start": 13
+                }
+            ]
+        }
     }
 }

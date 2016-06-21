@@ -91,6 +91,42 @@
                 "Saint Seiya: Jashin Eris"
             ]
         },
+        "1": {
+            "identifiers": {
+                "anidb": "826"
+            },
+            "names": [
+                "Saint Seiya"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "826"
+            },
+            "names": [
+                "Saint Seiya"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 73
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "826"
+            },
+            "names": [
+                "Saint Seiya"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 99
+            }
+        },
         "4": {
             "identifiers": {
                 "anidb": "343"
@@ -336,14 +372,6 @@
             },
             "names": [
                 "Saint Seiya: Soul of Gold"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "826"
-            },
-            "names": [
-                "Saint Seiya"
             ]
         }
     }

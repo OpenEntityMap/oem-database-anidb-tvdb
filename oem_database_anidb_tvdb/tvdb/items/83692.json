@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"19","tvdb":"83692"},"names":["Rizelmine"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"19","tvdb":"83692"},"names":["Rizelmine"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":12}}}}

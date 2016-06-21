@@ -27,13 +27,41 @@
                 "Gekijouban Hunter x Hunter: Phantom Rouge"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "8550"
             },
             "names": [
                 "Hunter x Hunter (2011)"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "8550"
+            },
+            "names": [
+                "Hunter x Hunter (2011)"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 58
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "8550"
+            },
+            "names": [
+                "Hunter x Hunter (2011)"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 136
+            }
         }
     }
 }

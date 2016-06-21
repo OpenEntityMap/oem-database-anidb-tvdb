@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"516","tvdb":"76045"},"names":["Princess Tutu"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"516","tvdb":"76045"},"names":["Princess Tutu"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":13,"offset":0,"season":"1","start":1},{"end":38,"offset":-13,"season":"2","start":14}]}}}

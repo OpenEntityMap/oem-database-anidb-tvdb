@@ -116,13 +116,41 @@
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "102"
             },
             "names": [
                 "Cardcaptor Sakura"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "102"
+            },
+            "names": [
+                "Cardcaptor Sakura"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 35
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "102"
+            },
+            "names": [
+                "Cardcaptor Sakura"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 46
+            }
         }
     }
 }

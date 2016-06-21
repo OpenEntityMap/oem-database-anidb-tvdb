@@ -109,6 +109,54 @@
                 }
             }
         },
+        "1": {
+            "identifiers": {
+                "anidb": "386"
+            },
+            "names": [
+                "Hokuto no Ken"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "386"
+            },
+            "names": [
+                "Hokuto no Ken"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 22
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "386"
+            },
+            "names": [
+                "Hokuto no Ken"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 57
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "386"
+            },
+            "names": [
+                "Hokuto no Ken"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 82
+            }
+        },
         "5": {
             "identifiers": {
                 "anidb": "984"
@@ -131,14 +179,6 @@
             ],
             "names": [
                 "Seikimatsu Kyuuseishu Densetsu: Hokuto no Ken 2"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "386"
-            },
-            "names": [
-                "Hokuto no Ken"
             ]
         }
     }

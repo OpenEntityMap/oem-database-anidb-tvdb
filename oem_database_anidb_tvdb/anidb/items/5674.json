@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"5674","tvdb":"84139"},"names":["Zettai Karen Children"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"5674","tvdb":"84139"},"names":["Zettai Karen Children"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":26,"offset":0,"season":"1","start":1},{"end":51,"offset":-26,"season":"2","start":27}]}}}

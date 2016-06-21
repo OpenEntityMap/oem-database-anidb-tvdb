@@ -3,6 +3,30 @@
         "tvdb": "71444"
     },
     "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "87"
+            },
+            "names": [
+                "Fushigi Yuugi"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "87"
+            },
+            "names": [
+                "Fushigi Yuugi"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
+        },
         "3": {
             "episodes": {
                 "10": {
@@ -33,14 +57,6 @@
             },
             "names": [
                 "Fushigi Yuugi (1996)"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "87"
-            },
-            "names": [
-                "Fushigi Yuugi"
             ]
         }
     }

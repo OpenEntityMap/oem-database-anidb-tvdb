@@ -7,6 +7,36 @@
         "Fairy Tail"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 48,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 96,
+                    "offset": -48,
+                    "season": "2",
+                    "start": 49
+                },
+                {
+                    "end": 150,
+                    "offset": -96,
+                    "season": "3",
+                    "start": 97
+                },
+                {
+                    "end": 175,
+                    "offset": -150,
+                    "season": "4",
+                    "start": 151
+                }
+            ]
+        }
     }
 }

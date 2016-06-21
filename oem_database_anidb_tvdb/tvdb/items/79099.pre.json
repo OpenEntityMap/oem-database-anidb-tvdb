@@ -122,7 +122,7 @@
                         }
                     ],
                     "names": [
-                        ".hack//SIGN"
+                        ".hack//Sign"
                     ]
                 },
                 "7": {
@@ -143,7 +143,7 @@
                         "anidb": "1135"
                     },
                     "names": [
-                        ".hack//GIFT"
+                        ".hack//Gift"
                     ],
                     "parameters": {
                         "episode_offset": "7"

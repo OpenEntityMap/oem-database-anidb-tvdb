@@ -75,6 +75,30 @@
                 }
             }
         },
+        "1": {
+            "identifiers": {
+                "anidb": "6234"
+            },
+            "names": [
+                "Hetalia: Axis Powers"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "6234"
+            },
+            "names": [
+                "Hetalia: Axis Powers"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 26
+            }
+        },
         "3": {
             "identifiers": {
                 "anidb": "7448"
@@ -97,14 +121,6 @@
             },
             "names": [
                 "Hetalia: The World Twinkle"
-            ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "6234"
-            },
-            "names": [
-                "Hetalia: Axis Powers"
             ]
         }
     }

@@ -7,7 +7,30 @@
         "Fairy Tail (2014)"
     ],
     "parameters": {
-        "default_season": "a",
-        "episode_offset": "175"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 51,
+                    "offset": 0,
+                    "season": "5",
+                    "start": 1
+                },
+                {
+                    "end": 90,
+                    "offset": -51,
+                    "season": "6",
+                    "start": 52
+                },
+                {
+                    "end": 102,
+                    "offset": -90,
+                    "season": "7",
+                    "start": 91
+                }
+            ]
+        }
     }
 }

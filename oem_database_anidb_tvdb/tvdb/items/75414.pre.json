@@ -76,13 +76,89 @@
                 }
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "1552"
             },
             "names": [
                 "Keroro Gunsou"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 51
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 103
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 154
+            }
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 205
+            }
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 256
+            }
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "1552"
+            },
+            "names": [
+                "Keroro Gunsou"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 307
+            }
         }
     }
 }

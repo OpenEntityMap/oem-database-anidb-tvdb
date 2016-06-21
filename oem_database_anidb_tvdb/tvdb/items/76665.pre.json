@@ -67,13 +67,53 @@
                 "studio": "Studio Pierrot"
             }
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "312"
             },
             "names": [
                 "Yuu Yuu Hakusho"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "312"
+            },
+            "names": [
+                "Yuu Yuu Hakusho"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 25
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "312"
+            },
+            "names": [
+                "Yuu Yuu Hakusho"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 66
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "312"
+            },
+            "names": [
+                "Yuu Yuu Hakusho"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 94
+            }
         }
     }
 }

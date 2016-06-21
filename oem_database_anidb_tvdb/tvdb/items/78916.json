@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"2400","tvdb":"78916"},"names":["Gantz"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"2400","tvdb":"78916"},"names":["Gantz"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":13}}}}

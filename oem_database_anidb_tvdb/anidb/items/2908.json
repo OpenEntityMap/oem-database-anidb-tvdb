@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"2908","tvdb":"72858"},"names":["Monster Farm: Enbanseki no Himitsu"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"2908","tvdb":"72858"},"names":["Monster Farm: Enbanseki no Himitsu"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":26,"offset":0,"season":"1","start":1},{"end":48,"offset":-26,"season":"2","start":27}]}}}

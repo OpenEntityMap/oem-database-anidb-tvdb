@@ -11,13 +11,53 @@
                 "Blood: The Last Vampire"
             ]
         },
-        "a": {
+        "1": {
             "identifiers": {
                 "anidb": "3186"
             },
             "names": [
                 "Blood+"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "3186"
+            },
+            "names": [
+                "Blood+"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 13
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "3186"
+            },
+            "names": [
+                "Blood+"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 25
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "3186"
+            },
+            "names": [
+                "Blood+"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 38
+            }
         }
     }
 }

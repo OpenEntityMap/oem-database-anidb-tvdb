@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"662","tvdb":"72459"},"names":["Sonic X"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"662","tvdb":"72459"},"names":["Sonic X"],"parameters":{"default_season":"1"},"seasons":{"1":{"parameters":{"default_season":1,"episode_offset":0}},"2":{"parameters":{"default_season":1,"episode_offset":26}},"3":{"parameters":{"default_season":1,"episode_offset":52}}}}

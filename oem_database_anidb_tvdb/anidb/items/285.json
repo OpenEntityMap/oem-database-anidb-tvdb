@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"285","tvdb":"79544"},"names":["Kodomo no Omocha"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"285","tvdb":"79544"},"names":["Kodomo no Omocha"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":51,"offset":0,"season":"1","start":1},{"end":102,"offset":-51,"season":"2","start":52}]}}}

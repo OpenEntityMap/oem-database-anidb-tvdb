@@ -62,6 +62,66 @@
                 }
             }
         },
+        "1": {
+            "identifiers": {
+                "anidb": "3468"
+            },
+            "names": [
+                "Gintama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            },
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "3468"
+            },
+            "names": [
+                "Gintama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 49
+            },
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "3468"
+            },
+            "names": [
+                "Gintama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 99
+            },
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "3468"
+            },
+            "names": [
+                "Gintama"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 150
+            },
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        },
         "5": {
             "identifiers": {
                 "anidb": "8126"
@@ -85,17 +145,6 @@
             "names": [
                 "Gintama (2015)"
             ]
-        },
-        "a": {
-            "identifiers": {
-                "anidb": "3468"
-            },
-            "names": [
-                "Gintama"
-            ],
-            "supplemental": {
-                "studio": "Sunrise"
-            }
         }
     }
 }

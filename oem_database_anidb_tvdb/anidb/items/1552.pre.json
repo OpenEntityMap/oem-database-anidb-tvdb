@@ -7,6 +7,54 @@
         "Keroro Gunsou"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 51,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 103,
+                    "offset": -51,
+                    "season": "2",
+                    "start": 52
+                },
+                {
+                    "end": 154,
+                    "offset": -103,
+                    "season": "3",
+                    "start": 104
+                },
+                {
+                    "end": 205,
+                    "offset": -154,
+                    "season": "4",
+                    "start": 155
+                },
+                {
+                    "end": 256,
+                    "offset": -205,
+                    "season": "5",
+                    "start": 206
+                },
+                {
+                    "end": 307,
+                    "offset": -256,
+                    "season": "6",
+                    "start": 257
+                },
+                {
+                    "end": 358,
+                    "offset": -307,
+                    "season": "7",
+                    "start": 308
+                }
+            ]
+        }
     }
 }

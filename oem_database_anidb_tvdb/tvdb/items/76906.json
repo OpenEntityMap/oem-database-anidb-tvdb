@@ -1,1 +1,1 @@
-{"identifiers":{"tvdb":"76906"},"seasons":{"2":{"identifiers":{"anidb":"4694"},"names":["Medarot Damashii"]},"a":{"identifiers":{"anidb":"3303"},"names":["Medarot"]}}}
+{"identifiers":{"tvdb":"76906"},"seasons":{"1":{"identifiers":{"anidb":"3303"},"names":["Medarot"],"parameters":{"default_season":1,"episode_offset":0}},"2":{"episodes":{"27":{"identifiers":{"anidb":"3303"},"names":["Medarot"],"parameters":{"episode_offset":26}}},"identifiers":{"anidb":"4694"},"names":["Medarot Damashii"]}}}

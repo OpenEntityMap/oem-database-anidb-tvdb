@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"272","tvdb":"79056"},"names":["GetBackers: Dakkan'ya"],"parameters":{"default_season":"a"}}
+{"identifiers":{"anidb":"272","tvdb":"79056"},"names":["GetBackers: Dakkan'ya"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":25,"offset":0,"season":"1","start":1},{"end":49,"offset":-25,"season":"2","start":26}]}}}
