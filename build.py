@@ -1,8 +1,7 @@
 from ConfigParser import SafeConfigParser
 from argparse import ArgumentParser
 from copy import deepcopy
-from subprocess import Popen
-import argparse
+from subprocess import Popen, PIPE
 import os
 import shutil
 
@@ -54,7 +53,7 @@ def initialize_environment(fmt=None):
 
         return ignore
 
-    print(' - Copying %r to %r' % (MODULE_NAME, os.path.join(build_path, fmt_module_name)))
+    print(' - Copying package to %r' % (os.path.join(build_path, fmt_module_name)))
 
     shutil.copytree(
         MODULE_NAME,
@@ -87,20 +86,33 @@ def build(fmt, build_path):
         env['FORMAT'] = fmt
         env['FORMAT_MODULE_NAME'] = get_module_name(fmt)
 
-    # Run command for `fmt`
-    process = Popen(
-        ['python', 'setup.py', command],
-        cwd=build_path,
-        env=env
-    )
+        print('Building package (fmt: %r)...' % fmt)
+    else:
+        print('Building package...')
 
-    process.wait()
+    # Run command for `fmt`
+    with open('%s.log' % fmt, 'w') as fp:
+        process = Popen(
+            ['python', 'setup.py'] + command.split(' '),
+            stdout=fp,
+            cwd=build_path,
+            env=env
+        )
+
+        process.wait()
+
+    print(' - Copying artifacts to %r' % build_path)
 
     # Copy artifacts to root directory
     copy_artifacts_dist(build_path)
 
     # Delete build directory
-    shutil.rmtree(build_path)
+    try:
+        shutil.rmtree(build_path)
+    except Exception as ex:
+        print(' - Unable to delete build directory %r - %s' % (build_path, ex))
+
+    print(' - Done')
 
 
 def copy_artifacts_dist(build_path):

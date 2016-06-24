@@ -1,0 +1,19 @@
+language: python
+python:
+- '2.7'
+install:
+- pip install -U setuptools
+script: true
+after_success: python build.py --command="sdist bdist_wheel"
+deploy:
+  provider: releases
+  api_key:
+    secure: xPY4lfRpdguTDO/hNpfBtlDWfQczS+rpWTlBnE2GIcig9WoAv+SWOuoLU6QsuNXtqqmovxNagRK66q1UC8vuf/qKsUYX11jPwHCCshrOib14PKhhzKKQHW2ebzTS4FHlE38qz6VmRJ3ZnC5rZXtyEnJ7iqFcklWfSkAxAsVkYBs8z8fHWYAWSxzDm5OoW070L91IQBaA9PDZwwebmO2w8GDs6ciYJTX+Q0ULdB0aPeKGsdplbaVNs0KwgXa6O/3iYj40bfBU2JzUogw6qptvQzXe1xo6ekPYBpnzgnJ4cQFeBXAVRqvFKp96FFdtnuNc0ANEv0Fr0hJr/t2+1dAcEKhFNh5rcAMlNJLvFySG1zyQvouLis8xkx+6eJxyY9t1o0heM/6nTrj3KY8IJ5rkfEwqHlUCzn9s5PYgKx8hGz2Rb3xSWcLkPhn1e6qUNXcNyJuX+T3sG48cRjEIGKeR1xtwcecifE5xUZ0oLdWgEGaed3O76PTpk6zW4v3EfSUmqvSEm8NWtb4doghz/mcMeqhss77avCaLpkvHPNdk2DE4zWOLa9XoXcZXxOov6tQjxWOvL+Fbh+hPz1STzxunJr2RBEB40AGzNm0M4TBndZUS1hmYz7DIjZ1bLFBnaVJghtTwk+N5n70Sfhh4Rr3RLeeVquifOt86LameR8g/VeY=
+  skip_cleanup: true
+  file_glob: true
+  file:
+  - "dist/oem-database-anidb-tvdb-*"
+  - "dist/oem_database_anidb_tvdb-*"
+  on:
+    repo: OpenEntityMap/oem-database-anidb-tvdb
+    tags: true
