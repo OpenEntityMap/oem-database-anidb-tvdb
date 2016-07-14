@@ -19,7 +19,7 @@
         "2": {
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 18
+                "episode_offset": 14
             }
         },
         "3": {
@@ -31,7 +31,7 @@
         "4": {
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 42
+                "episode_offset": 46
             }
         }
     }

@@ -1,0 +1,39 @@
+{
+    "identifiers": {
+        "tvdb": "163721"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "2860"
+            },
+            "names": [
+                "Otogi-Juushi Akazukin"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2859"
+            },
+            "names": [
+                "Otogi-Juushi Akazukin (2006)"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "2859"
+            },
+            "names": [
+                "Otogi-Juushi Akazukin (2006)"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 24
+            }
+        }
+    }
+}

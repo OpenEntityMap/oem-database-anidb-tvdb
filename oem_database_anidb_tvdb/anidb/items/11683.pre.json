@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11683",
+        "tvdb": "304900"
+    },
+    "names": [
+        "Amanchu!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -4,6 +4,16 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "2221"
             },

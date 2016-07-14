@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12014",
+        "tvdb": "309530"
+    },
+    "names": [
+        "91 Days"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

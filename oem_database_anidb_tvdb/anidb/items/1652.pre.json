@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "1652",
-        "tvdb": "112641"
+        "tvdb": "112541"
     },
     "names": [
         "Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu!"
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "0",
+                            "number": "2",
                             "season": "0"
                         }
                     ]

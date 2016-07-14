@@ -1,12 +1,30 @@
 {
     "identifiers": {
         "anidb": "1958",
-        "tvdb": "79448"
+        "tvdb": "189841"
     },
     "names": [
         "Otogizoushi"
     ],
     "parameters": {
-        "default_season": "a"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 13,
+                    "offset": 0,
+                    "season": "1",
+                    "start": 1
+                },
+                {
+                    "end": 26,
+                    "offset": -13,
+                    "season": "2",
+                    "start": 14
+                }
+            ]
+        }
     }
 }
