@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11169",
+        "tvdb": "72745"
+    },
+    "names": [
+        "Cyborg 009 vs. Devilman"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

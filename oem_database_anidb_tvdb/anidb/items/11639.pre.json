@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11639",
+        "tvdb": "269319"
+    },
+    "names": [
+        "Fate/Kaleid Liner Prisma Illya Drei!!"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11638",
+        "tvdb": "307112"
+    },
+    "names": [
+        "Masou Gakuen HxH"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

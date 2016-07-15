@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12095",
+        "tvdb": "313533"
+    },
+    "names": [
+        "Fudanshi Koukou Seikatsu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

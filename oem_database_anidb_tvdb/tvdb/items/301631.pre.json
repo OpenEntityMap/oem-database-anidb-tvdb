@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11363",
+        "tvdb": "301631"
+    },
+    "names": [
+        "Tantei Team KZ: Jiken Note"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

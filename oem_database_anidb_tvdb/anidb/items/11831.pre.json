@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11831",
+        "tvdb": "303730"
+    },
+    "names": [
+        "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari - 2nd"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}

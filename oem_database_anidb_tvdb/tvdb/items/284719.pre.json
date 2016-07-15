@@ -3,6 +3,14 @@
         "tvdb": "284719"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11000"
+            },
+            "names": [
+                "Shinmai Maou no Testament OAD"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "10529"

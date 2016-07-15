@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11927",
+        "tvdb": "308036"
+    },
+    "names": [
+        "PazuDora Cross"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

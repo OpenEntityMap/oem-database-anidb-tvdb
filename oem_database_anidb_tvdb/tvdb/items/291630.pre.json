@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10910",
         "tvdb": "291630"
     },
-    "names": [
-        "Arslan Senki (2015)"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10910"
+            },
+            "names": [
+                "Arslan Senki (2015)"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11699"
+            },
+            "names": [
+                "Arslan Senki: Fuujin Ranbu"
+            ]
+        }
     }
 }

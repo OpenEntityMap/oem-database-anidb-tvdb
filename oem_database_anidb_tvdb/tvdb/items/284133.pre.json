@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10373",
         "tvdb": "284133"
     },
-    "names": [
-        "Shingeki no Bahamut: Genesis"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10373"
+            },
+            "names": [
+                "Shingeki no Bahamut: Genesis"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11223"
+            },
+            "names": [
+                "Shingeki no Bahamut: Virgin Soul"
+            ]
+        }
     }
 }

@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10853",
         "tvdb": "286853"
     },
-    "names": [
-        "Binan Koukou Chikyuu Bouei Bu Love!"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": [
+                    "10853",
+                    "11488"
+                ]
+            },
+            "names": {
+                "10853": [
+                    "Binan Koukou Chikyuu Bouei Bu Love!"
+                ],
+                "11488": [
+                    "Binan Koukou Chikyuu Bouei Bu Love! Love!"
+                ]
+            }
+        }
     }
 }

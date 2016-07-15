@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11846",
+        "tvdb": "310197"
+    },
+    "names": [
+        "Qualidea Code"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

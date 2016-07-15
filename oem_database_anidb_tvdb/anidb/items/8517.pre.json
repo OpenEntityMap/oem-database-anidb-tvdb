@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "8517",
+        "tvdb": "142601"
+    },
+    "names": [
+        "Kidou Senshi Gundam: The Origin"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "8"
+    }
+}

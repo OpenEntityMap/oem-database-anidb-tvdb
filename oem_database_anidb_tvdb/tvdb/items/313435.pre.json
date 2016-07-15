@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "313435"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9974"
+            },
+            "names": [
+                "Saiki Kusuo no Psi Nan"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12112"
+            },
+            "names": [
+                "Saiki Kusuo no Psi Nan (2016)"
+            ]
+        }
+    }
+}

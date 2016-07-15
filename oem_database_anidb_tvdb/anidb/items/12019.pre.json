@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12019",
+        "tvdb": "309493"
+    },
+    "names": [
+        "Cheer Danshi!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

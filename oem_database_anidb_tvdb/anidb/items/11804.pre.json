@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11804",
+        "tvdb": "313487"
+    },
+    "names": [
+        "Danganronpa 3: The End of Kibougamine Gakuen - Mirai Hen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

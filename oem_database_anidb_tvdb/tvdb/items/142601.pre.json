@@ -1,15 +1,29 @@
 {
     "identifiers": {
-        "anidb": "6517",
         "tvdb": "142601"
     },
-    "names": [
-        "Kidou Senshi Gundam Unicorn"
-    ],
-    "parameters": {
-        "default_season": "1"
-    },
-    "supplemental": {
-        "studio": "Sunrise"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8517"
+            },
+            "names": [
+                "Kidou Senshi Gundam: The Origin"
+            ],
+            "parameters": {
+                "episode_offset": "8"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "6517"
+            },
+            "names": [
+                "Kidou Senshi Gundam Unicorn"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
     }
 }

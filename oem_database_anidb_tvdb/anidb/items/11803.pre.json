@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11803",
+        "tvdb": "307375"
+    },
+    "names": [
+        "Mob Psycho 100"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,13 +1,6 @@
 {
     "identifiers": {
-        "anidb": "10538",
         "tvdb": "281275"
-    },
-    "names": [
-        "Saenai Heroine no Sodatekata"
-    ],
-    "parameters": {
-        "default_season": "1"
     },
     "seasons": {
         "0": {
@@ -19,7 +12,13 @@
                         }
                     ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "10538"
+            },
+            "names": [
+                "Saenai Heroine no Sodatekata"
+            ]
         },
         "1": {
             "episodes": {
@@ -107,7 +106,21 @@
                         }
                     ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "10538"
+            },
+            "names": [
+                "Saenai Heroine no Sodatekata"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11221"
+            },
+            "names": [
+                "Saenai Heroine no Sodatekata Flat"
+            ]
         }
     }
 }
