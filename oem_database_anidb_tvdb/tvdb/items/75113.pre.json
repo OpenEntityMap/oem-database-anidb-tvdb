@@ -121,8 +121,11 @@
                         }
                     ],
                     "names": [
-                        "Urusei Yatsura OVA"
+                        "Urusei Yatsura (1985)"
                     ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    },
                     "supplemental": {
                         "studio": "Kitty Film"
                     }
@@ -152,8 +155,11 @@
                         }
                     ],
                     "names": [
-                        "Urusei Yatsura OVA"
+                        "Urusei Yatsura (1985)"
                     ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    },
                     "supplemental": {
                         "studio": "Kitty Film"
                     }
@@ -169,8 +175,11 @@
                         }
                     ],
                     "names": [
-                        "Urusei Yatsura OVA"
+                        "Urusei Yatsura (1985)"
                     ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    },
                     "supplemental": {
                         "studio": "Kitty Film"
                     }
