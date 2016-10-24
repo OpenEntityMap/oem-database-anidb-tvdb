@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12004",
+        "tvdb": "316332"
+    },
+    "names": [
+        "Occultic;Nine"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

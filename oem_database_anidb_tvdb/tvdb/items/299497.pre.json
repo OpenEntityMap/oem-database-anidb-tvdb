@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11372",
         "tvdb": "299497"
     },
-    "names": [
-        "Kidou Senshi Gundam: Tekketsu no Orphans"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11372"
+            },
+            "names": [
+                "Kidou Senshi Gundam: Tekketsu no Orphans"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12048"
+            },
+            "names": [
+                "Kidou Senshi Gundam: Tekketsu no Orphans (2016)"
+            ]
+        }
     }
 }

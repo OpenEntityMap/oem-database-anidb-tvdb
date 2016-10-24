@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12192",
+        "tvdb": "317830"
+    },
+    "names": [
+        "Gakuen Handsome"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

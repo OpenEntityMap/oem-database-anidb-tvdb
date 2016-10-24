@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11572",
+        "tvdb": "316815"
+    },
+    "names": [
+        "Mahou Shoujo Ikusei Keikaku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

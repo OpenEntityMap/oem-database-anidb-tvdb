@@ -5,6 +5,17 @@
     "seasons": {
         "0": {
             "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "10579"
+                    },
+                    "names": [
+                        "Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne."
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "7975"

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12237",
+        "tvdb": "283930"
+    },
+    "names": [
+        "Kaitou Joker 4"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

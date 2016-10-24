@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11904",
+        "tvdb": "314287"
+    },
+    "names": [
+        "Girlish Number"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

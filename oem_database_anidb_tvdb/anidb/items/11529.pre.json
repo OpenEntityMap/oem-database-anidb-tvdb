@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11529",
+        "tvdb": "81797"
+    },
+    "names": [
+        "One Piece Film: Gold"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "34"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12394",
+        "tvdb": "245821"
+    },
+    "names": [
+        "Cardfight!! Vanguard G: Next"
+    ],
+    "parameters": {
+        "default_season": "8"
+    }
+}

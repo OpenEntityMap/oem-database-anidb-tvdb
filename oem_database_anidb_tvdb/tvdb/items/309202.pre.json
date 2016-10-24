@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11997",
+        "tvdb": "309202"
+    },
+    "names": [
+        "Fune o Amu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

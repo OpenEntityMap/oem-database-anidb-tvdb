@@ -1,12 +1,28 @@
 {
     "identifiers": {
-        "anidb": "11899",
         "tvdb": "289796"
     },
-    "names": [
-        "12-Sai. Chicchana Mune no Tokimeki"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "12198"
+                    },
+                    "names": [
+                        "12-Sai. Chicchana Mune no Tokimeki (2016)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "11899"
+            },
+            "names": [
+                "12-Sai. Chicchana Mune no Tokimeki"
+            ]
+        }
     }
 }

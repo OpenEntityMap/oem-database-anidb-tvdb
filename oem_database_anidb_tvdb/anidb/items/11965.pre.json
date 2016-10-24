@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11965",
+        "tvdb": "305075"
+    },
+    "names": [
+        "Bungou Stray Dogs (2016)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}

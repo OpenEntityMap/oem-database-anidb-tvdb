@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11606",
+        "tvdb": "306269"
+    },
+    "names": [
+        "Sangatsu no Lion"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

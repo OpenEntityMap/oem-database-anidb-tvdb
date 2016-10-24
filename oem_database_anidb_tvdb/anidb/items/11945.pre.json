@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11945",
+        "tvdb": "309201"
+    },
+    "names": [
+        "Nyanbo!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

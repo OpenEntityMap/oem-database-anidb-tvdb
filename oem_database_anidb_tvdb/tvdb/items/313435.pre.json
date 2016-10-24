@@ -5,19 +5,19 @@
     "seasons": {
         "0": {
             "identifiers": {
-                "anidb": "9974"
+                "anidb": [
+                    "12112",
+                    "9974"
+                ]
             },
-            "names": [
-                "Saiki Kusuo no Psi Nan"
-            ]
-        },
-        "1": {
-            "identifiers": {
-                "anidb": "12112"
-            },
-            "names": [
-                "Saiki Kusuo no Psi Nan (2016)"
-            ]
+            "names": {
+                "12112": [
+                    "Saiki Kusuo no Sainan (2016)"
+                ],
+                "9974": [
+                    "Saiki Kusuo no Sainan"
+                ]
+            }
         }
     }
 }

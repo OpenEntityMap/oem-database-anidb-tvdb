@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12372",
+        "tvdb": "316837"
+    },
+    "names": [
+        "Bloodivores"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

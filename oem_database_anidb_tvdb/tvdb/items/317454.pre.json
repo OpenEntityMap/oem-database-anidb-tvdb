@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12308",
+        "tvdb": "317454"
+    },
+    "names": [
+        "Cheating Craft"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

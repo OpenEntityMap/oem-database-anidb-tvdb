@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12319",
+        "tvdb": "317829"
+    },
+    "names": [
+        "Sengoku Choujuu Giga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

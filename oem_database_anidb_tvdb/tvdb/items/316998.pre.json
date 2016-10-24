@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12409",
+        "tvdb": "316998"
+    },
+    "names": [
+        "Pokemon Generations"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

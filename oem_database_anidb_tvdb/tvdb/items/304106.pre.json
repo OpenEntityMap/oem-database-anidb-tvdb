@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11761",
         "tvdb": "304106"
     },
-    "names": [
-        "Bubuki Buranki"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11761"
+            },
+            "names": [
+                "Bubuki Buranki"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12043"
+            },
+            "names": [
+                "Bubuki Buranki: Hoshi no Kyojin"
+            ]
+        }
     }
 }

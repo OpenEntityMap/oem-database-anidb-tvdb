@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12280",
+        "tvdb": "315099"
+    },
+    "names": [
+        "Nazotokine"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

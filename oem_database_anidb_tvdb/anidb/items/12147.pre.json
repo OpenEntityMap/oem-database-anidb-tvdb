@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12147",
+        "tvdb": "294002"
+    },
+    "names": [
+        "Ple Ple Pleiades"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "8"
+    }
+}

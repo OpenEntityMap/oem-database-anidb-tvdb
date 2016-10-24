@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12007",
+        "tvdb": "314286"
+    },
+    "names": [
+        "Flip Flappers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

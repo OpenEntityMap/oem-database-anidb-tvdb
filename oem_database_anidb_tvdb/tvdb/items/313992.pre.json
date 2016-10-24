@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12102",
+        "tvdb": "313992"
+    },
+    "names": [
+        "Honobono Log"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

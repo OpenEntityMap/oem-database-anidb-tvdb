@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12132",
+        "tvdb": "317566"
+    },
+    "names": [
+        "Digimon Universe: Appli Monsters"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

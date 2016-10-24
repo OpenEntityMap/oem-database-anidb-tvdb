@@ -346,7 +346,33 @@
                     },
                     "mappings": [
                         {
+                            "number": "20"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
+                },
+                "33": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
                             "number": "22"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
+                            "number": "23"
                         }
                     ],
                     "names": [
@@ -364,7 +390,10 @@
                     ],
                     "names": [
                         "One Piece: Nejimakijima no Bouken"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
                 },
                 "7": {
                     "identifiers": {
@@ -377,7 +406,10 @@
                     ],
                     "names": [
                         "One Piece: Chinjuujima no Chopper Oukoku"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "5"
+                    }
                 },
                 "8": {
                     "identifiers": {

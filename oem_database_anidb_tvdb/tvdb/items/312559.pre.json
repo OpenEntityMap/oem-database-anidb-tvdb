@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11164",
+        "tvdb": "312559"
+    },
+    "names": [
+        "Drifters"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

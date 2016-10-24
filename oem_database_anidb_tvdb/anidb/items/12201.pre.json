@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12201",
+        "tvdb": "313867"
+    },
+    "names": [
+        "Shuumatsu no Izetta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

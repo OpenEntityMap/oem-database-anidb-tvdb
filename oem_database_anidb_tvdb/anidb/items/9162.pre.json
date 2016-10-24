@@ -11,40 +11,14 @@
     },
     "seasons": {
         "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "7",
-                            "season": "0"
-                        }
-                    ]
-                },
-                "2": {
-                    "mappings": [
-                        {
-                            "number": "8",
-                            "season": "0"
-                        }
-                    ]
-                },
-                "3": {
-                    "mappings": [
-                        {
-                            "number": "9",
-                            "season": "0"
-                        }
-                    ]
-                },
-                "4": {
-                    "mappings": [
-                        {
-                            "number": "10",
-                            "season": "0"
-                        }
-                    ]
+            "mappings": [
+                {
+                    "end": 9,
+                    "offset": 6,
+                    "season": "0",
+                    "start": 1
                 }
-            }
+            ]
         }
     }
 }

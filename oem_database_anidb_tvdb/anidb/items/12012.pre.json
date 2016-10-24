@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12012",
+        "tvdb": "317004"
+    },
+    "names": [
+        "Yuuri!!! on Ice"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

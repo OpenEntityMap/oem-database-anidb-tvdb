@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11665",
+        "tvdb": "275039"
+    },
+    "names": [
+        "Bishoujo Senshi Sailor Moon Crystal Season III"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

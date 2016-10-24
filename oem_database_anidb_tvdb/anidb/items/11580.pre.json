@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11580",
+        "tvdb": "308030"
+    },
+    "names": [
+        "All Out!!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

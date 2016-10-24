@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11883",
+        "tvdb": "309203"
+    },
+    "names": [
+        "Stella no Mahou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

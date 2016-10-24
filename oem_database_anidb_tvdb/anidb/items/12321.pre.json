@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12321",
+        "tvdb": "262856"
+    },
+    "names": [
+        "Teekyuu (2016)"
+    ],
+    "parameters": {
+        "default_season": "8"
+    }
+}

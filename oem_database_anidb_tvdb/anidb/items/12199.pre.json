@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12199",
+        "tvdb": "316838"
+    },
+    "names": [
+        "Heybot!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

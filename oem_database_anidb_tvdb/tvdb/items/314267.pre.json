@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11964",
+        "tvdb": "314267"
+    },
+    "names": [
+        "Brave Witches"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

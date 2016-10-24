@@ -1,12 +1,26 @@
 {
     "identifiers": {
-        "anidb": "10816",
         "tvdb": "294002"
     },
-    "names": [
-        "Overlord"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12147"
+            },
+            "names": [
+                "Ple Ple Pleiades"
+            ],
+            "parameters": {
+                "episode_offset": "8"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10816"
+            },
+            "names": [
+                "Overlord"
+            ]
+        }
     }
 }

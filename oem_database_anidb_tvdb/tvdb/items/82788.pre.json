@@ -6,20 +6,20 @@
         "0": {
             "episodes": {
                 "2": {
+                    "identifiers": {
+                        "anidb": "9904"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "9904"
-            },
-            "names": [
-                "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
-            ]
+            }
         },
         "1": {
             "identifiers": {
@@ -51,6 +51,14 @@
             },
             "names": [
                 "Natsume Yuujinchou Shi"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "12009"
+            },
+            "names": [
+                "Natsume Yuujinchou Go"
             ]
         }
     }
