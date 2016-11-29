@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11073",
+        "tvdb": "299746"
+    },
+    "names": [
+        "Momokuri"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

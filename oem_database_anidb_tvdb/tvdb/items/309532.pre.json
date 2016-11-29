@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11736",
+        "tvdb": "309532"
+    },
+    "names": [
+        "New Game!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -31,10 +31,16 @@
                     "start": 28
                 },
                 {
-                    "end": 68,
+                    "end": 70,
                     "offset": -46,
                     "season": "4",
                     "start": 47
+                },
+                {
+                    "end": 72,
+                    "offset": -70,
+                    "season": "5",
+                    "start": 71
                 }
             ]
         }
