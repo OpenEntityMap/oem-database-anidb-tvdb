@@ -5,6 +5,17 @@
     "seasons": {
         "0": {
             "episodes": {
+                "11": {
+                    "identifiers": {
+                        "anidb": "11680"
+                    },
+                    "names": [
+                        "Accel World: Infinite Burst"
+                    ],
+                    "parameters": {
+                        "episode_offset": "10"
+                    }
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "8691"

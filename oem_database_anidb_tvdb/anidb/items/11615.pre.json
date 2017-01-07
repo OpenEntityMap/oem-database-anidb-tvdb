@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11615",
+        "tvdb": "257765"
+    },
+    "names": [
+        "Kuroko no Baske: Winter Cup Soushuuhen"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "24"
+    }
+}

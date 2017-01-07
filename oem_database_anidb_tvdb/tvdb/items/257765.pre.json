@@ -6,20 +6,31 @@
         "0": {
             "episodes": {
                 "12": {
+                    "identifiers": {
+                        "anidb": "9991"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Kuroko no Baske: Baka ja Katenai no yo!"
                     ]
+                },
+                "25": {
+                    "identifiers": {
+                        "anidb": "11615"
+                    },
+                    "names": [
+                        "Kuroko no Baske: Winter Cup Soushuuhen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "24"
+                    }
                 }
-            },
-            "identifiers": {
-                "anidb": "9991"
-            },
-            "names": [
-                "Kuroko no Baske: Baka ja Katenai no yo!"
-            ]
+            }
         },
         "1": {
             "identifiers": {

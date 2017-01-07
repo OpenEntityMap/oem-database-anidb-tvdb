@@ -1,0 +1,36 @@
+{
+    "identifiers": {
+        "tvdb": "314031"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "9": {
+                    "identifiers": {
+                        "anidb": "12291"
+                    },
+                    "names": [
+                        "Chain Chronicle (2016)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "8"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10747"
+            },
+            "names": [
+                "Chain Chronicle: Short Animation"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10971"
+            },
+            "names": [
+                "Chain Chronicle: Haecceitas no Hikari"
+            ]
+        }
+    }
+}

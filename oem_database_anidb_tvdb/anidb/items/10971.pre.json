@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10971",
+        "tvdb": "314031"
+    },
+    "names": [
+        "Chain Chronicle: Haecceitas no Hikari"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

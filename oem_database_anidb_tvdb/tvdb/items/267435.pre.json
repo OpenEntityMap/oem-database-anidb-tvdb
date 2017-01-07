@@ -4,6 +4,19 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "12077"
+                    },
+                    "names": [
+                        "Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku: Kitto, Onna no Ko wa Osatou to Spice to Suteki na Nanika de Dekite Iru."
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "9890"
             },

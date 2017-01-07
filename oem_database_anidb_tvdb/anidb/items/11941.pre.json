@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11941",
+        "tvdb": "289882"
+    },
+    "names": [
+        "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth OVA"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}
