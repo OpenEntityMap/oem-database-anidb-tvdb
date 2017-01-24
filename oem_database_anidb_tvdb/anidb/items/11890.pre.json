@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11890",
+        "tvdb": "284719"
+    },
+    "names": [
+        "Shinmai Maou no Testament Burst (2016)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -55,6 +55,20 @@
                     "names": [
                         "Toaru Kagaku no Railgun S"
                     ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "10453"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta"
+                    ]
                 }
             }
         },

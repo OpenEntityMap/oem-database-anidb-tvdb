@@ -21,6 +21,57 @@
                     "supplemental": {
                         "studio": "XEBEC"
                     }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "49"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Hina Again"
+                    ],
+                    "supplemental": {
+                        "studio": "XEBEC"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "49"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Hina Again"
+                    ],
+                    "supplemental": {
+                        "studio": "XEBEC"
+                    }
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "49"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Hina Again"
+                    ],
+                    "supplemental": {
+                        "studio": "XEBEC"
+                    }
                 }
             },
             "identifiers": {
@@ -34,22 +85,21 @@
             }
         },
         "1": {
+            "episodes": {
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "35"
             },
             "names": [
                 "Love Hina"
-            ],
-            "supplemental": {
-                "studio": "XEBEC"
-            }
-        },
-        "2": {
-            "identifiers": {
-                "anidb": "49"
-            },
-            "names": [
-                "Love Hina Again"
             ],
             "supplemental": {
                 "studio": "XEBEC"

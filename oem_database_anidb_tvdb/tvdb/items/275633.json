@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"10110","tvdb":"275633"},"names":["Mikakunin de Shinkoukei"],"parameters":{"default_season":"1"}}
+{"identifiers":{"tvdb":"275633"},"seasons":{"0":{"episodes":{"2":{"mappings":[{"number":"1","season":"1"}]}},"identifiers":{"anidb":"10572"},"names":["Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne."],"parameters":{"episode_offset":"1"}},"1":{"identifiers":{"anidb":"10110"},"names":["Mikakunin de Shinkoukei"]}}}

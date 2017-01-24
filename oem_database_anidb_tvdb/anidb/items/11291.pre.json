@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11291",
+        "tvdb": "70799"
+    },
+    "names": [
+        "Beyblade Burst"
+    ],
+    "parameters": {
+        "default_season": "8"
+    }
+}

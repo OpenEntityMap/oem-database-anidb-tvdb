@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12262",
+        "tvdb": "320002"
+    },
+    "names": [
+        "Bang Dream!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

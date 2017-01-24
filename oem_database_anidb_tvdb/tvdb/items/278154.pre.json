@@ -3,6 +3,14 @@
         "tvdb": "278154"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10939"
+            },
+            "names": [
+                "Gekijouban Sidonia no Kishi"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "9892"

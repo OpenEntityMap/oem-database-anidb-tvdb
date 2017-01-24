@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11998",
+        "tvdb": "318895"
+    },
+    "names": [
+        "Kuzu no Honkai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

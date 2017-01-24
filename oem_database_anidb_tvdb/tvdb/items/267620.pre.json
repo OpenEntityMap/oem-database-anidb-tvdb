@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "tvdb": "267620"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "9559"
+                    },
+                    "names": [
+                        "Otona Joshi no Anime Time 2"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "8208"
+            },
+            "names": [
+                "Otona Joshi no Anime Time: Kawamo o Suberu Kaze"
+            ]
+        }
+    }
+}

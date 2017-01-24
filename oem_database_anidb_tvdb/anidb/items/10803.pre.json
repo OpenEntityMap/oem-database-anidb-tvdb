@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "10803",
+        "tvdb": "257521"
+    },
+    "names": [
+        "Haiyore! Nyaruko-san F"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

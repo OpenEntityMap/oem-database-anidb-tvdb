@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "8602",
+        "tvdb": "301205"
+    },
+    "names": [
+        "Yuri Seijin Naoko-san (2012)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

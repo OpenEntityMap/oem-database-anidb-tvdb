@@ -1,12 +1,26 @@
 {
     "identifiers": {
-        "anidb": "11130",
         "tvdb": "293119"
     },
-    "names": [
-        "Monster Musume no Iru Nichijou"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11926"
+            },
+            "names": [
+                "Monster Musume no Iru Nichijou (2016)"
+            ],
+            "parameters": {
+                "episode_offset": "72"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11130"
+            },
+            "names": [
+                "Monster Musume no Iru Nichijou"
+            ]
+        }
     }
 }

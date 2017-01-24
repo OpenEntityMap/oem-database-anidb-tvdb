@@ -3,6 +3,17 @@
         "tvdb": "291630"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12113"
+            },
+            "names": [
+                "Arslan Senki (2016)"
+            ],
+            "parameters": {
+                "episode_offset": "9"
+            }
+        },
         "1": {
             "identifiers": {
                 "anidb": "10910"

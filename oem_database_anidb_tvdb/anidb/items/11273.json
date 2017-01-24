@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"11273","tvdb":"311014"},"names":["Tales of Zestiria the Cross"],"parameters":{"default_season":"1"}}
+{"identifiers":{"anidb":"11273","tvdb":"311014"},"names":["Tales of Zestiria the Cross"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"2","season":"0"}]}},"mappings":[{"end":13,"offset":-1,"season":"1","start":2}]}}}

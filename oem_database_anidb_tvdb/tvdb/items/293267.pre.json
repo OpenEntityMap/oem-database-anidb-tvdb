@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10768",
         "tvdb": "293267"
     },
-    "names": [
-        "Prison School"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": [
+                    "10768",
+                    "11805"
+                ]
+            },
+            "names": {
+                "10768": [
+                    "Prison School"
+                ],
+                "11805": [
+                    "Prison School: Mad Wax"
+                ]
+            }
+        }
     }
 }

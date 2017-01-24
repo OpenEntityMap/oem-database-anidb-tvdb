@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12411",
+        "tvdb": "319456"
+    },
+    "names": [
+        "Akiba's Trip The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

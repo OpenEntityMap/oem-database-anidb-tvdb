@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "9559",
+        "tvdb": "267620"
+    },
+    "names": [
+        "Otona Joshi no Anime Time 2"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "1"
+    }
+}

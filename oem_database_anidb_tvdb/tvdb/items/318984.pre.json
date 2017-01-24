@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12290",
+        "tvdb": "318984"
+    },
+    "names": [
+        "Gabriel Dropout"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

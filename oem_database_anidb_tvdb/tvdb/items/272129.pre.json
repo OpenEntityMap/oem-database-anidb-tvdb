@@ -4,15 +4,25 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "12121"
+                    },
+                    "names": [
+                        "Strike the Blood II"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
             "identifiers": {
-                "anidb": "12121"
+                "anidb": "11136"
             },
             "names": [
-                "Strike the Blood II"
-            ],
-            "parameters": {
-                "episode_offset": "2"
-            }
+                "Strike the Blood: Valkyria no Oukoku Hen"
+            ]
         },
         "1": {
             "identifiers": {

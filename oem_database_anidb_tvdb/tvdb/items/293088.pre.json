@@ -4,6 +4,86 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "11123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "11123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "11123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "11123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "11123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "11123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "11637"
             },

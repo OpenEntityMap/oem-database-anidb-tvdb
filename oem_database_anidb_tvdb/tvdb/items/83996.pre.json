@@ -18,6 +18,20 @@
                         "Kuroshitsuji"
                     ]
                 },
+                "10": {
+                    "identifiers": {
+                        "anidb": "11696"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kuroshitsuji: Book of the Atlantic"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "7369"

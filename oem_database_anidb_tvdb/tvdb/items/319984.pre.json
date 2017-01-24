@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11985",
+        "tvdb": "319984"
+    },
+    "names": [
+        "Urara Meirochou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

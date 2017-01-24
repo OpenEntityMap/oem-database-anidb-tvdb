@@ -1,13 +1,14 @@
 {
     "identifiers": {
         "anidb": "9971",
-        "tvdb": "259863"
+        "tvdb": "318161"
     },
     "names": [
         "Little Witch Academia: The Enchanted Parade"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "1"
     },
     "seasons": {
         "0": {

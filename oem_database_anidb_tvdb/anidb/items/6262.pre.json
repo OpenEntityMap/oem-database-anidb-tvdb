@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "6262",
+        "tvdb": "260851"
+    },
+    "names": [
+        "Touhou Niji Sousaku Doujin Anime: Musou Kakyou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "MaiKaze"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11970",
+        "tvdb": "319455"
+    },
+    "names": [
+        "Eldlive"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

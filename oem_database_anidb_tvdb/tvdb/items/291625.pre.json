@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10818",
         "tvdb": "291625"
     },
-    "names": [
-        "Triage X"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11121"
+            },
+            "names": [
+                "Triage X: Recollection XOXO"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10818"
+            },
+            "names": [
+                "Triage X"
+            ]
+        }
     }
 }

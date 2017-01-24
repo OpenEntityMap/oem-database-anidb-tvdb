@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12374",
+        "tvdb": "316931"
+    },
+    "names": [
+        "Demi-chan wa Kataritai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

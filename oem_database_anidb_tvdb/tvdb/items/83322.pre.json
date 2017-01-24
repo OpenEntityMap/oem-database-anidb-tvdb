@@ -12,6 +12,13 @@
                             "season": "1"
                         }
                     ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
                 }
             },
             "identifiers": {

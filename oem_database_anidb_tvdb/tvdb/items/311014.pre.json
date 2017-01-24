@@ -1,12 +1,60 @@
 {
     "identifiers": {
-        "anidb": "11273",
         "tvdb": "311014"
     },
-    "names": [
-        "Tales of Zestiria the Cross"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "11273"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tales of Zestiria the Cross"
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10666"
+            },
+            "names": [
+                "Tales of Zestiria: Doushi no Yoake"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "12256"
+                    },
+                    "names": [
+                        "Tales of Zestiria the Cross (2017)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "identifiers": {
+                        "anidb": "11273"
+                    },
+                    "names": [
+                        "Tales of Zestiria the Cross"
+                    ],
+                    "offset": 1,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
     }
 }

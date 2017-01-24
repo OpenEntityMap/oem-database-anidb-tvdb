@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "4812",
-        "tvdb": "75869"
+        "tvdb": "305488"
     },
     "names": [
         "Negima!? Natsu Special!?"
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "6",
+                            "number": "2",
                             "season": "0"
                         }
                     ]

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11166",
+        "tvdb": "320459"
+    },
+    "names": [
+        "Chaos;Child"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

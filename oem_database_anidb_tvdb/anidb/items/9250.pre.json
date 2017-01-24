@@ -1,22 +1,21 @@
 {
     "identifiers": {
         "anidb": "9250",
-        "tvdb": "259863"
+        "tvdb": "318161"
     },
     "names": [
         "Little Witch Academia"
     ],
     "parameters": {
-        "default_season": "3"
+        "default_season": "0"
     },
     "seasons": {
-        "1": {
+        "0": {
             "episodes": {
                 "1": {
                     "mappings": [
                         {
-                            "number": "3",
-                            "season": "3"
+                            "number": "0"
                         }
                     ]
                 }

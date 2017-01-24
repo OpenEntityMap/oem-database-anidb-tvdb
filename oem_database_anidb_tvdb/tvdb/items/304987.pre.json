@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11253",
         "tvdb": "304987"
     },
-    "names": [
-        "Bakuon!!"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11720"
+            },
+            "names": [
+                "Bakuon!! OAD"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11253"
+            },
+            "names": [
+                "Bakuon!!"
+            ]
+        }
     }
 }

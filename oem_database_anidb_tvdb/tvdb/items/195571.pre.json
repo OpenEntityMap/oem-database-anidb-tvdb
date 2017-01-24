@@ -17,6 +17,30 @@
                     "names": [
                         "Tamayura: Hitotose"
                     ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "9107"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tamayura: More Aggressive"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "10767"
+                    },
+                    "names": [
+                        "Tamayura: Sotsugyou Shashin"
+                    ],
+                    "parameters": {
+                        "episode_offset": "6"
+                    }
                 }
             },
             "identifiers": {

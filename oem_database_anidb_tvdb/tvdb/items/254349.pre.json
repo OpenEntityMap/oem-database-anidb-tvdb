@@ -4,6 +4,21 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "8556"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Another"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "8625"
             },

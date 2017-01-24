@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11204",
+        "tvdb": "321690"
+    },
+    "names": [
+        "Dies Irae"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

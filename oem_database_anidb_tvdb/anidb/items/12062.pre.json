@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12062",
+        "tvdb": "304316"
+    },
+    "names": [
+        "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi Hen"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

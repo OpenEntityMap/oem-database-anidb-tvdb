@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12656",
+        "tvdb": "321503"
+    },
+    "names": [
+        "Spirit Pact"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

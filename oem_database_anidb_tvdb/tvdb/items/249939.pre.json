@@ -1,15 +1,26 @@
 {
     "identifiers": {
-        "anidb": "8205",
         "tvdb": "249939"
     },
-    "names": [
-        "Sacred Seven"
-    ],
-    "parameters": {
-        "default_season": "1"
-    },
-    "supplemental": {
-        "studio": "Sunrise"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "8760"
+            },
+            "names": [
+                "Sacred Seven: Shirogane no Tsubasa"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "8205"
+            },
+            "names": [
+                "Sacred Seven"
+            ],
+            "supplemental": {
+                "studio": "Sunrise"
+            }
+        }
     }
 }

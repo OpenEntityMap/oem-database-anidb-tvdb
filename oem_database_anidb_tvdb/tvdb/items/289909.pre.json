@@ -3,6 +3,17 @@
         "tvdb": "289909"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11664"
+            },
+            "names": [
+                "Shokugeki no Souma OAD"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
         "1": {
             "identifiers": {
                 "anidb": "10901"

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10849",
+        "tvdb": "87841"
+    },
+    "names": [
+        "Saki Biyori Animation"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "8"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12223",
+        "tvdb": "320001"
+    },
+    "names": [
+        "Piace: Watashi no Italian"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

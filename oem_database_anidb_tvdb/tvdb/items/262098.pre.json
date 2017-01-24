@@ -268,20 +268,6 @@
                         "Girls und Panzer"
                     ]
                 },
-                "32": {
-                    "identifiers": {
-                        "anidb": "10008"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Girls und Panzer Gekijouban"
-                    ]
-                },
                 "33": {
                     "identifiers": {
                         "anidb": "9227"
@@ -295,17 +281,62 @@
                         "Girls und Panzer"
                     ]
                 },
-                "34": {
+                "34": [
+                    {
+                        "identifiers": {
+                            "anidb": "9227"
+                        },
+                        "mappings": [
+                            {
+                                "number": "17"
+                            }
+                        ],
+                        "names": [
+                            "Girls und Panzer"
+                        ],
+                        "number": "34"
+                    },
+                    {
+                        "identifiers": {
+                            "anidb": "10009"
+                        },
+                        "mappings": [
+                            {
+                                "number": "1",
+                                "season": "1"
+                            }
+                        ],
+                        "names": [
+                            "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"
+                        ],
+                        "number": "34"
+                    }
+                ],
+                "35": {
                     "identifiers": {
-                        "anidb": "9227"
+                        "anidb": "10009"
                     },
                     "mappings": [
                         {
-                            "number": "17"
+                            "number": "1"
                         }
                     ],
                     "names": [
-                        "Girls und Panzer"
+                        "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"
+                    ]
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "10008"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer Gekijouban"
                     ]
                 },
                 "4": {

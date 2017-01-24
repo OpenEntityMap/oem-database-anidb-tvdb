@@ -3,6 +3,32 @@
         "tvdb": "250022"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "10528"
+                    },
+                    "names": [
+                        "Yuru Yuri Nachuyachumi!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "11276"
+                    },
+                    "names": [
+                        "Yuru Yuri Nachuyachumi!+"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            }
+        },
         "1": {
             "identifiers": {
                 "anidb": "8353"

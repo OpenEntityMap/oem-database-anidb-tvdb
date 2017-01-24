@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"10198","tvdb":"82484"},"names":["Strike Witches: Operation Victory Arrow"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"3","season":"4"}]},"2":{"mappings":[{"number":"4","season":"4"}]},"3":{"mappings":[{"number":"5","season":"4"}]}}}}}
+{"identifiers":{"anidb":"10198","tvdb":"82484"},"names":["Strike Witches: Operation Victory Arrow"],"parameters":{"default_season":"0","episode_offset":"2"}}

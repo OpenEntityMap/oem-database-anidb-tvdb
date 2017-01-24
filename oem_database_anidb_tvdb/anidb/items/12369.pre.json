@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12369",
+        "tvdb": "319999"
+    },
+    "names": [
+        "Onihei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

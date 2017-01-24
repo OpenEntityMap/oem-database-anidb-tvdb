@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11857",
+        "tvdb": "321627"
+    },
+    "names": [
+        "Clockwork Planet"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

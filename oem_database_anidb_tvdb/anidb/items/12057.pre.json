@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12057",
+        "tvdb": "319997"
+    },
+    "names": [
+        "Kemono Friends"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

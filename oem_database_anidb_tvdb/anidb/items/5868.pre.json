@@ -1,12 +1,42 @@
 {
     "identifiers": {
         "anidb": "5868",
-        "tvdb": "75869"
+        "tvdb": "305488"
     },
     "names": [
         "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba"
     ],
     "parameters": {
-        "default_season": "3"
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

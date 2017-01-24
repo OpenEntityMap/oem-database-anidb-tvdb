@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12502",
+        "tvdb": "319998"
+    },
+    "names": [
+        "Schoolgirl Strikers: Animation Channel"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

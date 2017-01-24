@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11905",
+        "tvdb": "315500"
+    },
+    "names": [
+        "Youjo Senki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
