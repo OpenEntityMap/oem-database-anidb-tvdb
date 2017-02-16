@@ -3,6 +3,22 @@
         "tvdb": "219701"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9789"
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": -6,
+                    "season": "0",
+                    "start": 7
+                }
+            ],
+            "names": [
+                "Freezing Vibration"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "7900"

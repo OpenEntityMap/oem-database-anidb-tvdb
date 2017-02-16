@@ -7,10 +7,10 @@
             "episodes": {
                 "2": {
                     "identifiers": {
-                        "anidb": "884"
+                        "anidb": "1623"
                     },
                     "names": [
-                        "Seikai no Senki Tokubetsu Hen"
+                        "Seikai no Monshou Tokubetsu Hen"
                     ],
                     "parameters": {
                         "episode_offset": "1"
@@ -18,13 +18,32 @@
                 },
                 "3": {
                     "identifiers": {
-                        "anidb": "1623"
+                        "anidb": "884"
                     },
                     "names": [
-                        "Seikai no Monshou Tokubetsu Hen"
+                        "Seikai no Senki Tokubetsu Hen"
                     ],
                     "parameters": {
                         "episode_offset": "2"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "2673"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Seikai no Senki III"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    },
+                    "supplemental": {
+                        "studio": "Sunrise"
                     }
                 }
             },
@@ -66,17 +85,6 @@
             },
             "names": [
                 "Seikai no Senki II"
-            ],
-            "supplemental": {
-                "studio": "Sunrise"
-            }
-        },
-        "4": {
-            "identifiers": {
-                "anidb": "2673"
-            },
-            "names": [
-                "Seikai no Senki III"
             ],
             "supplemental": {
                 "studio": "Sunrise"

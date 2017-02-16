@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"931","tvdb":"80054"},"names":["Taiho Shichau zo Special"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"21":{"mappings":[{"number":"52"}]}}}}}
+{"identifiers":{"anidb":"931","tvdb":"80054"},"names":["Taiho Shichau zo Special"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"12"}]},"2":{"mappings":[{"number":"21"}]}}},"1":{"mappings":[{"end":19,"offset":1,"season":"1","start":12}]}}}

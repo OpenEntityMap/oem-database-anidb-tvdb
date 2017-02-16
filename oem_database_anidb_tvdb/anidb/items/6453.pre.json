@@ -1,12 +1,26 @@
 {
     "identifiers": {
         "anidb": "6453",
-        "tvdb": "250321"
+        "tvdb": "250317"
     },
     "names": [
         "Eiga Yes! Precure 5 Go Go! Okashi no Kuni no Happy Birthday"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

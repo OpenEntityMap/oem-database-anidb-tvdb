@@ -15,32 +15,49 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "5"
                         }
                     ]
                 },
                 "2": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "6"
                         }
                     ]
                 },
                 "3": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "7"
                         }
                     ]
                 },
                 "4": {
                     "mappings": [
                         {
-                            "number": "5"
+                            "number": "9"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "10"
                         }
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 48,
+                    "offset": -24,
+                    "season": "4",
+                    "start": 25
+                }
+            ]
         }
     }
 }

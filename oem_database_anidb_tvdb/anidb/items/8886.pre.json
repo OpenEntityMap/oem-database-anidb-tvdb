@@ -8,5 +8,32 @@
     ],
     "parameters": {
         "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

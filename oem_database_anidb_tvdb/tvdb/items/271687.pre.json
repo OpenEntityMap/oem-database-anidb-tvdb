@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "9888",
         "tvdb": "271687"
     },
-    "names": [
-        "Toaru Hikuushi e no Koiuta"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "7478"
+            },
+            "names": [
+                "Toaru Hikuushi e no Tsuioku"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9888"
+            },
+            "names": [
+                "Toaru Hikuushi e no Koiuta"
+            ]
+        }
     }
 }

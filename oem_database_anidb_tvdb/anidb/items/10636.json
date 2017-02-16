@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"10636","tvdb":"245451"},"names":["Appleseed Alpha"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"0","season":"0"}]}}}}}
+{"identifiers":{"anidb":"10636","tvdb":"245451"},"names":["Appleseed Alpha"],"parameters":{"default_season":"0","episode_offset":"5"}}

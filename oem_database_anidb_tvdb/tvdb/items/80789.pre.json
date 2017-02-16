@@ -27,6 +27,22 @@
                         "WXIII: Patlabor the Movie 3"
                     ]
                 },
+                "14": {
+                    "identifiers": {
+                        "anidb": "770"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "MiniPato"
+                    ],
+                    "parameters": {
+                        "episode_offset": "10"
+                    }
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "777"

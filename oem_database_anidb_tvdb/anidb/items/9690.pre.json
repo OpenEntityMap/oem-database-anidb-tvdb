@@ -7,6 +7,7 @@
         "Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "1"
     }
 }

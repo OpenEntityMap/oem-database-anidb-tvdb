@@ -4,6 +4,21 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "4": {
+                    "identifiers": {
+                        "anidb": "9992"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kyousougiga (2013)"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "8300"
             },

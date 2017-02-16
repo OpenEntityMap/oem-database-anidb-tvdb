@@ -7,20 +7,7 @@
         "RahXephon Kansoukyoku: Kanojo to Kanojo Jishin to - Thatness and Thereness"
     ],
     "parameters": {
-        "default_season": "0"
-    },
-    "seasons": {
-        "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "0",
-                            "season": "0"
-                        }
-                    ]
-                }
-            }
-        }
+        "default_season": "0",
+        "episode_offset": "1"
     }
 }

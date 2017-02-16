@@ -11,7 +11,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "9"
+                            "number": "4"
                         }
                     ],
                     "names": [
@@ -37,7 +37,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "11"
+                            "number": "25"
                         }
                     ],
                     "names": [
@@ -50,7 +50,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "12"
+                            "number": "28"
                         }
                     ],
                     "names": [
@@ -63,7 +63,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "13"
+                            "number": "31"
                         }
                     ],
                     "names": [
@@ -76,7 +76,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "14"
+                            "number": "5"
                         }
                     ],
                     "names": [
@@ -89,10 +89,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "15"
-                        },
-                        {
-                            "number": "16"
+                            "number": "11"
                         }
                     ],
                     "names": [
@@ -105,7 +102,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "21"
+                            "number": "18"
                         }
                     ],
                     "names": [
@@ -118,7 +115,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "24"
+                            "number": "22"
                         }
                     ],
                     "names": [
@@ -131,7 +128,20 @@
                     },
                     "mappings": [
                         {
-                            "number": "27"
+                            "number": "26"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
                         }
                     ],
                     "names": [
@@ -144,7 +154,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "30"
+                            "number": "6"
                         }
                     ],
                     "names": [
@@ -157,7 +167,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "22"
+                            "number": "12"
                         }
                     ],
                     "names": [
@@ -170,7 +180,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "25"
+                            "number": "19"
                         }
                     ],
                     "names": [
@@ -183,7 +193,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "19"
+                            "number": "32"
                         }
                     ],
                     "names": [
@@ -196,7 +206,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "31"
+                            "number": "7"
                         }
                     ],
                     "names": [
@@ -209,7 +219,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "20"
+                            "number": "13"
                         }
                     ],
                     "names": [
@@ -222,7 +232,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "28"
+                            "number": "20"
                         }
                     ],
                     "names": [
@@ -235,7 +245,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "23"
+                            "number": "29"
                         }
                     ],
                     "names": [
@@ -248,7 +258,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "26"
+                            "number": "8"
                         }
                     ],
                     "names": [
@@ -261,7 +271,59 @@
                     },
                     "mappings": [
                         {
-                            "number": "18"
+                            "number": "14"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "30": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "34"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "31": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "35"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "32": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "23"
                         }
                     ],
                     "names": [
@@ -281,37 +343,20 @@
                         "Girls und Panzer"
                     ]
                 },
-                "34": [
-                    {
-                        "identifiers": {
-                            "anidb": "9227"
-                        },
-                        "mappings": [
-                            {
-                                "number": "17"
-                            }
-                        ],
-                        "names": [
-                            "Girls und Panzer"
-                        ],
-                        "number": "34"
+                "34": {
+                    "identifiers": {
+                        "anidb": "10009"
                     },
-                    {
-                        "identifiers": {
-                            "anidb": "10009"
-                        },
-                        "mappings": [
-                            {
-                                "number": "1",
-                                "season": "1"
-                            }
-                        ],
-                        "names": [
-                            "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"
-                        ],
-                        "number": "34"
-                    }
-                ],
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"
+                    ]
+                },
                 "35": {
                     "identifiers": {
                         "anidb": "10009"
@@ -323,6 +368,19 @@
                     ],
                     "names": [
                         "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"
+                    ]
+                },
+                "36": {
+                    "identifiers": {
+                        "anidb": "10008"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer Gekijouban"
                     ]
                 },
                 "37": {
@@ -339,13 +397,26 @@
                         "Girls und Panzer Gekijouban"
                     ]
                 },
+                "38": {
+                    "identifiers": {
+                        "anidb": "10008"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer Gekijouban"
+                    ]
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "9227"
                     },
                     "mappings": [
                         {
-                            "number": "3"
+                            "number": "24"
                         }
                     ],
                     "names": [
@@ -358,7 +429,33 @@
                     },
                     "mappings": [
                         {
-                            "number": "4"
+                            "number": "30"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "501": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer"
+                    ]
+                },
+                "502": {
+                    "identifiers": {
+                        "anidb": "9227"
+                    },
+                    "mappings": [
+                        {
+                            "number": "16"
                         }
                     ],
                     "names": [
@@ -371,7 +468,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "5"
+                            "number": "21"
                         }
                     ],
                     "names": [
@@ -384,20 +481,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "6"
-                        }
-                    ],
-                    "names": [
-                        "Girls und Panzer"
-                    ]
-                },
-                "8": {
-                    "identifiers": {
-                        "anidb": "9227"
-                    },
-                    "mappings": [
-                        {
-                            "number": "7"
+                            "number": "17"
                         }
                     ],
                     "names": [
@@ -410,7 +494,10 @@
                     },
                     "mappings": [
                         {
-                            "number": "8"
+                            "number": "2"
+                        },
+                        {
+                            "number": "27"
                         }
                     ],
                     "names": [

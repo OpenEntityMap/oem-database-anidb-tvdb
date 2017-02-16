@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1216",
+        "tvdb": "157211"
+    },
+    "names": [
+        "Kidou Senshi SD Gundam no Gyakushuu: SD Sengokuden - Abaowakuujou no Shou"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "23"
+    }
+}

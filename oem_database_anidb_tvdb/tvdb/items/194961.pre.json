@@ -5,94 +5,35 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
-                    "identifiers": {
-                        "anidb": "7525"
-                    },
-                    "mappings": [
-                        {
-                            "number": "16"
-                        }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
-                    ],
-                    "supplemental": {
-                        "studio": "AIC Build"
-                    }
-                },
-                "2": {
-                    "identifiers": {
-                        "anidb": "7525"
-                    },
-                    "mappings": [
-                        {
-                            "number": "17"
-                        }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
-                    ],
-                    "supplemental": {
-                        "studio": "AIC Build"
-                    }
-                },
                 "22": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "4"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
                 },
                 "23": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "5"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
                 },
                 "27": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "6"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
                 },
                 "28": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "7"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
                 },
                 "29": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "8"
@@ -103,31 +44,9 @@
                         {
                             "number": "10"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
                 },
-                "3": {
-                    "identifiers": {
-                        "anidb": "7525"
-                    },
-                    "mappings": [
-                        {
-                            "number": "18"
-                        }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
-                    ],
-                    "supplemental": {
-                        "studio": "AIC Build"
-                    }
-                },
                 "31": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "11"
@@ -135,41 +54,22 @@
                         {
                             "number": "12"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
                 },
                 "33": {
-                    "identifiers": {
-                        "anidb": "9134"
-                    },
                     "mappings": [
                         {
                             "number": "15"
                         }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
                     ]
-                },
-                "4": {
-                    "identifiers": {
-                        "anidb": "7525"
-                    },
-                    "mappings": [
-                        {
-                            "number": "19"
-                        }
-                    ],
-                    "names": [
-                        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
-                    ],
-                    "supplemental": {
-                        "studio": "AIC Build"
-                    }
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "9134"
+            },
+            "names": [
+                "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
+            ]
         },
         "1": {
             "identifiers": {

@@ -4,6 +4,19 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "9231"
+                    },
+                    "names": [
+                        "Tantei Opera Milky Holmes: Alternative"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "8615"
             },

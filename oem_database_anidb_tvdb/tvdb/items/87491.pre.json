@@ -170,8 +170,113 @@
                     "names": [
                         "Vanquished Queens"
                     ]
+                },
+                "31": {
+                    "identifiers": {
+                        "anidb": "9513"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Vanquished Queens"
+                    ]
+                },
+                "32": {
+                    "identifiers": {
+                        "anidb": "9513"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Vanquished Queens"
+                    ]
+                },
+                "33": {
+                    "identifiers": {
+                        "anidb": "9513"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Vanquished Queens"
+                    ]
+                },
+                "34": {
+                    "identifiers": {
+                        "anidb": "9513"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Vanquished Queens"
+                    ]
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "9513"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Vanquished Queens"
+                    ]
+                },
+                "36": {
+                    "identifiers": {
+                        "anidb": "9513"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Vanquished Queens"
+                    ]
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "11257"
+                    },
+                    "names": [
+                        "Queen's Blade: Grimoire"
+                    ],
+                    "parameters": {
+                        "episode_offset": "36"
+                    }
                 }
-            }
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "identifiers": {
+                        "anidb": "6653"
+                    },
+                    "names": [
+                        "Queen's Blade: Gyokuza o Tsugu Mono"
+                    ],
+                    "offset": -6,
+                    "season": "0",
+                    "start": 7
+                }
+            ]
         },
         "1": {
             "identifiers": {

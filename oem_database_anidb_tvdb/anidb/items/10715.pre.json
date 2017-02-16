@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10715",
+        "tvdb": "272317"
+    },
+    "names": [
+        "Gekijouban Aoki Hagane no Arpeggio"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "24"
+    }
+}

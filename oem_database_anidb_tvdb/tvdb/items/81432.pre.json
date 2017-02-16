@@ -4,15 +4,27 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "4": {
+                    "identifiers": {
+                        "anidb": "459"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Maze Bakunetsu Jikuu (1997)"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "602"
             },
             "names": [
                 "Maze Bakunetsu Jikuu"
-            ],
-            "parameters": {
-                "episode_offset": "1"
-            }
+            ]
         },
         "1": {
             "identifiers": {

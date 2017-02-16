@@ -46,6 +46,20 @@
                     "names": [
                         "Kidou Senshi Gundam SEED Destiny: Jiyuu no Daishou"
                     ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "4170"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai"
+                    ]
                 }
             },
             "identifiers": {

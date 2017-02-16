@@ -7,21 +7,8 @@
         "High School DxD OAD"
     ],
     "parameters": {
-        "default_season": "0"
-    },
-    "seasons": {
-        "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "8",
-                            "season": "0"
-                        }
-                    ]
-                }
-            }
-        }
+        "default_season": "0",
+        "episode_offset": "7"
     },
     "supplemental": {
         "studio": "TNK"

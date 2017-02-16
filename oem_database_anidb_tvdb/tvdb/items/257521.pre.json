@@ -5,21 +5,34 @@
     "seasons": {
         "0": {
             "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "9459"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Haiyore! Nyaruko-san W"
+                    ]
+                },
                 "3": {
+                    "identifiers": {
+                        "anidb": "10803"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Haiyore! Nyaruko-san F"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "10803"
-            },
-            "names": [
-                "Haiyore! Nyaruko-san F"
-            ]
+            }
         },
         "1": {
             "identifiers": {

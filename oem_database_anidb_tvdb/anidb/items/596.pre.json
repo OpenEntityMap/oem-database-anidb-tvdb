@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "596",
+        "tvdb": "157211"
+    },
+    "names": [
+        "Kidou Senshi SD Gundam"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

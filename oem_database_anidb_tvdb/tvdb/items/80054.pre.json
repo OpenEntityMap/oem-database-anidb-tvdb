@@ -5,6 +5,43 @@
     "seasons": {
         "0": {
             "episodes": {
+                "12": {
+                    "identifiers": {
+                        "anidb": "931"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Taiho Shichau zo Special"
+                    ]
+                },
+                "21": {
+                    "identifiers": {
+                        "anidb": "931"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Taiho Shichau zo Special"
+                    ]
+                },
+                "22": {
+                    "identifiers": {
+                        "anidb": "536"
+                    },
+                    "names": [
+                        "You're Under Arrest: No Mercy!!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "21"
+                    }
+                },
                 "23": {
                     "identifiers": {
                         "anidb": "993"
@@ -35,9 +72,14 @@
                             "season": "1"
                         }
                     ],
-                    "names": [
-                        "Taiho Shichau zo The Movie"
-                    ]
+                    "names": {
+                        "5234": [
+                            "Taiho Shichau zo: Full Throttle"
+                        ],
+                        "993": [
+                            "Taiho Shichau zo The Movie"
+                        ]
+                    }
                 },
                 "24": {
                     "identifiers": {
@@ -45,48 +87,19 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
+                            "number": "1"
                         }
                     ],
                     "names": [
                         "Taiho Shichau zo: Full Throttle"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": [
-                    "536",
-                    "931"
-                ]
-            },
-            "names": {
-                "536": [
-                    "You're Under Arrest: No Mercy!!"
-                ],
-                "931": [
-                    "Taiho Shichau zo Special"
-                ]
             }
         },
         "1": {
-            "episodes": {
-                "52": {
-                    "identifiers": {
-                        "anidb": "931"
-                    },
-                    "mappings": [
-                        {
-                            "number": "21"
-                        }
-                    ],
-                    "names": [
-                        "Taiho Shichau zo Special"
-                    ]
-                }
-            },
             "identifiers": {
                 "anidb": [
+                    "931",
                     "438",
                     "2690"
                 ]
@@ -97,6 +110,9 @@
                 ],
                 "438": [
                     "Taiho Shichau zo: You're Under Arrest (1996)"
+                ],
+                "931": [
+                    "Taiho Shichau zo Special"
                 ]
             }
         },

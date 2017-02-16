@@ -1,26 +1,13 @@
 {
     "identifiers": {
         "anidb": "6433",
-        "tvdb": "200791"
+        "tvdb": "250317"
     },
     "names": [
         "Eiga Precure All Stars DX: Minna Tomodachi - Kiseki no Zen'in Daishuugou!"
     ],
     "parameters": {
-        "default_season": "0"
-    },
-    "seasons": {
-        "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "0",
-                            "season": "0"
-                        }
-                    ]
-                }
-            }
-        }
+        "default_season": "0",
+        "episode_offset": "3"
     }
 }

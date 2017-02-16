@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "191",
         "tvdb": "79071"
     },
-    "names": [
-        "GTO"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4841"
+            },
+            "names": [
+                "Shounan Jun'ai-gumi!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "191"
+            },
+            "names": [
+                "GTO"
+            ]
+        }
     }
 }

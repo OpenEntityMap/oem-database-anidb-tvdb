@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"2118","tvdb":"74544"},"names":["Happy Lesson The Final"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"8"}]},"2":{"mappings":[{"number":"9"}]},"3":{"mappings":[{"number":"10"}]}}}}}
+{"identifiers":{"anidb":"2118","tvdb":"74544"},"names":["Happy Lesson The Final"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"8","season":"0"}]},"2":{"mappings":[{"number":"9","season":"0"}]},"3":{"mappings":[{"number":"10","season":"0"}]}}}}}

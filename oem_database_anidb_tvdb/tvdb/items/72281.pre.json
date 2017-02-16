@@ -4,6 +4,30 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "7387"
+                    },
+                    "names": [
+                        "Black Jack: Sora kara Kita Kodomo"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "3119"
+                    },
+                    "names": [
+                        "Black Jack: Heian Sento"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "686"
             },

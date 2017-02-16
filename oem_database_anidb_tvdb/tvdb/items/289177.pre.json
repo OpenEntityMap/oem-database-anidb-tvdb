@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10905",
         "tvdb": "289177"
     },
-    "names": [
-        "Death Parade"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "9253"
+            },
+            "names": [
+                "Death Billiards"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10905"
+            },
+            "names": [
+                "Death Parade"
+            ]
+        }
     }
 }

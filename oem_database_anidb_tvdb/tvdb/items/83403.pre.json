@@ -1,12 +1,26 @@
 {
     "identifiers": {
-        "anidb": "2410",
         "tvdb": "83403"
     },
-    "names": [
-        "Space Symphony Maetel: Ginga Tetsudou 999 Gaiden"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1534"
+            },
+            "names": [
+                "Maetel Legend"
+            ],
+            "parameters": {
+                "episode_offset": "2"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "2410"
+            },
+            "names": [
+                "Space Symphony Maetel: Ginga Tetsudou 999 Gaiden"
+            ]
+        }
     }
 }

@@ -10,6 +10,18 @@
         "default_season": "2"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "2"
+                        }
+                    ]
+                }
+            }
+        },
         "1": {
             "episodes": {
                 "1": {

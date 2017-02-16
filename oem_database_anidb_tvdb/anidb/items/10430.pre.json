@@ -7,6 +7,7 @@
         "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "1"
     }
 }

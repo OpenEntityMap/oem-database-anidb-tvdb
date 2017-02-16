@@ -1,0 +1,33 @@
+{
+    "identifiers": {
+        "anidb": "3341",
+        "tvdb": "157211"
+    },
+    "names": [
+        "Kidou Senshi SD Gundam Mk-V"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "15"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

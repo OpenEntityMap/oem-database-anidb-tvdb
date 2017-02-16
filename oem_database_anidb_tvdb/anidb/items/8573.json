@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"8573","tvdb":"172921"},"names":["Amagami SS Plus"],"parameters":{"default_season":"2"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"8"}]},"2":{"mappings":[{"number":"9"}]},"3":{"mappings":[{"number":"10"}]},"4":{"mappings":[{"number":"11"}]},"5":{"mappings":[{"number":"12"}]},"6":{"mappings":[{"number":"13"}]}}}}}
+{"identifiers":{"anidb":"8573","tvdb":"172921"},"names":["Amagami SS Plus"],"parameters":{"default_season":"2"},"seasons":{"0":{"mappings":[{"end":8,"offset":7,"season":"0","start":1}]}}}

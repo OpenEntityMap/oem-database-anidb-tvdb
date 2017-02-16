@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "4594",
         "tvdb": "130391"
     },
-    "names": [
-        "Happiness!"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11795"
+            },
+            "names": [
+                "Happiness! De:Lucks: Watarase Jun no Karei Naru Ichinichi"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "4594"
+            },
+            "names": [
+                "Happiness!"
+            ]
+        }
     }
 }

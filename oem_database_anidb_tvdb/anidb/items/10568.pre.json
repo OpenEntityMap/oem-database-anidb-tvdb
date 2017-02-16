@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10568",
+        "tvdb": "264663"
+    },
+    "names": [
+        "Date a Live II: Kurumi Star Festival"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

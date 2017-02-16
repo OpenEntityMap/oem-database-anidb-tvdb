@@ -5,7 +5,7 @@
     "seasons": {
         "0": {
             "episodes": {
-                "10": {
+                "2": {
                     "identifiers": {
                         "anidb": "9754"
                     },
@@ -47,23 +47,23 @@
             },
             "names": [
                 "Uchuu Kyoudai"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            }
+            ]
         },
         "2": {
             "identifiers": {
                 "anidb": "8865"
             },
+            "mappings": [
+                {
+                    "end": 48,
+                    "offset": 51,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Uchuu Kyoudai"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 51
-            }
+            ]
         }
     }
 }

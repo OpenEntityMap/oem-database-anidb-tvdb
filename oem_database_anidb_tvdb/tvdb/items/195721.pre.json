@@ -6,30 +6,110 @@
         "0": {
             "episodes": {
                 "3": {
+                    "identifiers": {
+                        "anidb": "9046"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
-                    ]
+                    ],
+                    "names": [
+                        "Shinryaku!! Ika Musume"
+                    ],
+                    "supplemental": {
+                        "studio": "Diomedea"
+                    }
                 },
                 "4": {
+                    "identifiers": {
+                        "anidb": "9046"
+                    },
                     "mappings": [
                         {
                             "number": "2",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Shinryaku!! Ika Musume"
+                    ],
+                    "supplemental": {
+                        "studio": "Diomedea"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "9046"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shinryaku!! Ika Musume"
+                    ],
+                    "supplemental": {
+                        "studio": "Diomedea"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "8510"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ika Ice Tabenaika?"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "8896"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kore ga Umi e no Ai ja Naika!"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "8294"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shinryaku!? Ika Musume"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "8294"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Shinryaku!? Ika Musume"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "9046"
-            },
-            "names": [
-                "Shinryaku!! Ika Musume"
-            ],
-            "supplemental": {
-                "studio": "Diomedea"
             }
         },
         "1": {

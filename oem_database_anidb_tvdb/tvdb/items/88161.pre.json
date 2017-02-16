@@ -19,12 +19,26 @@
                         "Hetalia: Axis Powers Fan Disc"
                     ]
                 },
+                "10": {
+                    "identifiers": {
+                        "anidb": "7448"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Hetalia World Series"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "8948"
                     },
                     "mappings": [
                         {
+                            "number": "1",
                             "season": "1"
                         }
                     ],
@@ -38,7 +52,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
+                            "number": "2",
                             "season": "1"
                         }
                     ],
@@ -66,6 +80,45 @@
                     },
                     "mappings": [
                         {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Hetalia World Series"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "7448"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Hetalia World Series"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "7448"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Hetalia World Series"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "7448"
+                    },
+                    "mappings": [
+                        {
                             "number": "4"
                         }
                     ],
@@ -73,7 +126,13 @@
                         "Hetalia World Series"
                     ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "10947"
+            },
+            "names": [
+                "Hetalia: The World Twinkle"
+            ]
         },
         "1": {
             "identifiers": {
@@ -81,23 +140,23 @@
             },
             "names": [
                 "Hetalia: Axis Powers"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            }
+            ]
         },
         "2": {
             "identifiers": {
                 "anidb": "6234"
             },
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 26,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Hetalia: Axis Powers"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 26
-            }
+            ]
         },
         "3": {
             "identifiers": {
@@ -107,10 +166,34 @@
                 "Hetalia World Series"
             ]
         },
+        "4": {
+            "identifiers": {
+                "anidb": "7448"
+            },
+            "mappings": [
+                {
+                    "end": 24,
+                    "offset": 24,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Hetalia World Series"
+            ]
+        },
         "5": {
             "identifiers": {
                 "anidb": "9339"
             },
+            "mappings": [
+                {
+                    "end": 25,
+                    "offset": -20,
+                    "season": "0",
+                    "start": 21
+                }
+            ],
             "names": [
                 "Hetalia: The Beautiful World"
             ]

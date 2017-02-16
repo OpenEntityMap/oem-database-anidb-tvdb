@@ -136,6 +136,17 @@
                         "Ikkitousen: Shuugaku Toushi Keppuu-roku"
                     ]
                 },
+                "20": {
+                    "identifiers": {
+                        "anidb": "10812"
+                    },
+                    "names": [
+                        "Ikkitousen: Extravaganza Epoch"
+                    ],
+                    "parameters": {
+                        "episode_offset": "19"
+                    }
+                },
                 "7": {
                     "identifiers": {
                         "anidb": "5749"

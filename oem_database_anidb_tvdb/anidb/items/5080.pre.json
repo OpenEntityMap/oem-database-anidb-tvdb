@@ -1,0 +1,16 @@
+{
+    "identifiers": {
+        "anidb": "5080",
+        "tvdb": "245451"
+    },
+    "names": [
+        "Appleseed Saga Ex Machina"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    },
+    "supplemental": {
+        "studio": "Digital Frontier"
+    }
+}

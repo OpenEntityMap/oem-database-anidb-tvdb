@@ -84,6 +84,22 @@
                         "Kidou Senshi Gundam SEED: Meidou no Sora"
                     ]
                 },
+                "4": {
+                    "identifiers": {
+                        "anidb": "252"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam SEED"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
                 "5": {
                     "identifiers": {
                         "anidb": "2445"
@@ -111,6 +127,22 @@
                     "names": [
                         "Kidou Senshi Gundam SEED MSV ASTRAY"
                     ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "252"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam SEED"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
                 }
             }
         },

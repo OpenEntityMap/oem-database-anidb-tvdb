@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "6652",
+        "tvdb": "81341"
+    },
+    "names": [
+        "Jungle Taitei: Yuuki ga Mirai o Kaeru"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

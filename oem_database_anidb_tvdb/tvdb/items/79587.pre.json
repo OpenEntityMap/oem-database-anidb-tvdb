@@ -12,6 +12,24 @@
             ]
         },
         "2": {
+            "episodes": {
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "526"
             },

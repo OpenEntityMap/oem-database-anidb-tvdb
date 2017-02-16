@@ -5,6 +5,32 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "3408"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana"
+                    ]
+                },
+                "10": {
+                    "identifiers": {
+                        "anidb": "5145"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana Second"
+                    ]
+                },
                 "11": {
                     "identifiers": {
                         "anidb": "6757"
@@ -113,6 +139,58 @@
                         "Shakugan no Shana S"
                     ]
                 },
+                "19": {
+                    "identifiers": {
+                        "anidb": "8483"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana Final"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "3408"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana"
+                    ]
+                },
+                "20": {
+                    "identifiers": {
+                        "anidb": "8483"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana Final"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "3408"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana"
+                    ]
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "4388"
@@ -125,6 +203,45 @@
                     ],
                     "names": [
                         "Gekijouban Shakugan no Shana"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "5145"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana Second"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "5145"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana Second"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "3408"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shakugan no Shana"
                     ]
                 }
             }

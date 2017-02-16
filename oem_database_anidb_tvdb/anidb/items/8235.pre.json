@@ -12,49 +12,28 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
+                "16": {
                     "mappings": [
                         {
-                            "number": "10"
-                        }
-                    ]
-                },
-                "2": {
-                    "mappings": [
-                        {
-                            "number": "11"
-                        }
-                    ]
-                },
-                "3": {
-                    "mappings": [
-                        {
-                            "number": "12"
-                        }
-                    ]
-                },
-                "4": {
-                    "mappings": [
-                        {
-                            "number": "13"
-                        }
-                    ]
-                },
-                "5": {
-                    "mappings": [
-                        {
-                            "number": "14"
-                        }
-                    ]
-                },
-                "6": {
-                    "mappings": [
-                        {
-                            "number": "15"
+                            "number": "20"
                         }
                     ]
                 }
-            }
+            },
+            "mappings": [
+                {
+                    "end": 9,
+                    "offset": 10,
+                    "season": "0",
+                    "start": 1
+                },
+                {
+                    "end": 15,
+                    "offset": 11,
+                    "season": "0",
+                    "start": 10
+                }
+            ]
         }
     }
 }

@@ -5,11 +5,19 @@
     "seasons": {
         "0": {
             "identifiers": {
-                "anidb": "4383"
+                "anidb": [
+                    "4383",
+                    "5269"
+                ]
             },
-            "names": [
-                "Sky Girls"
-            ]
+            "names": {
+                "4383": [
+                    "Sky Girls"
+                ],
+                "5269": [
+                    "Sky Girls (2007)"
+                ]
+            }
         },
         "1": {
             "identifiers": {

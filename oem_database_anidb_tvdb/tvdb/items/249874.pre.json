@@ -7,6 +7,20 @@
             "identifiers": {
                 "anidb": "8481"
             },
+            "mappings": [
+                {
+                    "end": 10,
+                    "identifiers": {
+                        "anidb": "8229"
+                    },
+                    "names": [
+                        "Itsuka Tenma no Kuro Usagi"
+                    ],
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ],
             "names": [
                 "Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day"
             ]

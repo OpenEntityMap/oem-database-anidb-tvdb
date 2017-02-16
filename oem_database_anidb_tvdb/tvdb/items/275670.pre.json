@@ -5,6 +5,19 @@
     "seasons": {
         "0": {
             "episodes": {
+                "4": {
+                    "identifiers": {
+                        "anidb": "10859"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nisekoi:"
+                    ]
+                },
                 "5": {
                     "identifiers": {
                         "anidb": "11551"

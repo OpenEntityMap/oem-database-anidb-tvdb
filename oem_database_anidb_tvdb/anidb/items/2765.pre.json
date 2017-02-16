@@ -1,12 +1,12 @@
 {
     "identifiers": {
         "anidb": "2765",
-        "tvdb": "84743"
+        "tvdb": "84334"
     },
     "names": [
         "Futari wa Precure Max Heart"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "2"
     }
 }

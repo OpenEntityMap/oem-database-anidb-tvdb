@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "1101",
+        "tvdb": "157211"
+    },
+    "names": [
+        "Kidou Senshi SD Gundam Mk-IV"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "12"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

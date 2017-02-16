@@ -4,6 +4,21 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "7992"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Haiyoru! Nyaruani: Remember My Love(craft-sensei)"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "7316"
             },
@@ -12,16 +27,6 @@
             ]
         },
         "1": {
-            "episodes": {
-                "12": {
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "0"
-                        }
-                    ]
-                }
-            },
             "identifiers": {
                 "anidb": "7992"
             },

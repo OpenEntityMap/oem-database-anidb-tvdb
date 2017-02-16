@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "1579",
         "tvdb": "81462"
     },
-    "names": [
-        "Cutey Honey"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1662"
+            },
+            "names": [
+                "Re:Cutey Honey"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "1579"
+            },
+            "names": [
+                "Cutey Honey"
+            ]
+        }
     }
 }

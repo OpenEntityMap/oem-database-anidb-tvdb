@@ -7,6 +7,18 @@
         "White Album (2009)"
     ],
     "parameters": {
-        "default_season": "2"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "mappings": [
+                {
+                    "end": 13,
+                    "offset": 13,
+                    "season": "1",
+                    "start": 1
+                }
+            ]
+        }
     }
 }

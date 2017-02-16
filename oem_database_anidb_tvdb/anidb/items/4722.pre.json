@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "4722",
+        "tvdb": "157211"
+    },
+    "names": [
+        "Kidou Senshi SD Gundam no Gyakushuu: Arashi o Yobu Gakuensai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "22"
+    }
+}

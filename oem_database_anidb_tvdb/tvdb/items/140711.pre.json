@@ -4,15 +4,28 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "7620"
+                    },
+                    "names": [
+                        "Eiga Heartcatch Precure! Hana no Miyako de Fashion Show... Desuka!?"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    },
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                }
+            },
             "identifiers": {
-                "anidb": "7620"
+                "anidb": "7290"
             },
             "names": [
-                "Eiga Heartcatch Precure! Hana no Miyako de Fashion Show... Desuka!?"
-            ],
-            "supplemental": {
-                "studio": "Toei Animation"
-            }
+                "Eiga Precure All Stars DX2: Kibou no Hikari - Rainbow Jewel o Mamore!"
+            ]
         },
         "1": {
             "identifiers": {

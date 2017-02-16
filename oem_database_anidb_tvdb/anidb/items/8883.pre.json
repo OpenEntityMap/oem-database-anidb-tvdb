@@ -8,5 +8,26 @@
     ],
     "parameters": {
         "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 14,
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ]
+        }
     }
 }

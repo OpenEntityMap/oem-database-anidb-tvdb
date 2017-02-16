@@ -4,11 +4,27 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "8489"
+                    },
+                    "names": [
+                        "Eiga Suite Precure: Torimodose! Kokoro ga Tsunagu Kiseki no Melody"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    },
+                    "supplemental": {
+                        "studio": "Toei Animation"
+                    }
+                }
+            },
             "identifiers": {
-                "anidb": "8489"
+                "anidb": "8074"
             },
             "names": [
-                "Eiga Suite Precure: Torimodose! Kokoro ga Tsunagu Kiseki no Melody"
+                "Eiga Precure All Stars DX3: Mirai ni Todoke! Sekai o Tsunagu Niji-iro no Hana"
             ],
             "supplemental": {
                 "studio": "Toei Animation"

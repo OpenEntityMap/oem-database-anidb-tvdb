@@ -6,44 +6,73 @@
         "0": {
             "episodes": {
                 "2": {
+                    "identifiers": {
+                        "anidb": "8350"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Higurashi no Naku Koro ni Kira"
                     ]
                 },
                 "3": {
+                    "identifiers": {
+                        "anidb": "8350"
+                    },
                     "mappings": [
                         {
                             "number": "2",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Higurashi no Naku Koro ni Kira"
                     ]
                 },
                 "4": {
+                    "identifiers": {
+                        "anidb": "8350"
+                    },
                     "mappings": [
                         {
                             "number": "3",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Higurashi no Naku Koro ni Kira"
                     ]
                 },
                 "5": {
+                    "identifiers": {
+                        "anidb": "8350"
+                    },
                     "mappings": [
                         {
                             "number": "4",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Higurashi no Naku Koro ni Kira"
                     ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "9574"
+                    },
+                    "names": [
+                        "Higurashi no Naku Koro ni Kaku: Outbreak"
+                    ],
+                    "parameters": {
+                        "episode_offset": "5"
+                    }
                 }
-            },
-            "identifiers": {
-                "anidb": "8350"
-            },
-            "names": [
-                "Higurashi no Naku Koro ni Kira"
-            ]
+            }
         },
         "1": {
             "identifiers": {
@@ -67,14 +96,6 @@
             },
             "names": [
                 "Higurashi no Naku Koro ni Rei"
-            ]
-        },
-        "4": {
-            "identifiers": {
-                "anidb": "9574"
-            },
-            "names": [
-                "Higurashi no Naku Koro ni Kaku: Outbreak"
             ]
         }
     }

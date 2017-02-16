@@ -9,15 +9,12 @@
                     "identifiers": {
                         "anidb": "10721"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Eiga Happiness Charge Precure! Ningyou no Kuni no Ballerina"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
                 }
             },
             "identifiers": {

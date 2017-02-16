@@ -5,19 +5,19 @@
     "seasons": {
         "1": {
             "identifiers": {
-                "anidb": "6026"
+                "anidb": [
+                    "6970",
+                    "6026"
+                ]
             },
-            "names": [
-                "White Album"
-            ]
-        },
-        "2": {
-            "identifiers": {
-                "anidb": "6970"
-            },
-            "names": [
-                "White Album (2009)"
-            ]
+            "names": {
+                "6026": [
+                    "White Album"
+                ],
+                "6970": [
+                    "White Album (2009)"
+                ]
+            }
         }
     }
 }

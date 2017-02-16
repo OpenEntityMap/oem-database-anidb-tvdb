@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10812",
+        "tvdb": "80158"
+    },
+    "names": [
+        "Ikkitousen: Extravaganza Epoch"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "19"
+    }
+}

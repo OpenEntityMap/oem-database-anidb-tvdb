@@ -13,19 +13,19 @@
         },
         "1": {
             "identifiers": {
-                "anidb": [
-                    "10958",
-                    "8076"
-                ]
+                "anidb": "8076"
             },
-            "names": {
-                "10958": [
-                    "Houkago no Pleiades (2015)"
-                ],
-                "8076": [
-                    "Houkago no Pleiades"
-                ]
-            }
+            "names": [
+                "Houkago no Pleiades"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10958"
+            },
+            "names": [
+                "Houkago no Pleiades (2015)"
+            ]
         }
     }
 }

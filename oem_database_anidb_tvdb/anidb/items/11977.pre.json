@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "11977",
+        "tvdb": "142601"
+    },
+    "names": [
+        "Kidou Senshi Gundam UC RE:0096"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "supplemental": {
+        "studio": "Sunrise"
+    }
+}

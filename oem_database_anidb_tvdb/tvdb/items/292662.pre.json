@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "292662"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "1522"
+            },
+            "names": [
+                "Dream Hunter Rem"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "5232"
+            },
+            "names": [
+                "New Dream Hunter Rem"
+            ]
+        }
+    }
+}

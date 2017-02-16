@@ -5,9 +5,22 @@
     "seasons": {
         "0": {
             "episodes": {
-                "10": {
+                "1": {
                     "identifiers": {
-                        "anidb": "8573"
+                        "anidb": "7506"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Amagami SS"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "7506"
                     },
                     "mappings": [
                         {
@@ -15,12 +28,12 @@
                         }
                     ],
                     "names": [
-                        "Amagami SS Plus"
+                        "Amagami SS"
                     ]
                 },
-                "11": {
+                "3": {
                     "identifiers": {
-                        "anidb": "8573"
+                        "anidb": "7506"
                     },
                     "mappings": [
                         {
@@ -28,12 +41,12 @@
                         }
                     ],
                     "names": [
-                        "Amagami SS Plus"
+                        "Amagami SS"
                     ]
                 },
-                "12": {
+                "4": {
                     "identifiers": {
-                        "anidb": "8573"
+                        "anidb": "7506"
                     },
                     "mappings": [
                         {
@@ -41,12 +54,12 @@
                         }
                     ],
                     "names": [
-                        "Amagami SS Plus"
+                        "Amagami SS"
                     ]
                 },
-                "13": {
+                "5": {
                     "identifiers": {
-                        "anidb": "8573"
+                        "anidb": "7506"
                     },
                     "mappings": [
                         {
@@ -54,7 +67,20 @@
                         }
                     ],
                     "names": [
-                        "Amagami SS Plus"
+                        "Amagami SS"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "7506"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Amagami SS"
                     ]
                 },
                 "7": {
@@ -69,34 +95,14 @@
                     "names": [
                         "Amagami SS"
                     ]
-                },
-                "8": {
-                    "identifiers": {
-                        "anidb": "8573"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
-                    "names": [
-                        "Amagami SS Plus"
-                    ]
-                },
-                "9": {
-                    "identifiers": {
-                        "anidb": "8573"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2"
-                        }
-                    ],
-                    "names": [
-                        "Amagami SS Plus"
-                    ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "8573"
+            },
+            "names": [
+                "Amagami SS Plus"
+            ]
         },
         "1": {
             "identifiers": {

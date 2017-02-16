@@ -4,11 +4,24 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "9690"
+                    },
+                    "names": [
+                        "Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
             "identifiers": {
-                "anidb": "9690"
+                "anidb": "9535"
             },
             "names": [
-                "Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress"
+                "Eiga Precure All Stars New Stage 2: Kokoro no Tomodachi"
             ]
         },
         "1": {

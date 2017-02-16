@@ -151,7 +151,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "1"
                         }
                     ],
                     "names": [
@@ -170,6 +170,35 @@
                     ],
                     "names": [
                         "Gurren Lagann Parallel Works 2"
+                    ]
+                },
+                "21": {
+                    "identifiers": {
+                        "anidb": "5783"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Tengen Toppa Gurren Lagann: Gurren Hen"
+                    ]
+                },
+                "22": {
+                    "identifiers": {
+                        "anidb": "5783"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        },
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Tengen Toppa Gurren Lagann: Gurren Hen"
                     ]
                 },
                 "3": {
@@ -199,6 +228,23 @@
                     "names": [
                         "Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen"
                     ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "6609"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tengen Toppa Gurren Lagann Kirameki Youko Box: Pieces of Sweet Stars"
+                    ],
+                    "supplemental": {
+                        "studio": "Gainax"
+                    }
                 },
                 "6": {
                     "identifiers": {

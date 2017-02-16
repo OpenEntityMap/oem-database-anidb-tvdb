@@ -21,11 +21,19 @@
                 }
             },
             "identifiers": {
-                "anidb": "11000"
+                "anidb": [
+                    "11000",
+                    "11142"
+                ]
             },
-            "names": [
-                "Shinmai Maou no Testament (2015)"
-            ]
+            "names": {
+                "11000": [
+                    "Shinmai Maou no Testament (2015)"
+                ],
+                "11142": [
+                    "Shinmai Maou no Testament Burst"
+                ]
+            }
         },
         "1": {
             "identifiers": {

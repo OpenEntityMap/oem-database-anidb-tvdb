@@ -8,5 +8,67 @@
     ],
     "parameters": {
         "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "66": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "67": {
+                    "mappings": [
+                        {
+                            "number": "66"
+                        }
+                    ]
+                },
+                "68": {
+                    "mappings": [
+                        {
+                            "number": "67"
+                        }
+                    ]
+                },
+                "69": {
+                    "mappings": [
+                        {
+                            "number": "68"
+                        }
+                    ]
+                },
+                "70": {
+                    "mappings": [
+                        {
+                            "number": "69"
+                        }
+                    ]
+                },
+                "71": {
+                    "mappings": [
+                        {
+                            "number": "70"
+                        }
+                    ]
+                },
+                "72": {
+                    "mappings": [
+                        {
+                            "number": "71"
+                        }
+                    ]
+                },
+                "73": {
+                    "mappings": [
+                        {
+                            "number": "72"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

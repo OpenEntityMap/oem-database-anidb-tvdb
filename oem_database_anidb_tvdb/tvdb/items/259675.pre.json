@@ -9,7 +9,10 @@
             },
             "names": [
                 "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune"
-            ]
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
         },
         "1": {
             "identifiers": {

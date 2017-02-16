@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "80443"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "1350"
+            },
+            "names": [
+                "Sol Bianca"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "97"
+            },
+            "names": [
+                "Sol Bianca: Taiyou no Fune"
+            ]
+        }
+    }
+}

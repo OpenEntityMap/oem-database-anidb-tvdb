@@ -33,11 +33,7 @@
             },
             "names": [
                 "Turn A Gundam"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            }
+            ]
         }
     }
 }

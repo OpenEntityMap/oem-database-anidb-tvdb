@@ -12,13 +12,6 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "0"
-                        }
-                    ]
-                },
                 "2": {
                     "mappings": [
                         {
@@ -37,13 +30,6 @@
                     "mappings": [
                         {
                             "number": "0"
-                        }
-                    ]
-                },
-                "5": {
-                    "mappings": [
-                        {
-                            "number": "1"
                         }
                     ]
                 }

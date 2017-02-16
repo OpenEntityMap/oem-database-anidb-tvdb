@@ -20,6 +20,17 @@
                 },
                 "3": {
                     "identifiers": {
+                        "anidb": "9283"
+                    },
+                    "names": [
+                        "The Idolmaster: Shiny Festa"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "6": {
+                    "identifiers": {
                         "anidb": "9701"
                     },
                     "mappings": [

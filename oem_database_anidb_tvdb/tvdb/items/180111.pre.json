@@ -3,6 +3,58 @@
         "tvdb": "180111"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "175"
+            },
+            "names": [
+                "Otogi Story Tenshi no Shippo"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "175"
@@ -43,6 +95,14 @@
                         {
                             "number": "7",
                             "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
                         }
                     ]
                 },

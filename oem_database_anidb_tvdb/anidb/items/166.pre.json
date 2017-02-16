@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "166",
+        "tvdb": "245451"
+    },
+    "names": [
+        "Appleseed"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

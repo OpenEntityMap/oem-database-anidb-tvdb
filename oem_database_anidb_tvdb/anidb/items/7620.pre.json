@@ -7,7 +7,8 @@
         "Eiga Heartcatch Precure! Hana no Miyako de Fashion Show... Desuka!?"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "1"
     },
     "supplemental": {
         "studio": "Toei Animation"

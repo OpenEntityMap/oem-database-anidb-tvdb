@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1037",
+        "tvdb": "157211"
+    },
+    "names": [
+        "Kidou Senshi SD Gundam Mk-II"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

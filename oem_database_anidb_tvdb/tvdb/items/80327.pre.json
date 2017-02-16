@@ -18,6 +18,19 @@
                         "Sayonara Zetsubou-sensei"
                     ]
                 },
+                "2": {
+                    "identifiers": {
+                        "anidb": "5576"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Zoku Sayonara Zetsubou-sensei"
+                    ]
+                },
                 "3": {
                     "identifiers": {
                         "anidb": "6031"

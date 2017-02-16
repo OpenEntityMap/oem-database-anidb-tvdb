@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5232",
+        "tvdb": "292662"
+    },
+    "names": [
+        "New Dream Hunter Rem"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

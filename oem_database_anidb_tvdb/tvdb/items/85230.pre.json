@@ -26,48 +26,6 @@
                         "Uchuu Senkan Yamato (Gekijouban)"
                     ]
                 },
-                "12": {
-                    "identifiers": {
-                        "anidb": "2919"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Yamato 2520"
-                    ]
-                },
-                "13": {
-                    "identifiers": {
-                        "anidb": "2919"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Yamato 2520"
-                    ]
-                },
-                "14": {
-                    "identifiers": {
-                        "anidb": "2919"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Yamato 2520"
-                    ]
-                },
                 "2": {
                     "identifiers": {
                         "anidb": "2229"
@@ -139,23 +97,6 @@
                         "Uchuu Senkan Yamato: Kanketsuhen"
                     ]
                 },
-                "6": {
-                    "identifiers": {
-                        "anidb": "6680"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Uchuu Senkan Yamato: Fukkatsu Hen"
-                    ],
-                    "supplemental": {
-                        "studio": "Enagio"
-                    }
-                },
                 "7": {
                     "identifiers": {
                         "anidb": "1771"
@@ -166,8 +107,27 @@
                     "parameters": {
                         "episode_offset": "6"
                     }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "2919"
+                    },
+                    "names": [
+                        "Yamato 2520"
+                    ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    }
                 }
             }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "648"
+            },
+            "names": [
+                "Uchuu Senkan Yamato"
+            ]
         },
         "2": {
             "identifiers": {

@@ -10,16 +10,33 @@
         "default_season": "0"
     },
     "seasons": {
-        "1": {
+        "0": {
             "episodes": {
-                "21": {
+                "1": {
                     "mappings": [
                         {
-                            "number": "52"
+                            "number": "12"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "21"
                         }
                     ]
                 }
             }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 19,
+                    "offset": 1,
+                    "season": "1",
+                    "start": 12
+                }
+            ]
         }
     }
 }

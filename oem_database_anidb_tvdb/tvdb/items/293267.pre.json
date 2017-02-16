@@ -5,19 +5,19 @@
     "seasons": {
         "0": {
             "identifiers": {
-                "anidb": [
-                    "10768",
-                    "11805"
-                ]
+                "anidb": "11805"
             },
-            "names": {
-                "10768": [
-                    "Prison School"
-                ],
-                "11805": [
-                    "Prison School: Mad Wax"
-                ]
-            }
+            "names": [
+                "Prison School: Mad Wax"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10768"
+            },
+            "names": [
+                "Prison School"
+            ]
         }
     }
 }

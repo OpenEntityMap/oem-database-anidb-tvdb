@@ -5,18 +5,67 @@
     "seasons": {
         "0": {
             "episodes": {
-                "11": {
+                "10": {
                     "identifiers": {
                         "anidb": "11184"
                     },
+                    "names": [
+                        "High School DxD New: Teishi Kyoushitsu no Vampire"
+                    ],
+                    "parameters": {
+                        "episode_offset": "9"
+                    }
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "10691"
+                    },
                     "mappings": [
                         {
-                            "number": "2",
-                            "season": "1"
+                            "number": "1"
                         }
                     ],
                     "names": [
-                        "High School DxD New: Teishi Kyoushitsu no Vampire"
+                        "High School DxD Born"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "10691"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD Born"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "10691"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD Born"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "10691"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD Born"
                     ]
                 },
                 "15": {
@@ -30,36 +79,45 @@
                         "episode_offset": "14"
                     }
                 },
+                "16": {
+                    "identifiers": {
+                        "anidb": "10691"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD Born"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "10691"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD Born"
+                    ]
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "8925"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "High School DxD OAD"
                     ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    },
                     "supplemental": {
                         "studio": "TNK"
                     }
-                },
-                "9": {
-                    "identifiers": {
-                        "anidb": "11184"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "High School DxD New: Teishi Kyoushitsu no Vampire"
-                    ]
                 }
             }
         },

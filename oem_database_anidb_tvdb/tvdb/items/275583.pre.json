@@ -4,6 +4,34 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "9809"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tonari no Seki-kun"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9809"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Tonari no Seki-kun"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "10386"
             },

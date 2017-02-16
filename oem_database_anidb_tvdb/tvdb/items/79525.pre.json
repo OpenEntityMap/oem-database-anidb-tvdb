@@ -241,6 +241,22 @@
                         "Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem"
                     ]
                 },
+                "23": {
+                    "identifiers": {
+                        "anidb": "5373"
+                    },
+                    "mappings": [
+                        {
+                            "number": "19"
+                        }
+                    ],
+                    "names": [
+                        "Code Geass: Hangyaku no Lelouch R2"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
                 "24": {
                     "identifiers": {
                         "anidb": "8914"
@@ -259,57 +275,12 @@
                     "identifiers": {
                         "anidb": "7508"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Code Geass: Boukoku no Akito"
-                    ]
-                },
-                "26": {
-                    "identifiers": {
-                        "anidb": "7508"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
                     ],
-                    "names": [
-                        "Code Geass: Boukoku no Akito"
-                    ]
-                },
-                "27": {
-                    "identifiers": {
-                        "anidb": "7508"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Code Geass: Boukoku no Akito"
-                    ]
-                },
-                "28": {
-                    "identifiers": {
-                        "anidb": "7508"
-                    },
-                    "mappings": [
-                        {
-                            "number": "4",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Code Geass: Boukoku no Akito"
-                    ]
+                    "parameters": {
+                        "episode_offset": "24"
+                    }
                 },
                 "4": {
                     "identifiers": {

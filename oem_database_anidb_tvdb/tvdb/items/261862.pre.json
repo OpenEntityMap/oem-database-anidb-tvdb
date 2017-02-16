@@ -5,6 +5,19 @@
     "seasons": {
         "0": {
             "episodes": {
+                "14": {
+                    "identifiers": {
+                        "anidb": "8883"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Chuunibyou demo Koi ga Shitai!"
+                    ]
+                },
                 "15": {
                     "identifiers": {
                         "anidb": "9919"
@@ -25,7 +38,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "1"
+                            "number": "2"
                         }
                     ],
                     "names": [
@@ -38,7 +51,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "3"
                         }
                     ],
                     "names": [
@@ -51,7 +64,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "3"
+                            "number": "4"
                         }
                     ],
                     "names": [
@@ -64,7 +77,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "4"
+                            "number": "5"
                         }
                     ],
                     "names": [
@@ -90,7 +103,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "5"
+                            "number": "6"
                         }
                     ],
                     "names": [
@@ -103,14 +116,41 @@
                     },
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Chuunibyou demo Koi ga Shitai! Ren"
+                    ]
+                },
+                "30": {
+                    "identifiers": {
+                        "anidb": "9874"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
                         }
                     ],
                     "names": [
                         "Chuunibyou demo Koi ga Shitai! Ren"
                     ]
                 }
-            }
+            },
+            "mappings": [
+                {
+                    "end": 13,
+                    "identifiers": {
+                        "anidb": "8883"
+                    },
+                    "names": [
+                        "Chuunibyou demo Koi ga Shitai!"
+                    ],
+                    "offset": 1,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
         },
         "1": {
             "identifiers": {
