@@ -13,7 +13,7 @@ PACKAGE_NAME = 'oem-database-anidb-tvdb'
 def build_config():
     config = {
         'name': PACKAGE_NAME,
-        'version': '1.17.20',
+        'version': '1.17.21',
 
         'author': 'Dean Gardiner',
         'author_email': 'me@dgardiner.net',
