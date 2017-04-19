@@ -10,14 +10,19 @@
         "default_season": "1"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        },
         "1": {
             "mappings": [
-                {
-                    "end": 49,
-                    "offset": 0,
-                    "season": "1",
-                    "start": 1
-                },
                 {
                     "end": 99,
                     "offset": -49,

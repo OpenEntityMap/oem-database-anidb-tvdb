@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "311832"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11834"
+            },
+            "names": [
+                "Rilu Rilu Fairilu: Yousei no Door"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12825"
+            },
+            "names": [
+                "Rilu Rilu Fairilu: Mahou no Kagami"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11981",
+        "tvdb": "319410"
+    },
+    "names": [
+        "Eromanga-sensei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

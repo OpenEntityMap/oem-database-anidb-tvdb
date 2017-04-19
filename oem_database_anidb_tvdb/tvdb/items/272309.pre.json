@@ -19,6 +19,17 @@
                         "Yowamushi Pedal Re:Ride"
                     ]
                 },
+                "3": {
+                    "identifiers": {
+                        "anidb": "11252"
+                    },
+                    "names": [
+                        "Yowamushi Pedal Re:Road"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "11154"
@@ -32,6 +43,17 @@
                     "names": [
                         "Gekijouban Yowamushi Pedal"
                     ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "12129"
+                    },
+                    "names": [
+                        "Yowamushi Pedal: Spare Bike"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
                 }
             },
             "identifiers": {

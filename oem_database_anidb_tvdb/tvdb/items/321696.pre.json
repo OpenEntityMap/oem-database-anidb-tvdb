@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12329",
+        "tvdb": "321696"
+    },
+    "names": [
+        "Kabukibu!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

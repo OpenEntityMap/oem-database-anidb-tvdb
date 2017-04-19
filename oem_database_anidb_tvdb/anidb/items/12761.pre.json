@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12761",
+        "tvdb": "325197"
+    },
+    "names": [
+        "Tsuki ga Kirei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

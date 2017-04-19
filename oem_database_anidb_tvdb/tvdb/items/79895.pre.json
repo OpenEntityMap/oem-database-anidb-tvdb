@@ -5,6 +5,47 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "10405"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yorinuki Gintama-san on Theater 2D"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "10405"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yorinuki Gintama-san on Theater 2D"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "10993"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gintama (2015)"
+                    ]
+                },
                 "13": {
                     "identifiers": {
                         "anidb": "11850"
@@ -18,6 +59,22 @@
                 },
                 "3": {
                     "identifiers": {
+                        "anidb": "3468"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Gintama"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
+                "4": {
+                    "identifiers": {
                         "anidb": "7177"
                     },
                     "mappings": [
@@ -30,7 +87,7 @@
                         "Gekijouban Gintama: Shinyaku Benizakura Hen"
                     ]
                 },
-                "4": {
+                "5": {
                     "identifiers": {
                         "anidb": "7177"
                     },
@@ -43,7 +100,20 @@
                         "Gekijouban Gintama: Shinyaku Benizakura Hen"
                     ]
                 },
-                "5": {
+                "6": {
+                    "identifiers": {
+                        "anidb": "8126"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gintama'"
+                    ]
+                },
+                "7": {
                     "identifiers": {
                         "anidb": "9384"
                     },
@@ -80,10 +150,6 @@
             "names": [
                 "Gintama"
             ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            },
             "supplemental": {
                 "studio": "Sunrise"
             }
@@ -92,13 +158,17 @@
             "identifiers": {
                 "anidb": "3468"
             },
+            "mappings": [
+                {
+                    "end": 50,
+                    "offset": 49,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Gintama"
             ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 49
-            },
             "supplemental": {
                 "studio": "Sunrise"
             }
@@ -107,13 +177,17 @@
             "identifiers": {
                 "anidb": "3468"
             },
+            "mappings": [
+                {
+                    "end": 51,
+                    "offset": 99,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Gintama"
             ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 99
-            },
             "supplemental": {
                 "studio": "Sunrise"
             }
@@ -122,13 +196,17 @@
             "identifiers": {
                 "anidb": "3468"
             },
+            "mappings": [
+                {
+                    "end": 51,
+                    "offset": 150,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Gintama"
             ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 150
-            },
             "supplemental": {
                 "studio": "Sunrise"
             }
@@ -155,6 +233,14 @@
             },
             "names": [
                 "Gintama (2015)"
+            ]
+        },
+        "8": {
+            "identifiers": {
+                "anidb": "12419"
+            },
+            "names": [
+                "Gintama."
             ]
         }
     }

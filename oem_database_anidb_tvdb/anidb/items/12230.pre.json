@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12230",
+        "tvdb": "321671"
+    },
+    "names": [
+        "Busou Shoujo Machiavellianism"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

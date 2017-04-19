@@ -1,12 +1,31 @@
 {
     "identifiers": {
-        "anidb": "11144",
         "tvdb": "299742"
     },
-    "names": [
-        "Starmyu"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12039"
+            },
+            "names": [
+                "Starmyu (2016)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11144"
+            },
+            "names": [
+                "Starmyu"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12141"
+            },
+            "names": [
+                "Starmyu (2017)"
+            ]
+        }
     }
 }

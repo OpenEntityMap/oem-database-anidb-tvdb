@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11822",
+        "tvdb": "321697"
+    },
+    "names": [
+        "Ren'ai Boukun"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

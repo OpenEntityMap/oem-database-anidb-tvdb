@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12422",
+        "tvdb": "320169"
+    },
+    "names": [
+        "Sagrada Reset"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

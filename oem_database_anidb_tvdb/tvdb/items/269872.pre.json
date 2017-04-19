@@ -3,6 +3,14 @@
         "tvdb": "269872"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12037"
+            },
+            "names": [
+                "Kin'iro Mosaic: Pretty Days"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "9579"

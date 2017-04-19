@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11951",
         "tvdb": "315092"
     },
-    "names": [
-        "Nobunaga no Shinobi"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11951"
+            },
+            "names": [
+                "Nobunaga no Shinobi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12900"
+            },
+            "names": [
+                "Nobunaga no Shinobi: Ise Kanegasaki Hen"
+            ]
+        }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12655",
+        "tvdb": "283189"
+    },
+    "names": [
+        "Warau Salesman New"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

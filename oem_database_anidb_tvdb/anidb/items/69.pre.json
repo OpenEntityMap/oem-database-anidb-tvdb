@@ -280,10 +280,16 @@
                     "start": 629
                 },
                 {
-                    "end": 783,
+                    "end": 779,
                     "offset": -746,
                     "season": "18",
                     "start": 747
+                },
+                {
+                    "end": 787,
+                    "offset": -779,
+                    "season": "19",
+                    "start": 780
                 }
             ]
         }

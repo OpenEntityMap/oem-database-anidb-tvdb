@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12253",
+        "tvdb": "325190"
+    },
+    "names": [
+        "Twin Angel Break"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

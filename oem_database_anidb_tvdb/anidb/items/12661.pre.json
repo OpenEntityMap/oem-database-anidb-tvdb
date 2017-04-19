@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12661",
+        "tvdb": "321285"
+    },
+    "names": [
+        "Boruto: Naruto Next Generations"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

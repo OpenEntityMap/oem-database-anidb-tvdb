@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11840",
+        "tvdb": "324710"
+    },
+    "names": [
+        "Gin no Guardian"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

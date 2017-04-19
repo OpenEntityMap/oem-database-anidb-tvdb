@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12602",
+        "tvdb": "321536"
+    },
+    "names": [
+        "Sakura Quest"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

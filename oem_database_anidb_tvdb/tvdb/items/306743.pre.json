@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11533",
         "tvdb": "306743"
     },
-    "names": [
-        "High School Fleet"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12428"
+            },
+            "names": [
+                "High School Fleet (2017)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11533"
+            },
+            "names": [
+                "High School Fleet"
+            ]
+        }
     }
 }

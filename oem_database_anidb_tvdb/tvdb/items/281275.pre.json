@@ -6,19 +6,32 @@
         "0": {
             "episodes": {
                 "1": {
+                    "identifiers": {
+                        "anidb": "10538"
+                    },
                     "mappings": [
                         {
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Saenai Heroine no Sodatekata"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "11221"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saenai Heroine no Sodatekata Flat"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "10538"
-            },
-            "names": [
-                "Saenai Heroine no Sodatekata"
-            ]
+            }
         },
         "1": {
             "episodes": {

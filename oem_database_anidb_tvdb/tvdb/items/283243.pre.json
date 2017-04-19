@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "283243"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10633"
+            },
+            "names": [
+                "World Fool News"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10685"
+            },
+            "names": [
+                "World Fool News (2014)"
+            ]
+        }
+    }
+}

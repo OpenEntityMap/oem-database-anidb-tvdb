@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11762",
+        "tvdb": "321535"
+    },
+    "names": [
+        "Seikai Suru Kado"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
