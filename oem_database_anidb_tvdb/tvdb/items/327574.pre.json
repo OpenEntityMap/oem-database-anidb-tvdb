@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12027",
+        "tvdb": "327574"
+    },
+    "names": [
+        "Katsugeki: Touken Ranbu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

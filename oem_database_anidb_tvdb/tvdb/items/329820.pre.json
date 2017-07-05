@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12385",
+        "tvdb": "329820"
+    },
+    "names": [
+        "Isekai Shokudou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

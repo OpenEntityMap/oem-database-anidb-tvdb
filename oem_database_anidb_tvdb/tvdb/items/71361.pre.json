@@ -152,7 +152,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 81
+                "episode_offset": 82
             }
         },
         "5": {
@@ -164,7 +164,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 99
+                "episode_offset": 110
             }
         },
         "6": {
@@ -176,19 +176,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 126
-            }
-        },
-        "7": {
-            "identifiers": {
-                "anidb": "144"
-            },
-            "names": [
-                "Inuyasha"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 159
+                "episode_offset": 138
             }
         },
         "8": {

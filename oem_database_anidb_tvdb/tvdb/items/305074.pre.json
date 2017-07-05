@@ -3,6 +3,24 @@
         "tvdb": "305074"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "12344"
+            },
+            "names": [
+                "Boku no Hero Academia (2016)"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "11739"

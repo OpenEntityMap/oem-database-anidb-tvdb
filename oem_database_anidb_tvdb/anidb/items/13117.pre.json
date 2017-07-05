@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13117",
+        "tvdb": "329993"
+    },
+    "names": [
+        "Konbini Kareshi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

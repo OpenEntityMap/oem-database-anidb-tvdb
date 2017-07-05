@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12551",
+        "tvdb": "325192"
+    },
+    "names": [
+        "Room Mate"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

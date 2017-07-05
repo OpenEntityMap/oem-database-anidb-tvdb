@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12410",
+        "tvdb": "327035"
+    },
+    "names": [
+        "100% Pascal-sensei"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

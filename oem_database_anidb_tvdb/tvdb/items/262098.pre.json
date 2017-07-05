@@ -410,6 +410,19 @@
                         "Girls und Panzer Gekijouban"
                     ]
                 },
+                "39": {
+                    "identifiers": {
+                        "anidb": "10008"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer Gekijouban"
+                    ]
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "9227"
@@ -421,6 +434,19 @@
                     ],
                     "names": [
                         "Girls und Panzer"
+                    ]
+                },
+                "40": {
+                    "identifiers": {
+                        "anidb": "10008"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Girls und Panzer Gekijouban"
                     ]
                 },
                 "5": {

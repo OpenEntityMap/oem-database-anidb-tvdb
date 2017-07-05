@@ -1,12 +1,32 @@
 {
     "identifiers": {
-        "anidb": "12655",
+        "anidb": "2106",
         "tvdb": "283189"
     },
     "names": [
-        "Warau Salesman New"
+        "Warau Salesman"
     ],
     "parameters": {
-        "default_season": "4"
+        "default_season": "1"
+    },
+    "seasons": {
+        "1": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
+        },
+        "2": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 44
+            }
+        },
+        "3": {
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 91
+            }
+        }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "7523",
+        "tvdb": "312723"
+    },
+    "names": [
+        "Bonobono"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

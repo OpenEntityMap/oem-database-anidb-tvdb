@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12425",
+        "tvdb": "327507"
+    },
+    "names": [
+        "Knight's & Magic"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

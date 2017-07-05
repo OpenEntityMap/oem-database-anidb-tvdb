@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12737",
+        "tvdb": "282059"
+    },
+    "names": [
+        "Idol Time PriPara"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

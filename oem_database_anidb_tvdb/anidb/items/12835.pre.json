@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12835",
+        "tvdb": "327015"
+    },
+    "names": [
+        "Koi to Uso"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

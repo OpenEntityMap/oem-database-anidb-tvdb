@@ -59,10 +59,10 @@
         "10008": {
             "created_at": 1462383624,
             "hashes": {
-                "262098": "b8c13d253a7edc835d34c1f59a96a889"
+                "262098": "b478f34db2b80f1b1152165ecd191f89"
             },
             "media": "show",
-            "updated_at": 1487165949
+            "updated_at": 1499255108
         },
         "10009": {
             "created_at": 1462383624,
@@ -3302,7 +3302,8 @@
         "10937": {
             "created_at": 1462383628,
             "hashes": {
-                "291565": "a02e09bfbfeac4a206d6896c6f2864db"
+                "291565": "a02e09bfbfeac4a206d6896c6f2864db",
+                "328719": "8993b20700e544726bc1d721cb05436f"
             },
             "media": "show",
             "updated_at": 1464960954
@@ -3407,10 +3408,10 @@
         "10954": {
             "created_at": 1462383629,
             "hashes": {
-                "278157": "2c510fc3c2efe3680980c7234cb5b82c"
+                "278157": "22510a78ce8adcac3895cc26776907a3"
             },
             "media": "show",
-            "updated_at": 1464960954
+            "updated_at": 1499255108
         },
         "10955": {
             "created_at": 1462383629,
@@ -4044,6 +4045,14 @@
             "media": "show",
             "updated_at": 1464960954
         },
+        "11149": {
+            "created_at": 1499255108,
+            "hashes": {
+                "325022": "72756bc284719c5f9ac0acffefc53fbe"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "11150": {
             "created_at": 1462383629,
             "hashes": {
@@ -4247,10 +4256,10 @@
         "11210": {
             "created_at": 1462383629,
             "hashes": {
-                "295068": "405e5c7bb42d64f23796727269ca01ca"
+                "295068": "5610dcac06a9c4e267a1aa9f2af99ffd"
             },
             "media": "show",
-            "updated_at": 1493175265
+            "updated_at": 1499255108
         },
         "11213": {
             "created_at": 1462383630,
@@ -5207,7 +5216,8 @@
         "11628": {
             "created_at": 1462383630,
             "hashes": {
-                "11628": "132737d17c9d694168e4a64cee7f31f7"
+                "11628": "132737d17c9d694168e4a64cee7f31f7",
+                "283930": "dd05a2ba53f8f59dc89c1d817fa13ea8"
             },
             "media": "show",
             "updated_at": 1464960955
@@ -5613,6 +5623,14 @@
             "media": "show",
             "updated_at": 1464960955
         },
+        "11782": {
+            "created_at": 1499255108,
+            "hashes": {
+                "80304": "7091fb88ce295f34d5ab8ec4eea3909b"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "11783": {
             "created_at": 1462383631,
             "hashes": {
@@ -5821,6 +5839,14 @@
             },
             "media": "show",
             "updated_at": 1492531393
+        },
+        "11843": {
+            "created_at": 1499255108,
+            "hashes": {
+                "312723": "b795e566d20fbfb38ccaf0bdf4300b3f"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "11844": {
             "created_at": 1462383631,
@@ -6214,6 +6240,14 @@
             "media": "show",
             "updated_at": 1485253894
         },
+        "11955": {
+            "created_at": 1499255108,
+            "hashes": {
+                "254667": "8e4055dd280eda245f7827605de66fff"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "11960": {
             "created_at": 1462383631,
             "hashes": {
@@ -6261,6 +6295,14 @@
             },
             "media": "show",
             "updated_at": 1477297706
+        },
+        "11974": {
+            "created_at": 1499255108,
+            "hashes": {
+                "321670": "485eb39ea613b0b9e44437aaf96c337f"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "11977": {
             "created_at": 1487165949,
@@ -6409,10 +6451,10 @@
         "12009": {
             "created_at": 1477297706,
             "hashes": {
-                "82788": "2ddedb8a1de47ab5b9af7818e5ef90ad"
+                "82788": "050ae9a38f8e80c354aea0378bc788d0"
             },
             "media": "show",
-            "updated_at": 1477297706
+            "updated_at": 1499255108
         },
         "12012": {
             "created_at": 1477297706,
@@ -6429,6 +6471,14 @@
             },
             "media": "show",
             "updated_at": 1468414847
+        },
+        "12018": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329987": "7635b7de4093b05bc1a1bcec6a2b7118"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "12019": {
             "created_at": 1468517835,
@@ -6453,6 +6503,14 @@
             },
             "media": "show",
             "updated_at": 1485253894
+        },
+        "12027": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327574": "f5f8a1be5afc87d942a3a4d5c04080bc"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "12030": {
             "created_at": 1485253894,
@@ -6623,6 +6681,14 @@
             "media": "show",
             "updated_at": 1477297706
         },
+        "12080": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329825": "d63bbf26f95820bf71295768c0bbab7a"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12085": {
             "created_at": 1468517835,
             "hashes": {
@@ -6658,10 +6724,10 @@
         "12091": {
             "created_at": 1485253894,
             "hashes": {
-                "318893": "dbfebf2aa4ec03577be8e571cfa0df67"
+                "318893": "91bb3d58f29c4296e78eb9415525ebfe"
             },
             "media": "show",
-            "updated_at": 1485253894
+            "updated_at": 1499255108
         },
         "12095": {
             "created_at": 1468517835,
@@ -6984,6 +7050,14 @@
             "media": "show",
             "updated_at": 1477297706
         },
+        "12238": {
+            "created_at": 1499255108,
+            "hashes": {
+                "325208": "cfc6590787821c94bca63cdd8ca74f2b"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1224": {
             "created_at": 1462383559,
             "hashes": {
@@ -7087,6 +7161,14 @@
             },
             "media": "show",
             "updated_at": 1477297706
+        },
+        "12287": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329415": "6afff56d5dbde9d3d16a0248ec5ee09f"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "12290": {
             "created_at": 1485253894,
@@ -7192,6 +7274,14 @@
             "media": "show",
             "updated_at": 1477297706
         },
+        "12324": {
+            "created_at": 1499255108,
+            "hashes": {
+                "318951": "15bc3608b3cce9c03c75dd50045004af"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12327": {
             "created_at": 1485253894,
             "hashes": {
@@ -7219,7 +7309,8 @@
         "12344": {
             "created_at": 1487165949,
             "hashes": {
-                "12344": "7e5f45c8d071a942653d8765648aa1e2"
+                "12344": "7e5f45c8d071a942653d8765648aa1e2",
+                "305074": "394f59772791b63abf7ce6f4145a8e85"
             },
             "media": "show",
             "updated_at": 1487165949
@@ -7320,6 +7411,14 @@
             "media": "show",
             "updated_at": 1477297706
         },
+        "12385": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329820": "ccbfc58d3b66131079eddc1a3bbfe7a8"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12387": {
             "created_at": 1485253894,
             "hashes": {
@@ -7376,6 +7475,14 @@
             "media": "show",
             "updated_at": 1477297706
         },
+        "12410": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327035": "7fa23f46d1c9dee01b8b6ccc51aa00bc"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12411": {
             "created_at": 1485253894,
             "hashes": {
@@ -7431,6 +7538,14 @@
             },
             "media": "show",
             "updated_at": 1477297706
+        },
+        "12425": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327507": "98d367dd2d19297aa4c9c1e2294b11f4"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "12426": {
             "created_at": 1492531393,
@@ -7528,6 +7643,14 @@
             "media": "show",
             "updated_at": 1464960912
         },
+        "12501": {
+            "created_at": 1499255108,
+            "hashes": {
+                "284263": "ef34542fc9847bd0935a9c7353af4325"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12502": {
             "created_at": 1485253894,
             "hashes": {
@@ -7584,6 +7707,14 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "12542": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329823": "ab6aee650e921f82af470e0a9cadd67c"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12548": {
             "created_at": 1485253894,
             "hashes": {
@@ -7607,6 +7738,14 @@
             },
             "media": "show",
             "updated_at": 1485253894
+        },
+        "12551": {
+            "created_at": 1499255108,
+            "hashes": {
+                "325192": "4da755ccc7e890b5e7c9f33379d14a95"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "12553": {
             "created_at": 1492531393,
@@ -7648,6 +7787,14 @@
             "media": "show",
             "updated_at": 1485253894
         },
+        "12576": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327010": "7f443300b6abc09a194d0d0ed3dbec63"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1258": {
             "created_at": 1462383559,
             "hashes": {
@@ -7680,6 +7827,14 @@
             "media": "show",
             "updated_at": 1492531393
         },
+        "12608": {
+            "created_at": 1499255108,
+            "hashes": {
+                "321531": "6aafa04b84d5a105b870f1fe05fc0784"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12621": {
             "created_at": 1492531393,
             "hashes": {
@@ -7696,10 +7851,19 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "12652": {
+            "created_at": 1499255108,
+            "hashes": {
+                "321691": "eecac2901ba28286dcac2874198e314d"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12655": {
             "created_at": 1492531393,
             "hashes": {
-                "283189": "bd9deb1194cbfa726cbc5cbe91f26a74"
+                "283189": "bd9deb1194cbfa726cbc5cbe91f26a74",
+                "326439": "eee07cce3447ec2f968d22f0aa5eec9f"
             },
             "media": "show",
             "updated_at": 1492531393
@@ -7736,6 +7900,14 @@
             "media": "show",
             "updated_at": 1492531393
         },
+        "12673": {
+            "created_at": 1499255108,
+            "hashes": {
+                "328826": "84da9b44b45e60da4e34b39e652067ff"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "12674": {
             "created_at": 1485253894,
             "hashes": {
@@ -7744,6 +7916,14 @@
             "media": "show",
             "updated_at": 1485253894
         },
+        "12675": {
+            "created_at": 1499255108,
+            "hashes": {
+                "82788": "d9257c20aa91bd4eac41fcf493230cfd"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1268": {
             "created_at": 1462383559,
             "hashes": {
@@ -7751,6 +7931,14 @@
             },
             "media": "show",
             "updated_at": 1464960920
+        },
+        "12681": {
+            "created_at": 1499255108,
+            "hashes": {
+                "326109": "3ef7cc628d5e62b1f57b963416c01b19"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "127": {
             "created_at": 1462383545,
@@ -7768,6 +7956,14 @@
             "media": "show",
             "updated_at": 1492531393
         },
+        "12704": {
+            "created_at": 1499255108,
+            "hashes": {
+                "326332": "c8ed00a7035f151d289c2687f699ade2"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1271": {
             "created_at": 1462383559,
             "hashes": {
@@ -7784,6 +7980,14 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "12737": {
+            "created_at": 1499255108,
+            "hashes": {
+                "282059": "8277ad455ce2e1362768832eabc353ba"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1274": {
             "created_at": 1462383559,
             "hashes": {
@@ -7791,6 +7995,22 @@
             },
             "media": "show",
             "updated_at": 1464960920
+        },
+        "12745": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327037": "b15197921c14bb5dbac11b9a794c9128"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "12746": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329829": "4868e549d62cb0790c71a822c19c349d"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "1275": {
             "created_at": 1462383559,
@@ -7816,6 +8036,22 @@
             "media": "show",
             "updated_at": 1492531393
         },
+        "12762": {
+            "created_at": 1499255108,
+            "hashes": {
+                "328823": "fb59be63070ffc1b791fad9b9a1e19bb"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "12789": {
+            "created_at": 1499255108,
+            "hashes": {
+                "325022": "d6858bf1c73d4177c111ad13a0c3c477"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "128": {
             "created_at": 1462383545,
             "hashes": {
@@ -7823,6 +8059,30 @@
             },
             "media": "show",
             "updated_at": 1464960912
+        },
+        "12803": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329821": "eb8fa8f582fbd93e81757344263b49de"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "12814": {
+            "created_at": 1499255108,
+            "hashes": {
+                "328822": "57e7f0b3ab0537ea6f6779c33992b22b"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "12819": {
+            "created_at": 1499255108,
+            "hashes": {
+                "309532": "41fffb1dbaa75724866efd72ec123c56"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "1282": {
             "created_at": 1462383559,
@@ -7839,6 +8099,22 @@
             },
             "media": "show",
             "updated_at": 1492531393
+        },
+        "12834": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327572": "2974e52f318ed1bb321ae5fef260ec7f"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "12835": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327015": "a503d652abfe45123a09412d1c1c90b1"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "129": {
             "created_at": 1462383545,
@@ -7896,6 +8172,14 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "12985": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329828": "594ac414f2f772683b163533c5282112"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1299": {
             "created_at": 1462383559,
             "hashes": {
@@ -7928,6 +8212,22 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "13017": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329827": "c1151901dff51c5eafc7c327249f4691"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "13019": {
+            "created_at": 1499255108,
+            "hashes": {
+                "327718": "27339e3c026172b401db80fac1991624"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1305": {
             "created_at": 1462383559,
             "hashes": {
@@ -7935,6 +8235,14 @@
             },
             "media": "show",
             "updated_at": 1464960920
+        },
+        "13050": {
+            "created_at": 1499255108,
+            "hashes": {
+                "257755": "129fc17c78d0c11b3fb9dae82d227f65"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "1306": {
             "created_at": 1462383559,
@@ -7951,6 +8259,14 @@
             },
             "media": "show",
             "updated_at": 1464960920
+        },
+        "13071": {
+            "created_at": 1499255108,
+            "hashes": {
+                "283243": "3521e61893843abd3ec2eda3a6d7e05d"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "1308": {
             "created_at": 1462383559,
@@ -7992,6 +8308,14 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "13117": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329993": "e75b3482c511e3b4cf9a90c474045947"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1312": {
             "created_at": 1487165946,
             "hashes": {
@@ -8008,6 +8332,14 @@
             "media": "show",
             "updated_at": 1464960920
         },
+        "13153": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329822": "8d0568c3262077cfc5d96d8465d7b030"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
         "1317": {
             "created_at": 1462383559,
             "hashes": {
@@ -8023,6 +8355,30 @@
             },
             "media": "show",
             "updated_at": 1464960920
+        },
+        "13192": {
+            "created_at": 1499255108,
+            "hashes": {
+                "330086": "18a83fe0578ab32be0913fd0dca50e1a"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "13197": {
+            "created_at": 1499255108,
+            "hashes": {
+                "330138": "f6bb983f310d2992f865d29402f1adff"
+            },
+            "media": "show",
+            "updated_at": 1499255108
+        },
+        "13198": {
+            "created_at": 1499255108,
+            "hashes": {
+                "329326": "dd786dd03f178bb5a68e1cfbcfe965c8"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "132": {
             "created_at": 1462383545,
@@ -8047,6 +8403,14 @@
             },
             "media": "show",
             "updated_at": 1464960920
+        },
+        "13219": {
+            "created_at": 1499255108,
+            "hashes": {
+                "271591": "95a9d62d80410dd9d1f9d42f80661afb"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "1322": {
             "created_at": 1462383559,
@@ -8549,10 +8913,10 @@
         "144": {
             "created_at": 1462383545,
             "hashes": {
-                "71361": "e48ccea842790c1d60878634c5ba1117"
+                "71361": "9e0f850298d18d95c9fe4b18c884b6bb"
             },
             "media": "show",
-            "updated_at": 1466429384
+            "updated_at": 1499255105
         },
         "1440": {
             "created_at": 1462383560,
@@ -11576,6 +11940,14 @@
             "media": "show",
             "updated_at": 1464960924
         },
+        "2106": {
+            "created_at": 1499255106,
+            "hashes": {
+                "283189": "28c1a8d9fa64445722be852cc744e8c1"
+            },
+            "media": "show",
+            "updated_at": 1499255106
+        },
         "2107": {
             "created_at": 1462383565,
             "hashes": {
@@ -13774,10 +14146,10 @@
         "266": {
             "created_at": 1462383547,
             "hashes": {
-                "72454": "cfcd600ffc99f2e86d06c672cd609cf5"
+                "72454": "4fe000d40b1637b2f352858da35c46dc"
             },
             "media": "show",
-            "updated_at": 1492531390
+            "updated_at": 1499255105
         },
         "2661": {
             "created_at": 1462383572,
@@ -15818,10 +16190,10 @@
         "3317": {
             "created_at": 1462383577,
             "hashes": {
-                "76023": "6bc758d5d97fa532ae98476e9c198bbe"
+                "76023": "0860fad7b0879aa909eb463e6593e014"
             },
             "media": "show",
-            "updated_at": 1464960929
+            "updated_at": 1499255106
         },
         "3319": {
             "created_at": 1462383577,
@@ -16582,6 +16954,14 @@
             },
             "media": "show",
             "updated_at": 1464960929
+        },
+        "3548": {
+            "created_at": 1499255106,
+            "hashes": {
+                "312723": "03176eacdb0e1ab29a77d652edf2b08b"
+            },
+            "media": "show",
+            "updated_at": 1499255106
         },
         "355": {
             "created_at": 1462383549,
@@ -26418,10 +26798,10 @@
         "69": {
             "created_at": 1462383544,
             "hashes": {
-                "81797": "ff887ff4bdd5b9ac978673f2f692674e"
+                "81797": "f569e539ac48536923a33ba7848215be"
             },
             "media": "show",
-            "updated_at": 1492531390
+            "updated_at": 1499255105
         },
         "690": {
             "created_at": 1462383553,
@@ -28254,6 +28634,14 @@
             },
             "media": "show",
             "updated_at": 1464960942
+        },
+        "7523": {
+            "created_at": 1499255107,
+            "hashes": {
+                "312723": "61fd6f3b08cd7d1662d38e691388e2ba"
+            },
+            "media": "show",
+            "updated_at": 1499255107
         },
         "7525": {
             "created_at": 1462383606,
@@ -33317,26 +33705,26 @@
         "8954": {
             "created_at": 1462383616,
             "hashes": {
-                "255898": "f8fb81f25ed1b691022b12139655aea1"
+                "255898": "2f2a2132672df7dc2996958ba3f7a322"
             },
             "media": "show",
-            "updated_at": 1464960947
+            "updated_at": 1499255108
         },
         "8955": {
             "created_at": 1462383616,
             "hashes": {
-                "255898": "b149851094a2e6816c31ee9889129567"
+                "255898": "848c0d808dc15be7a82efe596db04c6c"
             },
             "media": "show",
-            "updated_at": 1464960947
+            "updated_at": 1499255108
         },
         "8956": {
             "created_at": 1462383616,
             "hashes": {
-                "255898": "fe0a19569ed839f6649a614836f09686"
+                "255898": "b9829102a4736c0dcfd3b77d645b6349"
             },
             "media": "show",
-            "updated_at": 1464960947
+            "updated_at": 1499255108
         },
         "896": {
             "created_at": 1462383555,
@@ -33525,10 +33913,18 @@
         "9016": {
             "created_at": 1462383617,
             "hashes": {
-                "257755": "dbae2cecb79bc8d1367524b6053e3d59"
+                "257755": "25aa674324bc05ed84cfd859fb5c0458"
             },
             "media": "show",
-            "updated_at": 1464960947
+            "updated_at": 1499255108
+        },
+        "9018": {
+            "created_at": 1499255108,
+            "hashes": {
+                "312723": "b12fe61102111d6e640d2c52f5d07613"
+            },
+            "media": "show",
+            "updated_at": 1499255108
         },
         "9019": {
             "created_at": 1462383617,
@@ -36784,10 +37180,10 @@
         "9904": {
             "created_at": 1462383623,
             "hashes": {
-                "82788": "3edc6212ce160dba00231ad694720ab2"
+                "82788": "4e74dec376dee0f0d2e48b8db4c4d519"
             },
             "media": "show",
-            "updated_at": 1464960950
+            "updated_at": 1499255108
         },
         "9905": {
             "created_at": 1462383623,

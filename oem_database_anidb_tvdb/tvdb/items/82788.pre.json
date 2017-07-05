@@ -5,9 +5,22 @@
     "seasons": {
         "0": {
             "episodes": {
-                "2": {
+                "1": {
                     "identifiers": {
                         "anidb": "9904"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "10447"
                     },
                     "mappings": [
                         {
@@ -16,7 +29,20 @@
                         }
                     ],
                     "names": [
-                        "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
+                        "Natsume Yuujinchou: Itsuka Yuki no Hi ni"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "12009"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Natsume Yuujinchou Go"
                     ]
                 }
             }
@@ -59,6 +85,14 @@
             },
             "names": [
                 "Natsume Yuujinchou Go"
+            ]
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "12675"
+            },
+            "names": [
+                "Natsume Yuujinchou Roku"
             ]
         }
     }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13153",
+        "tvdb": "329822"
+    },
+    "names": [
+        "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

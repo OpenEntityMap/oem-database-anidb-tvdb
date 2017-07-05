@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12704",
+        "tvdb": "326332"
+    },
+    "names": [
+        "Fate/Apocrypha"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

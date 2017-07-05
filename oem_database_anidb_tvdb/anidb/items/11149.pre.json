@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11149",
+        "tvdb": "325022"
+    },
+    "names": [
+        "Pikaia!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
