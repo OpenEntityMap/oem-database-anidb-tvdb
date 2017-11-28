@@ -22,18 +22,6 @@
                 "default_season": 1,
                 "episode_offset": 0
             }
-        },
-        "2": {
-            "identifiers": {
-                "anidb": "3669"
-            },
-            "names": [
-                "Oz no Mahou Tsukai (1986)"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 30
-            }
         }
     }
 }

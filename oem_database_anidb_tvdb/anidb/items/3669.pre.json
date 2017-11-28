@@ -13,16 +13,10 @@
         "1": {
             "mappings": [
                 {
-                    "end": 30,
+                    "end": 52,
                     "offset": 0,
                     "season": "1",
                     "start": 1
-                },
-                {
-                    "end": 52,
-                    "offset": -30,
-                    "season": "2",
-                    "start": 31
                 }
             ]
         }
