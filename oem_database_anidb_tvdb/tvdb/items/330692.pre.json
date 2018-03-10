@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12743",
+        "tvdb": "330692"
+    },
+    "names": [
+        "Yuru Camp"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

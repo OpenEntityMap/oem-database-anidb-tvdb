@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13033",
+        "tvdb": "102261"
+    },
+    "names": [
+        "Owarimonogatari (2017)"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "32"
+    }
+}

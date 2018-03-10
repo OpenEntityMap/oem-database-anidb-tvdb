@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13345",
+        "tvdb": "332771"
+    },
+    "names": [
+        "Netojuu no Susume"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

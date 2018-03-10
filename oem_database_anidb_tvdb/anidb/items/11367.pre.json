@@ -1,12 +1,25 @@
 {
     "identifiers": {
         "anidb": "11367",
-        "tvdb": "287601"
+        "tvdb": "79460"
     },
     "names": [
         "Kindaichi Shounen no Jikenbo Returns (2015)"
     ],
     "parameters": {
-        "default_season": "2"
+        "default_season": "3"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

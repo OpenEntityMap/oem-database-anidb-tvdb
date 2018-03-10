@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13559",
+        "tvdb": "340786"
+    },
+    "names": [
+        "Mame Neko"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

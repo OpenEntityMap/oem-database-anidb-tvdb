@@ -84,7 +84,7 @@
                         }
                     ],
                     "names": [
-                        "Gekijouban Gintama: Shinyaku Benizakura Hen"
+                        "Gekijouban Gintama: Shin'yaku Benizakura Hen"
                     ]
                 },
                 "5": {
@@ -97,7 +97,7 @@
                         }
                     ],
                     "names": [
-                        "Gekijouban Gintama: Shinyaku Benizakura Hen"
+                        "Gekijouban Gintama: Shin'yaku Benizakura Hen"
                     ]
                 },
                 "6": {
@@ -241,6 +241,14 @@
             },
             "names": [
                 "Gintama."
+            ]
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "13263"
+            },
+            "names": [
+                "Gintama. (2017)"
             ]
         }
     }

@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11606",
         "tvdb": "306269"
     },
-    "names": [
-        "Sangatsu no Lion"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11606"
+            },
+            "names": [
+                "Sangatsu no Lion"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12994"
+            },
+            "names": [
+                "Sangatsu no Lion (2017)"
+            ]
+        }
     }
 }

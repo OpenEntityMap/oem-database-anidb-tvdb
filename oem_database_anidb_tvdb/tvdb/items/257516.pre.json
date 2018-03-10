@@ -5,6 +5,39 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "9187"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Accel World OVA"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
+                "10": {
+                    "identifiers": {
+                        "anidb": "9187"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Accel World OVA"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
                 "11": {
                     "identifiers": {
                         "anidb": "11680"
@@ -15,43 +48,22 @@
                     "parameters": {
                         "episode_offset": "10"
                     }
-                },
-                "2": {
-                    "identifiers": {
-                        "anidb": "8691"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
-                    "names": [
-                        "Accel World"
-                    ]
-                },
-                "3": {
-                    "identifiers": {
-                        "anidb": "8691"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2"
-                        }
-                    ],
-                    "names": [
-                        "Accel World"
-                    ]
                 }
             },
-            "identifiers": {
-                "anidb": "9187"
-            },
-            "names": [
-                "Accel World OVA"
-            ],
-            "supplemental": {
-                "studio": "Sunrise"
-            }
+            "mappings": [
+                {
+                    "end": 9,
+                    "identifiers": {
+                        "anidb": "8691"
+                    },
+                    "names": [
+                        "Accel World"
+                    ],
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ]
         },
         "1": {
             "identifiers": {

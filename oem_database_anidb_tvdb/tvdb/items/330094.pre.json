@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12899",
+        "tvdb": "330094"
+    },
+    "names": [
+        "Marvel Future Avengers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -20,18 +20,23 @@
                 },
                 "2": {
                     "identifiers": {
-                        "anidb": "2153"
+                        "anidb": "2152"
                     },
                     "mappings": [
                         {
-                            "number": "1"
+                            "number": "1",
+                            "season": "1"
                         },
                         {
-                            "number": "2"
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
                         }
                     ],
                     "names": [
-                        "Bishoujo Senshi Sailor Moon Super S - Sailor 9 Senshi Shuuketsu! Black-Dream-Hole no Kiseki"
+                        "Bishoujo Senshi Sailor Moon R (1993)"
                     ]
                 },
                 "3": {
@@ -52,68 +57,50 @@
                         "Bishoujo Senshi Sailor Moon Super S"
                     ]
                 },
-                "4": {
-                    "identifiers": {
-                        "anidb": "2540"
+                "4": [
+                    {
+                        "identifiers": {
+                            "anidb": "2151"
+                        },
+                        "mappings": [
+                            {
+                                "number": "1",
+                                "season": "1"
+                            },
+                            {
+                                "number": "2",
+                                "season": "1"
+                            },
+                            {
+                                "number": "3",
+                                "season": "1"
+                            }
+                        ],
+                        "names": [
+                            "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito"
+                        ],
+                        "number": "4"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "timeline": {
-                                "target": {
-                                    "start": 50
+                    {
+                        "identifiers": {
+                            "anidb": "2540"
+                        },
+                        "mappings": [
+                            {
+                                "number": "1",
+                                "timeline": {
+                                    "target": {
+                                        "start": 50
+                                    }
                                 }
                             }
-                        }
-                    ],
-                    "names": [
-                        "Bishoujo Senshi Sailor Moon Super S"
-                    ]
-                },
-                "6": {
-                    "identifiers": {
-                        "anidb": "2152"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
-                            "number": "2",
-                            "season": "1"
-                        },
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Bishoujo Senshi Sailor Moon R (1993)"
-                    ]
-                },
-                "7": {
-                    "identifiers": {
-                        "anidb": "2151"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
-                            "number": "2",
-                            "season": "1"
-                        },
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito"
-                    ]
-                },
+                        ],
+                        "names": [
+                            "Bishoujo Senshi Sailor Moon Super S"
+                        ],
+                        "number": "4"
+                    }
+                ],
                 "8": {
                     "identifiers": {
                         "anidb": "2153"
@@ -122,6 +109,19 @@
                         {
                             "number": "1",
                             "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Bishoujo Senshi Sailor Moon Super S - Sailor 9 Senshi Shuuketsu! Black-Dream-Hole no Kiseki"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "2153"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
                         }
                     ],
                     "names": [

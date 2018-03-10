@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13309",
+        "tvdb": "337123"
+    },
+    "names": [
+        "Marchen Madchen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

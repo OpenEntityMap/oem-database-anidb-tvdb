@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12034",
+        "tvdb": "329252"
+    },
+    "names": [
+        "Infini-T Force"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

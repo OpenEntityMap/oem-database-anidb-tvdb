@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "2436",
         "tvdb": "78881"
     },
-    "names": [
-        "Basilisk: Kouga Ninpou Chou"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "2436"
+            },
+            "names": [
+                "Basilisk: Kouga Ninpou Chou"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13291"
+            },
+            "names": [
+                "Basilisk: Ouka Ninpou Chou"
+            ]
+        }
     }
 }

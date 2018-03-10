@@ -37,6 +37,21 @@
                             "season": "0"
                         }
                     ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "2"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "season": "2"
+                        }
+                    ]
                 }
             }
         }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13270",
+        "tvdb": "337936"
+    },
+    "names": [
+        "Karakai Jouzu no Takagi-san"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

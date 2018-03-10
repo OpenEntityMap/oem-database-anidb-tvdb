@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13004",
+        "tvdb": "329992"
+    },
+    "names": [
+        "Isekai wa Smartphone to Tomo ni."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

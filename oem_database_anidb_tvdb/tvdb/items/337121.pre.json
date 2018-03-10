@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13336",
+        "tvdb": "337121"
+    },
+    "names": [
+        "Hakyuu Houshin Engi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -19,7 +19,7 @@
                         "Road to Ninja: Naruto the Movie"
                     ]
                 },
-                "14": {
+                "12": {
                     "identifiers": {
                         "anidb": "9588"
                     },
@@ -27,7 +27,7 @@
                         "The Last: Naruto the Movie"
                     ],
                     "parameters": {
-                        "episode_offset": "13"
+                        "episode_offset": "11"
                     }
                 },
                 "2": {

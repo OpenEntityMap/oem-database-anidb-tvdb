@@ -104,7 +104,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 28
+                "episode_offset": 13
             }
         },
         "3": {
@@ -116,7 +116,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 53
+                "episode_offset": 28
             }
         },
         "4": {
@@ -128,7 +128,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 101
+                "episode_offset": 68
             }
         },
         "5": {
@@ -140,7 +140,19 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 122
+                "episode_offset": 101
+            }
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "231"
+            },
+            "names": [
+                "Dragon Ball"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 132
             }
         }
     }

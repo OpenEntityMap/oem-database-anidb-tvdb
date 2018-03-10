@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13160",
+        "tvdb": "337013"
+    },
+    "names": [
+        "Slow Start"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

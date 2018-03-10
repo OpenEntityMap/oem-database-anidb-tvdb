@@ -4,14 +4,29 @@
     },
     "seasons": {
         "0": {
-            "identifiers": {
-                "anidb": "11854"
-            },
-            "names": [
-                "Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!"
-            ],
-            "parameters": {
-                "episode_offset": "2"
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "11854"
+                    },
+                    "names": [
+                        "Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "13317"
+                    },
+                    "names": [
+                        "Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                }
             }
         },
         "1": {

@@ -44,6 +44,45 @@
                     "names": [
                         "Natsume Yuujinchou Go"
                     ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "12009"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Natsume Yuujinchou Go"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "12675"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Natsume Yuujinchou Roku"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "12675"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Natsume Yuujinchou Roku"
+                    ]
                 }
             }
         },

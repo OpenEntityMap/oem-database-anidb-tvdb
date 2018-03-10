@@ -8,5 +8,47 @@
     ],
     "parameters": {
         "default_season": "4"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "mappings": [
+                {
+                    "end": 24,
+                    "offset": -12,
+                    "season": "5",
+                    "start": 13
+                },
+                {
+                    "end": 36,
+                    "offset": -24,
+                    "season": "6",
+                    "start": 25
+                },
+                {
+                    "end": 48,
+                    "offset": -36,
+                    "season": "7",
+                    "start": 37
+                }
+            ]
+        }
     }
 }

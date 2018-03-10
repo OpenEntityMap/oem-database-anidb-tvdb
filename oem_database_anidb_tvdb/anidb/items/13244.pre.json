@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13244",
+        "tvdb": "289909"
+    },
+    "names": [
+        "Shokugeki no Souma: San no Sara"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

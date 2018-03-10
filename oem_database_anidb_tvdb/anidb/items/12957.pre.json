@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12957",
+        "tvdb": "335113"
+    },
+    "names": [
+        "Mitsuboshi Colors"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

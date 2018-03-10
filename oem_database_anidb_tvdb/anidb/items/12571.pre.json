@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12571",
+        "tvdb": "289886"
+    },
+    "names": [
+        "Kekkai Sensen & Beyond"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

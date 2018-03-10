@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "9248",
-        "tvdb": "248458"
+        "tvdb": "79460"
     },
     "names": [
         "Kindaichi Shounen no Jikenbo (2012)"
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "0",
+                            "number": "6",
                             "season": "0"
                         }
                     ]
@@ -23,7 +23,7 @@
                 "2": {
                     "mappings": [
                         {
-                            "number": "0",
+                            "number": "7",
                             "season": "0"
                         }
                     ]

@@ -9,7 +9,10 @@
             },
             "names": [
                 "Gekijouban Psycho-Pass"
-            ]
+            ],
+            "parameters": {
+                "episode_offset": "11"
+            }
         },
         "1": {
             "identifiers": {

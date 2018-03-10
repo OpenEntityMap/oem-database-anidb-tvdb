@@ -219,6 +219,17 @@
                         "Nekomonogatari (Kuro): Tsubasa Family"
                     ]
                 },
+                "33": {
+                    "identifiers": {
+                        "anidb": "13033"
+                    },
+                    "names": [
+                        "Owarimonogatari (2017)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "32"
+                    }
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "9453"

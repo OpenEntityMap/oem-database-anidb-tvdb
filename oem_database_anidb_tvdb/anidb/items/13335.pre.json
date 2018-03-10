@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13335",
+        "tvdb": "332981"
+    },
+    "names": [
+        "Ousama Game The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

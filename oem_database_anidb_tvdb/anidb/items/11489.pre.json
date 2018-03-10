@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11489",
+        "tvdb": "279533"
+    },
+    "names": [
+        "Gekijouban KanColle"
+    ],
+    "parameters": {
+        "default_season": "0"
+    }
+}

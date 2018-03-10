@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13005",
+        "tvdb": "329528"
+    },
+    "names": [
+        "The King of Fighters: Destiny"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -8,7 +8,7 @@
     ],
     "parameters": {
         "default_season": "0",
-        "episode_offset": "14"
+        "episode_offset": "12"
     },
     "seasons": {
         "0": {

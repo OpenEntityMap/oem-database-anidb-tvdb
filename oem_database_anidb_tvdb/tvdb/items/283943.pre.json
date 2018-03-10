@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10736",
         "tvdb": "283943"
     },
-    "names": [
-        "Kuusen Madoushi Kouhosei no Kyoukan"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11385"
+            },
+            "names": [
+                "Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10736"
+            },
+            "names": [
+                "Kuusen Madoushi Kouhosei no Kyoukan"
+            ]
+        }
     }
 }

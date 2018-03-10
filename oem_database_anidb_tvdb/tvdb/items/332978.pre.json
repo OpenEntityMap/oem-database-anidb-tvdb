@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13322",
+        "tvdb": "332978"
+    },
+    "names": [
+        "Two Car"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

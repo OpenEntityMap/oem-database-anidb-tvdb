@@ -1,12 +1,12 @@
 {
     "identifiers": {
         "anidb": "4902",
-        "tvdb": "80387"
+        "tvdb": "247789"
     },
     "names": [
         "Saint Beast: Kouin Jojishi Tenshi Tan"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "2"
     }
 }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13376",
+        "tvdb": "337015"
+    },
+    "names": [
+        "Takunomi."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

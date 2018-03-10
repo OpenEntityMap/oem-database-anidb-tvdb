@@ -4,15 +4,27 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "10663"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Kekkai Sensen"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "11889"
             },
             "names": [
                 "Kekkai Sensen: Ou-sama no Restaurant no Ou-sama"
-            ],
-            "parameters": {
-                "episode_offset": "1"
-            }
+            ]
         },
         "1": {
             "identifiers": {
@@ -20,6 +32,14 @@
             },
             "names": [
                 "Kekkai Sensen"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12571"
+            },
+            "names": [
+                "Kekkai Sensen & Beyond"
             ]
         }
     }

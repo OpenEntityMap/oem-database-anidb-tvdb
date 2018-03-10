@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13500",
+        "tvdb": "337020"
+    },
+    "names": [
+        "Beatless"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

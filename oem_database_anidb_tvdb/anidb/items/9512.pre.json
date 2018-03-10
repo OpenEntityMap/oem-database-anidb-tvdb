@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "9512",
+        "tvdb": "79360"
+    },
+    "names": [
+        "Aratanari Fukaki Ao"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12524",
+        "tvdb": "330087"
+    },
+    "names": [
+        "Ikemen Sengoku: Toki o Kakeru ga Koi wa Hajimaranai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

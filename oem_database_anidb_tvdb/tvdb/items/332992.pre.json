@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12731",
+        "tvdb": "332992"
+    },
+    "names": [
+        "Dynamic Chord"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

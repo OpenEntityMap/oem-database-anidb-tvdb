@@ -3,6 +3,30 @@
         "tvdb": "262856"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "10820"
+            },
+            "names": [
+                "Teekyuu (2015)"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "9367"
@@ -19,10 +43,74 @@
                 "Teekyuu (2013)"
             ]
         },
+        "3": {
+            "identifiers": {
+                "anidb": "9805"
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": 12,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Teekyuu (2013)"
+            ]
+        },
         "4": {
             "identifiers": {
                 "anidb": "10820"
             },
+            "names": [
+                "Teekyuu (2015)"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "10820"
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": 12,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Teekyuu (2015)"
+            ]
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "10820"
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": 24,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Teekyuu (2015)"
+            ]
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "10820"
+            },
+            "mappings": [
+                {
+                    "end": 12,
+                    "offset": 36,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Teekyuu (2015)"
             ]
@@ -33,6 +121,14 @@
             },
             "names": [
                 "Teekyuu (2016)"
+            ]
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "13099"
+            },
+            "names": [
+                "Teekyuu (2017)"
             ]
         }
     }

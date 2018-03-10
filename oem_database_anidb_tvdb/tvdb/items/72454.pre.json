@@ -170,20 +170,6 @@
                         "Meitantei Conan: Agasa-sensei no Chousenjou! Agasa vs Conan & Shounen Tanteidan"
                     ]
                 },
-                "18": {
-                    "identifiers": {
-                        "anidb": "7256"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Meitantei Conan Magic File"
-                    ]
-                },
                 "19": {
                     "identifiers": {
                         "anidb": "4937"
@@ -1107,6 +1093,18 @@
             "parameters": {
                 "default_season": 1,
                 "episode_offset": 803
+            }
+        },
+        "26": {
+            "identifiers": {
+                "anidb": "266"
+            },
+            "names": [
+                "Meitantei Conan"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 886
             }
         },
         "3": {

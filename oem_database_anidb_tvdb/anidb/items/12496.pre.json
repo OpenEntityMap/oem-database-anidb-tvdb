@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12496",
+        "tvdb": "335116"
+    },
+    "names": [
+        "Grancrest Senki"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

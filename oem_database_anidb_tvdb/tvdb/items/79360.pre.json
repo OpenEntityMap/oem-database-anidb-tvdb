@@ -21,6 +21,22 @@
                         "studio": "Bones"
                     }
                 },
+                "3": {
+                    "identifiers": {
+                        "anidb": "2826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Koukyoushihen: Eureka Seven"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "9147"
@@ -36,6 +52,17 @@
                     ],
                     "supplemental": {
                         "studio": "Bones"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "9512"
+                    },
+                    "names": [
+                        "Aratanari Fukaki Ao"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
                     }
                 }
             },

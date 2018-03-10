@@ -7,7 +7,8 @@
         "One Piece Film: Z"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "26"
     },
     "seasons": {
         "0": {
@@ -25,16 +26,11 @@
                             "number": "26"
                         }
                     ]
-                }
-            }
-        },
-        "1": {
-            "episodes": {
-                "1": {
+                },
+                "3": {
                     "mappings": [
                         {
-                            "number": "27",
-                            "season": "0"
+                            "number": "26"
                         }
                     ]
                 }

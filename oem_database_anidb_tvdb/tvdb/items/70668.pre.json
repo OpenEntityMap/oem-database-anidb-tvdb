@@ -151,6 +151,14 @@
                 "default_season": 1,
                 "episode_offset": 46
             }
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "12140"
+            },
+            "names": [
+                "Cardcaptor Sakura: Clear Card Hen"
+            ]
         }
     }
 }

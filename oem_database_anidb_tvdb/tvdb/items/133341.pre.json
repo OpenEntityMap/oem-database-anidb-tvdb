@@ -5,20 +5,72 @@
     "seasons": {
         "0": {
             "episodes": {
-                "4": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "6671"
+                    },
                     "mappings": [
                         {
                             "number": "1"
                         }
+                    ],
+                    "names": [
+                        "Durarara!!"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "6671"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Durarara!!"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "10523"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Durarara!!x2 Shou"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "10866"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Durarara!!x2 Ten"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "10867"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Durarara!!x2 Ketsu"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "10866"
-            },
-            "names": [
-                "Durarara!!x2 Ten"
-            ]
+            }
         },
         "1": {
             "identifiers": {

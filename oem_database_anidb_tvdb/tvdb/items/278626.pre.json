@@ -5,6 +5,33 @@
     "seasons": {
         "0": {
             "episodes": {
+                "0": {
+                    "identifiers": {
+                        "anidb": "9977"
+                    },
+                    "names": [
+                        "Fate/Stay Night: Unlimited Blade Works (2014)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "-1"
+                    }
+                },
+                "1": {
+                    "identifiers": {
+                        "anidb": "9977"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Fate/Stay Night: Unlimited Blade Works (2014)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "-1"
+                    }
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "10760"
@@ -18,16 +45,21 @@
                         "Fate/Stay Night: Unlimited Blade Works (2015)"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "10939"
-            },
-            "names": [
-                "Gekijouban Sidonia no Kishi"
-            ]
+            }
         },
         "1": {
             "episodes": {
+                "0": {
+                    "identifiers": {
+                        "anidb": "9977"
+                    },
+                    "names": [
+                        "Fate/Stay Night: Unlimited Blade Works (2014)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "-1"
+                    }
+                },
                 "13": {
                     "identifiers": {
                         "anidb": "10760"
@@ -39,13 +71,7 @@
                         "episode_offset": "12"
                     }
                 }
-            },
-            "identifiers": {
-                "anidb": "9977"
-            },
-            "names": [
-                "Fate/Stay Night: Unlimited Blade Works (2014)"
-            ]
+            }
         }
     }
 }

@@ -4,14 +4,72 @@
     },
     "seasons": {
         "0": {
-            "identifiers": {
-                "anidb": "12147"
-            },
-            "names": [
-                "Ple Ple Pleiades"
-            ],
-            "parameters": {
-                "episode_offset": "8"
+            "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "12439"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Soushuuhen Overlord"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "12439"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Soushuuhen Overlord"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "12439"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Soushuuhen Overlord"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "12439"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Soushuuhen Overlord"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "12147"
+                    },
+                    "names": [
+                        "Ple Ple Pleiades"
+                    ],
+                    "parameters": {
+                        "episode_offset": "8"
+                    }
+                }
             }
         },
         "1": {
@@ -20,6 +78,14 @@
             },
             "names": [
                 "Overlord"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12952"
+            },
+            "names": [
+                "Overlord II"
             ]
         }
     }

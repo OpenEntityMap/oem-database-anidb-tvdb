@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12266",
+        "tvdb": "329313"
+    },
+    "names": [
+        "Hitorijime My Hero"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

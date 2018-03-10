@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13300",
+        "tvdb": "339401"
+    },
+    "names": [
+        "Dame x Prince Anime Caravan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

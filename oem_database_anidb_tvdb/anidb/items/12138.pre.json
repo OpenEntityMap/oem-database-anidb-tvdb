@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12138",
+        "tvdb": "330139"
+    },
+    "names": [
+        "Violet Evergarden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

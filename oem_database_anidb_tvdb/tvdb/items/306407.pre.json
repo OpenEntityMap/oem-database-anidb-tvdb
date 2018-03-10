@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11878",
         "tvdb": "306407"
     },
-    "names": [
-        "Love Live! Sunshine!!"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11878"
+            },
+            "names": [
+                "Love Live! Sunshine!!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12897"
+            },
+            "names": [
+                "Love Live! Sunshine!! (2017)"
+            ]
+        }
     }
 }

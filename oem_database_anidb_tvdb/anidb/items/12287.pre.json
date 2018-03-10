@@ -1,12 +1,12 @@
 {
     "identifiers": {
         "anidb": "12287",
-        "tvdb": "329415"
+        "tvdb": "80587"
     },
     "names": [
         "Saiyuuki Reload Blast"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "5"
     }
 }

@@ -6,19 +6,32 @@
         "0": {
             "episodes": {
                 "1": {
+                    "identifiers": {
+                        "anidb": "959"
+                    },
                     "mappings": [
                         {
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Fullmetal Panic? Fumoffu"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "2710"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Fullmetal Panic! The Second Raid"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "959"
-            },
-            "names": [
-                "Fullmetal Panic? Fumoffu"
-            ]
+            }
         },
         "1": {
             "identifiers": {
@@ -41,6 +54,21 @@
                     "mappings": [
                         {
                             "season": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
                         }
                     ]
                 }

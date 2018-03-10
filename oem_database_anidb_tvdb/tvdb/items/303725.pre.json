@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11601",
         "tvdb": "303725"
     },
-    "names": [
-        "Dagashi Kashi"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11601"
+            },
+            "names": [
+                "Dagashi Kashi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13355"
+            },
+            "names": [
+                "Dagashi Kashi 2"
+            ]
+        }
     }
 }

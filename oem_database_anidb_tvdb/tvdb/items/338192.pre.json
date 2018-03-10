@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12986",
+        "tvdb": "338192"
+    },
+    "names": [
+        "Devilman: Crybaby"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

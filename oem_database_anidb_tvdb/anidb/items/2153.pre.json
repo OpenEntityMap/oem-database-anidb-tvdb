@@ -15,14 +15,21 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "9"
                         }
                     ]
                 },
                 "2": {
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0"
                         }
                     ]
                 }

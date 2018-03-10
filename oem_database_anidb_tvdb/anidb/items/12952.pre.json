@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12952",
+        "tvdb": "294002"
+    },
+    "names": [
+        "Overlord II"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12554",
+        "tvdb": "329422"
+    },
+    "names": [
+        "Hajimete no Gal"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

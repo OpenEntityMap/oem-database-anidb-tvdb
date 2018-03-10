@@ -7,7 +7,7 @@
         "Kindaichi Shounen no Jikenbo 2: Satsuriku no Deep Blue"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "0"
     },
     "seasons": {
         "1": {
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "0",
+                            "number": "3",
                             "season": "0"
                         }
                     ]

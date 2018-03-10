@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13276",
+        "tvdb": "337617"
+    },
+    "names": [
+        "Hakata Tonkotsu Ramens"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

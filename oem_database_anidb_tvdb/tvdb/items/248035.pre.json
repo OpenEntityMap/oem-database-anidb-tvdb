@@ -31,6 +31,20 @@
                     "names": [
                         "Ao no Exorcist Gekijouban"
                     ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "12574"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ao no Exorcist: Kyoto Fujouou Hen - Hebi to Doku"
+                    ]
                 }
             }
         },

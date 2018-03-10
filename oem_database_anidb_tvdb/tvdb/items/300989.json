@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"11347","tvdb":"300989"},"names":["Osomatsu-san"],"parameters":{"default_season":"1"}}
+{"identifiers":{"tvdb":"300989"},"seasons":{"0":{"episodes":{"10":{"identifiers":{"anidb":"12472"},"mappings":[{"number":"1","season":"1"}],"names":["Osomatsu-san: Ouma de Kobanashi"]}},"mappings":[{"end":9,"identifiers":{"anidb":"11347"},"names":["Osomatsu-san"],"offset":1,"season":"0","start":2}]},"1":{"identifiers":{"anidb":"11347"},"names":["Osomatsu-san"]},"2":{"identifiers":{"anidb":"12944"},"names":["Osomatsu-san (2017)"]}}}

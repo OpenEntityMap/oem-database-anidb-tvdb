@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13106",
+        "tvdb": "293121"
+    },
+    "names": [
+        "Himouto! Umaru-chan R"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

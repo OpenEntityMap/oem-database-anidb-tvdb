@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13035",
+        "tvdb": "332980"
+    },
+    "names": [
+        "Urahara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

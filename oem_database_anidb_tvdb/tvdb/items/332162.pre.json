@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12694",
+        "tvdb": "332162"
+    },
+    "names": [
+        "Blend S"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

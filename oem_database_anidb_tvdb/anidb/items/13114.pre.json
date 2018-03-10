@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13114",
+        "tvdb": "332987"
+    },
+    "names": [
+        "Anime-Gataris"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

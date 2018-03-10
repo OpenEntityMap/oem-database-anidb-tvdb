@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12140",
+        "tvdb": "70668"
+    },
+    "names": [
+        "Cardcaptor Sakura: Clear Card Hen"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

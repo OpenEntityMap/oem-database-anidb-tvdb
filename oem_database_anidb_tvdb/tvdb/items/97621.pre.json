@@ -18,6 +18,14 @@
             "names": [
                 "Fireball Charming"
             ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "13398"
+            },
+            "names": [
+                "Fireball Humorous"
+            ]
         }
     }
 }

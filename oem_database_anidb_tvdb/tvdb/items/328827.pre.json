@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13031",
+        "tvdb": "328827"
+    },
+    "names": [
+        "Princess Principal"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

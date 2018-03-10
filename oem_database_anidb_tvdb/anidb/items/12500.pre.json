@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12500",
+        "tvdb": "284263"
+    },
+    "names": [
+        "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}
