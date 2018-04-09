@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13518",
+        "tvdb": "341436"
+    },
+    "names": [
+        "Major 2nd"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

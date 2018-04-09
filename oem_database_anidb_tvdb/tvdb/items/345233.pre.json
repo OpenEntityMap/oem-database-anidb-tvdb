@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13875",
+        "tvdb": "345233"
+    },
+    "names": [
+        "Wakaokami wa Shougakusei!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

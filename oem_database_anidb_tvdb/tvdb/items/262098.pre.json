@@ -449,6 +449,17 @@
                         "Girls und Panzer Gekijouban"
                     ]
                 },
+                "41": {
+                    "identifiers": {
+                        "anidb": "12361"
+                    },
+                    "names": [
+                        "Girls und Panzer: Saishuushou"
+                    ],
+                    "parameters": {
+                        "episode_offset": "40"
+                    }
+                },
                 "5": {
                     "identifiers": {
                         "anidb": "9227"

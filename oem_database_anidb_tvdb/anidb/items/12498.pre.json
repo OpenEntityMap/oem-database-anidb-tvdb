@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12498",
+        "tvdb": "254653"
+    },
+    "names": [
+        "High School DxD Hero"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

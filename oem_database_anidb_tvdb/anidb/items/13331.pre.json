@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13331",
+        "tvdb": "344315"
+    },
+    "names": [
+        "Persona 5 the Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13034",
+        "tvdb": "344220"
+    },
+    "names": [
+        "Uma Musume: Pretty Derby"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

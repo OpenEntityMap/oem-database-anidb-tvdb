@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13564",
+        "tvdb": "339922"
+    },
+    "names": [
+        "Kakuriyo no Yadomeshi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

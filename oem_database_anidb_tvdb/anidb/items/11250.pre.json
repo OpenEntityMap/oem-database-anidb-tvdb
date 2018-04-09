@@ -1,0 +1,51 @@
+{
+    "identifiers": {
+        "anidb": "11250",
+        "tvdb": "264533"
+    },
+    "names": [
+        "Love Live! M's-&gt;Next Love Live! 2014: Endless Parade"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

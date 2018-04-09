@@ -4,53 +4,20 @@
     },
     "seasons": {
         "0": {
-            "episodes": {
-                "29": {
-                    "identifiers": {
-                        "anidb": "12942"
-                    },
-                    "mappings": [
-                        {
-                            "number": "12"
-                        }
-                    ],
-                    "names": [
-                        "Mahou Tsukai no Yome"
-                    ]
-                }
-            },
             "identifiers": {
-                "anidb": "11982"
+                "anidb": [
+                    "11982",
+                    "12942"
+                ]
             },
-            "mappings": [
-                {
-                    "end": 14,
-                    "identifiers": {
-                        "anidb": "12942"
-                    },
-                    "names": [
-                        "Mahou Tsukai no Yome"
-                    ],
-                    "offset": -3,
-                    "season": "0",
-                    "start": 4
-                },
-                {
-                    "end": 28,
-                    "identifiers": {
-                        "anidb": "12942"
-                    },
-                    "names": [
-                        "Mahou Tsukai no Yome"
-                    ],
-                    "offset": -2,
-                    "season": "0",
-                    "start": 15
-                }
-            ],
-            "names": [
-                "Mahou Tsukai no Yome: Hoshi Matsu Hito"
-            ]
+            "names": {
+                "11982": [
+                    "Mahou Tsukai no Yome: Hoshi Matsu Hito"
+                ],
+                "12942": [
+                    "Mahou Tsukai no Yome"
+                ]
+            }
         },
         "1": {
             "identifiers": {

@@ -5,6 +5,19 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
                 "10": {
                     "identifiers": {
                         "anidb": "11184"
@@ -105,6 +118,84 @@
                         "High School DxD Born"
                     ]
                 },
+                "2": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "8660"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD"
+                    ]
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "8925"
@@ -143,6 +234,14 @@
             },
             "names": [
                 "High School DxD Born"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "12498"
+            },
+            "names": [
+                "High School DxD Hero"
             ]
         }
     }

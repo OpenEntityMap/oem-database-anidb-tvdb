@@ -5,6 +5,20 @@
     "seasons": {
         "0": {
             "episodes": {
+                "14": {
+                    "identifiers": {
+                        "anidb": "13543"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shinmai Maou no Testament Departures"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "11890"

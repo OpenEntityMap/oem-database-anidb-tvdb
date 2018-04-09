@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12622",
+        "tvdb": "335088"
+    },
+    "names": [
+        "Nekopara"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13503",
+        "tvdb": "321503"
+    },
+    "names": [
+        "Spirit Pact: Yomi no Chigiri"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

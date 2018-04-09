@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13643",
+        "tvdb": "278626"
+    },
+    "names": [
+        "Fate/Grand Order: Moonlight/Lostroom"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

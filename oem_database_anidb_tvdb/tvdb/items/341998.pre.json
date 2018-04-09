@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13424",
+        "tvdb": "341998"
+    },
+    "names": [
+        "Mahou Shoujo Site"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

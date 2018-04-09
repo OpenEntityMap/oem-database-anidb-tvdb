@@ -4,27 +4,23 @@
     },
     "seasons": {
         "0": {
-            "episodes": {
-                "2": {
-                    "identifiers": {
-                        "anidb": "23"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
-                    "names": [
-                        "Cowboy Bebop"
-                    ],
-                    "supplemental": {
-                        "studio": "Sunrise"
-                    }
-                }
-            },
             "identifiers": {
                 "anidb": "219"
             },
+            "mappings": [
+                {
+                    "end": 15,
+                    "identifiers": {
+                        "anidb": "23"
+                    },
+                    "names": [
+                        "Cowboy Bebop"
+                    ],
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ],
             "names": [
                 "Cowboy Bebop: Tengoku no Tobira"
             ]

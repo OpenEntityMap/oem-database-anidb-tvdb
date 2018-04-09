@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13781",
+        "tvdb": "342345"
+    },
+    "names": [
+        "Omae wa Mada Gunma o Shiranai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

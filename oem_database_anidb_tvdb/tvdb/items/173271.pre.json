@@ -88,6 +88,20 @@
                         "Seitokai Yakuindomo * OAD"
                     ]
                 },
+                "15": {
+                    "identifiers": {
+                        "anidb": "12618"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Seitokai Yakuindomo"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "8204"

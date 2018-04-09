@@ -1,12 +1,33 @@
 {
     "identifiers": {
-        "anidb": "11803",
         "tvdb": "307375"
     },
-    "names": [
-        "Mob Psycho 100"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "13527"
+            },
+            "names": [
+                "Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11803"
+            },
+            "names": [
+                "Mob Psycho 100"
+            ]
+        }
     }
 }

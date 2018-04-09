@@ -5,6 +5,46 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "11250"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Love Live! M's-&gt;Next Love Live! 2014: Endless Parade"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "11250"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Love Live! M's-&gt;Next Love Live! 2014: Endless Parade"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "11250"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Live! M's-&gt;Next Love Live! 2014: Endless Parade"
+                    ]
+                },
                 "6": {
                     "identifiers": {
                         "anidb": "10177"
@@ -35,6 +75,19 @@
                     "parameters": {
                         "episode_offset": "7"
                     }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "11250"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Live! M's-&gt;Next Love Live! 2014: Endless Parade"
+                    ]
                 }
             }
         },

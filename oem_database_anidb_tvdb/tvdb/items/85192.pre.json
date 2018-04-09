@@ -1,13 +1,6 @@
 {
     "identifiers": {
-        "anidb": "4750",
         "tvdb": "85192"
-    },
-    "names": [
-        "Souten no Ken"
-    ],
-    "parameters": {
-        "default_season": "1"
     },
     "seasons": {
         "1": {
@@ -93,7 +86,21 @@
                         }
                     ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "4750"
+            },
+            "names": [
+                "Souten no Ken"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13540"
+            },
+            "names": [
+                "Souten no Ken: Regenesis"
+            ]
         }
     }
 }

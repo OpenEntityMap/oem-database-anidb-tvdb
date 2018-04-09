@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13902",
+        "tvdb": "339072"
+    },
+    "names": [
+        "Sword Gai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

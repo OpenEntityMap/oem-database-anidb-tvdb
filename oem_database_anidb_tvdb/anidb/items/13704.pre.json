@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13704",
+        "tvdb": "275613"
+    },
+    "names": [
+        "Hoozuki no Reitetsu (2018)"
+    ],
+    "parameters": {
+        "default_season": "2",
+        "episode_offset": "13"
+    }
+}

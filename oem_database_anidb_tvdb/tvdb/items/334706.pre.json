@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13217",
         "tvdb": "334706"
     },
-    "names": [
-        "Boku no Kanojo ga Majime Sugiru Shobitch na Ken"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "13515"
+            },
+            "names": [
+                "Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "13217"
+            },
+            "names": [
+                "Boku no Kanojo ga Majime Sugiru Shobitch na Ken"
+            ]
+        }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13752",
+        "tvdb": "345381"
+    },
+    "names": [
+        "Kiratto Pri Chan"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -5,34 +5,85 @@
     "seasons": {
         "0": {
             "episodes": {
-                "4": {
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ]
-                },
-                "5": {
-                    "mappings": [
-                        {
-                            "number": "2"
-                        }
-                    ]
-                },
-                "6": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "9960"
+                    },
                     "mappings": [
                         {
                             "number": "3"
                         }
+                    ],
+                    "names": [
+                        "Gundam Build Fighters"
                     ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "9960"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gundam Build Fighters"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "9960"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Gundam Build Fighters"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "12123"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gundam Build Fighters Try: Island Wars"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "13162"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gundam Build Fighters: GM no Gyakushuu"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "13167"
+                    },
+                    "names": [
+                        "Gundam Build Fighters: Battlogue"
+                    ],
+                    "parameters": {
+                        "episode_offset": "5"
+                    }
                 }
-            },
-            "identifiers": {
-                "anidb": "9960"
-            },
-            "names": [
-                "Gundam Build Fighters"
-            ]
+            }
         },
         "1": {
             "identifiers": {

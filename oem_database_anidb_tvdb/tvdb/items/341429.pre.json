@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12252",
+        "tvdb": "341429"
+    },
+    "names": [
+        "Juushinki Pandora"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

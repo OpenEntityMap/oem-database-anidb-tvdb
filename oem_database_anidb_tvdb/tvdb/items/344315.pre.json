@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "344315"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11607"
+            },
+            "names": [
+                "Persona 5 the Animation: The Day Breakers"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "13331"
+            },
+            "names": [
+                "Persona 5 the Animation"
+            ]
+        }
+    }
+}

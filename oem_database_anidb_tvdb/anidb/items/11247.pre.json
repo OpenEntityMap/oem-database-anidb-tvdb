@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11247",
+        "tvdb": "114801"
+    },
+    "names": [
+        "Gekijouban Fairy Tail: Dragon Cry"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

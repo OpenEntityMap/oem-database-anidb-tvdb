@@ -4,6 +4,22 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "16": {
+                    "identifiers": {
+                        "anidb": "12909"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "To Love-Ru: Trouble - Multiplication - Mae kara Ushiro kara"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": [
                     "6463",

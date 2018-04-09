@@ -4,6 +4,19 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "12685"
+                    },
+                    "names": [
+                        "Drifters (2017)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "12038"
             },

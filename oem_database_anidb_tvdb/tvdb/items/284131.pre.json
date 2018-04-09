@@ -31,19 +31,19 @@
         },
         "1": {
             "identifiers": {
-                "anidb": [
-                    "10596",
-                    "11646"
-                ]
+                "anidb": "10596"
             },
-            "names": {
-                "10596": [
-                    "Nanatsu no Taizai"
-                ],
-                "11646": [
-                    "Nanatsu no Taizai: Imashime no Fukkatsu"
-                ]
-            }
+            "names": [
+                "Nanatsu no Taizai"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "11646"
+            },
+            "names": [
+                "Nanatsu no Taizai: Imashime no Fukkatsu"
+            ]
         }
     }
 }

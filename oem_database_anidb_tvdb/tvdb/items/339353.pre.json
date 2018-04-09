@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11950",
+        "tvdb": "339353"
+    },
+    "names": [
+        "B: The Beginning"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

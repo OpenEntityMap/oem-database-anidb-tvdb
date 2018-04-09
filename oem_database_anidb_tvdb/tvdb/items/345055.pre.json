@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13774",
+        "tvdb": "345055"
+    },
+    "names": [
+        "Gundam Build Divers"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

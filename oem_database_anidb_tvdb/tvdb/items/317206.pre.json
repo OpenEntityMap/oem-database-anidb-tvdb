@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "12087",
         "tvdb": "317206"
     },
-    "names": [
-        "Lostorage Incited WIXOSS"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "12087"
+            },
+            "names": [
+                "Lostorage Incited WIXOSS"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12686"
+            },
+            "names": [
+                "Lostorage Conflated WIXOSS"
+            ]
+        }
     }
 }

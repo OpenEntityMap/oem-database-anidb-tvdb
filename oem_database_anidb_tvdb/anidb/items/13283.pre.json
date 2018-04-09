@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13283",
+        "tvdb": "341434"
+    },
+    "names": [
+        "Devils' Line"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

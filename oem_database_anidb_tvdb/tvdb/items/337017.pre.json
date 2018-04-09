@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13259",
+        "tvdb": "337017"
+    },
+    "names": [
+        "Darling in the Franxx"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

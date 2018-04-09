@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "11839",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Italian Game"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "41",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

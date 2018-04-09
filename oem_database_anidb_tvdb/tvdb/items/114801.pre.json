@@ -5,6 +5,20 @@
     "seasons": {
         "0": {
             "episodes": {
+                "12": {
+                    "identifiers": {
+                        "anidb": "11247"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Fairy Tail: Dragon Cry"
+                    ]
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "8788"

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "10770",
+        "tvdb": "342349"
+    },
+    "names": [
+        "Mahou Shoujo Ore"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

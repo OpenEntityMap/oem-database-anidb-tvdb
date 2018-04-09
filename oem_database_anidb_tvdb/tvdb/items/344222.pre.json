@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13426",
+        "tvdb": "344222"
+    },
+    "names": [
+        "Uchuu Senkan Tiramisu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

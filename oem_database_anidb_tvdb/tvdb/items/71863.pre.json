@@ -507,6 +507,20 @@
                         "Lupin Sansei: Lupin vs Fukusei-ningen"
                     ]
                 },
+                "41": {
+                    "identifiers": {
+                        "anidb": "11839"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Lupin Sansei: Italian Game"
+                    ]
+                },
                 "5": {
                     "identifiers": {
                         "anidb": "320"
@@ -655,6 +669,14 @@
             },
             "names": [
                 "Lupin Sansei (2015)"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "13266"
+            },
+            "names": [
+                "Lupin Sansei: Part 5"
             ]
         }
     }
