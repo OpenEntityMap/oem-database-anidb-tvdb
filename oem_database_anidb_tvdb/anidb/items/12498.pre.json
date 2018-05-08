@@ -7,6 +7,21 @@
         "High School DxD Hero"
     ],
     "parameters": {
-        "default_season": "4"
+        "default_season": "4",
+        "episode_offset": "-1"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

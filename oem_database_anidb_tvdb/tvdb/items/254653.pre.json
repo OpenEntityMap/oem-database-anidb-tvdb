@@ -118,6 +118,20 @@
                         "High School DxD Born"
                     ]
                 },
+                "18": {
+                    "identifiers": {
+                        "anidb": "12498"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "High School DxD Hero"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "8660"
@@ -242,7 +256,10 @@
             },
             "names": [
                 "High School DxD Hero"
-            ]
+            ],
+            "parameters": {
+                "episode_offset": "-1"
+            }
         }
     }
 }

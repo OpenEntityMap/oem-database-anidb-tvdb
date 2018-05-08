@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13505",
+        "tvdb": "342117"
+    },
+    "names": [
+        "Dorei-ku The Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

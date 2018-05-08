@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13740",
+        "tvdb": "315092"
+    },
+    "names": [
+        "Nobunaga no Shinobi: Anegawa Ishiyama Hen"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11288",
+        "tvdb": "275582"
+    },
+    "names": [
+        "Eiga Youkai Watch: Enma Daiou to Itsutsu no Monogatari Da Nyan!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13658",
+        "tvdb": "289909"
+    },
+    "names": [
+        "Shokugeki no Souma: San no Sara - Tootsuki Ressha Hen"
+    ],
+    "parameters": {
+        "default_season": "3",
+        "episode_offset": "12"
+    }
+}

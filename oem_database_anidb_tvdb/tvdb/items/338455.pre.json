@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13337",
+        "tvdb": "338455"
+    },
+    "names": [
+        "Golden Kamuy"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

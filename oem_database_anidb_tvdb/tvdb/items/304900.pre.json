@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11683",
         "tvdb": "304900"
     },
-    "names": [
-        "Amanchu!"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11683"
+            },
+            "names": [
+                "Amanchu!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13583"
+            },
+            "names": [
+                "Amanchu! Advance"
+            ]
+        }
     }
 }

@@ -1,12 +1,55 @@
 {
     "identifiers": {
-        "anidb": "9930",
         "tvdb": "275582"
     },
-    "names": [
-        "Youkai Watch"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "11288"
+                    },
+                    "names": [
+                        "Eiga Youkai Watch: Enma Daiou to Itsutsu no Monogatari Da Nyan!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "11816"
+                    },
+                    "names": [
+                        "Eiga Youkai Watch: Soratobu Kujira to Double Sekai no Daibouken Da Nyan!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "10680"
+            },
+            "names": [
+                "Eiga Youkai Watch: Tanjou no Himitsu Da Nyan!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "9930"
+            },
+            "names": [
+                "Youkai Watch"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "13807"
+            },
+            "names": [
+                "Youkai Watch: Shadow Side"
+            ]
+        }
     }
 }

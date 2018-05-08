@@ -3,6 +3,14 @@
         "tvdb": "286853"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12993"
+            },
+            "names": [
+                "Binan Koukou Chikyuu Bouei Bu Love! Love! Love!"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "10853"

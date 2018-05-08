@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13807",
+        "tvdb": "275582"
+    },
+    "names": [
+        "Youkai Watch: Shadow Side"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

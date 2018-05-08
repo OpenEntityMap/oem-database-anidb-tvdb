@@ -31,6 +31,19 @@
             ]
         },
         "3": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "13658"
+                    },
+                    "names": [
+                        "Shokugeki no Souma: San no Sara - Tootsuki Ressha Hen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "13244"
             },

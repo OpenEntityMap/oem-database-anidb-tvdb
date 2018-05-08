@@ -113,6 +113,17 @@
                     "names": [
                         "Cardcaptor Sakura"
                     ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "13060"
+                    },
+                    "names": [
+                        "Cardcaptor Sakura: Clear Card Hen - Prologue - Sakura to Futatsu no Kuma"
+                    ],
+                    "parameters": {
+                        "episode_offset": "6"
+                    }
                 }
             }
         },

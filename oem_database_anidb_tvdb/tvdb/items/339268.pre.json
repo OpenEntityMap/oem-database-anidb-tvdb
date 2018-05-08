@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11167",
+        "tvdb": "339268"
+    },
+    "names": [
+        "Steins;Gate 0"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
