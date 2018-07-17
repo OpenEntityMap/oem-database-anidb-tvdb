@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "117",
         "tvdb": "78878"
     },
-    "names": [
-        "Furi Kuri"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "117"
+            },
+            "names": [
+                "Furi Kuri"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12023"
+            },
+            "names": [
+                "FLCL Progressive"
+            ]
+        }
     }
 }

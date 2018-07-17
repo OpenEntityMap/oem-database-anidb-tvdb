@@ -3,6 +3,14 @@
         "tvdb": "278818"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12118"
+            },
+            "names": [
+                "Gochuumon wa Usagi Desuka?? Dear My Sister"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "10262"

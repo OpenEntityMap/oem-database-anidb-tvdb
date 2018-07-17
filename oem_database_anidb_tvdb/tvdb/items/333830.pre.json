@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5816",
+        "tvdb": "333830"
+    },
+    "names": [
+        "Genki Bakuhatsu Ganbaruger"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

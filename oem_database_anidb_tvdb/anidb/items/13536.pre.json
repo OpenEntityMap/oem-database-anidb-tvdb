@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13536",
+        "tvdb": "343384"
+    },
+    "names": [
+        "Banana Fish"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
