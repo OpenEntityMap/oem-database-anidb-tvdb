@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13917",
+        "tvdb": "79895"
+    },
+    "names": [
+        "Gintama. (2018)"
+    ],
+    "parameters": {
+        "default_season": "10",
+        "episode_offset": "12"
+    }
+}

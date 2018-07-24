@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14086",
+        "tvdb": "347734"
+    },
+    "names": [
+        "Super Dragon Ball Heroes"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

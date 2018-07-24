@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13152",
+        "tvdb": "346988"
+    },
+    "names": [
+        "Shoujo Kageki Revue Starlight"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

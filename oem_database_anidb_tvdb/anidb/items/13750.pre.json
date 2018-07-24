@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13750",
+        "tvdb": "346798"
+    },
+    "names": [
+        "Asobi Asobase"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

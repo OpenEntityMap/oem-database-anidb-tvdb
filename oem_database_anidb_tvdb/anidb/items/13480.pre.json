@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13480",
+        "tvdb": "319995"
+    },
+    "names": [
+        "One Room: Second Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

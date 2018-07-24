@@ -5,6 +5,28 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "12332"
+                    },
+                    "names": [
+                        "Gekijouban Free! Timeless Medley"
+                    ],
+                    "parameters": {
+                        "episode_offset": "9"
+                    }
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "12996"
+                    },
+                    "names": [
+                        "Tokubetsuban Free! Take Your Marks"
+                    ],
+                    "parameters": {
+                        "episode_offset": "11"
+                    }
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "10415"
@@ -45,6 +67,14 @@
             },
             "names": [
                 "Free! Eternal Summer"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "13548"
+            },
+            "names": [
+                "Free! Dive to the Future"
             ]
         }
     }

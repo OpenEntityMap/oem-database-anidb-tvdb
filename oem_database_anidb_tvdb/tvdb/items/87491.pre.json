@@ -251,7 +251,7 @@
                         "Vanquished Queens"
                     ]
                 },
-                "37": {
+                "39": {
                     "identifiers": {
                         "anidb": "11257"
                     },
@@ -259,7 +259,7 @@
                         "Queen's Blade: Grimoire"
                     ],
                     "parameters": {
-                        "episode_offset": "36"
+                        "episode_offset": "38"
                     }
                 }
             },

@@ -3,6 +3,47 @@
         "tvdb": "117801"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        },
+                        {
+                            "number": "5"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "8014"
+            },
+            "names": [
+                "Kimi ni Todoke 2nd Season"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "6466"

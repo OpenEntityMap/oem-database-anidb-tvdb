@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13205",
+        "tvdb": "264523"
+    },
+    "names": [
+        "Yama no Susume: Third Season"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

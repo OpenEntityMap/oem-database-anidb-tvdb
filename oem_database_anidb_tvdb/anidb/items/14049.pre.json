@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "14049",
+        "tvdb": "320002"
+    },
+    "names": [
+        "Pastel Life"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

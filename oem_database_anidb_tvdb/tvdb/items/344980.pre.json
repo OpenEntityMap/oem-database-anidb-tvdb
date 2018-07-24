@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "344980"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "13659"
+            },
+            "names": [
+                "Yuragi-sou no Yuuna-san (OAD)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "13552"
+            },
+            "names": [
+                "Yuragi-sou no Yuuna-san"
+            ]
+        }
+    }
+}

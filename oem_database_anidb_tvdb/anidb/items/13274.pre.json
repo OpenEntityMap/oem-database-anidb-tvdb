@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "anidb": "13274",
+        "tvdb": "326337"
+    },
+    "names": [
+        "Idolmaster Cinderella Girls Gekijou (2017)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 13,
+                    "offset": 13,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
+    }
+}

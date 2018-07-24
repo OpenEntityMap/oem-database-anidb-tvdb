@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13965",
+        "tvdb": "346942"
+    },
+    "names": [
+        "Planet With"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

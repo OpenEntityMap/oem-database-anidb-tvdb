@@ -4,6 +4,19 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "5": {
+                    "identifiers": {
+                        "anidb": "12107"
+                    },
+                    "names": [
+                        "K: Seven Stories"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "9605"
             },

@@ -704,6 +704,20 @@
                         "Gekijouban Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios"
                     ]
                 },
+                "66": {
+                    "identifiers": {
+                        "anidb": "12646"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Pocket Monsters: Kimi ni Kimeta!"
+                    ]
+                },
                 "7": {
                     "identifiers": {
                         "anidb": "1804"

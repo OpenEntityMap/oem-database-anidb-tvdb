@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14002",
+        "tvdb": "349459"
+    },
+    "names": [
+        "Shin'ya! Tensai Bakabon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

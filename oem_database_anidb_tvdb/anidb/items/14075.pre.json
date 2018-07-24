@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14075",
+        "tvdb": "320002"
+    },
+    "names": [
+        "Bang Dream! 2nd Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

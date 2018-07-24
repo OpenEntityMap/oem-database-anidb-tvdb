@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "12921",
+        "tvdb": "327261"
+    },
+    "names": [
+        "Ani ni Tsukeru Kusuri wa Nai!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

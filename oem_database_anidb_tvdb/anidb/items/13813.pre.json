@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13813",
+        "tvdb": "344200"
+    },
+    "names": [
+        "Chuukan Kanriroku Tonegawa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

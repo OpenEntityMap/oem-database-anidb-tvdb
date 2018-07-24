@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12107",
+        "tvdb": "261249"
+    },
+    "names": [
+        "K: Seven Stories"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13944",
+        "tvdb": "347194"
+    },
+    "names": [
+        "Happy Sugar Life"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

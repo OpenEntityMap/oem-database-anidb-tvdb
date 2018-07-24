@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12332",
+        "tvdb": "270065"
+    },
+    "names": [
+        "Gekijouban Free! Timeless Medley"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "9"
+    }
+}
