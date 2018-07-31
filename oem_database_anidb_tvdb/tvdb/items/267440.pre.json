@@ -129,6 +129,20 @@
                         "Shingeki no Kyojin OAD"
                     ]
                 },
+                "23": {
+                    "identifiers": {
+                        "anidb": "13546"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou"
+                    ]
+                },
                 "3": {
                     "identifiers": {
                         "anidb": "9541"
@@ -223,6 +237,14 @@
             },
             "names": [
                 "Shingeki no Kyojin Season 2"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "13241"
+            },
+            "names": [
+                "Shingeki no Kyojin Season 3"
             ]
         }
     }

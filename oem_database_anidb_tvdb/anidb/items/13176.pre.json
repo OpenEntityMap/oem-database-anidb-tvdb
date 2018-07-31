@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "13176",
+        "tvdb": "261862"
+    },
+    "names": [
+        "Eiga Chuunibyou demo Koi ga Shitai! Take on Me"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "31",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

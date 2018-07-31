@@ -18,6 +18,34 @@
                         "Hibike! Euphonium 2"
                     ]
                 },
+                "17": {
+                    "identifiers": {
+                        "anidb": "12962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Hibike! Euphonium: Todoketai Melody"
+                    ]
+                },
+                "18": {
+                    "identifiers": {
+                        "anidb": "13491"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Liz to Aoi Tori"
+                    ]
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "10889"

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13539",
+        "tvdb": "347295"
+    },
+    "names": [
+        "Tsukumogami Kashimasu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

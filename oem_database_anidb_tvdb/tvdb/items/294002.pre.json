@@ -70,6 +70,20 @@
                         "episode_offset": "8"
                     }
                 }
+            },
+            "identifiers": {
+                "anidb": [
+                    "14008",
+                    "12952"
+                ]
+            },
+            "names": {
+                "12952": [
+                    "Overlord II"
+                ],
+                "14008": [
+                    "Overlord III"
+                ]
             }
         },
         "1": {
