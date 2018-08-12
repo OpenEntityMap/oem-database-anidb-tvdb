@@ -1,12 +1,60 @@
 {
     "identifiers": {
-        "anidb": "11204",
         "tvdb": "321690"
     },
-    "names": [
-        "Dies Irae"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "11204"
+            },
+            "names": [
+                "Dies Irae"
+            ],
+            "parameters": {
+                "episode_offset": "-1"
+            }
+        },
+        "1": {
+            "episodes": {
+                "0": {
+                    "identifiers": {
+                        "anidb": "11204"
+                    },
+                    "names": [
+                        "Dies Irae"
+                    ],
+                    "parameters": {
+                        "episode_offset": "-1"
+                    }
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "14195"
+                    },
+                    "names": [
+                        "Dies Irae (2018)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "11"
+                    }
+                }
+            }
+        }
     }
 }

@@ -45,6 +45,20 @@
                     "names": [
                         "Ao no Exorcist: Kyoto Fujouou Hen OVA"
                     ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "12574"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ao no Exorcist: Kyoto Fujouou Hen OVA"
+                    ]
                 }
             }
         },

@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "12622",
         "tvdb": "335088"
     },
-    "names": [
-        "Nekopara"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "14206"
+            },
+            "names": [
+                "Nekopara: Koneko no Hi no Yakusoku"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12622"
+            },
+            "names": [
+                "Nekopara"
+            ]
+        }
     }
 }

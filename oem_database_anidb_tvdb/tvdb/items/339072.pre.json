@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13902",
         "tvdb": "339072"
     },
-    "names": [
-        "Sword Gai"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10858"
+            },
+            "names": [
+                "Sword Gai The Animation"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14000"
+            },
+            "names": [
+                "Sword Gai: The Animation Part II"
+            ]
+        }
     }
 }

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "14195",
+        "tvdb": "321690"
+    },
+    "names": [
+        "Dies Irae (2018)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "11"
+    }
+}

@@ -15,7 +15,14 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
                             "season": "0"
                         }
                     ]
