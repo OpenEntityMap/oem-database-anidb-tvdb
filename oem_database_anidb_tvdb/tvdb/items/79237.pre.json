@@ -20,6 +20,16 @@
             ]
         },
         "2": {
+            "episodes": {
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "880"
             },

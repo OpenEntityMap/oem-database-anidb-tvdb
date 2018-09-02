@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "328670"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13171"
+            },
+            "names": [
+                "Quanzhi Fashi"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13469"
+            },
+            "names": [
+                "Quanzhi Fashi 2"
+            ]
+        }
+    }
+}

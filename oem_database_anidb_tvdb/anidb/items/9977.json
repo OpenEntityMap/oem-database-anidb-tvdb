@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"9977","tvdb":"278626"},"names":["Fate/Stay Night: Unlimited Blade Works (2014)"],"parameters":{"default_season":"1","episode_offset":"-1"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0"}]}}}}}
+{"identifiers":{"anidb":"9977","tvdb":"278626"},"names":["Fate/Stay Night: Unlimited Blade Works (2014)"],"parameters":{"default_season":"1"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"season":"0"}]}},"mappings":[{"end":13,"offset":-1,"season":"1","start":2}]}}}

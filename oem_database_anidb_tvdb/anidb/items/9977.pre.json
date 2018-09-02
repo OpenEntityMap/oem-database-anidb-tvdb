@@ -7,8 +7,7 @@
         "Fate/Stay Night: Unlimited Blade Works (2014)"
     ],
     "parameters": {
-        "default_season": "1",
-        "episode_offset": "-1"
+        "default_season": "1"
     },
     "seasons": {
         "1": {
@@ -20,7 +19,15 @@
                         }
                     ]
                 }
-            }
+            },
+            "mappings": [
+                {
+                    "end": 13,
+                    "offset": -1,
+                    "season": "1",
+                    "start": 2
+                }
+            ]
         }
     }
 }

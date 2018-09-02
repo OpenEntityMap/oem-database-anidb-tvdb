@@ -17,23 +17,23 @@
             },
             "names": [
                 "Kyou kara Maou!"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            }
+            ]
         },
         "2": {
             "identifiers": {
                 "anidb": "1677"
             },
+            "mappings": [
+                {
+                    "end": 39,
+                    "offset": 39,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Kyou kara Maou!"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 39
-            }
+            ]
         },
         "3": {
             "identifiers": {

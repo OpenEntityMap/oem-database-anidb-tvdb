@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "326270"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "13950"
+            },
+            "names": [
+                "Quanzhi Gaoshou: Tebie Pian"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12560"
+            },
+            "names": [
+                "Quanzhi Gaoshou"
+            ]
+        }
+    }
+}

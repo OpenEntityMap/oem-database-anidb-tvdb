@@ -5,6 +5,20 @@
     "seasons": {
         "0": {
             "episodes": {
+                "7": {
+                    "identifiers": {
+                        "anidb": "8566"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Maken-ki!: Natsu Da! Mizugi Da! Gasshuku Da!"
+                    ]
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "10191"
@@ -21,10 +35,10 @@
                 }
             },
             "identifiers": {
-                "anidb": "8566"
+                "anidb": "9406"
             },
             "names": [
-                "Maken-ki!: Natsu Da! Mizugi Da! Gasshuku Da!"
+                "Maken-ki! Two"
             ]
         },
         "1": {
