@@ -3,6 +3,17 @@
         "tvdb": "75411"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "4772"
+            },
+            "names": [
+                "Rozen Maiden: Ouverture"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
         "1": {
             "identifiers": {
                 "anidb": "2386"
@@ -17,14 +28,6 @@
             },
             "names": [
                 "Rozen Maiden: Traumend"
-            ]
-        },
-        "3": {
-            "identifiers": {
-                "anidb": "4772"
-            },
-            "names": [
-                "Rozen Maiden: Ouverture"
             ]
         }
     }

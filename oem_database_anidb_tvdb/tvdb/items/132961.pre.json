@@ -38,7 +38,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "1"
+                            "number": "4"
                         }
                     ],
                     "names": [
@@ -51,7 +51,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "3"
                         }
                     ],
                     "names": [
@@ -64,7 +64,20 @@
                     },
                     "mappings": [
                         {
-                            "number": "3"
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Baka to Test to Shoukanjuu: Matsuri"
+                    ]
+                },
+                "34": {
+                    "identifiers": {
+                        "anidb": "8085"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
                         }
                     ],
                     "names": [

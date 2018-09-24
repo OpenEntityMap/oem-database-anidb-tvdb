@@ -8,5 +8,17 @@
     ],
     "parameters": {
         "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 4,
+                    "offset": 11,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
     }
 }

@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "tvdb": "268996"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "1310"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu Gaiden"
+            ],
+            "supplemental": {
+                "studio": "Kitty Film Mitaka Studio"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "1311"
+            },
+            "names": [
+                "Ginga Eiyuu Densetsu Gaiden (1999)"
+            ],
+            "supplemental": {
+                "studio": "Kitty Film Mitaka Studio"
+            }
+        }
+    }
+}

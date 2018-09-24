@@ -7,6 +7,7 @@
         "Rozen Maiden: Ouverture"
     ],
     "parameters": {
-        "default_season": "3"
+        "default_season": "0",
+        "episode_offset": "1"
     }
 }

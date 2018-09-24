@@ -5,51 +5,21 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
+                "3": {
                     "identifiers": {
-                        "anidb": "4691"
+                        "anidb": "6779"
                     },
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "1",
+                            "season": "1"
                         }
                     ],
                     "names": [
-                        "Nodame Cantabile"
+                        "Nodame Cantabile (2009)"
                     ]
                 },
-                "2": [
-                    {
-                        "identifiers": {
-                            "anidb": "5941"
-                        },
-                        "mappings": [
-                            {
-                                "number": "1"
-                            }
-                        ],
-                        "names": [
-                            "Nodame Cantabile: Paris Hen"
-                        ],
-                        "number": "2"
-                    },
-                    {
-                        "identifiers": {
-                            "anidb": "6779"
-                        },
-                        "mappings": [
-                            {
-                                "number": "1",
-                                "season": "1"
-                            }
-                        ],
-                        "names": [
-                            "Nodame Cantabile (2009)"
-                        ],
-                        "number": "2"
-                    }
-                ],
-                "3": {
+                "4": {
                     "identifiers": {
                         "anidb": "7019"
                     },
@@ -62,7 +32,7 @@
                         "Nodame Cantabile: Finale"
                     ]
                 },
-                "4": {
+                "5": {
                     "identifiers": {
                         "anidb": "6779"
                     },

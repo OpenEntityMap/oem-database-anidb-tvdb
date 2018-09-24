@@ -5,6 +5,13 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
                 "2": {
                     "mappings": [
                         {

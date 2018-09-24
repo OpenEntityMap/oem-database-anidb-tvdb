@@ -4,14 +4,31 @@
     },
     "seasons": {
         "0": {
-            "identifiers": {
-                "anidb": "10849"
-            },
-            "names": [
-                "Saki Biyori Animation"
-            ],
-            "parameters": {
-                "episode_offset": "8"
+            "episodes": {
+                "8": {
+                    "identifiers": {
+                        "anidb": "8701"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Saki: Achiga Hen - Episode of Side-A"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "10849"
+                    },
+                    "names": [
+                        "Saki Biyori Animation"
+                    ],
+                    "parameters": {
+                        "episode_offset": "8"
+                    }
+                }
             }
         },
         "1": {
@@ -24,7 +41,7 @@
         },
         "2": {
             "episodes": {
-                "12": {
+                "13": {
                     "mappings": [
                         {
                             "number": "1",
