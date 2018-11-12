@@ -143,6 +143,22 @@
                     "supplemental": {
                         "studio": "Sunrise"
                     }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "252"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam SEED"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
                 }
             }
         },

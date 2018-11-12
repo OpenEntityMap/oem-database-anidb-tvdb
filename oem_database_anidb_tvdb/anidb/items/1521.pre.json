@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1521",
+        "tvdb": "334014"
+    },
+    "names": [
+        "Asobot Senki Gokuu"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

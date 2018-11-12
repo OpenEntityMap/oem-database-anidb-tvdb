@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11598",
         "tvdb": "305077"
     },
-    "names": [
-        "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11598"
+            },
+            "names": [
+                "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13918"
+            },
+            "names": [
+                "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2"
+            ]
+        }
     }
 }

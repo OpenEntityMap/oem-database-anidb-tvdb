@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13831",
+        "tvdb": "350166"
+    },
+    "names": [
+        "Goblin Slayer"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

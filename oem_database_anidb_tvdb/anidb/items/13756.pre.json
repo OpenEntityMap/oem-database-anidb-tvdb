@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13756",
+        "tvdb": "352355"
+    },
+    "names": [
+        "Anima Yell!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -5,14 +5,45 @@
     "seasons": {
         "0": {
             "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "10384"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mushishi Zoku Shou"
+                    ]
+                },
                 "3": {
                     "identifiers": {
                         "anidb": "10384"
                     },
                     "mappings": [
                         {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Mushishi Zoku Shou"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "10384"
+                    },
+                    "mappings": [
+                        {
                             "number": "11",
-                            "season": "1"
+                            "season": "1",
+                            "timeline": {
+                                "target": {
+                                    "end": 50
+                                }
+                            }
                         }
                     ],
                     "names": [
@@ -20,6 +51,25 @@
                     ]
                 },
                 "5": {
+                    "identifiers": {
+                        "anidb": "10384"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11",
+                            "season": "1",
+                            "timeline": {
+                                "target": {
+                                    "start": 50
+                                }
+                            }
+                        }
+                    ],
+                    "names": [
+                        "Mushishi Zoku Shou"
+                    ]
+                },
+                "6": {
                     "identifiers": {
                         "anidb": "10991"
                     },
@@ -31,6 +81,19 @@
                     ],
                     "names": [
                         "Mushishi Zoku Shou: Suzu no Shizuku"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "10571"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mushishi Zoku Shou (2014)"
                     ]
                 }
             },

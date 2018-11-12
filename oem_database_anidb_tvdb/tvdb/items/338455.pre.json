@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13337",
         "tvdb": "338455"
     },
-    "names": [
-        "Golden Kamuy"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13337"
+            },
+            "names": [
+                "Golden Kamuy"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14185"
+            },
+            "names": [
+                "Golden Kamuy (2018)"
+            ]
+        }
     }
 }

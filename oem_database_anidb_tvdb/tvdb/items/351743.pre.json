@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13898",
+        "tvdb": "351743"
+    },
+    "names": [
+        "Karakuri Circus"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

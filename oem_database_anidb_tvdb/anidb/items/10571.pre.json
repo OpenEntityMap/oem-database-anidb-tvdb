@@ -16,6 +16,20 @@
                 "1": {
                     "mappings": [
                         {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
                             "number": "0"
                         }
                     ]

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6790",
+        "tvdb": "273154"
+    },
+    "names": [
+        "Catman Series 2"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

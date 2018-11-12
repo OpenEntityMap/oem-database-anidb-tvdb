@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1489",
+        "tvdb": "259360"
+    },
+    "names": [
+        "Boku no Marie"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

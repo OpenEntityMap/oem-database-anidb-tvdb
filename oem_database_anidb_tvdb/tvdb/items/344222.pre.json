@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13426",
         "tvdb": "344222"
     },
-    "names": [
-        "Uchuu Senkan Tiramisu"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13426"
+            },
+            "names": [
+                "Uchuu Senkan Tiramisu"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14187"
+            },
+            "names": [
+                "Uchuu Senkan Tiramisu II"
+            ]
+        }
     }
 }

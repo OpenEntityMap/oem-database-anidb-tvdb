@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1293",
+        "tvdb": "316209"
+    },
+    "names": [
+        "Toushinden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13767",
+        "tvdb": "342131"
+    },
+    "names": [
+        "Radiant"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

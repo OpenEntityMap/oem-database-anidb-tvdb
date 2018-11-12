@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "970",
+        "tvdb": "331727"
+    },
+    "names": [
+        "God Mazinger"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13760",
+        "tvdb": "351319"
+    },
+    "names": [
+        "Release the Spyce"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

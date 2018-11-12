@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1008",
+        "tvdb": "342507"
+    },
+    "names": [
+        "Muumin (1972)"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1476",
+        "tvdb": "271770"
+    },
+    "names": [
+        "Megami Paradise"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

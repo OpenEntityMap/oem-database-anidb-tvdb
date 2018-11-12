@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "1366",
+        "tvdb": "295364"
+    },
+    "names": [
+        "NG Knight Ramune & 40 DX: Wakuwaku Jikuu - Honoo no Daisousasen"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

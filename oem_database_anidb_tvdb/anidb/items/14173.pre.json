@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14173",
+        "tvdb": "262954"
+    },
+    "names": [
+        "JoJo no Kimyou na Bouken: Ougon no Kaze"
+    ],
+    "parameters": {
+        "default_season": "4"
+    }
+}

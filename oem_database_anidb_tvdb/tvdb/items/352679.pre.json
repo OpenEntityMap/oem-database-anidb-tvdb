@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13971",
+        "tvdb": "352679"
+    },
+    "names": [
+        "Bakumatsu: Ren'ai Bakumatsu Kareshi Gaiden"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

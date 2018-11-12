@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "6789",
+        "tvdb": "273154"
+    },
+    "names": [
+        "Catman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

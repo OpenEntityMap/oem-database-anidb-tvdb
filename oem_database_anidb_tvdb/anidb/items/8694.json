@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"8694","tvdb":"83322"},"names":["Gekijouban Toaru Majutsu no Index: Endymion no Kiseki"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"6"}]}}},"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]}}}}}
+{"identifiers":{"anidb":"8694","tvdb":"83322"},"names":["Gekijouban Toaru Majutsu no Index: Endymion no Kiseki"],"parameters":{"default_season":"0","episode_offset":"4"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"6"}]}}}}}

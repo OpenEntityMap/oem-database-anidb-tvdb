@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13923",
+        "tvdb": "345100"
+    },
+    "names": [
+        "Double Decker! Doug & Kirill"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -5,28 +5,49 @@
     "seasons": {
         "0": {
             "episodes": {
-                "5": {
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ]
-                },
-                "6": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "7599"
+                    },
                     "mappings": [
                         {
                             "number": "1"
                         }
+                    ],
+                    "names": [
+                        "Toaru Majutsu no Index II"
                     ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "7599"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Toaru Majutsu no Index II"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "8694"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Toaru Majutsu no Index: Endymion no Kiseki"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
                 }
-            },
-            "identifiers": {
-                "anidb": "8694"
-            },
-            "names": [
-                "Gekijouban Toaru Majutsu no Index: Endymion no Kiseki"
-            ]
+            }
         },
         "1": {
             "identifiers": {
@@ -42,6 +63,14 @@
             },
             "names": [
                 "Toaru Majutsu no Index II"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "13481"
+            },
+            "names": [
+                "Toaru Majutsu no Index III"
             ]
         }
     }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "183",
+        "tvdb": "302201"
+    },
+    "names": [
+        "RUN=DIM"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

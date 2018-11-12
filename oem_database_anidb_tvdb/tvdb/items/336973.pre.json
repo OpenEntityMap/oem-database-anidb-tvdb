@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13421",
         "tvdb": "336973"
     },
-    "names": [
-        "Pingu in the City"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13421"
+            },
+            "names": [
+                "Pingu in the City"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14371"
+            },
+            "names": [
+                "Pingu in the City (2018)"
+            ]
+        }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13260",
+        "tvdb": "349418"
+    },
+    "names": [
+        "SSSS.Gridman"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -191,19 +191,40 @@
                         "Shakugan no Shana"
                     ]
                 },
-                "4": {
+                "5": {
                     "identifiers": {
                         "anidb": "4388"
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
+                            "number": "205"
+                        },
+                        {
+                            "number": "206"
                         }
                     ],
                     "names": [
                         "Gekijouban Shakugan no Shana"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "4388"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Shakugan no Shana"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
                 },
                 "7": {
                     "identifiers": {

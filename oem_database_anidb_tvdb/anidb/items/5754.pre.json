@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "5754",
+        "tvdb": "273154"
+    },
+    "names": [
+        "Catman Series 3"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

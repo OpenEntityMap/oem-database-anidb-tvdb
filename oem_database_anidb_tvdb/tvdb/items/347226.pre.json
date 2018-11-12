@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13629",
+        "tvdb": "347226"
+    },
+    "names": [
+        "Himote House"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

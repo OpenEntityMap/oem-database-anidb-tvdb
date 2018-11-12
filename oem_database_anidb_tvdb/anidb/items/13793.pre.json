@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13793",
+        "tvdb": "313665"
+    },
+    "names": [
+        "Thunderbolt Fantasy: Seishi Ikken"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

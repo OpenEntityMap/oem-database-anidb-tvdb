@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1173",
+        "tvdb": "276357"
+    },
+    "names": [
+        "Bakusou Kyoudai Let's & Go!! Max"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

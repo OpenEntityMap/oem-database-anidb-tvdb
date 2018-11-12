@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1007",
+        "tvdb": "320364"
+    },
+    "names": [
+        "Muumin"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

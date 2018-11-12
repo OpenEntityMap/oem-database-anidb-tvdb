@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "14059",
+        "tvdb": "281249"
+    },
+    "names": [
+        "Tokyo Ghoul:Re (2018)"
+    ],
+    "parameters": {
+        "default_season": "3",
+        "episode_offset": "12"
+    }
+}

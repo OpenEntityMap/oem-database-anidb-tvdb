@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "1031",
+        "tvdb": "342632"
+    },
+    "names": [
+        "Princess Army: Wedding Combat"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

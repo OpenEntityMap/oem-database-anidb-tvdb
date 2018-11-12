@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13695",
+        "tvdb": "340280"
+    },
+    "names": [
+        "Hinomaru Zumou"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
