@@ -1107,6 +1107,18 @@
                 "episode_offset": 886
             }
         },
+        "27": {
+            "identifiers": {
+                "anidb": "266"
+            },
+            "names": [
+                "Meitantei Conan"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 923
+            }
+        },
         "3": {
             "identifiers": {
                 "anidb": "266"
