@@ -7,6 +7,20 @@
             "identifiers": {
                 "anidb": "10113"
             },
+            "mappings": [
+                {
+                    "end": 6,
+                    "identifiers": {
+                        "anidb": "9659"
+                    },
+                    "names": [
+                        "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita."
+                    ],
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ],
             "names": [
                 "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita. (2014)"
             ]
