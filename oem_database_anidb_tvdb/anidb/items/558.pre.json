@@ -7,24 +7,6 @@
         "Kishin Douji Zenki"
     ],
     "parameters": {
-        "default_season": "1"
-    },
-    "seasons": {
-        "1": {
-            "mappings": [
-                {
-                    "end": 25,
-                    "offset": 0,
-                    "season": "1",
-                    "start": 1
-                },
-                {
-                    "end": 51,
-                    "offset": -25,
-                    "season": "2",
-                    "start": 26
-                }
-            ]
-        }
+        "default_season": "a"
     }
 }
