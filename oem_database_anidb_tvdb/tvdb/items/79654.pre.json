@@ -478,6 +478,18 @@
                 "episode_offset": 917
             }
         },
+        "28": {
+            "identifiers": {
+                "anidb": "708"
+            },
+            "names": [
+                "Crayon Shin-chan"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 985
+            }
+        },
         "3": {
             "identifiers": {
                 "anidb": "708"
