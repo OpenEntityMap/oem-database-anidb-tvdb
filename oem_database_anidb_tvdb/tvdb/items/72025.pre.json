@@ -29,7 +29,7 @@
                 },
                 "4": {
                     "identifiers": {
-                        "anidb": "2673"
+                        "anidb": "5"
                     },
                     "mappings": [
                         {
@@ -37,11 +37,8 @@
                         }
                     ],
                     "names": [
-                        "Seikai no Senki III"
+                        "Seikai no Senki II"
                     ],
-                    "parameters": {
-                        "episode_offset": "4"
-                    },
                     "supplemental": {
                         "studio": "Sunrise"
                     }

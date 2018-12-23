@@ -9,6 +9,19 @@
     "parameters": {
         "default_season": "3"
     },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                }
+            }
+        }
+    },
     "supplemental": {
         "studio": "Sunrise"
     }
