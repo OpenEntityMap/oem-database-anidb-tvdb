@@ -15,12 +15,6 @@
                 "default_season": 1,
                 "episode_offset": 0
             }
-        },
-        "2": {
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 36
-            }
         }
     }
 }

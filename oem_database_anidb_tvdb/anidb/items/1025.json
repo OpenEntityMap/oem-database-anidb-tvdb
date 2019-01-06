@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"1025","tvdb":"79835"},"names":["Cat's Eye"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":36,"offset":0,"season":"1","start":1},{"end":73,"offset":-36,"season":"2","start":37}]}}}
+{"identifiers":{"anidb":"1025","tvdb":"79835"},"names":["Cat's Eye"],"parameters":{"default_season":"1"},"seasons":{"1":{"mappings":[{"end":36,"offset":0,"season":"1","start":1}]}}}
