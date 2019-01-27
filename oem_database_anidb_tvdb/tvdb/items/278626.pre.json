@@ -52,6 +52,28 @@
                     "parameters": {
                         "episode_offset": "5"
                     }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "14579"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Manga de Wakaru! Fate/Grand Order"
+                    ]
                 }
             }
         },

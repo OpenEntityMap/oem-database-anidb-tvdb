@@ -18,6 +18,58 @@
                         "Hyakka Ryouran: Samurai Girls"
                     ]
                 },
+                "10": {
+                    "identifiers": {
+                        "anidb": "7440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ],
+                    "names": [
+                        "Hyakka Ryouran: Samurai Girls"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "7440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ],
+                    "names": [
+                        "Hyakka Ryouran: Samurai Girls"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "7440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ],
+                    "names": [
+                        "Hyakka Ryouran: Samurai Girls"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "7440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ],
+                    "names": [
+                        "Hyakka Ryouran: Samurai Girls"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "7440"
@@ -149,8 +201,40 @@
                     "names": [
                         "Hyakka Ryouran: Samurai Girls"
                     ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "7440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Hyakka Ryouran: Samurai Girls"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "7440"
+                    },
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ],
+                    "names": [
+                        "Hyakka Ryouran: Samurai Girls"
+                    ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "9398"
+            },
+            "names": [
+                "Hyakka Ryouran: Samurai Bride"
+            ]
         },
         "1": {
             "identifiers": {

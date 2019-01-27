@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "12234",
         "tvdb": "318860"
     },
-    "names": [
-        "Masamune-kun no Revenge"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "13840"
+            },
+            "names": [
+                "Masamune-kun no Revenge (2018)"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12234"
+            },
+            "names": [
+                "Masamune-kun no Revenge"
+            ]
+        }
     }
 }

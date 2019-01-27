@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13899",
+        "tvdb": "355624"
+    },
+    "names": [
+        "Boogiepop wa Warawanai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -5,16 +5,16 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
+                "2": {
                     "identifiers": {
                         "anidb": "4169"
                     },
                     "mappings": [
                         {
+                            "number": "1",
                             "season": "1"
                         },
                         {
-                            "number": "2",
                             "season": "1"
                         },
                         {
@@ -42,30 +42,9 @@
                         "Kidou Senshi Gundam SEED: Kokuu no Senjou"
                     ]
                 },
-                "2": {
-                    "identifiers": {
-                        "anidb": "4168"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
-                            "season": "1"
-                        },
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Kidou Senshi Gundam SEED: Harukanaru Akatsuki"
-                    ]
-                },
                 "3": {
                     "identifiers": {
-                        "anidb": "4165"
+                        "anidb": "4168"
                     },
                     "mappings": [
                         {
@@ -81,24 +60,30 @@
                         }
                     ],
                     "names": [
-                        "Kidou Senshi Gundam SEED: Meidou no Sora"
+                        "Kidou Senshi Gundam SEED: Harukanaru Akatsuki"
                     ]
                 },
                 "4": {
                     "identifiers": {
-                        "anidb": "252"
+                        "anidb": "4165"
                     },
                     "mappings": [
                         {
-                            "number": "1"
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
                         }
                     ],
                     "names": [
-                        "Kidou Senshi Gundam SEED"
-                    ],
-                    "supplemental": {
-                        "studio": "Sunrise"
-                    }
+                        "Kidou Senshi Gundam SEED: Meidou no Sora"
+                    ]
                 },
                 "5": {
                     "identifiers": {

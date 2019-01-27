@@ -42,6 +42,20 @@
                     "supplemental": {
                         "studio": "Sunrise"
                     }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "2673"
+                    },
+                    "names": [
+                        "Seikai no Senki III"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    },
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
                 }
             },
             "identifiers": {

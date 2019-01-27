@@ -7,7 +7,7 @@
             "episodes": {
                 "2": {
                     "identifiers": {
-                        "anidb": "8448"
+                        "anidb": "9241"
                     },
                     "mappings": [
                         {
@@ -16,8 +16,11 @@
                         }
                     ],
                     "names": [
-                        "Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?"
-                    ]
+                        "Kore wa Zombie Desuka? Of the Dead: Hai, Encore Arigatou Gozaimasu"
+                    ],
+                    "supplemental": {
+                        "studio": "Studio Deen"
+                    }
                 },
                 "3": {
                     "identifiers": {
@@ -36,7 +39,13 @@
                         "studio": "Studio Deen"
                     }
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "8448"
+            },
+            "names": [
+                "Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?"
+            ]
         },
         "1": {
             "identifiers": {

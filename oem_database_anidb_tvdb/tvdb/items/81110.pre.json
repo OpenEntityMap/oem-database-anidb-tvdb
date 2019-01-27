@@ -7,6 +7,38 @@
             "episodes": {
                 "2": {
                     "identifiers": {
+                        "anidb": "1806"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Soukyuu no Fafner: Dead Aggressor"
+                    ],
+                    "supplemental": {
+                        "studio": "Xebec"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "1806"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Soukyuu no Fafner: Dead Aggressor"
+                    ],
+                    "supplemental": {
+                        "studio": "Xebec"
+                    }
+                },
+                "4": {
+                    "identifiers": {
                         "anidb": "7304"
                     },
                     "mappings": [
@@ -31,6 +63,24 @@
             }
         },
         "1": {
+            "episodes": {
+                "25": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "26": {
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "1806"
             },

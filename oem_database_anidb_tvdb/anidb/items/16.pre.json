@@ -12,10 +12,80 @@
     "seasons": {
         "0": {
             "episodes": {
-                "9": {
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "3": {
                     "mappings": [
                         {
                             "number": "4"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "3"
                         }
                     ]
                 }

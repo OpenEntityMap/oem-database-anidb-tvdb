@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "13360",
+        "tvdb": "304475"
+    },
+    "names": [
+        "Gekijouban Macross Delta: Gekijou no Walkure"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "12",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

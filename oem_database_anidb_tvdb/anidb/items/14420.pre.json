@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "14420",
+        "tvdb": "80158"
+    },
+    "names": [
+        "Ikkitousen: Western Wolves"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "21"
+    }
+}

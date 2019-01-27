@@ -8,5 +8,81 @@
     ],
     "parameters": {
         "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

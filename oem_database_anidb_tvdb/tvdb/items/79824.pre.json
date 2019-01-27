@@ -23,12 +23,45 @@
                     "identifiers": {
                         "anidb": "9588"
                     },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
                     "names": [
                         "The Last: Naruto the Movie"
                     ],
                     "parameters": {
                         "episode_offset": "11"
                     }
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "10961"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Boruto: Naruto the Movie"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "10961"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Boruto: Naruto the Movie"
+                    ]
                 },
                 "2": {
                     "identifiers": {

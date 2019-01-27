@@ -26,6 +26,17 @@
                     "parameters": {
                         "episode_offset": "19"
                     }
+                },
+                "22": {
+                    "identifiers": {
+                        "anidb": "14420"
+                    },
+                    "names": [
+                        "Ikkitousen: Western Wolves"
+                    ],
+                    "parameters": {
+                        "episode_offset": "21"
+                    }
                 }
             }
         },

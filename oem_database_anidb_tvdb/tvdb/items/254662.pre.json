@@ -5,6 +5,71 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "8962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "8962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "8962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "8962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "8962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+                    ]
+                },
                 "15": {
                     "identifiers": {
                         "anidb": "8583"
@@ -104,6 +169,19 @@
                     "mappings": [
                         {
                             "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "8962"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
                         }
                     ],
                     "names": [

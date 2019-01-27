@@ -7,8 +7,7 @@
         "Boruto: Naruto the Movie"
     ],
     "parameters": {
-        "default_season": "0",
-        "episode_offset": "12"
+        "default_season": "0"
     },
     "seasons": {
         "0": {
@@ -17,6 +16,25 @@
                     "mappings": [
                         {
                             "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "13",
+                            "season": "0"
                         }
                     ]
                 }

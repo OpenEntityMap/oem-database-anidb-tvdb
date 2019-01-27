@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14051",
+        "tvdb": "348002"
+    },
+    "names": [
+        "Yakusoku no Neverland"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

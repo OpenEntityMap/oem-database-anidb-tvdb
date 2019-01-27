@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "9200",
+        "tvdb": "70350"
+    },
+    "names": [
+        "Evangelion 3D"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

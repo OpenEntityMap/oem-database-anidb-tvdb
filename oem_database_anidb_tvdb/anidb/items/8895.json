@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"8895","tvdb":"70350"},"names":["Shin Evangelion Gekijouban:||"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"6","season":"0"}]}}}}}
+{"identifiers":{"anidb":"8895","tvdb":"70350"},"names":["Shin Evangelion Gekijouban:||"],"parameters":{"default_season":"0","episode_offset":"5"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"6","season":"0"}]}}}}}

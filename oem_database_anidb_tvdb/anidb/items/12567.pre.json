@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12567",
+        "tvdb": "79525"
+    },
+    "names": [
+        "Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "29"
+    }
+}

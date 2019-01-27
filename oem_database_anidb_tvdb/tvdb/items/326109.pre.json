@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "12681",
         "tvdb": "326109"
     },
-    "names": [
-        "Made in Abyss"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "13941"
+            },
+            "names": [
+                "Gekijouban Soushuuhen Made in Abyss"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12681"
+            },
+            "names": [
+                "Made in Abyss"
+            ]
+        }
     }
 }

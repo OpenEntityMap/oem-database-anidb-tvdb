@@ -10,12 +10,30 @@
         "default_season": "0"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        },
         "1": {
             "episodes": {
                 "1": {
                     "mappings": [
                         {
-                            "number": "8",
+                            "number": "2",
                             "season": "0"
                         }
                     ]

@@ -10,19 +10,6 @@
         "default_season": "0",
         "episode_offset": "4"
     },
-    "seasons": {
-        "0": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "4"
-                        }
-                    ]
-                }
-            }
-        }
-    },
     "supplemental": {
         "studio": "Sunrise"
     }

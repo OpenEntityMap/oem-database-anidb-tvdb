@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14247",
+        "tvdb": "355966"
+    },
+    "names": [
+        "Go-Toubun no Hanayome"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

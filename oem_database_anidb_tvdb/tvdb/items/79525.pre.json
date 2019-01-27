@@ -282,6 +282,28 @@
                         "episode_offset": "24"
                     }
                 },
+                "30": {
+                    "identifiers": {
+                        "anidb": "12567"
+                    },
+                    "names": [
+                        "Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch"
+                    ],
+                    "parameters": {
+                        "episode_offset": "29"
+                    }
+                },
+                "35": {
+                    "identifiers": {
+                        "anidb": "12566"
+                    },
+                    "names": [
+                        "Code Geass: Fukkatsu no Lelouch"
+                    ],
+                    "parameters": {
+                        "episode_offset": "34"
+                    }
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "4521"

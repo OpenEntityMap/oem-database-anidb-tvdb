@@ -18,6 +18,55 @@
                             "number": "8"
                         }
                     ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
                 }
             }
         }
