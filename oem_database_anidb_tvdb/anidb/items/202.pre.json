@@ -11,6 +11,17 @@
         "episode_offset": "1"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
         "1": {
             "episodes": {
                 "2": {

@@ -31,7 +31,13 @@
                         "Fullmetal Panic! The Second Raid"
                     ]
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "11731"
+            },
+            "names": [
+                "Fullmetal Panic! Invisible Victory"
+            ]
         },
         "1": {
             "identifiers": {
@@ -92,27 +98,9 @@
             ]
         },
         "4": {
-            "episodes": {
-                "5": {
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "0"
-                        }
-                    ]
-                }
-            },
             "identifiers": {
                 "anidb": "11731"
             },
-            "mappings": [
-                {
-                    "end": 13,
-                    "offset": -1,
-                    "season": "1",
-                    "start": 6
-                }
-            ],
             "names": [
                 "Fullmetal Panic! Invisible Victory"
             ]

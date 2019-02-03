@@ -9,79 +9,51 @@
                     "identifiers": {
                         "anidb": "52"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!"
                     ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    },
                     "supplemental": {
                         "studio": "XEBEC"
                     }
                 },
-                "5": {
+                "3": {
                     "identifiers": {
-                        "anidb": "49"
+                        "anidb": "35"
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
+                            "number": "5"
                         }
                     ],
                     "names": [
-                        "Love Hina Again"
-                    ],
-                    "supplemental": {
-                        "studio": "XEBEC"
-                    }
-                },
-                "6": {
-                    "identifiers": {
-                        "anidb": "49"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Love Hina Again"
+                        "Love Hina"
                     ],
                     "supplemental": {
                         "studio": "XEBEC"
                     }
                 },
-                "7": {
+                "4": {
                     "identifiers": {
-                        "anidb": "49"
+                        "anidb": "35"
                     },
                     "mappings": [
                         {
-                            "number": "3",
-                            "season": "1"
+                            "number": "3"
+                        },
+                        {
+                            "number": "4"
                         }
                     ],
                     "names": [
-                        "Love Hina Again"
+                        "Love Hina"
                     ],
                     "supplemental": {
                         "studio": "XEBEC"
                     }
                 }
-            },
-            "identifiers": {
-                "anidb": "51"
-            },
-            "names": [
-                "Love Hina Christmas Special: Silent Eve"
-            ],
-            "supplemental": {
-                "studio": "XEBEC"
             }
         },
         "1": {

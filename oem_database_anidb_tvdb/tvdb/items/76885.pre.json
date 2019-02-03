@@ -4,23 +4,38 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        },
+                        {
+                            "number": "4",
+                            "season": "1"
+                        },
+                        {
+                            "number": "5",
+                            "season": "1"
+                        },
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "219"
             },
-            "mappings": [
-                {
-                    "end": 15,
-                    "identifiers": {
-                        "anidb": "23"
-                    },
-                    "names": [
-                        "Cowboy Bebop"
-                    ],
-                    "offset": -1,
-                    "season": "0",
-                    "start": 2
-                }
-            ],
             "names": [
                 "Cowboy Bebop: Tengoku no Tobira"
             ]

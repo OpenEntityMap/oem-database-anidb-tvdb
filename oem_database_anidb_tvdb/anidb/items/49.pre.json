@@ -7,32 +7,16 @@
         "Love Hina Again"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "4"
     },
     "seasons": {
-        "1": {
+        "0": {
             "episodes": {
                 "1": {
                     "mappings": [
                         {
-                            "number": "5",
-                            "season": "0"
-                        }
-                    ]
-                },
-                "2": {
-                    "mappings": [
-                        {
-                            "number": "6",
-                            "season": "0"
-                        }
-                    ]
-                },
-                "3": {
-                    "mappings": [
-                        {
-                            "number": "7",
-                            "season": "0"
+                            "number": "0"
                         }
                     ]
                 }

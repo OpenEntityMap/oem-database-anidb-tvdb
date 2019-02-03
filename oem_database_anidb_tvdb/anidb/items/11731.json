@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"11731","tvdb":"78914"},"names":["Fullmetal Panic! Invisible Victory"],"parameters":{"default_season":"4"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"5","season":"4"}]}}},"1":{"mappings":[{"end":12,"offset":1,"season":"4","start":5}]}}}
+{"identifiers":{"anidb":"11731","tvdb":"78914"},"names":["Fullmetal Panic! Invisible Victory"],"parameters":{"default_season":"4"},"seasons":{"0":{"mappings":[{"end":2,"offset":3,"season":"0","start":1}]}}}

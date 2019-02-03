@@ -1,13 +1,13 @@
 {
     "identifiers": {
-        "anidb": "8976",
+        "anidb": "2894",
         "tvdb": "70865"
     },
     "names": [
-        "X Yochou"
+        "X2 Double X"
     ],
     "parameters": {
         "default_season": "0",
-        "episode_offset": "1"
+        "episode_offset": "2"
     }
 }

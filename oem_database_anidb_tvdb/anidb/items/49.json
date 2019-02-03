@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"49","tvdb":"70861"},"names":["Love Hina Again"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"5","season":"0"}]},"2":{"mappings":[{"number":"6","season":"0"}]},"3":{"mappings":[{"number":"7","season":"0"}]}}}},"supplemental":{"studio":"XEBEC"}}
+{"identifiers":{"anidb":"49","tvdb":"70861"},"names":["Love Hina Again"],"parameters":{"default_season":"0","episode_offset":"4"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}}},"supplemental":{"studio":"XEBEC"}}

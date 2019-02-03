@@ -9,43 +9,12 @@
                     "identifiers": {
                         "anidb": "7973"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Aa! Megami-sama! (2011)"
-                    ]
-                },
-                "11": {
-                    "identifiers": {
-                        "anidb": "7973"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
                     ],
-                    "names": [
-                        "Aa! Megami-sama! (2011)"
-                    ]
-                },
-                "12": {
-                    "identifiers": {
-                        "anidb": "7973"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Aa! Megami-sama! (2011)"
-                    ]
+                    "parameters": {
+                        "episode_offset": "9"
+                    }
                 },
                 "6": {
                     "identifiers": {
@@ -108,42 +77,8 @@
                     "names": [
                         "Aa! Megami-sama! (2005)"
                     ]
-                },
-                "8": {
-                    "identifiers": {
-                        "anidb": "5426"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Aa! Megami-sama! Tatakau Tsubasa"
-                    ]
-                },
-                "9": {
-                    "identifiers": {
-                        "anidb": "5426"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Aa! Megami-sama! Tatakau Tsubasa"
-                    ]
                 }
-            },
-            "identifiers": {
-                "anidb": "27"
-            },
-            "names": [
-                "Aa! Megami-sama!"
-            ]
+            }
         },
         "1": {
             "episodes": {
