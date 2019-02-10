@@ -5,28 +5,232 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "10860"
+                    },
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat Summer Special 2000"
+                    ]
+                },
+                "10": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "11": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "12": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
                 "14": {
+                    "identifiers": {
+                        "anidb": "769"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Gekijouban Di Gi Charat: Hoshi no Tabi"
                     ]
                 },
                 "15": {
+                    "identifiers": {
+                        "anidb": "769"
+                    },
                     "mappings": [
                         {
                             "number": "1"
                         }
+                    ],
+                    "names": [
+                        "Gekijouban Di Gi Charat: Hoshi no Tabi"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "10860"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat Summer Special 2000"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "10860"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat Summer Special 2000"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "10860"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat Summer Special 2000"
+                    ]
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
+                    ]
+                },
+                "98": {
+                    "identifiers": {
+                        "anidb": "553"
+                    },
+                    "mappings": [
+                        {
+                            "number": "101"
+                        }
+                    ],
+                    "names": [
+                        "Di Gi Charat"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "769"
-            },
-            "names": [
-                "Gekijouban Di Gi Charat: Hoshi no Tabi"
-            ]
+            }
         },
         "1": {
             "identifiers": {

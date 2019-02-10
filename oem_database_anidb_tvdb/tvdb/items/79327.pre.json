@@ -5,84 +5,25 @@
     "seasons": {
         "0": {
             "episodes": {
-                "10": {
+                "5": {
                     "identifiers": {
-                        "anidb": "229"
+                        "anidb": "908"
                     },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
                     "names": [
-                        "Shin Kidou Senki Gundam Wing"
-                    ]
-                },
-                "11": {
-                    "identifiers": {
-                        "anidb": "2853"
+                        "Gundam-W: Endless Waltz"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Shin Kidou Senki Gundam W: Operation Meteor"
-                    ]
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
                 },
-                "12": {
-                    "identifiers": {
-                        "anidb": "2853"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Shin Kidou Senki Gundam W: Operation Meteor"
-                    ]
-                },
-                "13": {
-                    "identifiers": {
-                        "anidb": "2853"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Shin Kidou Senki Gundam W: Operation Meteor"
-                    ]
-                },
-                "14": {
-                    "identifiers": {
-                        "anidb": "2853"
-                    },
-                    "mappings": [
-                        {
-                            "number": "4",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Shin Kidou Senki Gundam W: Operation Meteor"
-                    ]
-                },
-                "4": {
+                "8": {
                     "identifiers": {
                         "anidb": "496"
                     },
                     "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
                         {
                             "number": "2",
                             "season": "1"
@@ -95,20 +36,33 @@
                     "names": [
                         "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu Hen"
                     ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    },
                     "supplemental": {
                         "studio": "Sunrise"
                     }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "229"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shin Kidou Senki Gundam Wing"
+                    ]
                 }
             },
             "identifiers": {
-                "anidb": "908"
+                "anidb": "2853"
             },
             "names": [
-                "Gundam-W: Endless Waltz"
-            ],
-            "supplemental": {
-                "studio": "Sunrise"
-            }
+                "Shin Kidou Senki Gundam W: Operation Meteor"
+            ]
         },
         "1": {
             "identifiers": {

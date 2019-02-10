@@ -34,11 +34,19 @@
                 }
             },
             "identifiers": {
-                "anidb": "4782"
+                "anidb": [
+                    "9676",
+                    "4782"
+                ]
             },
-            "names": [
-                "Genshiken (2006)"
-            ]
+            "names": {
+                "4782": [
+                    "Genshiken (2006)"
+                ],
+                "9676": [
+                    "Genshiken Nidaime"
+                ]
+            }
         },
         "1": {
             "identifiers": {

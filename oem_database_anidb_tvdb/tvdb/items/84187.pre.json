@@ -5,61 +5,31 @@
     "seasons": {
         "0": {
             "episodes": {
-                "14": {
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ]
-                },
-                "15": {
-                    "mappings": [
-                        {
-                            "number": "2"
-                        }
-                    ]
-                },
-                "16": {
-                    "mappings": [
-                        {
-                            "number": "3"
-                        }
-                    ]
-                },
-                "17": {
-                    "mappings": [
-                        {
-                            "number": "4"
-                        }
-                    ]
-                },
-                "18": {
-                    "mappings": [
-                        {
-                            "number": "5"
-                        }
-                    ]
-                },
-                "19": {
-                    "mappings": [
-                        {
-                            "number": "6"
-                        }
-                    ]
-                },
-                "20": {
-                    "mappings": [
-                        {
-                            "number": "7"
-                        }
-                    ]
+                "21": {
+                    "identifiers": {
+                        "anidb": "6313"
+                    },
+                    "names": [
+                        "D.C.if: Da Capo if"
+                    ],
+                    "parameters": {
+                        "episode_offset": "20"
+                    }
                 }
             },
-            "identifiers": {
-                "anidb": "2832"
-            },
-            "names": [
-                "D.C.S.S: Da Capo Second Season"
+            "mappings": [
+                {
+                    "end": 20,
+                    "identifiers": {
+                        "anidb": "2832"
+                    },
+                    "names": [
+                        "D.C.S.S: Da Capo Second Season"
+                    ],
+                    "offset": -13,
+                    "season": "0",
+                    "start": 14
+                }
             ]
         },
         "1": {

@@ -7,33 +7,36 @@
             "episodes": {
                 "2": {
                     "identifiers": {
-                        "anidb": "1676"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Gekijouban Konjiki no Gash Bell!! 101 Banme no Mamono"
-                    ]
-                },
-                "3": {
-                    "identifiers": {
                         "anidb": "2776"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Gekijouban Konjiki no Gash Bell!! Mecha Vulcan no Raishuu"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
                 }
-            }
+            },
+            "identifiers": {
+                "anidb": "1676"
+            },
+            "mappings": [
+                {
+                    "end": 4,
+                    "identifiers": {
+                        "anidb": "638"
+                    },
+                    "names": [
+                        "Konjiki no Gash Bell!!"
+                    ],
+                    "offset": -2,
+                    "season": "0",
+                    "start": 3
+                }
+            ],
+            "names": [
+                "Gekijouban Konjiki no Gash Bell!! 101 Banme no Mamono"
+            ]
         },
         "1": {
             "identifiers": {

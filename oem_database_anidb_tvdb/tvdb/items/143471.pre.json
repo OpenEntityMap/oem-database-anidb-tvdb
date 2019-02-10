@@ -5,6 +5,24 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "4267"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yawara! Special: Zutto Kimi no Koto ga..."
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "2768"
@@ -18,14 +36,21 @@
                     "names": [
                         "Yawara! Sore Yuke Koshinuke Kids!!"
                     ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "806"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Yawara! A Fashionable Judo Girl"
+                    ]
                 }
-            },
-            "identifiers": {
-                "anidb": "4267"
-            },
-            "names": [
-                "Yawara! Special: Zutto Kimi no Koto ga..."
-            ]
+            }
         },
         "1": {
             "identifiers": {

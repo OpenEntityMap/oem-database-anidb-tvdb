@@ -23,71 +23,14 @@
             }
         },
         "1": {
-            "episodes": {
-                "15": {
-                    "mappings": [
-                        {
-                            "number": "16"
-                        }
-                    ]
-                },
-                "16": {
-                    "mappings": [
-                        {
-                            "number": "17"
-                        }
-                    ]
-                },
-                "17": {
-                    "mappings": [
-                        {
-                            "number": "18"
-                        }
-                    ]
-                },
-                "18": {
-                    "mappings": [
-                        {
-                            "number": "19"
-                        }
-                    ]
-                },
-                "19": {
-                    "mappings": [
-                        {
-                            "number": "20"
-                        }
-                    ]
-                },
-                "20": {
-                    "mappings": [
-                        {
-                            "number": "21"
-                        }
-                    ]
-                },
-                "21": {
-                    "mappings": [
-                        {
-                            "number": "22"
-                        }
-                    ]
-                },
-                "22": {
-                    "mappings": [
-                        {
-                            "number": "23"
-                        }
-                    ]
-                },
-                "23": {
-                    "mappings": [
-                        {
-                            "number": "24"
-                        }
-                    ]
+            "mappings": [
+                {
+                    "end": 23,
+                    "offset": 1,
+                    "season": "1",
+                    "start": 15
                 }
-            }
+            ]
         }
     }
 }

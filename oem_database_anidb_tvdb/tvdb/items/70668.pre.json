@@ -88,30 +88,15 @@
                 },
                 "6": {
                     "identifiers": {
-                        "anidb": "102"
+                        "anidb": "514"
                     },
                     "mappings": [
                         {
-                            "number": "4"
-                        },
-                        {
-                            "number": "5"
-                        },
-                        {
-                            "number": "7"
-                        },
-                        {
-                            "number": "8"
-                        },
-                        {
-                            "number": "9"
-                        },
-                        {
-                            "number": "10"
+                            "number": "1"
                         }
                     ],
                     "names": [
-                        "Cardcaptor Sakura"
+                        "Gekijouban Cardcaptor Sakura: Fuuin Sareta Card"
                     ]
                 },
                 "7": {
@@ -124,6 +109,19 @@
                     "parameters": {
                         "episode_offset": "6"
                     }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "12140"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Cardcaptor Sakura: Clear Card Hen"
+                    ]
                 }
             }
         },

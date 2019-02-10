@@ -3,6 +3,65 @@
         "tvdb": "78878"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "401"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "402"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "403"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "404"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "405"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "406"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "407"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "117"
+            },
+            "names": [
+                "Furi Kuri"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "117"

@@ -9,6 +9,18 @@
     "parameters": {
         "default_season": "1"
     },
+    "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 7,
+                    "offset": 2,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        }
+    },
     "supplemental": {
         "studio": "Sunrise"
     }

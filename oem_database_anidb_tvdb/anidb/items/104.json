@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"104","tvdb":"82023"},"names":["Hoshi no Koe"],"parameters":{"default_season":"0"},"supplemental":{"studio":"CoMix Wave"}}
+{"identifiers":{"anidb":"104","tvdb":"82023"},"names":["Hoshi no Koe"],"parameters":{"default_season":"1"},"seasons":{"0":{"mappings":[{"end":2,"offset":1,"season":"0","start":1}]},"1":{"episodes":{"1":{"mappings":[{"season":"0"}]}}}},"supplemental":{"studio":"CoMix Wave"}}

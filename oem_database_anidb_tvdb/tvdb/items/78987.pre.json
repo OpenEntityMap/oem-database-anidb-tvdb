@@ -19,71 +19,16 @@
                             "season": "0"
                         }
                     ]
-                },
-                "16": {
-                    "mappings": [
-                        {
-                            "number": "15"
-                        }
-                    ]
-                },
-                "17": {
-                    "mappings": [
-                        {
-                            "number": "16"
-                        }
-                    ]
-                },
-                "18": {
-                    "mappings": [
-                        {
-                            "number": "17"
-                        }
-                    ]
-                },
-                "19": {
-                    "mappings": [
-                        {
-                            "number": "18"
-                        }
-                    ]
-                },
-                "20": {
-                    "mappings": [
-                        {
-                            "number": "19"
-                        }
-                    ]
-                },
-                "21": {
-                    "mappings": [
-                        {
-                            "number": "20"
-                        }
-                    ]
-                },
-                "22": {
-                    "mappings": [
-                        {
-                            "number": "21"
-                        }
-                    ]
-                },
-                "23": {
-                    "mappings": [
-                        {
-                            "number": "22"
-                        }
-                    ]
-                },
-                "24": {
-                    "mappings": [
-                        {
-                            "number": "23"
-                        }
-                    ]
                 }
-            }
+            },
+            "mappings": [
+                {
+                    "end": 24,
+                    "offset": -1,
+                    "season": "1",
+                    "start": 16
+                }
+            ]
         }
     }
 }

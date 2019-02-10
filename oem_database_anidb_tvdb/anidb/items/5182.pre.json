@@ -1,12 +1,12 @@
 {
     "identifiers": {
         "anidb": "5182",
-        "tvdb": "82950"
+        "tvdb": "337406"
     },
     "names": [
         "Kite Liberator"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "0"
     }
 }

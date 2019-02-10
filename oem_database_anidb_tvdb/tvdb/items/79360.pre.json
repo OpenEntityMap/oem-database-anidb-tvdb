@@ -21,6 +21,22 @@
                         "studio": "Bones"
                     }
                 },
+                "20": {
+                    "identifiers": {
+                        "anidb": "9147"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Eureka Seven Ao: Jungfrau no Hanabana-tachi"
+                    ],
+                    "supplemental": {
+                        "studio": "Bones"
+                    }
+                },
                 "3": {
                     "identifiers": {
                         "anidb": "2826"

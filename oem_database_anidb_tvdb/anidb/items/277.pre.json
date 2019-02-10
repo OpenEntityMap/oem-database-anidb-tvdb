@@ -18,11 +18,24 @@
                             "number": "0"
                         }
                     ]
-                },
+                }
+            }
+        },
+        "1": {
+            "episodes": {
                 "2": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
                         }
                     ]
                 }

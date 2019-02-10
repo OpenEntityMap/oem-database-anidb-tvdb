@@ -32,6 +32,19 @@
                         "Happy Lesson (2002)"
                     ]
                 },
+                "7": {
+                    "identifiers": {
+                        "anidb": "835"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Happy Lesson Advance"
+                    ]
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "2118"

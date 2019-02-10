@@ -11,14 +11,36 @@
     },
     "seasons": {
         "0": {
-            "mappings": [
-                {
-                    "end": 27,
-                    "offset": 32,
-                    "season": "0",
-                    "start": 2
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
                 }
-            ]
+            }
         }
     }
 }

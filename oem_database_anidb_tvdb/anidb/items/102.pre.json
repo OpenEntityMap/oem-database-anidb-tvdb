@@ -19,13 +19,6 @@
                         }
                     ]
                 },
-                "10": {
-                    "mappings": [
-                        {
-                            "number": "6"
-                        }
-                    ]
-                },
                 "2": {
                     "mappings": [
                         {
@@ -43,35 +36,35 @@
                 "4": {
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "0"
                         }
                     ]
                 },
                 "5": {
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "0"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "0"
                         }
                     ]
                 },
                 "7": {
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "0"
                         }
                     ]
                 },
                 "8": {
                     "mappings": [
                         {
-                            "number": "6"
-                        }
-                    ]
-                },
-                "9": {
-                    "mappings": [
-                        {
-                            "number": "6"
+                            "number": "0"
                         }
                     ]
                 }

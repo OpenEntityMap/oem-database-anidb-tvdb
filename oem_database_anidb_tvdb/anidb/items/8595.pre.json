@@ -7,24 +7,16 @@
         "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "7"
     },
     "seasons": {
-        "1": {
+        "0": {
             "episodes": {
                 "1": {
                     "mappings": [
                         {
-                            "number": "8",
-                            "season": "0"
-                        }
-                    ]
-                },
-                "2": {
-                    "mappings": [
-                        {
-                            "number": "9",
-                            "season": "0"
+                            "number": "0"
                         }
                     ]
                 }

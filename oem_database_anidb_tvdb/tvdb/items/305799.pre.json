@@ -1,23 +1,25 @@
 {
     "identifiers": {
+        "anidb": "11874",
         "tvdb": "305799"
+    },
+    "names": [
+        "Kanojo to Kanojo no Neko: Everything Flows"
+    ],
+    "parameters": {
+        "default_season": "1"
     },
     "seasons": {
         "0": {
-            "identifiers": {
-                "anidb": "461"
-            },
-            "names": [
-                "Kanojo to Kanojo no Neko"
-            ]
-        },
-        "1": {
-            "identifiers": {
-                "anidb": "11874"
-            },
-            "names": [
-                "Kanojo to Kanojo no Neko: Everything Flows"
-            ]
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
         }
     }
 }

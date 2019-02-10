@@ -12,6 +12,55 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "101": {
+                    "mappings": [
+                        {
+                            "number": "98"
+                        }
+                    ]
+                },
+                "102": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "17"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
                 "14": {
                     "mappings": [
                         {
@@ -33,31 +82,59 @@
                         }
                     ]
                 },
-                "17": {
+                "2": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "6"
                         }
                     ]
                 },
-                "18": {
+                "3": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "7"
                         }
                     ]
                 },
-                "19": {
+                "4": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "8"
                         }
                     ]
                 },
-                "20": {
+                "5": {
                     "mappings": [
                         {
-                            "number": "0"
+                            "number": "9"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "12"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "13"
                         }
                     ]
                 }

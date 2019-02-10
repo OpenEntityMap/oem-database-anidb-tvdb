@@ -8,5 +8,53 @@
     ],
     "parameters": {
         "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "101": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "102": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "103": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "201": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                },
+                "401": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

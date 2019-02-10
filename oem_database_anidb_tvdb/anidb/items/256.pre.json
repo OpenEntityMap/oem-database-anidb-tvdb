@@ -10,6 +10,17 @@
         "default_season": "0"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
         "1": {
             "episodes": {
                 "1": {
@@ -28,6 +39,30 @@
                     ]
                 },
                 "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "6": {
                     "mappings": [
                         {
                             "number": "1",

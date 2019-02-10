@@ -4,6 +4,21 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "113"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saishuuheiki Kanojo"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "2700"
             },

@@ -121,6 +121,27 @@
                         {
                             "number": "1",
                             "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare"
+                    ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "9384"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
                         }
                     ],
                     "names": [
@@ -170,7 +191,7 @@
             },
             "mappings": [
                 {
-                    "end": 11,
+                    "end": 12,
                     "identifiers": {
                         "anidb": "13263"
                     },

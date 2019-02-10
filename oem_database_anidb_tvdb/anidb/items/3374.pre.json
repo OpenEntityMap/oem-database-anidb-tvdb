@@ -7,15 +7,23 @@
         "Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "2"
     },
     "seasons": {
         "1": {
             "episodes": {
-                "1": {
+                "2": {
                     "mappings": [
                         {
-                            "number": "0",
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
                             "season": "0"
                         }
                     ]

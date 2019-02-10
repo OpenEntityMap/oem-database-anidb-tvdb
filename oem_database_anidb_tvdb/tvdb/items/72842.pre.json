@@ -1,12 +1,37 @@
 {
     "identifiers": {
-        "anidb": "681",
         "tvdb": "72842"
     },
-    "names": [
-        "Juubee Ninpuuchou: Ryuuhougyoku Hen"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "277"
+            },
+            "names": [
+                "Juubee Ninpuuchou"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "681"
+            },
+            "names": [
+                "Juubee Ninpuuchou: Ryuuhougyoku Hen"
+            ]
+        }
     }
 }

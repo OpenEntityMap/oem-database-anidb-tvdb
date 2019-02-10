@@ -39,15 +39,12 @@
                     "identifiers": {
                         "anidb": "2324"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Choujikuu Yousai Macross: Flash Back 2012"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
                 }
             }
         },

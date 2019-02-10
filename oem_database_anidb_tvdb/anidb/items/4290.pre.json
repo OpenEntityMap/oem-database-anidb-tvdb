@@ -7,16 +7,16 @@
         "Koukaku Kidoutai S.A.C. 2nd GIG: Individual Eleven"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "3"
     },
     "seasons": {
-        "1": {
+        "0": {
             "episodes": {
                 "1": {
                     "mappings": [
                         {
-                            "number": "4",
-                            "season": "0"
+                            "number": "0"
                         }
                     ]
                 }

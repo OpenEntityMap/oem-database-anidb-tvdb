@@ -5,6 +5,26 @@
     "seasons": {
         "0": {
             "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "3374"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "459"
@@ -27,6 +47,36 @@
             ]
         },
         "1": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "459"
             },

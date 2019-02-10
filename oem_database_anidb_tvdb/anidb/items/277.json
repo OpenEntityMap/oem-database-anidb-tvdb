@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"277","tvdb":"72842"},"names":["Juubee Ninpuuchou"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]},"2":{"mappings":[{"number":"0"}]}}}}}
+{"identifiers":{"anidb":"277","tvdb":"72842"},"names":["Juubee Ninpuuchou"],"parameters":{"default_season":"0"},"seasons":{"0":{"episodes":{"1":{"mappings":[{"number":"0"}]}}},"1":{"episodes":{"2":{"mappings":[{"number":"1","season":"0"}]},"3":{"mappings":[{"number":"1","season":"0"}]}}}}}

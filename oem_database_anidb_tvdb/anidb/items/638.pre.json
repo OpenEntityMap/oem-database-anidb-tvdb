@@ -10,6 +10,16 @@
         "default_season": "1"
     },
     "seasons": {
+        "0": {
+            "mappings": [
+                {
+                    "end": 2,
+                    "offset": 2,
+                    "season": "0",
+                    "start": 1
+                }
+            ]
+        },
         "1": {
             "mappings": [
                 {

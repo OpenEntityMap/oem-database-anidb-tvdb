@@ -7,20 +7,7 @@
         "Choujikuu Yousai Macross: Flash Back 2012"
     ],
     "parameters": {
-        "default_season": "0"
-    },
-    "seasons": {
-        "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "0"
-                        }
-                    ]
-                }
-            }
-        }
+        "default_season": "0",
+        "episode_offset": "1"
     }
 }

@@ -5,6 +5,24 @@
     "seasons": {
         "0": {
             "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "2189"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban xxxHOLiC: Manatsu no Yo no Yume"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "6192"
@@ -61,13 +79,7 @@
                         "xxxHOLiC Rou"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "2189"
-            },
-            "names": [
-                "Gekijouban xxxHOLiC: Manatsu no Yo no Yume"
-            ]
+            }
         },
         "1": {
             "identifiers": {

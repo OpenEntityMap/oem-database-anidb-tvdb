@@ -23,6 +23,20 @@
             "identifiers": {
                 "anidb": "8793"
             },
+            "mappings": [
+                {
+                    "end": 8,
+                    "identifiers": {
+                        "anidb": "106"
+                    },
+                    "names": [
+                        "Azumanga Daiou The Animation (2002)"
+                    ],
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ],
             "names": [
                 "Azumanga Daiou The Animation"
             ]

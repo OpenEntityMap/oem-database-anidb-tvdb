@@ -262,17 +262,131 @@
             }
         },
         "6": {
+            "episodes": {
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "103",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "104",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "112",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "105",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "106",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "113",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "107",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "109",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "114",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "110",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "111",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "117",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "115",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "116",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "108",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "193"
             },
-            "mappings": [
-                {
-                    "end": 24,
-                    "offset": 94,
-                    "season": "1",
-                    "start": 1
-                }
-            ],
             "names": [
                 "Ranma 1/2 Nettou Hen"
             ],
@@ -281,17 +395,35 @@
             }
         },
         "7": {
+            "episodes": {
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "138",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "136",
+                            "season": "1"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "137",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "193"
             },
-            "mappings": [
-                {
-                    "end": 25,
-                    "offset": 118,
-                    "season": "1",
-                    "start": 1
-                }
-            ],
             "names": [
                 "Ranma 1/2 Nettou Hen"
             ],

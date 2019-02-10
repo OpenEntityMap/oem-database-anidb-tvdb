@@ -6,20 +6,31 @@
         "0": {
             "episodes": {
                 "2": {
+                    "identifiers": {
+                        "anidb": "7271"
+                    },
                     "mappings": [
                         {
                             "number": "1",
                             "season": "1"
                         }
+                    ],
+                    "names": [
+                        "Youkoso Lodoss Tou e!"
                     ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "10518"
+                    },
+                    "names": [
+                        "Meshimase Lodoss-tou Senki: Sorette Oishii no?"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
                 }
-            },
-            "identifiers": {
-                "anidb": "7271"
-            },
-            "names": [
-                "Youkoso Lodoss Tou e!"
-            ]
+            }
         },
         "1": {
             "identifiers": {

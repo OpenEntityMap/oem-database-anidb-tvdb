@@ -8,5 +8,102 @@
     ],
     "parameters": {
         "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "101": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "201": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                },
+                "202": {
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ]
+                },
+                "203": {
+                    "mappings": [
+                        {
+                            "number": "7"
+                        }
+                    ]
+                },
+                "204": {
+                    "mappings": [
+                        {
+                            "number": "8"
+                        }
+                    ]
+                },
+                "205": {
+                    "mappings": [
+                        {
+                            "number": "9"
+                        }
+                    ]
+                },
+                "206": {
+                    "mappings": [
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "207": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

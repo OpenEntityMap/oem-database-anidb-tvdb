@@ -10,13 +10,12 @@
         "default_season": "1"
     },
     "seasons": {
-        "1": {
+        "0": {
             "episodes": {
-                "11": {
+                "1": {
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "0"
+                            "number": "1"
                         }
                     ]
                 }

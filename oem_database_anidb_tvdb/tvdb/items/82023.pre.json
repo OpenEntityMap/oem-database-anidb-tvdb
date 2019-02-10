@@ -7,7 +7,28 @@
         "Hoshi no Koe"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "mappings": [
+                {
+                    "end": 3,
+                    "offset": -1,
+                    "season": "0",
+                    "start": 2
+                }
+            ]
+        }
     },
     "supplemental": {
         "studio": "CoMix Wave"

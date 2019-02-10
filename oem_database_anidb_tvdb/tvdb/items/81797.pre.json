@@ -351,7 +351,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "22"
+                            "number": "23"
                         }
                     ],
                     "names": [
@@ -364,7 +364,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "23"
+                            "number": "24"
                         }
                     ],
                     "names": [
@@ -386,6 +386,32 @@
                     "parameters": {
                         "episode_offset": "33"
                     }
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
+                            "number": "25"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
+                },
+                "38": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
+                            "number": "26"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
                 },
                 "5": {
                     "identifiers": {

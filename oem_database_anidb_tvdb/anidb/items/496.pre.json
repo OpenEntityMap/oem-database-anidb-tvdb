@@ -7,23 +7,16 @@
         "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu Hen"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "7"
     },
     "seasons": {
         "1": {
             "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "4",
-                            "season": "0"
-                        }
-                    ]
-                },
                 "2": {
                     "mappings": [
                         {
-                            "number": "4",
+                            "number": "8",
                             "season": "0"
                         }
                     ]
@@ -31,7 +24,7 @@
                 "3": {
                     "mappings": [
                         {
-                            "number": "4",
+                            "number": "8",
                             "season": "0"
                         }
                     ]

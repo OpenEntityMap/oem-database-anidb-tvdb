@@ -5,6 +5,19 @@
     "seasons": {
         "0": {
             "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "1456"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datte ba yo!"
+                    ]
+                },
                 "4": {
                     "identifiers": {
                         "anidb": "1456"

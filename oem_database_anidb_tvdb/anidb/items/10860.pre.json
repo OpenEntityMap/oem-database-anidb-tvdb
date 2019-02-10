@@ -1,0 +1,41 @@
+{
+    "identifiers": {
+        "anidb": "10860",
+        "tvdb": "73501"
+    },
+    "names": [
+        "Di Gi Charat Summer Special 2000"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        },
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        },
+                        {
+                            "number": "4",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
