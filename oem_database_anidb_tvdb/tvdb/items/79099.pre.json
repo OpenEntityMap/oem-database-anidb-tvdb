@@ -5,61 +5,6 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
-                    "identifiers": {
-                        "anidb": "24"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
-                    "names": [
-                        ".hack//Sign"
-                    ]
-                },
-                "10": {
-                    "identifiers": {
-                        "anidb": "7883"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        ".hack//Quantum"
-                    ]
-                },
-                "11": {
-                    "identifiers": {
-                        "anidb": "7883"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        ".hack//Quantum"
-                    ]
-                },
-                "12": {
-                    "identifiers": {
-                        "anidb": "5459"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        ".hack//G.U. Trilogy"
-                    ]
-                },
                 "13": {
                     "identifiers": {
                         "anidb": "5459"
@@ -71,35 +16,37 @@
                     ],
                     "names": [
                         ".hack//G.U. Trilogy"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "11"
+                    }
                 },
                 "14": {
                     "identifiers": {
                         "anidb": "5391"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         ".hack//G.U. Returner"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "13"
+                    }
                 },
-                "15": {
+                "16": {
                     "identifiers": {
                         "anidb": "8606"
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
+                            "number": "1"
                         }
                     ],
                     "names": [
                         ".hack//Sekai no Mukou ni"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "14"
+                    }
                 },
                 "2": {
                     "identifiers": {
@@ -153,17 +100,28 @@
                     "identifiers": {
                         "anidb": "7883"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         ".hack//Quantum"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "8"
+                    }
                 }
-            }
+            },
+            "mappings": [
+                {
+                    "end": 22,
+                    "identifiers": {
+                        "anidb": "7883"
+                    },
+                    "names": [
+                        ".hack//Quantum"
+                    ],
+                    "offset": -16,
+                    "season": "0",
+                    "start": 17
+                }
+            ]
         },
         "1": {
             "identifiers": {

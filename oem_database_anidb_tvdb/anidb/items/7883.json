@@ -1,1 +1,1 @@
-{"identifiers":{"anidb":"7883","tvdb":"79099"},"names":[".hack//Quantum"],"parameters":{"default_season":"0"},"seasons":{"1":{"episodes":{"1":{"mappings":[{"number":"9","season":"0"}]},"2":{"mappings":[{"number":"10","season":"0"}]},"3":{"mappings":[{"number":"11","season":"0"}]}}}}}
+{"identifiers":{"anidb":"7883","tvdb":"79099"},"names":[".hack//Quantum"],"parameters":{"default_season":"0","episode_offset":"8"},"seasons":{"0":{"mappings":[{"end":6,"offset":16,"season":"0","start":1}]}}}

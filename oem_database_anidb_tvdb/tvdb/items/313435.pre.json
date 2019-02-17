@@ -5,18 +5,13 @@
     "seasons": {
         "0": {
             "identifiers": {
-                "anidb": [
-                    "12112",
-                    "9974"
-                ]
+                "anidb": "14189"
             },
-            "names": {
-                "12112": [
-                    "Saiki Kusuo no Sainan (2016)"
-                ],
-                "9974": [
-                    "Saiki Kusuo no Sainan"
-                ]
+            "names": [
+                "Saiki Kusuo no Sainan (TV Special)"
+            ],
+            "parameters": {
+                "episode_offset": "95"
             }
         },
         "2": {

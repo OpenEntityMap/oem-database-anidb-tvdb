@@ -5,45 +5,6 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
-                    "identifiers": {
-                        "anidb": "6671"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
-                    "names": [
-                        "Durarara!!"
-                    ]
-                },
-                "2": {
-                    "identifiers": {
-                        "anidb": "6671"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2"
-                        }
-                    ],
-                    "names": [
-                        "Durarara!!"
-                    ]
-                },
-                "3": {
-                    "identifiers": {
-                        "anidb": "10523"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3"
-                        }
-                    ],
-                    "names": [
-                        "Durarara!!x2 Shou"
-                    ]
-                },
                 "4": {
                     "identifiers": {
                         "anidb": "10866"
@@ -68,6 +29,32 @@
                     ],
                     "names": [
                         "Durarara!!x2 Ketsu"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "10523"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Durarara!!x2 Shou"
+                    ]
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "10523"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Durarara!!x2 Shou"
                     ]
                 }
             }

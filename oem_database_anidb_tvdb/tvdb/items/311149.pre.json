@@ -4,6 +4,19 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "12621"
+                    },
+                    "names": [
+                        "Days: Touin Gakuen Ikusa!"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "12381"
             },
@@ -17,14 +30,6 @@
             },
             "names": [
                 "Days"
-            ]
-        },
-        "2": {
-            "identifiers": {
-                "anidb": "12621"
-            },
-            "names": [
-                "Days: Touin Gakuen Ikusa!"
             ]
         }
     }

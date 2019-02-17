@@ -106,6 +106,19 @@
                     "parameters": {
                         "episode_offset": "72"
                     }
+                },
+                "75": {
+                    "identifiers": {
+                        "anidb": "11130"
+                    },
+                    "mappings": [
+                        {
+                            "number": "76"
+                        }
+                    ],
+                    "names": [
+                        "Monster Musume no Iru Nichijou"
+                    ]
                 }
             }
         },
