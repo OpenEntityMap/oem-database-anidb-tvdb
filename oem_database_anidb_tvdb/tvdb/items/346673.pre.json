@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10352",
         "tvdb": "346673"
     },
-    "names": [
-        "High Score Girl"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "14418"
+            },
+            "names": [
+                "High Score Girl: Extra Stage"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "10352"
+            },
+            "names": [
+                "High Score Girl"
+            ]
+        }
     }
 }
