@@ -626,6 +626,18 @@
                 "episode_offset": 8
             }
         },
+        "20": {
+            "identifiers": {
+                "anidb": "69"
+            },
+            "names": [
+                "One Piece"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 877
+            }
+        },
         "3": {
             "identifiers": {
                 "anidb": "69"
