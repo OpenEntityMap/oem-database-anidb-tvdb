@@ -82,6 +82,19 @@
                     "names": [
                         "One Punch Man"
                     ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "12430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man (2019)"
+                    ]
                 }
             },
             "identifiers": {
@@ -97,6 +110,14 @@
             },
             "names": [
                 "One Punch Man"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "12430"
+            },
+            "names": [
+                "One Punch Man (2019)"
             ]
         }
     }
