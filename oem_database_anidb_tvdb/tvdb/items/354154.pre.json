@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13893",
+        "tvdb": "354154"
+    },
+    "names": [
+        "Carole & Tuesday"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
