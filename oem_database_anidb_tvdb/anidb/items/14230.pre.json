@@ -1,0 +1,15 @@
+{
+    "identifiers": {
+        "anidb": "14230",
+        "tvdb": "305075"
+    },
+    "names": [
+        "Bungou Stray Dogs (2019)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    },
+    "supplemental": {
+        "studio": "Bones"
+    }
+}

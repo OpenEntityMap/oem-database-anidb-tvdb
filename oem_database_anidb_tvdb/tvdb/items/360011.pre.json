@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14522",
+        "tvdb": "360011"
+    },
+    "names": [
+        "Senryuu Shoujo"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

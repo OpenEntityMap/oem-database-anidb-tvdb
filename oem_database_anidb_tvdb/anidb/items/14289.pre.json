@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14289",
+        "tvdb": "359095"
+    },
+    "names": [
+        "Bokutachi wa Benkyou ga Dekinai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

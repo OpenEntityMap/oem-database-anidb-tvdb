@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13477",
+        "tvdb": "354602"
+    },
+    "names": [
+        "Kenja no Mago"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

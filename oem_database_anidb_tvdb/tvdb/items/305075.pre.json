@@ -44,6 +44,17 @@
             "names": [
                 "Bungou Stray Dogs"
             ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14230"
+            },
+            "names": [
+                "Bungou Stray Dogs (2019)"
+            ],
+            "supplemental": {
+                "studio": "Bones"
+            }
         }
     }
 }
